@@ -1,0 +1,184 @@
+/*
+css gradients:
+https://css-tricks.com/css3-gradients/
+
+also see:
+https://css-tricks.com/couple-takes-sticky-footer/
+for sticky footer
+
+or
+https://stackoverflow.com/questions/13609006/floating-footer-always-on-the-bottom-and-visible
+for fixed
+*/
+html,body{
+	height: 100%;
+}
+body {
+/* 	display: flex; */
+/*   	flex-direction: column; */
+	font-family: arial,sans serif;
+	background-color: red;
+	background-image:
+    linear-gradient(
+      to left, 
+      red,black,black,black, red
+    );
+    
+    padding-bottom: 80px;
+}
+
+h1 {
+	color: #c0c0c0;
+	font-size: 1.8em;
+}
+
+h2 {
+	color: #c0c0c0;
+	font-size: 1.4em;
+	margin-top: 50px;
+	text-decoration: underline;
+}
+
+
+h3 {
+	color: #c0c0c0;
+	font-size: 1.0em;
+	margin-top: 30px;
+	text-decoration: underline;
+}
+h4{
+	color: #c0c0c0;
+	font-size: 0.9em;
+	margin-top: 30px;
+/* 	text-decoration: underline; */
+}
+
+h4.screenshots:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+p {
+/* 	width: 600px; */
+/* 	margin-left:50px; */
+}
+li > a:hover{
+	color: white;
+}
+li > span{
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.thumbs p{
+	width: 600px;
+}
+div.contents{	
+/*   flex: 1 0 auto; */
+}
+div.contents img {
+	border: 1px solid black;
+	width: 100%;
+}
+
+div.contents p {
+	color: white;
+}
+div.contents ul > li {
+	list-style-type: none;
+}
+div.contents ul > li a {
+	color: #cc0000;
+	font-style: italic;
+}
+
+/* body links */
+div.contents  p > a {
+	color: #cc0000;
+	font-style: italic;
+}
+
+div.contents > div.pure-u-3-5{
+	border-top: 1px solid grey;
+	/* padding-bottom: 80px; */
+}
+/* does not work: https://stackoverflow.com/questions/7298057/css-last-child-selector-select-last-element-of-specific-class-not-last-child-i */
+/* div.contents:last-of-type > div.pure-u-3-5{
+	padding-bottom: 80px;
+} */
+#footerpadding{
+	padding-bottom: 80px;
+}
+
+div.screenshots{
+	display: none;
+}
+
+div.footer{
+	
+	position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+	background-color: black;
+	/* height: 50px; */
+	padding: 10px;
+	color: grey;
+}
+div.footer{
+/* 	flex-shrink: 0; */
+}
+
+a, div.screenshots {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #BB2B87;
+}
+.coloredlink {
+	color: #BB2B87;
+}
+ul.nav
+{
+    text-align:right;
+}
+div.menubar{
+	border-bottom: 1px solid #840c0c;
+}
+div.menubar ul{
+	width: 100%;
+	padding-inline-start: 0px;
+}
+div.menubar li {
+	display: inline;
+	list-style-type: none;
+/* 	padding-left: 35px; */
+	padding-top: 0px;
+	padding-bottom: 10px;
+	padding-right: 20px;
+}
+li.hilight {
+	font-weight: bold;
+}
+.inlineimages {
+    margin-left:50px;
+	display: block;
+	height: 233px;
+}
+.inlineimage {
+	float: left;
+	text-align: center;
+	width: 260px;
+	height: 230px;
+}
+.navbullet
+{
+    border:0px;
+    vertical-align:middle;
+    margin-right:5px;
+}
