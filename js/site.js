@@ -100,7 +100,17 @@ let engine = {
 		let page = $('body').attr('data-page');
 		switch(page){
 			case "home":
-				$('#splash').empty().append(this.getImageDOM(this.splashscreen[this.splashImageIndex()]));
+//				$('#splash').empty().append(this.getImageDOM(this.splashscreen[this.splashImageIndex()]));
+                                
+                                /* and set an interval script, 15 seconds: */
+                                /*
+                                 * DO THIS:
+                                 * https://stackoverflow.com/questions/3646036/preloading-images-with-javascript
+                                 */
+                                setInterval(function(){
+                                    $('#splash').empty().append(engine.getImageDOM(engine.splashscreen[engine.splashImageIndex()]));
+                                },15000);
+                                
 			
 			break;
 			case "maps":

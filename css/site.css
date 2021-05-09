@@ -108,6 +108,44 @@ div.contents > div.pure-u-3-5{
 /* div.contents:last-of-type > div.pure-u-3-5{
 	padding-bottom: 80px;
 } */
+#splash{
+    background-color: #000;
+}
+/* 1.8 ratio 
+
+BUT SEE THIS: https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css
+
+*/
+/*@media (min-width:1024){
+        #splash{
+        width: 1080px;
+        height: 600px;
+
+    }
+}
+
+@media (min-width:720){
+        #splash{
+        width: 720px;
+        height: 400px;
+
+    }
+}*/
+
+
+
+
+
+@media (min-width:1200){
+        #splash{
+        width: 1080px;
+        height: 610px;
+
+    }
+}
+
+
+
 #footerpadding{
 	padding-bottom: 80px;
 }
