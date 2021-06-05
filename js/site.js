@@ -25,20 +25,8 @@ let engine = {
         {'repo' : 'departure','branch':'master','imagecount':59},
         {'repo' : 'CardinalSin','branch':'master','imagecount':27},
         {'repo' : 'anitsotw','branch':'master','imagecount':27},
-        {'repo' : 'corporate-nightmare','branch':'master','imagecount':0}
+        {'repo' : 'corporate-nightmare','branch':'master','imagecount':23}
     ],
-
-//    splashscreen : [
-//        "Screenshot_Doom_20200523_223655.png",
-//        "Screenshot%20from%202020-07-25%2008-25-00.png",
-//        "Screenshot%20from%202020-07-24%2020-41-02.png",
-//        "slope.png",
-//        "Screenshot%20from%202020-07-24%2020-38-07.png",
-//        "Screenshot%20from%202020-07-12%2011-26-40.png",
-//        "Screenshot%20from%202020-07-05%2010-07-28.png",
-//        "Screenshot%20from%202020-06-14%2017-01-05.png"
-//    ],
-	
     
     mapScreenshots : {
             breach_containment : [
@@ -285,6 +273,9 @@ let engine = {
         _a.appendChild(_img);
         return(_a);
     },
+    
+    navdata : []
+    
 }
 
 /**
