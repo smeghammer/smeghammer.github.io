@@ -24,7 +24,7 @@ let engine = {
         {'repo' : 'tubeworm','branch':'master','imagecount':19},
         {'repo' : 'departure','branch':'master','imagecount':59},
         {'repo' : 'CardinalSin','branch':'master','imagecount':27},
-        {'repo' : 'anitsotw','branch':'master','imagecount':27},
+        {'repo' : 'anitsotw','branch':'master','imagecount':22},
         {'repo' : 'corporate-nightmare','branch':'master','imagecount':23}
     ],
     /** start stuff */
