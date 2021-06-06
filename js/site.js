@@ -1,5 +1,5 @@
 let engine = {
-	
+    copyright : 2021,
     /**
     Array of homepage image sources:
 
@@ -27,126 +27,83 @@ let engine = {
         {'repo' : 'anitsotw','branch':'master','imagecount':27},
         {'repo' : 'corporate-nightmare','branch':'master','imagecount':23}
     ],
-    
-    mapScreenshots : {
-            breach_containment : [
-                    //'breachcontainment2020-04-14 17-11-30.png',
-                    //'breachcontainment2020-04-15 09-35-25.png',
-                    //'breachcontainment2020-04-15 09-36-13.png',
-                    'breach_containment_2020-05-11 10-57-06.png',
-                    'breach_containment_2020-05-11 10-57-15.png',
-                    //'breach_containment_2020-05-19 09-59-32.png',
-                    //'breach_containment_2020-05-19 10-00-54.png',
-                    //'breach_containment_2020-05-19 10-01-27.png',
-                    //'breachcontainment2020-06-13 13-04-01.png',
-                    //'breachcontainment2020-06-13 13-04-16.png',
-                    //'breachcontainment2020-06-13 13-04-33.png',
-                    //'breachcontainment2020-06-13 13-04-54.png',
-                    //'breachcontainment2020-06-13 13-09-17.png',
-                    'breachcontainment_21.png',
-                    'breach_containment3.png',
-                    'breach_containment4.png',
-                    'breach_containmentbreach_containment.png'
-            ],
-            breach_scars :[
-                    //'breach_scars_2020-04-29 10-08-53.png',
-                    //'breach_scars_2020-04-29 10-08-59.png',
-                    //'breach_scars_2020-05-11 10-59-14.png',
-                    //'breach_scars_2020-05-11 11-00-17.png',
-                    'breach_scars_20200523_223655.png',
-                    'brchscrs20200806_115054.png',
-                    'brchscrs20200806_115132.png',
-                    'brchscrs20200806_115207.png',
-                    'brchscrs20200806_115228.png',
-                    'brchscrs20200806_115342.png',
-                    'brchscrs20200806_115352.png',
-                    'brchscrs20200806_115407.png'
-            ],
-
-            the_gate : [
-                    //'thegate2020-05-11 17-05-57.png',
-                    'thegate2020-06-01 10-56-54.png',
-                    'thegate2020-05-20 17-32-06.png',
-                    //'thegate2020-06-01 11-55-51.png',
-                    'thegate2020-05-23 12-55-24.png',
-                    //'thegate2020-06-01 12-11-23.png',
-                    'thegate2020-05-23 12-59-44.png',
-                    //'thegate2020-06-01 12-11-43.png',
-                    'thegate_20200523_225015 (1).png',
-                    //'thegate2020-06-01 17-34-32.png',
-                     'thegate20200523_225107.png',
-                    //'thegate2020-06-01 17-36-27.png',
-                     'thegate_20200523_225210.png',
-                    //'thegate2020-06-01 17-38-53.png',
-                     'thegate_20200523_225249.png',
-                    //'thegate2020-06-03 15-11-55.png',
-                    'thegate20200523_225307.png',
-                    //'thegate2020-06-03 15-16-16.png',
-                    //'thegate2020-05-25 09-55-35.png',
-                    'thegate2020-06-13 13-50-28.png',
-                    'thegate2020-05-25 10-17-14.png',
-                    'thegate2020-06-13 13-52-56.png',
-                    //'thegate2020-05-31 09-05-02.png',
-                    'thegate2020-06-13 13-53-11.png',
-                    //'thegate2020-05-31 09-07-00.png',
-                    'thegate2020-06-13 13-53-27.png',
-                    'thegate2020-06-01 10-56-44.png',
-                    'thegate2020-06-13 13-53-59.png'
-            ],
-
-            'belials_ruin':[
-                    'Screenshot_Doom_20200806_172609.png',
-                    'Screenshot_Doom_20200806_172625.png',
-                    'Screenshot_Doom_20200806_172729.png',
-                    'Screenshot_Doom_20200806_172845.png',
-                    'Screenshot_Doom_20200806_172945.png'
-            ]
-    },
-
-    /**
-    start stuff
-    */
+    /** start stuff */
     init : function(){
         let page = $('body').attr('data-page');
         switch(page){
             case "home":
-//				$('#splash').empty().append(this.getImageDOM(this.splashscreen[this.splashImageIndex()]));
-
                 /* and set an interval script, 15 seconds: */
                 /*
                  * DO THIS:
                  * https://stackoverflow.com/questions/3646036/preloading-images-with-javascript
-                 
-                 *
-                 *need to build: 
-                 *https://raw.githubusercontent.com/smeghammer/CardinalSin/master/screenshots/10.png
-                 *
-                 *'https://raw.githubusercontent.com/smeghammer' + reponame + '/' + branchname + '/screenshots/' + imagenum + '.png'
-                 *
                  **/
-                
-                console.log(this.getRandomRepoIndex());
-                console.log(this.repolist[this.getRandomRepoIndex()].repo);
-                console.log(this.getRandomImageIndex(this.getRandomRepoIndex()));
-                
-                
+
+                let currRepoIndex = engine.getRandomRepoIndex();
+                let currRepo = engine.repolist[currRepoIndex];
+                let currImageIndex = engine.getRandomImageIndex(currRepoIndex);
+                /* add random image initially */
+                $('#splash').empty().append(engine.getImageDOM(engine.buildImageUrl(currRepo.repo, currRepo.branch,currImageIndex+1)));
+                    
                 setInterval(function(){
-                    let currRepoIndex = engine.getRandomRepoIndex();
-                    let currRepo = engine.repolist[currRepoIndex];
-                    let currImageIndex = engine.getRandomImageIndex(currRepoIndex);
-                    console.log(engine.buildImageUrl(currRepo.repo, currRepo.branch,currImageIndex));
-                    //$('#splash').empty().append(engine.getImageDOM(engine.splashscreen[engine.splashImageIndex()]));
+                    currRepoIndex = engine.getRandomRepoIndex();
+                    currRepo = engine.repolist[currRepoIndex];
+                    currImageIndex = engine.getRandomImageIndex(currRepoIndex);
                     $('#splash').empty().append(engine.getImageDOM(engine.buildImageUrl(currRepo.repo, currRepo.branch,currImageIndex+1)));
-                    console.log("XX");
                 },15000);
             break;
             case "maps":
                 this.appendMapScreenshotHandlers();
-
                 this.buildScreenshotImages();
             break;
         }
+        /* and load footer */
+        $('#footer').empty().append(this.buildFooter());
     },
+
+    buildFooter : function(){
+        let _outer = document.createElement('div');
+        _outer.setAttribute('class','pure-g footer');
+        let _left = document.createElement('div');
+        _left.setAttribute('class','pure-u-1-2');
+        let _ul = document.createElement('ul');
+        let _li1 = document.createElement('li');
+        /* https://www.rapidtables.com/code/text/ascii/ascii-copyright.html */
+        let _copy = document.createTextNode('\xA9 '+this.copyright+' smeghammer');
+        let _li2 = document.createElement('li');
+        let _a2 = document.createElement('a');
+        _a2.setAttribute('target','_blank');
+        _a2.setAttribute('href','https://www.github.com/smeghammer/');
+        _a2.setAttribute('title','Smeghammer at Github');
+        let _txt2 = document.createTextNode('Github');
+        let _li3 = document.createElement('li');
+        let _a3 = document.createElement('a');
+        _a3.setAttribute('target','_blank');
+        _a3.setAttribute('href','https://imotorhead.com');
+        _a3.setAttribute('title','They played rock and roll');
+        /* https://gist.github.com/phortx/4059848 */
+        let _txt3 = document.createTextNode('Mot\u00f6rhead');
+        let _right = document.createElement('div');
+        _right.setAttribute('class','pure-u-1-2');
+        let _img = document.createElement('img');
+        _img.setAttribute('src','/images/smeghammer.gif');
+        
+        /* assemble DOM: */
+        _li1.appendChild(_copy);
+        _a2.appendChild(_txt2);
+        _li2.appendChild(_a2);
+        _a3.appendChild(_txt3);
+        _li3.appendChild(_a3);
+        _ul.appendChild(_li1);
+        _ul.appendChild(_li2);
+        _ul.appendChild(_li3);
+        _left.appendChild(_ul);
+        _right.appendChild(_img);
+        _outer.appendChild(_left);
+        _outer.appendChild(_right);
+        return(_outer);
+    },
+    
+    
     /**
     See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
      */
