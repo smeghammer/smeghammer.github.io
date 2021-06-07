@@ -87,11 +87,23 @@ li > span{
 	text-decoration: underline;
 }
 
+ul.links > li {
+    margin-bottom: 10px;
+}
+ul.links > li > span {
+    padding-left: 20px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
 .thumbs p{
-	width: 600px;
+    width: 600px;
 }
 div.contents{	
-    padding-bottom: 140px;
+    /*padding-bottom: 140px;*/
+}
+div.contents > div{	
+    padding-right: 20px;
 }
 div.contents img {
 	/*border: 1px solid black;*/
