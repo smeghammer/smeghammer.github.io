@@ -15,10 +15,35 @@ let engine = {
                 {'linktext':'Tubeworm','url':'/maps/tubeworm.htm', 'parenturl':'/maps/', 'pagekey':'0.0.9', 'childs':[]}
             ]},
             {'linktext':'Snippets','url':'/snippets/', 'parenturl':'/', 'pagekey':'0.1', 'childs':[
-                    
+                {'linktext':'1 way glass','url':'/snippets/1wayglass.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.0', 'childs':[]},
+//                {'linktext':'1 way glass','url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.1', 'childs':[]},
+                {'linktext':'3D floor','url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.2', 'childs':[]},
+                {'linktext':'ACS tests','url':'/snippets/acs_tests.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.3', 'childs':[]},
+                {'linktext':'Bridge','url':'/snippets/bridge.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.4', 'childs':[]},
+                {'linktext':'Custom sound','url':'/snippets/custom_sound_test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.5', 'childs':[]},
+                {'linktext':'Custom sprite','url':'/snippets/custom_sprite.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.6', 'childs':[]},
+                {'linktext':'Flamer Baron','url':'/snippets/flamerbaron.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.7', 'childs':[]},
+                {'linktext':'Footsteps','url':'/snippets/footsteps.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.8', 'childs':[]},
+                {'linktext':'Increment test','url':'/snippets/increment-test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.9', 'childs':[]},
+                {'linktext':'Nail test #1','url':'/snippets/nailtest1.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.10', 'childs':[]},
+                {'linktext':'Nail test #2','url':'/snippets/nailtest2.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.11', 'childs':[]},
+                {'linktext':'PK3 test','url':'/snippets/pk3test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.12', 'childs':[]},
+                {'linktext':'Portal horizon issue','url':'/snippets/portalhorizonbug.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.13', 'childs':[]},
+                {'linktext':'Portal test','url':'/snippets/portaltest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.14', 'childs':[]},
+                {'linktext':'Random bits','url':'/snippets/random.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.15', 'childs':[]},
+                {'linktext':'Randomized teleport',  'url':'/snippets/rndtele.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.18', 'childs':[]},
+                {'linktext':'Remote kill',          'url':'/snippets/rekill.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.16', 'childs':[]},
+                {'linktext':'RFB!',                 'url':'/snippets/rfb.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.17', 'childs':[]},
+                {'linktext':'Script test','url':'/snippets/scripttest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.19', 'childs':[]},
+                {'linktext':'Sky hack','url':'/snippets/skyhack.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.20', 'childs':[]},
+                {'linktext':'Spawn test','url':'/snippets/spawntest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.21', 'childs':[]},
+                {'linktext':'Stacked tests','url':'/snippets/stacktests.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.22', 'childs':[]},
+                {'linktext':'Switch test','url':'/snippets/switchtest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.23', 'childs':[]},
+                {'linktext':'Telepotal','url':'/snippets/teleportal.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.24', 'childs':[]},
+                {'linktext':'Turret test','url':'/snippets/turrettest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.25', 'childs':[]}
             ]},  
             {'linktext':'Useful Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
-                    
+                
             ]},
         ]},
     ],   //TODO
@@ -256,18 +281,18 @@ let engine = {
     /**
     append click handlers to all screenshot togglers:
      */
-    appendMapScreenshotHandlers : function(){
-        $("h4.screenshots").each(function(){
-            $(this).off('click').click(function(){
-                if($(this).next().css('display') === 'none'){
-                    $(this).next().css({'display':'block'});
-                }
-                else{
-                    $(this).next().css({'display':'none'});
-                }
-            });
-        });
-    },
+//    appendMapScreenshotHandlers : function(){
+//        $("h4.screenshots").each(function(){
+//            $(this).off('click').click(function(){
+//                if($(this).next().css('display') === 'none'){
+//                    $(this).next().css({'display':'block'});
+//                }
+//                else{
+//                    $(this).next().css({'display':'none'});
+//                }
+//            });
+//        });
+//    },
 
 //    buildScreenshotImages : function(){
 //        for( prop in this.mapScreenshots){
@@ -303,34 +328,34 @@ let engine = {
         return(_a);
     },
 
-    getImageDOM_old : function(imgName, pathSuffix){
-        console.log('getting image ' + imgName, pathSuffix);
-        /** build the full URL - start with the defined base path */
-        let _url = this.imagebase;
-        console.log('base URL: ' + _url);
-        if(pathSuffix){
-                /** if we are passing a path part, add it on: */
-                //_url = _url + pathSuffix + "/";
-
-                _url = _url +this.imagesortedprefix  + pathSuffix+ "/" + imgName + this.imagesuffix;
-                console.log('pathed URL: ' + _url);
-        }
-        else{
-                _url = _url + imgName + this.imagesuffix;
-        }
-
-
-        console.log('full URL: ' + _url);
-        let _img = document.createElement("img");
-        _img.setAttribute('src',_url);
-        _img.setAttribute('alt','Random Doom map image');
-        let _a = document.createElement("a");
-        _a.setAttribute('href',_url);
-        _a.setAttribute('title','Click to view fullsize image');
-        _a.setAttribute('target','_blank');
-        _a.appendChild(_img);
-        return(_a);
-    },
+//    getImageDOM_old : function(imgName, pathSuffix){
+//        console.log('getting image ' + imgName, pathSuffix);
+//        /** build the full URL - start with the defined base path */
+//        let _url = this.imagebase;
+//        console.log('base URL: ' + _url);
+//        if(pathSuffix){
+//                /** if we are passing a path part, add it on: */
+//                //_url = _url + pathSuffix + "/";
+//
+//                _url = _url +this.imagesortedprefix  + pathSuffix+ "/" + imgName + this.imagesuffix;
+//                console.log('pathed URL: ' + _url);
+//        }
+//        else{
+//                _url = _url + imgName + this.imagesuffix;
+//        }
+//
+//
+//        console.log('full URL: ' + _url);
+//        let _img = document.createElement("img");
+//        _img.setAttribute('src',_url);
+//        _img.setAttribute('alt','Random Doom map image');
+//        let _a = document.createElement("a");
+//        _a.setAttribute('href',_url);
+//        _a.setAttribute('title','Click to view fullsize image');
+//        _a.setAttribute('target','_blank');
+//        _a.appendChild(_img);
+//        return(_a);
+//    },
     
     /**
      * Construct a common footer:

@@ -280,3 +280,11 @@ li.hilight {
 #footer{
     padding-bottom: 130px;
 }
+
+code{
+    color:lightgreen;
+}
+.codecomment{
+    color:darkgreen;
+    font-style: italic;
+}
