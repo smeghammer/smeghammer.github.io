@@ -27,7 +27,7 @@ h1 {
 @media screen and (min-width: 48em){
     /* get rid of border at low width */
     body{	
-        background-color: red;        
+        /*background-color: red;*/        
         background-image: linear-gradient(to left, darkred,black,black,black, darkred);
     }
     h1 {
@@ -211,9 +211,17 @@ div.footer{
     border-top: 1px solid darkred;
 }
 div.footer img{
-    width:100px;
+    /*width:100px;*/
     height: 100px;
     float: right
+}
+div.footer img.centre{
+    margin:auto;
+}
+/* https://stackoverflow.com/questions/4888223/align-image-in-center-and-middle-within-div */
+div.imgcentre{
+    margin: auto;
+    display: flex;
 }
 div.footer a{
     color: grey;

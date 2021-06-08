@@ -67,6 +67,8 @@ let engine = {
 //                this.buildScreenshotImages();
             break;
             case "map":
+                let imageContainer = $('div.contents > div:nth-of-type(2)');
+                imageContainer.empty();
                 //render images for specified map:
                 for (let a=0;a<this.repolist.length;a++){
                     console.log(pagekey,this.repolist[a]['pagekey']);
@@ -74,6 +76,16 @@ let engine = {
                     if(this.repolist[a]['pagekey'] === pagekey){
                         //use this image list:
                         console.log(this.repolist[a]);
+                        //first empty container
+                        
+                        
+                        for(let b=0;b<this.repolist[a].imagecount;b++){
+                            console.log(this.buildImageUrl(this.repolist[a].repo,this.repolist[a].branch,b+1));
+                            $(imageContainer).append(this.getImageDOM(this.buildImageUrl(this.repolist[a].repo,this.repolist[a].branch,b+1),this.repolist[a]));
+                            //$('#splash').empty().append(engine.getImageDOM(engine.buildImageUrl(currRepo.repo, currRepo.branch,currImageIndex+1),currRepo));
+                            //then append:
+                        }
+                        break;
                     }
                 }
             break;
@@ -327,7 +339,7 @@ let engine = {
         let _outer = document.createElement('div');
         _outer.setAttribute('class','pure-g footer');
         let _left = document.createElement('div');
-        _left.setAttribute('class','pure-u-1-2');
+        _left.setAttribute('class','pure-u-1-3');
         let _ul = document.createElement('ul');
         let _li1 = document.createElement('li');
         /* https://www.rapidtables.com/code/text/ascii/ascii-copyright.html */
@@ -346,9 +358,16 @@ let engine = {
         /* https://gist.github.com/phortx/4059848 */
         let _txt3 = document.createTextNode('Mot\u00f6rhead');
         let _right = document.createElement('div');
-        _right.setAttribute('class','pure-u-1-2');
+        _right.setAttribute('class','pure-u-1-3');
         let _img = document.createElement('img');
         _img.setAttribute('src','/images/smeghammer.gif');
+        
+        let _centre = document.createElement('div');
+        _centre.setAttribute('class','pure-u-1-3 imgcentre');
+        let _logo = document.createElement('img');
+        _logo.setAttribute('src','/images/doomlogo.png');
+        _logo.setAttribute('class','centre');
+        _centre.appendChild(_logo);
         
         /* assemble DOM: */
         _li1.appendChild(_copy);
@@ -362,6 +381,7 @@ let engine = {
         _left.appendChild(_ul);
         _right.appendChild(_img);
         _outer.appendChild(_left);
+        _outer.appendChild(_centre);
         _outer.appendChild(_right);
         return(_outer);
     }
