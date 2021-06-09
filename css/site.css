@@ -1,3 +1,33 @@
+/* https://stackoverflow.com/questions/12812441/how-do-i-use-woff-fonts-for-my-website */
+@font-face {
+    font-family: "AmazDoomLeft";
+    src: url("fonts/AmazDoomLeft.woff") format('woff');
+}
+@font-face {
+    font-family: "AmazDoomLeft2";
+    src: url("fonts/AmazDoomLeft2.woff") format('woff');
+}
+@font-face {
+    font-family: "AmazDoomLeftOutline";
+    src: url("fonts/AmazDoomLeftOutline.woff") format('woff');
+}
+@font-face {
+    font-family: "AmazDoomRight";
+    src: url("fonts/AmazDoomRight.woff") format('woff');
+}
+@font-face {
+    font-family: "AmazDoomRight2";
+    src: url("fonts/AmazDoomRight2.woff") format('woff');
+}
+@font-face {
+    font-family: "AmazDoomRightOutline";
+    src: url("fonts/AmazDoomRightOutline.woff") format('woff');
+}
+@font-face {
+    font-family: "Doom";
+    src: url("fonts/DooM.woff") format('woff');
+}
+
 /*
 css gradients:
 https://css-tricks.com/css3-gradients/
@@ -17,11 +47,16 @@ body {
     font-family: arial,sans serif;
     background-color: black;
     padding-bottom: 80px;
+    padding-left: 5px;
 }
 
 h1 {
     color: #c00000;
-    font-size: 2.8em;
+    font-family: AmazDoomLeftOutline;
+    font-size: 5em;
+    letter-spacing: 0.2em;
+    margin-top: 30px;
+    margin-bottom: -10px;
 }
 /* 768 */
 @media screen and (min-width: 48em){
@@ -31,13 +66,19 @@ h1 {
         background-image: linear-gradient(to left, darkred,black,black,black, darkred);
     }
     h1 {
-        font-size: 3.2em;
+        font-size: 6em;
+        letter-spacing: 0.2em;
+        margin-top: 30px;
+        margin-bottom: -10px;
     }
 }
 /* 1024 */
 @media screen and (min-width: 64em){
     h1 {
-        font-size: 3.6em;
+        font-size: 7em;
+        letter-spacing: 0.2em;
+        margin-top: 30px;
+        margin-bottom: -10px;
     }
 }
 
@@ -252,10 +293,10 @@ div.menubar ul{
 	padding-inline-start: 0px;*/
 }
 div.menubar li {
- 	padding-left: 35px; 
-	padding-top: 0px;
-	padding-bottom: 10px;
-	/*padding-right: 20px;*/
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 20px;
 }
 li.hilight {
 	font-weight: bold;
