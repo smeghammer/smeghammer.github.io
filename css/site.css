@@ -11,37 +11,37 @@
 }*/
 
 @font-face {
-    font-family: "AmazDoomLeft";
-    src: url("/fonts/AmazDoomLeft.woff2") format('woff2'),
-        url("/fonts/AmazDoomLeft.woff") format('woff'),
-        url("/fonts/AmazDoomLeft.ttf") format('truetype'),
-        url("/fonts/AmazDoomLeft.svg") format('svg');
+    font-family: "AmazDooMLeft";
+    src: url("/fonts/AmazDooMLeft.woff2") format('woff2'),
+        url("/fonts/AmazDooMLeft.woff") format('woff'),
+        url("/fonts/AmazDooMLeft.ttf") format('truetype'),
+        url("/fonts/AmazDooMLeft.svg") format('svg');
+}
+/*@font-face {
+    font-family: "AmazDooMLeft";
+    src: url("/fonts/AmazDooMLeft.woff") format('woff');
+}*/
+@font-face {
+    font-family: "AmazDooMLeftOutline";
+    src: url("/fonts/AmazDooMLeftOutline.woff2") format('woff2'),
+        url("/fonts/AmazDooMLeftOutline.woff") format('woff'),
+        url("/fonts/AmazDooMLeftOutline.ttf") format('truetype'),
+        url("/fonts/AmazDooMLeftOutline.svg") format('svg');
 }
 @font-face {
-    font-family: "AmazDoomLeft2";
-    src: url("/fonts/AmazDoomLeft2.woff") format('woff');
+    font-family: "AmazDooMRight";
+    src: url("/fonts/AmazDooMRight.woff") format('woff');
 }
 @font-face {
-    font-family: "AmazDoomLeftOutline";
-    src: url("/fonts/AmazDoomLeftOutline.woff2") format('woff2'),
-        url("/fonts/AmazDoomLeftOutline.woff") format('woff'),
-        url("/fonts/AmazDoomLeftOutline.ttf") format('truetype'),
-        url("/fonts/AmazDoomLeftOutline.svg") format('svg');
+    font-family: "AmazDooMRight2";
+    src: url("/fonts/AmazDooMRight2.woff") format('woff');
 }
 @font-face {
-    font-family: "AmazDoomRight";
-    src: url("/fonts/AmazDoomRight.woff") format('woff');
+    font-family: "AmazDooMRightOutline";
+    src: url("/fonts/AmazDooMRightOutline.woff") format('woff');
 }
 @font-face {
-    font-family: "AmazDoomRight2";
-    src: url("/fonts/AmazDoomRight2.woff") format('woff');
-}
-@font-face {
-    font-family: "AmazDoomRightOutline";
-    src: url("/fonts/AmazDoomRightOutline.woff") format('woff');
-}
-@font-face {
-    font-family: "Doom";
+    font-family: "DooM";
     src: url("/fonts/DooM.woff") format('woff');
 }
 
@@ -70,7 +70,7 @@ body {
 
 h1 {
     color: #c00000;
-    font-family: AmazDoomLeftOutline;
+    font-family: AmazDooMLeftOutline;
     font-size: 5em;
     letter-spacing: 0.2em;
     margin-top: 30px;
