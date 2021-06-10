@@ -1,7 +1,21 @@
 /* https://stackoverflow.com/questions/12812441/how-do-i-use-woff-fonts-for-my-website */
+
+/*@font-face {
+  font-family: 'MyWebFont';
+  src: url('webfont.eot');  IE9 Compat Modes 
+  src: url('webfont.eot?#iefix') format('embedded-opentype'),  IE6-IE8 
+       url('webfont.woff2') format('woff2'),  Super Modern Browsers 
+       url('webfont.woff') format('woff'),  Pretty Modern Browsers 
+       url('webfont.ttf')  format('truetype'),  Safari, Android, iOS 
+       url('webfont.svg#svgFontName') format('svg');  Legacy iOS 
+}*/
+
 @font-face {
     font-family: "AmazDoomLeft";
+    src: url("fonts/AmazDoomLeft.woff2") format('woff2');
     src: url("fonts/AmazDoomLeft.woff") format('woff');
+    src: url("fonts/AmazDoomLeft.ttf") format('truetype');
+    src: url("fonts/AmazDoomLeft.svg") format('svg');
 }
 @font-face {
     font-family: "AmazDoomLeft2";
@@ -9,7 +23,10 @@
 }
 @font-face {
     font-family: "AmazDoomLeftOutline";
+    src: url("fonts/AmazDoomLeftOutline.woff2") format('woff2');
     src: url("fonts/AmazDoomLeftOutline.woff") format('woff');
+    src: url("fonts/AmazDoomLeftOutline.ttf") format('truetype');
+    src: url("fonts/AmazDoomLeftOutline.svg") format('svg');
 }
 @font-face {
     font-family: "AmazDoomRight";
