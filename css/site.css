@@ -12,37 +12,37 @@
 
 @font-face {
     font-family: "AmazDoomLeft";
-    src: url("fonts/AmazDoomLeft.woff2") format('woff2'),
-        url("fonts/AmazDoomLeft.woff") format('woff'),
-        url("fonts/AmazDoomLeft.ttf") format('truetype'),
-        url("fonts/AmazDoomLeft.svg") format('svg');
+    src: url("/fonts/AmazDoomLeft.woff2") format('woff2'),
+        url("/fonts/AmazDoomLeft.woff") format('woff'),
+        url("/fonts/AmazDoomLeft.ttf") format('truetype'),
+        url("/fonts/AmazDoomLeft.svg") format('svg');
 }
 @font-face {
     font-family: "AmazDoomLeft2";
-    src: url("fonts/AmazDoomLeft2.woff") format('woff');
+    src: url("/fonts/AmazDoomLeft2.woff") format('woff');
 }
 @font-face {
     font-family: "AmazDoomLeftOutline";
-    src: url("fonts/AmazDoomLeftOutline.woff2") format('woff2'),
-        url("fonts/AmazDoomLeftOutline.woff") format('woff'),
-        url("fonts/AmazDoomLeftOutline.ttf") format('truetype'),
-        url("fonts/AmazDoomLeftOutline.svg") format('svg');
+    src: url("/fonts/AmazDoomLeftOutline.woff2") format('woff2'),
+        url("/fonts/AmazDoomLeftOutline.woff") format('woff'),
+        url("/fonts/AmazDoomLeftOutline.ttf") format('truetype'),
+        url("/fonts/AmazDoomLeftOutline.svg") format('svg');
 }
 @font-face {
     font-family: "AmazDoomRight";
-    src: url("fonts/AmazDoomRight.woff") format('woff');
+    src: url("/fonts/AmazDoomRight.woff") format('woff');
 }
 @font-face {
     font-family: "AmazDoomRight2";
-    src: url("fonts/AmazDoomRight2.woff") format('woff');
+    src: url("/fonts/AmazDoomRight2.woff") format('woff');
 }
 @font-face {
     font-family: "AmazDoomRightOutline";
-    src: url("fonts/AmazDoomRightOutline.woff") format('woff');
+    src: url("/fonts/AmazDoomRightOutline.woff") format('woff');
 }
 @font-face {
     font-family: "Doom";
-    src: url("fonts/DooM.woff") format('woff');
+    src: url("/fonts/DooM.woff") format('woff');
 }
 
 /*
