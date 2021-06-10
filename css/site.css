@@ -12,10 +12,10 @@
 
 @font-face {
     font-family: "AmazDoomLeft";
-    src: url("fonts/AmazDoomLeft.woff2") format('woff2');
-    src: url("fonts/AmazDoomLeft.woff") format('woff');
-    src: url("fonts/AmazDoomLeft.ttf") format('truetype');
-    src: url("fonts/AmazDoomLeft.svg") format('svg');
+    src: url("fonts/AmazDoomLeft.woff2") format('woff2'),
+        url("fonts/AmazDoomLeft.woff") format('woff'),
+        url("fonts/AmazDoomLeft.ttf") format('truetype'),
+        url("fonts/AmazDoomLeft.svg") format('svg');
 }
 @font-face {
     font-family: "AmazDoomLeft2";
@@ -23,10 +23,10 @@
 }
 @font-face {
     font-family: "AmazDoomLeftOutline";
-    src: url("fonts/AmazDoomLeftOutline.woff2") format('woff2');
-    src: url("fonts/AmazDoomLeftOutline.woff") format('woff');
-    src: url("fonts/AmazDoomLeftOutline.ttf") format('truetype');
-    src: url("fonts/AmazDoomLeftOutline.svg") format('svg');
+    src: url("fonts/AmazDoomLeftOutline.woff2") format('woff2'),
+        url("fonts/AmazDoomLeftOutline.woff") format('woff'),
+        url("fonts/AmazDoomLeftOutline.ttf") format('truetype'),
+        url("fonts/AmazDoomLeftOutline.svg") format('svg');
 }
 @font-face {
     font-family: "AmazDoomRight";
