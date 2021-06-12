@@ -10,7 +10,7 @@
         Smeghammer's Doom
         </title>
     </head>
-    <body class="home" data-page="map" data-pagekey="0.1.7">
+    <body class="home" data-page="snippets" data-pagekey="0.1.7">
         <div class="pure-g">
             <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
             <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-5-6">
@@ -34,8 +34,150 @@
         <div class="pure-g contents">
             <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8"></div>
             <div class="pure-u-1 pure-u-md-2-3 pure-u-lg-1-2">
-                <h2>Maps &amp; WADs</h2>
-                <p>content</p>
+                <h2></h2>
+                <p>I started to experiment with DECORATE and as a first attempt I used the flamethrower logic from the <a href="https://www.realm667.com/index.php/en/component/docman/?task=doc_download&gid=410&Itemid=" title="Flamer Zombie from Realm 667" target="_blank">Flamer Zombie</a> 
+                from Realm 667. I modified the Baron melee attack code to be that of the flamethrower, replacing the sprites with the existing Baron fireball:</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/fKi1zhqddaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p>This subclasses the existing Baron:</p>
+                <pre><p>
+                    
+actor FlamerBaron : BaronOfHell 31004
+{
+	Obituary "%o was incinerated by a flamethrowing baron."
+	MeleeRange 256
+	SpawnId 31004
+	+DONTHARMCLASS
+	states
+	{
+		Spawn:
+			BOSS AB 10 A_Look	
+			loop
+		Melee:
+			BOSS E 10 A_FaceTarget
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+
+			BOSS E 10 A_FaceTarget
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+
+			BOSS E 10 A_FaceTarget
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+
+			BOSS E 10 A_FaceTarget
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+		      	BOSS E 1 A_SpawnProjectile("BaronFire",60,20,random(-4,4),0)
+
+			Goto See
+	}
+}
+
+ACTOR BaronFire
+{
+   Radius 2
+   Height 4
+   Speed 12		//16
+   Damage 1
+   PROJECTILE
+   RENDERSTYLE ADD
+   DamageType Fire
+   ALPHA 0.67
+   Scale 0.67
+   SeeSound "weapons/flamer"
+   DeathSound "weapons/scorch"
+   +THRUGHOST
+   States
+   {
+   Spawn:
+      NULL A 2 Bright
+
+      BAL7 A 4 Bright A_Explode(1,8,0)
+      BAL7 A 4 Bright A_Lowgravity
+      BAL7 A 4 Bright A_Explode(1,8,0)
+      BAL7 A 4 Bright A_Explode(1,16,0)
+      BAL7 A 4 Bright A_Explode(1,32,0)
+      BAL7 A 4 Bright A_Explode(1,64,0)
+      stop
+	Death:
+      FRFX HIJ 2 Bright A_Explode(1,32,0)
+      FRFX J 0 A_CustomMissile ("BaronDropFire",0,0,0,4)
+      FRFX KLM 2 Bright A_Explode(1,64,0)
+      FRFX NO 2 Bright
+      stop
+   }
+}
+
+ACTOR BaronDropFire
+{
+   Radius 8
+   Height 80
+   PROJECTILE
+   RENDERSTYLE ADD
+   DamageType Fire
+   ALPHA 0.90
+   -NOGRAVITY
+   +LOWGRAVITY
+   +NOEXPLODEFLOOR
+   +NODAMAGETHRUST
+   +THRUGHOST
+   States
+   {
+   Spawn:
+      BAL7 A 1 Bright A_Playsound("weapons/onfire")
+      BAL7 A 1 Bright A_Explode(1,32,0)		//damage 5
+      BAL7 BCDEF 2 Bright A_Explode(1,32,0)
+      BAL7 A 1 Bright A_Playsound("weapons/onfire")
+      BAL7 A 1 Bright A_Explode(1,64,0)
+      BAL7 BCDEF 2 Bright A_Explode(1,32,0)
+      BAL7 A 1 Bright A_Playsound("weapons/onfire")
+      BAL7 A 1 Bright A_Explode(1,64,0)
+      BAL7 BCDEF 2 Bright A_Explode(1,32,0)
+      BAL7 A 1 Bright A_Playsound("weapons/onfire")
+      BAL7 A 1 Bright A_Explode(1,64,0)
+      BAL7 BCDEF 2 Bright A_Explode(1,32,0)
+      BAL7 A 1 Bright A_Playsound("weapons/onfire")
+      BAL7 A 1 Bright A_Explode(1,64,0)
+      BAL7 BCDEF 2 Bright A_Explode(1,32,0)
+      BAL7 A 0 A_Jump(192,1)
+      loop
+      NULL A 0
+      goto death
+   Death:
+      NULL A 1 Bright
+      stop
+   }
+}
+
+                </p></pre>
             </div>
             <div class="pure-u-1 pure-u-md-1-6 pure-u-lg-1-4">
                 <div id="subnav">
