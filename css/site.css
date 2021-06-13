@@ -184,12 +184,15 @@ div.contents img {
 	/*border: 1px solid black;*/
 	width: 100%;
 }
-    div.contents h2 {
-	padding: 5px;
-    }
+div.contents h2 {
+    padding: 5px;
+}
 div.contents p {
 	color: white;
         padding: 5px;
+}
+div.contents pre {
+    color: cyan;
 }
 /* 768 */
 @media screen and (min-width: 48em){
