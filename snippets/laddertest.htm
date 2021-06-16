@@ -10,7 +10,7 @@
         Smeghammer's Doom
         </title>
     </head>
-    <body class="home" data-page="snippets" data-pagekey="0.1.9">
+    <body class="home" data-page="snippets" data-pagekey="0.1.26">
         <div class="pure-g">
             <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
             <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-5-6">
@@ -34,60 +34,14 @@
         <div class="pure-g contents">
             <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8"></div>
             <div class="pure-u-1 pure-u-md-2-3 pure-u-lg-1-2">
-                <h2>Maps &amp; WADs</h2>
-
-                <p>Example ACS code that keeps track of a counter, both incrementing and decrementing. An action occurs at the specified min and max and the counter
-                does not go outside these bounds.</p>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/55TRgpueXr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <p>The ACS code is pretty simple, and is triggered SR on each button. The argument passed is either 1 or -1. This could easily be adapted to make a line crossing
-                puzzle, a monster kill counter etc.</p>
-                <pre>
-#library "myscripts.acs"
-#include "zcommon.acs"
-
-global int 1:x;
-global bool 2:raised;
-
-script 100 ENTER{
-    x=1;
-    raised = FALSE;
-}
-
-/*
-SCRIPT 1:
----------
-*/
-script 1 (int direction){
-    if(direction){
-        if(x<3){
-            x++;
-        }
-    }
-    else{
-        if(x>0){
-            x--;
-        }
-    }
-    print(i:x);
-    if(x==3 &! raised){
-        print(s:"raising...");
-        raised = TRUE;
-        Ceiling_RaiseByValue(1,12,64);
-    }
-    if(x==0 && raised){
-        print(s:"lowering...");
-        raised = FALSE;
-        Ceiling_LowerByValue(1,12,64);
-    }
-}
-
-script 3 (void){
-    log(i:x);
-}
-                </pre>
-                                <ul>
-                    <li><a href="https://github.com/smeghammer/snippets/raw/master/increment-test/compiled/incrementtest.pk3">Download example WAD</a></li>
-                    <li><a href="https://github.com/smeghammer/snippets/tree/master/increment-test">Github</a></li>
+                <h2>Maps &amp; WADs</h2>+
+                <p>An early attempt at creating a workable ladder. This version uses 3D floors for the structure and a swimmable 3D floor with full transparency, combined
+                with a ThrustThingZ line special to give the player an initial upward kick on entering the vicinity of the ladder:</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/PCEoC_XwAQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                
+                <ul>
+                    <li><a href="https://github.com/smeghammer/snippets/raw/master/laddertest/laddertest.wad">Download example WAD</a></li>
+                    <li><a href="https://github.com/smeghammer/snippets/tree/master/laddertest">Github</a></li>
                 </ul>
             </div>
             <div class="pure-u-1 pure-u-md-1-6 pure-u-lg-1-4">
