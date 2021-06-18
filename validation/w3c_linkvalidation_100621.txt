@@ -3613,3 +3613,1352 @@ HEAD https://github.com/smeghammer/r667_mirror/raw/master/a/Agaures.zip
 -> HEAD https://raw.githubusercontent.com/smeghammer/r667_mirror/master/a/Agaures.zip  fetched in 1.29 seconds
 
 Processed in 1098.22 seconds.
+
+
+BROKEN LINKS:
+Code	Occurrences	What to do
+404	336	The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/InPursuitofGreedTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/ImprovedDBigFont+Variants.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/Lava&MudGolems.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RedneckRampageTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CounterstrikeTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/WolfHowl.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/j/Jackbomb.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/z/ZDoom2012Upper.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NightmareTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RingoftheOwl.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/Enforcer.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PatchedUpTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/Side-By-SideShotgun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BulletKit.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/WinchesterYellowboy.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MachinegunZombieman.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CyClonesTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Clouds.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DeconstructIndustrialTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Doom64TextureVariants.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MortiserTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CellKit.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MementwoBig.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IdShadowed.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/StrifeBloodyColumns.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/Hell'sFury.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HadesElemental.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/LaboratoryGlass.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/Wind.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DaggerfallSkeleton.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DemonicProps.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/Baphomet'sHeart.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SoldierOfFortune.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/Hell'sGuard.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/z/ZDoom2012.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NecrodomeRocks.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/ShadowCasterTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GrayTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SingleBarrelShotgun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DamageandLowHealthEffects.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Chasm-TheRiftTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HereticGizmos.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/Mars3DTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NMNCorp.Vol.2TexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/ArxFatalisTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MagnetSaw.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/ScepterofSouls.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TeeveeGold.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Doom64Lights.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SimplyUnreal.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TheCircleTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SystemShock2Textures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RecoloredDoomTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SuperDemon.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Doom3Keycards.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/Wraith(D3).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/ShadowWarriorTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/u/UnderwaterBubbles.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BracersofForce.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HalfCutSoldier.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TomeoftheUnholy.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/WallTorches.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HexenIITexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/ApprenticeofD'Sparil.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AmmoSatchels.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TooMuchBrownTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IronCrossbow.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GhostbustersDoomTex's.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PlasmaSplitter.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SailorScoutTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SolidSnakeBig.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GoldenFleeceSheep.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/Screams,Screams,Screams!.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/Lavaball.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Cinder.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/WolfensteinGore.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/ExplosiveSuperShotgun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HeavyMetalF.A.K.K.IITextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/Abaddon.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/k/KingpinTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/ThunderPortal.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HandoftheWraith.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FirePillars(Strife).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/StarvingRat.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TalismanoftheDepths.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GlassTechPillars.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HellGizmos.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PlasmaRepeater.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DarkForcesTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SilverTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DeviationLauncher.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IWadBrightmaps.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HellBass.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MaskofTerror.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/Romero'sDoomDumpGore.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DarkBaseTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HereticIITexturesPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/ShirtlessBeheadedMarine.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CheshireCacodemon.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DoomTerrainSplashes.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GardenTrees.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DoomSmallfontSquare.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/u/UsefulDoomEdits.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PentacleofProjection.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FireSerpents.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IconoftheRaven.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BerserkSphere.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FirePillars(Hexen).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BookoftheDead.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/Mysterieso.t.SithTex's.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/Blood1Textures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GothicTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PlagueImp.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/StatusReport.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PowerUpRingSpawners.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SolidSnakeSmall.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DeadGeneral.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NMNCorp.Vol.1TexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Diogenes.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/q/QuakeITexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AdrenixTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MachineGun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IdBig.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FinalDoomTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CeramicPottery.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/ArmorSet.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/u/UnmakerZombie.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BootsoftheNorth.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TorchVariations.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PowerslaveTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DualBarrelLaserRifle.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NailborgCommando.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RadixTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HeavyCarbineZombieman.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DukeNukemBig.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CrusadersOfMight&MagicTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FoodBarrels.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AnkhofLife.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/Fog.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PhobosRocks.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/StarTrekEliteForceTexs.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/q/QuakeIITexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Disciple(withmelee).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Dusk'sTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/ScrollofHellfire.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/EvilEyeVariations.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DoubleDamageSphere.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AugmentedArachnotron.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/Miniplicity.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/q/Quake2Small.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/q/QuakeIIChaingun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DukeNukem3DTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/Half-LifeTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MaliceTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/Minecraftia.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CyberdemonGore.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/o/OgroTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/Baphomet'sEyes.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/ActionMachinegun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/k/KarasawaZombie.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/z/ZDoom2012Big.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/x/XtraLitesTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SoulSpawners.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Cactus.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/StatusReportBig.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/u/UsefulFlatsTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Cage'sTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/ForcefieldLaserbeams.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FountainofRejuvenation.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/StrongholdPowerPad.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BloodGhost.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Chasm-TheRiftBetaPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RiotNerveGasLauncher.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/Seaweed.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MementwoSmall.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/ReturnToCastleWolfensteinTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PowerStimpack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/LaserArenaTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/WarlordofHell.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PowerGlobes.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BurningCorpse(Doom).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MaxPayneTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PsyrenTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/ArchonofHell.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/EnlighteningSmall.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/u/UndeadKnight(dualaxe).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Cacti(slim).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AlienvsPredator2Textures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RocketZombieII.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SharkwithLaser.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BronzeLights.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/q/Quad-ShotgunZombie.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BurningCorpse(Hexen).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/WandofEmbers.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IKPackTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DestructibleFantasyProps.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/ImpalerCrossbow.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MagicSquirrel.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PotionofFireResistance.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/q/QuiverTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/StainedGlassWindows.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/LegendoftheSevenPaladins.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GoreDecorations.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DukeNukemSmall.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DrDoctor'sTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FleshSpawn.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HeadlessZombieScientist.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/q/QuakeIIITexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AnachronoxTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AirstrikeMarker.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FusionArachno.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SkullCandle.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GargoyleWing.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/Agathodemon.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Cacolantern.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Chicken.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HexenTree&LeafVariants.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DoomTexturesforDoomII.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/ChandelierPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CoreTentacle.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PSXFireSkies.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DoomRPGGhoul.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/Blood2Textures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/Alternate/GibDeaths.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/w/WitchavenTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/Explosions'nStuff.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/D'sparilStaff.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RingofRegeneration.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/Amulets&ArmorTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TomeoftheForsaken.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IDTexTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FateTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/u/UndyingTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SparkleSpawners.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/Lycanthrope.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TekWarTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DemonicDrones.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/Tormentstein3D.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BlackandGreenTexturesPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SmallBloodContainer.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DukeNukemAtomic.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Doom2.5SSG.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FirePillars(Doom).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AlliedMarinesPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DevilWorms.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/LiquidFountains.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DBIGFONTPlain.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/Cage'sTexturePackVol.2.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DeployableSentryGun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TrashCans.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FIREBLUTorches.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/v/VariousDoomKeys.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BloodyChain.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/u/UTNTPyro-Cannon.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FleshFeastTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IdUpperBold.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FistsofFury.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/Palmtrees(burntstumps).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/LargeBloodContainer.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MagicSparkle.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NoirPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MarineSupplyPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MageslayerTexturesPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/D'SparilStatue.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/B.R.P.S..zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/Nailborg.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CultoftheSerpentStaff.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SystemShockTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FloorandCeilingLanterns.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BabyCacodemon.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/ShellKit.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FleshPillars.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/Sparks.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/LamedukeTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/FormerScientistsPack2.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/EnlighteningBig.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/CrimsonBanners.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BloodlustSphere.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BeheadedKamikaze.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/Apostasy.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/EternalDoomResourcePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/Baker'sLegacyTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RocketPile.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/LordofHeresy.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HeavyChaingun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NoughtPointFour.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BeachUmbrella.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/ClaymoreMines.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GargoyleWingSmall.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/c/ClockTowerBell.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/Id.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/f/Food.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/AutoShotgun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/Pump-ActionShotgun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DescentI&IITextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NuclearMissileLauncher.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/h/HellPaladin.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/u/UACSniperRifle.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/ASMDShockRifle.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/o/OutlawsTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/SupplyBox.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DoomPotpourriTexs.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MedievalTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/a/Arbalesto.t.Ancients.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/Palmtrees.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DaikatanaTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IdUpper.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/Mag.60.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Doom64Torches.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/DaggerfallTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/l/LightColumnVariations.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/IdCondensed.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/Revolver(PS).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/EnhancedCacodemon.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/m/MapDevelopmentTextures.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/ThunderFX.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/BloodyHeads.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PipeBombs.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/p/PotionVariants.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/g/GatlingLaser.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/_num/5thEpisodeTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/StalagmitesandStalactite.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NecrodomeBarrels.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/i/ImpaledMarines.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/s/Smalltrees&bushes.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/EnemyDollsPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RiseoftheTriadTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/r/RainSimple.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/n/NightmareAnimationsPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/d/Dead/SwampTrees.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/o/OilBarrel.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/ErraticTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/e/Ember.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/z/ZombiePlasmaScientist.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/t/TeleportSmokeSpawner.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 38 https://github.com/smeghammer/r667_mirror/raw/master/b/Butcher(Gun).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
