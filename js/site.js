@@ -390,12 +390,14 @@ let engine = {
         _right.setAttribute('class','pure-u-1-3');
         let _img = document.createElement('img');
         _img.setAttribute('src','/images/smeghammer.gif');
+        _img.setAttribute('alt','Snaggletooth');
         
         let _centre = document.createElement('div');
         _centre.setAttribute('class','pure-u-1-3 imgcentre');
         let _logo = document.createElement('img');
         _logo.setAttribute('src','/images/doomlogo.png');
         _logo.setAttribute('class','centre');
+        _logo.setAttribute('alt','DooM logo');
         _centre.appendChild(_logo);
         
         /* assemble DOM: */
