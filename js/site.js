@@ -376,7 +376,7 @@ let engine = {
         let _li2 = document.createElement('li');
         let _a2 = document.createElement('a');
         _a2.setAttribute('target','_blank');
-        _a2.setAttribute('href','https://www.github.com/smeghammer/');
+        _a2.setAttribute('href','https://github.com/smeghammer/');
         _a2.setAttribute('title','Smeghammer at Github');
         let _txt2 = document.createTextNode('Github');
         let _li3 = document.createElement('li');

@@ -88,10 +88,10 @@
                             }
                             console.log(thing.substr(0,1).toLowerCase());
                             console.log('/' + _path + '/' + thing.replace(/ /g,'') + '.zip');
-                            $('#sausage').append('<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + thing.replace(/ /g,'') + '.zip">'+thing+'</a></li>');
+                            $('#sausage > ul').append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + thing.replace(/ /g,'') + '.zip">'+thing+'</a></li>\n');
                             /* TODO */
                         }
-                        $('#sausage').append('</ul>');
+//                        $('#sausage').append('</ul>');
                     }
                 }
             });
