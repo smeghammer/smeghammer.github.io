@@ -1,99 +1,102 @@
+TODO:
+Remove apostrophes, commas, fullstops, colons and exclamation marks from generated filenames
+
 BROKEN LINKS:
-https://github.com/smeghammer/r667_mirror/raw/master/i/InPursuitofGreedTextures.zip
+https://github.com/smeghammer/r667_mirror/raw/master/i/InPursuitofGreedTextures.zip			OK
 https://github.com/smeghammer/r667_mirror/raw/master/i/ImprovedDBigFont+Variants.zip
-https://github.com/smeghammer/r667_mirror/raw/master/l/Lava&MudGolems.zip
-https://github.com/smeghammer/r667_mirror/raw/master/r/RedneckRampageTextures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/c/CounterstrikeTextures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/w/WolfHowl.zip
-https://github.com/smeghammer/r667_mirror/raw/master/j/Jackbomb.zip
-https://github.com/smeghammer/r667_mirror/raw/master/z/ZDoom2012Upper.zip
+https://github.com/smeghammer/r667_mirror/raw/master/l/Lava&MudGolems.zip					OK
+https://github.com/smeghammer/r667_mirror/raw/master/r/RedneckRampageTextures.zip			OK
+https://github.com/smeghammer/r667_mirror/raw/master/c/CounterstrikeTextures.zip			OK
+https://github.com/smeghammer/r667_mirror/raw/master/w/WolfHowl.zip							OK
+https://github.com/smeghammer/r667_mirror/raw/master/j/Jackbomb.zip							OK
+https://github.com/smeghammer/r667_mirror/raw/master/z/ZDoom2012Upper.zip					OK
 https://github.com/smeghammer/r667_mirror/raw/master/n/NightmareTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/r/RingoftheOwl.zip
-https://github.com/smeghammer/r667_mirror/raw/master/e/Enforcer.zip
+https://github.com/smeghammer/r667_mirror/raw/master/r/RingoftheOwl.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/e/Enforcer.zip							OK
 https://github.com/smeghammer/r667_mirror/raw/master/p/PatchedUpTextures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/Side-By-SideShotgun.zip
-https://github.com/smeghammer/r667_mirror/raw/master/b/BulletKit.zip
-https://github.com/smeghammer/r667_mirror/raw/master/w/WinchesterYellowboy.zip
-https://github.com/smeghammer/r667_mirror/raw/master/m/MachinegunZombieman.zip
-https://github.com/smeghammer/r667_mirror/raw/master/c/CyClonesTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/c/Clouds.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/DeconstructIndustrialTextures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/Doom64TextureVariants.zip
-https://github.com/smeghammer/r667_mirror/raw/master/m/MortiserTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/c/CellKit.zip
-https://github.com/smeghammer/r667_mirror/raw/master/m/MementwoBig.zip
-https://github.com/smeghammer/r667_mirror/raw/master/i/IdShadowed.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/StrifeBloodyColumns.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/Hell'sFury.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/HadesElemental.zip
-https://github.com/smeghammer/r667_mirror/raw/master/l/LaboratoryGlass.zip
-https://github.com/smeghammer/r667_mirror/raw/master/w/Wind.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/DaggerfallSkeleton.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/DemonicProps.zip
-https://github.com/smeghammer/r667_mirror/raw/master/b/Baphomet'sHeart.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/SoldierOfFortune.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/Hell'sGuard.zip
-https://github.com/smeghammer/r667_mirror/raw/master/z/ZDoom2012.zip
-https://github.com/smeghammer/r667_mirror/raw/master/n/NecrodomeRocks.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/ShadowCasterTextures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/g/GrayTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/SingleBarrelShotgun.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/DamageandLowHealthEffects.zip
-https://github.com/smeghammer/r667_mirror/raw/master/c/Chasm-TheRiftTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/HereticGizmos.zip
-https://github.com/smeghammer/r667_mirror/raw/master/m/Mars3DTextures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/n/NMNCorp.Vol.2TexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/a/ArxFatalisTextures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/m/MagnetSaw.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/ScepterofSouls.zip
-https://github.com/smeghammer/r667_mirror/raw/master/t/TeeveeGold.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/Doom64Lights.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/SimplyUnreal.zip
-https://github.com/smeghammer/r667_mirror/raw/master/t/TheCircleTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/SystemShock2Textures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/r/RecoloredDoomTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/SuperDemon.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/Doom3Keycards.zip
-https://github.com/smeghammer/r667_mirror/raw/master/w/Wraith(D3).zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/ShadowWarriorTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/u/UnderwaterBubbles.zip
-https://github.com/smeghammer/r667_mirror/raw/master/b/BracersofForce.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/HalfCutSoldier.zip
-https://github.com/smeghammer/r667_mirror/raw/master/t/TomeoftheUnholy.zip
-https://github.com/smeghammer/r667_mirror/raw/master/w/WallTorches.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/HexenIITexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/a/ApprenticeofD'Sparil.zip
-https://github.com/smeghammer/r667_mirror/raw/master/a/AmmoSatchels.zip
-https://github.com/smeghammer/r667_mirror/raw/master/t/TooMuchBrownTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/i/IronCrossbow.zip
-https://github.com/smeghammer/r667_mirror/raw/master/g/GhostbustersDoomTex's.zip
-https://github.com/smeghammer/r667_mirror/raw/master/p/PlasmaSplitter.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/SailorScoutTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/SolidSnakeBig.zip
-https://github.com/smeghammer/r667_mirror/raw/master/g/GoldenFleeceSheep.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/Screams,Screams,Screams!.zip
-https://github.com/smeghammer/r667_mirror/raw/master/l/Lavaball.zip
-https://github.com/smeghammer/r667_mirror/raw/master/c/Cinder.zip
-https://github.com/smeghammer/r667_mirror/raw/master/w/WolfensteinGore.zip
-https://github.com/smeghammer/r667_mirror/raw/master/e/ExplosiveSuperShotgun.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/HeavyMetalF.A.K.K.IITextures.zip
-https://github.com/smeghammer/r667_mirror/raw/master/a/Abaddon.zip
-https://github.com/smeghammer/r667_mirror/raw/master/k/KingpinTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/t/ThunderPortal.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/HandoftheWraith.zip
-https://github.com/smeghammer/r667_mirror/raw/master/f/FirePillars(Strife).zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/StarvingRat.zip
-https://github.com/smeghammer/r667_mirror/raw/master/t/TalismanoftheDepths.zip
-https://github.com/smeghammer/r667_mirror/raw/master/g/GlassTechPillars.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/HellGizmos.zip
-https://github.com/smeghammer/r667_mirror/raw/master/p/PlasmaRepeater.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/DarkForcesTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/s/SilverTexturePack.zip
-https://github.com/smeghammer/r667_mirror/raw/master/d/DeviationLauncher.zip
-https://github.com/smeghammer/r667_mirror/raw/master/i/IWadBrightmaps.zip
-https://github.com/smeghammer/r667_mirror/raw/master/h/HellBass.zip
-https://github.com/smeghammer/r667_mirror/raw/master/m/MaskofTerror.zip
-https://github.com/smeghammer/r667_mirror/raw/master/r/Romero'sDoomDumpGore.zip
+https://github.com/smeghammer/r667_mirror/raw/master/s/Side-By-SideShotgun.zip				OK
+https://github.com/smeghammer/r667_mirror/raw/master/b/BulletKit.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/w/WinchesterYellowboy.zip				OK
+https://github.com/smeghammer/r667_mirror/raw/master/m/MachinegunZombieman.zip				OK
+https://github.com/smeghammer/r667_mirror/raw/master/c/CyClonesTexturePack.zip				OK
+https://github.com/smeghammer/r667_mirror/raw/master/c/Clouds.zip							OK
+https://github.com/smeghammer/r667_mirror/raw/master/d/DeconstructIndustrialTextures.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/d/Doom64TextureVariants.zip			OK
+https://github.com/smeghammer/r667_mirror/raw/master/m/MortiserTexturePack.zip				OK
+https://github.com/smeghammer/r667_mirror/raw/master/c/CellKit.zip							OK
+https://github.com/smeghammer/r667_mirror/raw/master/m/MementwoBig.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/i/IdShadowed.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/StrifeBloodyColumns.zip				OK
+https://github.com/smeghammer/r667_mirror/raw/master/h/Hell'sFury.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/h/HadesElemental.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/l/LaboratoryGlass.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/w/Wind.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/d/DaggerfallSkeleton.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/d/DemonicProps.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/b/Baphomet'sHeart.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/SoldierOfFortune.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/h/Hell'sGuard.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/z/ZDoom2012.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/n/NecrodomeRocks.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/ShadowCasterTextures.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/g/GrayTexturePack.zip					????
+https://github.com/smeghammer/r667_mirror/raw/master/s/SingleBarrelShotgun.zip						OK
+https://github.com/smeghammer/r667_mirror/raw/master/d/DamageandLowHealthEffects.zip			OK
+https://github.com/smeghammer/r667_mirror/raw/master/c/Chasm-TheRiftTexturePack.zip			OK
+https://github.com/smeghammer/r667_mirror/raw/master/h/HereticGizmos.zip			OK
+https://github.com/smeghammer/r667_mirror/raw/master/m/Mars3DTextures.zip			OK
+https://github.com/smeghammer/r667_mirror/raw/master/n/NMNCorp.Vol.2TexturePack.zip			OK
+https://github.com/smeghammer/r667_mirror/raw/master/a/ArxFatalisTextures.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/m/MagnetSaw.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/ScepterofSouls.zip		??
+https://github.com/smeghammer/r667_mirror/raw/master/t/TeeveeGold.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/d/Doom64Lights.zip		OK (??)
+https://github.com/smeghammer/r667_mirror/raw/master/s/SimplyUnreal.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/t/TheCircleTexturePack.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/SystemShock2Textures.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/r/RecoloredDoomTexturePack.zip		???
+https://github.com/smeghammer/r667_mirror/raw/master/s/SuperDemon.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/d/Doom3Keycards.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/w/Wraith(D3).zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/ShadowWarriorTexturePack.zip		???
+https://github.com/smeghammer/r667_mirror/raw/master/u/UnderwaterBubbles.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/b/BracersofForce.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/h/HalfCutSoldier.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/t/TomeoftheUnholy.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/w/WallTorches.zip			???
+https://github.com/smeghammer/r667_mirror/raw/master/h/HexenIITexturePack.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/a/ApprenticeofD'Sparil.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/a/AmmoSatchels.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/t/TooMuchBrownTexturePack.zip		??
+https://github.com/smeghammer/r667_mirror/raw/master/i/IronCrossbow.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/g/GhostbustersDoomTex's.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/p/PlasmaSplitter.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/SailorScoutTexturePack.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/SolidSnakeBig.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/g/GoldenFleeceSheep.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/Screams,Screams,Screams!.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/l/Lavaball.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/c/Cinder.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/w/WolfensteinGore.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/e/ExplosiveSuperShotgun.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/h/HeavyMetalF.A.K.K.IITextures.zip		OK
+https://github.com/smeghammer/r667_mirror/raw/master/a/Abaddon.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/k/KingpinTexturePack.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/t/ThunderPortal.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/h/HandoftheWraith.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/f/FirePillars(Strife).zip	???
+https://github.com/smeghammer/r667_mirror/raw/master/s/StarvingRat.zip	??		
+https://github.com/smeghammer/r667_mirror/raw/master/t/TalismanoftheDepths.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/g/GlassTechPillars.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/h/HellGizmos.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/p/PlasmaRepeater.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/d/DarkForcesTexturePack.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/s/SilverTexturePack.zip	???
+https://github.com/smeghammer/r667_mirror/raw/master/d/DeviationLauncher.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/i/IWadBrightmaps.zip	???
+https://github.com/smeghammer/r667_mirror/raw/master/h/HellBass.zip		???
+https://github.com/smeghammer/r667_mirror/raw/master/m/MaskofTerror.zip	OK
+https://github.com/smeghammer/r667_mirror/raw/master/r/Romero'sDoomDumpGore.zip		OK
 https://github.com/smeghammer/r667_mirror/raw/master/d/DarkBaseTexturePack.zip
 https://github.com/smeghammer/r667_mirror/raw/master/h/HereticIITexturesPack.zip
 https://github.com/smeghammer/r667_mirror/raw/master/s/ShirtlessBeheadedMarine.zip

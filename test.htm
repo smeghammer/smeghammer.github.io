@@ -82,7 +82,7 @@
                 /* now, _items can be used to generate DOM output: */
                 $('#sausage').empty();
                 for(topic in _items){
-                    console.log(topic);
+//                    console.log(topic);
                     $('#sausage').append('<h2>'+topic+'</h2>');
                     for(section in _items[topic]){
                         $('#sausage').append('<h3>'+section+'</h3>');
@@ -93,9 +93,13 @@
                             if(parseInt(_path)){
                                 _path = '_num'
                             }
-                            console.log(thing.substr(0,1).toLowerCase());
-                            console.log('/' + _path + '/' + thing.replace(/ /g,'') + '.zip');
-                            $('#sausage > ul').append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + thing.replace(/ /g,'') + '.zip">'+thing+'</a></li>\n');
+//                            console.log(_items[topic][section][thing].filename);
+//                            console.log(thing.substr(0,1).toLowerCase());
+//                            /* we now have filename as part of the processed structure, so use that instead: */
+//                            console.log(section);
+//                            console.log(thing);
+//                            console.log('/' + _path + '/' + thing.replace(/ /g,'') + '.zip');
+                            $('#sausage > ul').append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _items[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
                             /* TODO */
                         }
 //                        $('#sausage').append('</ul>');

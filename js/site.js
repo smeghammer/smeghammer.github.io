@@ -270,51 +270,14 @@ let engine = {
         }
         /* get l2 page */
         for(let a=0;a<this.navdata[0].childs.length;a++){
-            //console.log(this.navdata[0].childs[a]);
             if(path.join('.') === this.navdata[0].childs[a].pagekey){
                 console.log(this.navdata[0].childs[a].linktext);
                 $('h2').empty().append(this.navdata[0].childs[a].linktext);
             }
         }
-//        console.log(_path);
          $('title').empty().append(pagedata.linktext);
          $('h1').empty().append(pagedata.linktext);
-//         console.log(pagedata);
     },
-    
-    /**
-    append click handlers to all screenshot togglers:
-     */
-//    appendMapScreenshotHandlers : function(){
-//        $("h4.screenshots").each(function(){
-//            $(this).off('click').click(function(){
-//                if($(this).next().css('display') === 'none'){
-//                    $(this).next().css({'display':'block'});
-//                }
-//                else{
-//                    $(this).next().css({'display':'none'});
-//                }
-//            });
-//        });
-//    },
-
-//    buildScreenshotImages : function(){
-//        for( prop in this.mapScreenshots){
-//            console.log(prop);
-//            console.log(this.mapScreenshots[prop]);
-//            /* 
-//            iterate over each sub-array, and append each to the corresponding DOM ID element, Remove first... 
-//            The data structure top level properties are the map name, and map to the path of the graphics for 
-//            specified map. 
-//            */
-//            $('#'+prop).empty();
-//            for(let a=0;a<this.mapScreenshots[prop].length;a++){
-//                /* Now pass each image to the builder method: */
-//                //console.log(this.mapScreenshots[prop][a],prop);
-//                $('#'+prop).append(this.getImageDOM(this.mapScreenshots[prop][a],prop));
-//            }
-//        }
-//    },
 
     /**
     Build simple DOM for image.
@@ -331,35 +294,6 @@ let engine = {
         _a.appendChild(_img);
         return(_a);
     },
-
-//    getImageDOM_old : function(imgName, pathSuffix){
-//        console.log('getting image ' + imgName, pathSuffix);
-//        /** build the full URL - start with the defined base path */
-//        let _url = this.imagebase;
-//        console.log('base URL: ' + _url);
-//        if(pathSuffix){
-//                /** if we are passing a path part, add it on: */
-//                //_url = _url + pathSuffix + "/";
-//
-//                _url = _url +this.imagesortedprefix  + pathSuffix+ "/" + imgName + this.imagesuffix;
-//                console.log('pathed URL: ' + _url);
-//        }
-//        else{
-//                _url = _url + imgName + this.imagesuffix;
-//        }
-//
-//
-//        console.log('full URL: ' + _url);
-//        let _img = document.createElement("img");
-//        _img.setAttribute('src',_url);
-//        _img.setAttribute('alt','Random Doom map image');
-//        let _a = document.createElement("a");
-//        _a.setAttribute('href',_url);
-//        _a.setAttribute('title','Click to view fullsize image');
-//        _a.setAttribute('target','_blank');
-//        _a.appendChild(_img);
-//        return(_a);
-//    },
     
     /**
      * Construct a common footer:
