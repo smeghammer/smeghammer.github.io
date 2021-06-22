@@ -44,7 +44,7 @@ let engine = {
                 {'linktext':'Turret test','url':'/snippets/turrettest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.25', 'childs':[],visible:false}
             ]},  
             {'linktext':'Useful Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
-                
+                {'linktext':'R667 Repository backup','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true}
             ]},
         ]},
     ],   //TODO
@@ -89,27 +89,19 @@ let engine = {
                 },15000);
             break;
             case "maps":
-//                this.appendMapScreenshotHandlers();
-//                this.buildScreenshotImages();
+
+            break;
+            case "r667":
+                this.buildRepoList();
             break;
             case "map":
                 let imageContainer = $('div.contents > div:nth-of-type(2)');
                 imageContainer.empty();
                 //render images for specified map:
                 for (let a=0;a<this.repolist.length;a++){
-                    console.log(pagekey,this.repolist[a]['pagekey']);
-//                    console.log(this.repolist[a]['pagekey']);
                     if(this.repolist[a]['pagekey'] === pagekey){
-                        //use this image list:
-                        console.log(this.repolist[a]);
-                        //first empty container
-                        
-                        
                         for(let b=0;b<this.repolist[a].imagecount;b++){
-                            console.log(this.buildImageUrl(this.repolist[a].repo,this.repolist[a].branch,b+1));
                             $(imageContainer).append(this.getImageDOM(this.buildImageUrl(this.repolist[a].repo,this.repolist[a].branch,b+1),this.repolist[a]));
-                            //$('#splash').empty().append(engine.getImageDOM(engine.buildImageUrl(currRepo.repo, currRepo.branch,currImageIndex+1),currRepo));
-                            //then append:
                         }
                         break;
                     }
@@ -118,14 +110,57 @@ let engine = {
         }
         /* build navigation */
         $('#menubar').empty().append(this.buildNav(true));
-        
         $('#subnav').empty().append(this.buildNav(false));
         
         /* and load footer */
         $('#footer').empty().append(this.buildFooter());
     },
 
-    
+    buildRepoList : function(){
+        let _categories = {};
+        $.getJSON('/data/r667output.json',function(data){
+            console.log(data);
+            //first pass: make empty root level topic object stubs:
+            for(var item in data){
+                if(!_categories[data[item]['topic']]){
+                    _categories[data[item]['topic']] = {};
+                }
+            }
+
+            //second pass: for each top level object entry, make second level section object stubs:
+            for(topic in _categories){
+                for(var item in data){
+                    if(topic === data[item]['topic'] &&! _categories[topic][data[item]['section']]){
+                        _categories[topic][data[item]['section']] = {};
+                    }
+                }
+            }
+            //third pass: append data to correct key:
+            for(item in data){
+                _categories[ data[item]['topic'] ][data[item]['section']][item] = data[item];
+            }
+
+            /* now, _items can be used to generate DOM output: */
+            $('#sausage').empty();
+            for(let topic in _categories){
+                $('#sausage').append('<h2>'+topic+'</h2>');
+                for(let section in _categories[topic]){
+                    /* I need a unique flag so I can append the correct items to the correct category/section: */
+                    let _cssId = section.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'')+'_'+topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'');
+                    $('#sausage').append('<h3>'+section+'</h3>');
+                    $('#sausage').append('<ul id="' + _cssId + '">');
+                    for(let thing in _categories[topic][section]){
+                        /* work out path */
+                        let _path = thing.substr(0,1).toLowerCase();
+                        if(parseInt(_path)){
+                            _path = '_num'
+                        }
+                        $('#sausage > ul#'+_cssId).append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
+                    }
+                }
+            }
+        });
+    },
     
     
     /**
@@ -197,6 +232,7 @@ let engine = {
             /* where are we? */
             if(_currpagekey.split('.').length > 1){
                 let l2Index = parseInt(_currpagekey.split('.')[1]);
+                navWrapper.appendChild(document.createElement('h2')).appendChild(document.createTextNode('Subnav'));
                 for(let a=0;a<this.navdata[0].childs[l2Index].childs.length;a++){
                     if(this.navdata[0].childs[l2Index].childs[a].visible){
                          navWrapper.appendChild(this.buildLink(this.navdata[0].childs[l2Index].childs[a],false));
@@ -262,17 +298,18 @@ let engine = {
             /* Deep copy: https://medium.com/@gamshan001/javascript-deep-copy-for-array-and-object-97e3d4bc401a */
             let __path = Array.from(_path);
             __path.pop();
-            console.log(__path);
-            console.log(_path);
-            
             path = __path;
-            
         }
         /* get l2 page */
         for(let a=0;a<this.navdata[0].childs.length;a++){
             if(path.join('.') === this.navdata[0].childs[a].pagekey){
-                console.log(this.navdata[0].childs[a].linktext);
-                $('h2').empty().append(this.navdata[0].childs[a].linktext);
+                if($('h2.static')[0]){
+                    console.log('h2.static');
+                }
+                else{
+                    console.log('h2');
+                    $('h2').empty().append(this.navdata[0].childs[a].linktext);
+                }
             }
         }
          $('title').empty().append(pagedata.linktext);
