@@ -119,43 +119,97 @@ let engine = {
     buildRepoList : function(){
         let _categories = {};
         $.getJSON('/data/r667output.json',function(data){
+            /* data is FLAT! */
             console.log(data);
             //first pass: make empty root level topic object stubs:
-            for(var item in data){
+
+             
+            for(let item in data){
+                /* build a top-level list for tabs */
                 if(!_categories[data[item]['topic']]){
                     _categories[data[item]['topic']] = {};
                 }
             }
+            
+            
 
+            let _toplevelcount = 0;
+            console.log(_toplevelcount);            
+            
             //second pass: for each top level object entry, make second level section object stubs:
             for(topic in _categories){
-                for(var item in data){
+                for(let item in data){
                     if(topic === data[item]['topic'] &&! _categories[topic][data[item]['section']]){
                         _categories[topic][data[item]['section']] = {};
                     }
                 }
             }
             //third pass: append data to correct key:
-            for(item in data){
+            for(let item in data){
                 _categories[ data[item]['topic'] ][data[item]['section']][item] = data[item];
             }
-
+            
+            /* build a responsive set of DIVs to act as top nav of repo items: */
+            let _navrow = document.createElement('div');
+            _navrow.setAttribute('class','pure-g toplevelitems');
+            /* make nav data */
+            for(let item in _categories){   
+                _toplevelcount++;
+                let _tab = document.createElement('div');
+                _tab.setAttribute('data-topic',item.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,''))
+                let _p = document.createElement('p');
+                _tab.setAttribute('class','pure-u-1 pure-u-md-1-4 pure-u-xl-3-24');   /* there are 8... */
+                _p.appendChild(document.createTextNode(item));
+                _tab.appendChild(_p);
+                _navrow.appendChild(_tab);
+            }
+            
+            console.log(_categories);
+            
             /* now, _items can be used to generate DOM output: */
             $('#sausage').empty();
+            
+             $('#sausage').append(_navrow);
+            /* append handlers */
+            let _counter = 0;
+            $('#sausage > div.toplevelitems > div').each(function(){
+                if(_counter === 0) $(this).addClass('current');
+                _counter++;
+                $(this).click(function(){
+                    console.log($(this).attr('data-topic'));
+                    /* on click, hide ALL, and set visible the selected */
+                    $('#sausage > div.toplevelitems > div').removeClass('current');
+                    $(this).addClass('current');
+                    $('#sausage > div.topic').addClass('hidden');
+                    $('#'+$(this).attr('data-topic')).removeClass('hidden');
+                });
+            });
+            _counter = 0;
             for(let topic in _categories){
-                $('#sausage').append('<h2>'+topic+'</h2>');
+                let _topicWrapper = document.createElement('div');
+                _topicWrapper.setAttribute('id',topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,''));
+                _topicWrapper.setAttribute('class','hidden topic');
+                if(_counter === 0) $(_topicWrapper).removeClass('hidden');
+                _counter++;
+//                $(_topicWrapper).append('<h2>'+topic+'</h2>');    /* displayed in the nav panels now */
                 for(let section in _categories[topic]){
                     /* I need a unique flag so I can append the correct items to the correct category/section: */
                     let _cssId = section.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'')+'_'+topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'');
-                    $('#sausage').append('<h3>'+section+'</h3>');
-                    $('#sausage').append('<ul id="' + _cssId + '">');
+                    /* here I want to put the headings next to each other and toggle the content as per the main topics:TODO */
+                    $(_topicWrapper).append('<h3>'+section+'</h3>');
+                    $(_topicWrapper).append('<ul id="' + _cssId + '">');
+                    let itemsWrapperDiv = document.createElement('div');
+                    itemsWrapperDiv.setAttribute('class','pure-g');
+                    let _left = document.createElement('div');
+                    _left.setAttribute('class','pure-u-1 pure-u-')
+                    $('#sausage').append(_topicWrapper);
                     for(let thing in _categories[topic][section]){
                         /* work out path */
                         let _path = thing.substr(0,1).toLowerCase();
                         if(parseInt(_path)){
                             _path = '_num'
                         }
-                        $('#sausage > ul#'+_cssId).append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
+                        $('#sausage > div > ul#'+_cssId).append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
                     }
                 }
             }
@@ -387,7 +441,10 @@ let engine = {
         _outer.appendChild(_right);
         return(_outer);
     }
+    
+
 };
+
 
 /**
 load pages
@@ -395,7 +452,18 @@ load pages
 $(function(){
 	engine.init();
 });
-
+/*
+* https://stackoverflow.com/questions/5223/length-of-a-javascript-object
+* Extend Object:
+* */
+Object.size = function(obj) {
+    var size = 0,
+    key;
+    for (key in obj) {
+        if (obj.hasOwnProperty(key)) size++;
+    }
+    return size;
+};
 
 
 
