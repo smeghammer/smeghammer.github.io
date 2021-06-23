@@ -44,7 +44,7 @@ let engine = {
                 {'linktext':'Turret test','url':'/snippets/turrettest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.25', 'childs':[],visible:false}
             ]},  
             {'linktext':'Useful Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
-                {'linktext':'R667 Repository backup','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true}
+                {'linktext':'R667 Repository','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true}
             ]},
         ]},
     ],   //TODO
@@ -123,22 +123,18 @@ let engine = {
             console.log(data);
             //first pass: make empty root level topic object stubs:
 
-             
             for(let item in data){
                 /* build a top-level list for tabs */
                 if(!_categories[data[item]['topic']]){
                     _categories[data[item]['topic']] = {};
                 }
             }
-            
-            
 
-            let _toplevelcount = 0;
-            console.log(_toplevelcount);            
-            
             //second pass: for each top level object entry, make second level section object stubs:
+            let _toplevelcount = 0;
             for(topic in _categories){
                 for(let item in data){
+//                    console.log(topic,_categories[topic][data[item]['section']]);
                     if(topic === data[item]['topic'] &&! _categories[topic][data[item]['section']]){
                         _categories[topic][data[item]['section']] = {};
                     }
@@ -162,6 +158,11 @@ let engine = {
                 _p.appendChild(document.createTextNode(item));
                 _tab.appendChild(_p);
                 _navrow.appendChild(_tab);
+                
+//                /* build second level nav from the game style entries */
+//                for(let style in _categories[item]){
+//                    console.log(style);
+//                }
             }
             
             console.log(_categories);
@@ -192,12 +193,59 @@ let engine = {
                 if(_counter === 0) $(_topicWrapper).removeClass('hidden');
                 _counter++;
 //                $(_topicWrapper).append('<h2>'+topic+'</h2>');    /* displayed in the nav panels now */
+                let _l2navwrapper = document.createElement('ul');
+                _l2navwrapper.setAttribute('class','l2nav');
+//                _l2navwrapper.setAttribute('data-itemcategory',topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,''));
+                let _counter2 = 0;
                 for(let section in _categories[topic]){
+                    
                     /* I need a unique flag so I can append the correct items to the correct category/section: */
                     let _cssId = section.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'')+'_'+topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'');
                     /* here I want to put the headings next to each other and toggle the content as per the main topics:TODO */
+                    
+                    /* build l2 nav: */
+                    let _l2naventry = document.createElement('li');
+                    _l2naventry.setAttribute('data-itemcategory',_cssId);
+                    _l2naventry.appendChild(document.createTextNode(section));
+                    
+                    /* 
+                     * class 'reset' is do I can ensure that on click of any I can 
+                     * reset the hidden FIRST items. This nees to include the panels!!  */
+                    if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
+                    _counter2++;
+//                    console.log(_counter2);
+                    _l2navwrapper.appendChild(_l2naventry);
+                    
+                    /* append click handlers to l2 nav: */
+                    $(_l2navwrapper).find('li').each(function(){
+//                        console.log($(this));
+//                        let _that = this;
+                        $(this).click(function(_that){
+                            console.log($(this).attr('data-itemcategory'));
+                            
+                            $(this).parent().find('li').each(function(){
+//                                console.log(_that);
+//                                console.log($(this));
+                                /* unhighlight sibs: */
+                                $(this).removeClass('current');
+                            });
+                            /* and highlight item clicked on: */
+                            $(this).addClass('current');
+                        })
+                    });
+                    
+                    //TEST
+                    let _sectionwrapper = document.createElement('div');
+                    _sectionwrapper.setAttribute('id',_cssId+'_TEST');
+                    $(_sectionwrapper).append('<h3>'+section+'</h3>');
+                    $(_sectionwrapper).append('<ul>');
+                    $(_topicWrapper).append(_sectionwrapper);
+                    //END TEST
+                    
                     $(_topicWrapper).append('<h3>'+section+'</h3>');
                     $(_topicWrapper).append('<ul id="' + _cssId + '">');
+                    
+                    
                     let itemsWrapperDiv = document.createElement('div');
                     itemsWrapperDiv.setAttribute('class','pure-g');
                     let _left = document.createElement('div');
@@ -210,9 +258,17 @@ let engine = {
                             _path = '_num'
                         }
                         $('#sausage > div > ul#'+_cssId).append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
+                        $('#sausage > div > div#'+_cssId+'_TEST > ul').append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
                     }
                 }
+                console.log(_l2navwrapper);
+                //https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child
+                _topicWrapper.insertBefore(_l2navwrapper,_topicWrapper.firstChild);
             }
+            
+
+            
+            
         });
     },
     
@@ -441,8 +497,6 @@ let engine = {
         _outer.appendChild(_right);
         return(_outer);
     }
-    
-
 };
 
 
