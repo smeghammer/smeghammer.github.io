@@ -120,9 +120,7 @@ let engine = {
         let _categories = {};
         $.getJSON('/data/r667output.json',function(data){
             /* data is FLAT! */
-            console.log(data);
-            //first pass: make empty root level topic object stubs:
-
+            /*first pass: make empty root level topic object stubs:*/
             for(let item in data){
                 /* build a top-level list for tabs */
                 if(!_categories[data[item]['topic']]){
@@ -134,7 +132,6 @@ let engine = {
             let _toplevelcount = 0;
             for(topic in _categories){
                 for(let item in data){
-//                    console.log(topic,_categories[topic][data[item]['section']]);
                     if(topic === data[item]['topic'] &&! _categories[topic][data[item]['section']]){
                         _categories[topic][data[item]['section']] = {};
                     }
@@ -158,26 +155,16 @@ let engine = {
                 _p.appendChild(document.createTextNode(item));
                 _tab.appendChild(_p);
                 _navrow.appendChild(_tab);
-                
-//                /* build second level nav from the game style entries */
-//                for(let style in _categories[item]){
-//                    console.log(style);
-//                }
             }
-            
-            console.log(_categories);
-            
+
             /* now, _items can be used to generate DOM output: */
-            $('#sausage').empty();
-            
-             $('#sausage').append(_navrow);
+            $('#sausage').empty().append(_navrow);
             /* append handlers */
             let _counter = 0;
             $('#sausage > div.toplevelitems > div').each(function(){
                 if(_counter === 0) $(this).addClass('current');
                 _counter++;
                 $(this).click(function(){
-                    console.log($(this).attr('data-topic'));
                     /* on click, hide ALL, and set visible the selected */
                     $('#sausage > div.toplevelitems > div').removeClass('current');
                     $(this).addClass('current');
@@ -192,10 +179,8 @@ let engine = {
                 _topicWrapper.setAttribute('class','hidden topic');
                 if(_counter === 0) $(_topicWrapper).removeClass('hidden');
                 _counter++;
-//                $(_topicWrapper).append('<h2>'+topic+'</h2>');    /* displayed in the nav panels now */
                 let _l2navwrapper = document.createElement('ul');
                 _l2navwrapper.setAttribute('class','l2nav');
-//                _l2navwrapper.setAttribute('data-itemcategory',topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,''));
                 let _counter2 = 0;
                 for(let section in _categories[topic]){
                     
@@ -212,38 +197,34 @@ let engine = {
                      * class 'reset' is do I can ensure that on click of any I can 
                      * reset the hidden FIRST items. This nees to include the panels!!  */
                     if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
-                    _counter2++;
-//                    console.log(_counter2);
+
                     _l2navwrapper.appendChild(_l2naventry);
                     
                     /* append click handlers to l2 nav: */
                     $(_l2navwrapper).find('li').each(function(){
-//                        console.log($(this));
-//                        let _that = this;
-                        $(this).click(function(_that){
-                            console.log($(this).attr('data-itemcategory'));
-                            
+                        $(this).off('click').click(function(_that){
                             $(this).parent().find('li').each(function(){
-//                                console.log(_that);
-//                                console.log($(this));
                                 /* unhighlight sibs: */
                                 $(this).removeClass('current');
                             });
                             /* and highlight item clicked on: */
                             $(this).addClass('current');
+                            
+                            /* now work out the panel item to display: */
+                            $(this).parent().parent().find('div').addClass('hidden');
+                            $('#'+$(this).attr('data-itemcategory')).removeClass('hidden');
                         })
                     });
                     
-                    //TEST
                     let _sectionwrapper = document.createElement('div');
-                    _sectionwrapper.setAttribute('id',_cssId+'_TEST');
+                    _sectionwrapper.setAttribute('id',_cssId);
+                    /* hide each item section list (main panel) */
+                    if(_counter2){
+                        _sectionwrapper.setAttribute('class','hidden');
+                    }
                     $(_sectionwrapper).append('<h3>'+section+'</h3>');
                     $(_sectionwrapper).append('<ul>');
                     $(_topicWrapper).append(_sectionwrapper);
-                    //END TEST
-                    
-                    $(_topicWrapper).append('<h3>'+section+'</h3>');
-                    $(_topicWrapper).append('<ul id="' + _cssId + '">');
                     
                     
                     let itemsWrapperDiv = document.createElement('div');
@@ -257,18 +238,15 @@ let engine = {
                         if(parseInt(_path)){
                             _path = '_num'
                         }
-                        $('#sausage > div > ul#'+_cssId).append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
-                        $('#sausage > div > div#'+_cssId+'_TEST > ul').append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
+//                        $('#sausage > div > ul#'+_cssId).append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
+                        $('#sausage > div > div#'+_cssId+' > ul').append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
                     }
+                    _counter2++;
                 }
                 console.log(_l2navwrapper);
                 //https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child
                 _topicWrapper.insertBefore(_l2navwrapper,_topicWrapper.firstChild);
             }
-            
-
-            
-            
         });
     },
     
