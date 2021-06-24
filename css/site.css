@@ -111,9 +111,6 @@ div.topic > ul.l2nav > li.current{
 div.topic > ul.l2nav > li:hover{
     background-color: #660000;  
 }
-#sausage > div.topic > div{
-    
-}
 
 /* handle hover on items menu */
 div.toplevelitems > div:hover{
@@ -130,6 +127,10 @@ div.toplevelitems > div.current{
 
 #subnav > ul{
     text-align: center;
+}
+div.topic img.dlicon{
+    width: 25px;
+    padding-right: 5px;
 }
 /* 768 */
 @media screen and (min-width: 48em){
@@ -246,6 +247,7 @@ div.contents p {
 div.contents pre {
     color: cyan;
 }
+
 /* 768 */
 @media screen and (min-width: 48em){
     div.contents p {

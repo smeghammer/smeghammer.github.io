@@ -44,7 +44,8 @@ let engine = {
                 {'linktext':'Turret test','url':'/snippets/turrettest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.25', 'childs':[],visible:false}
             ]},  
             {'linktext':'Useful Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
-                {'linktext':'R667 Repository','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true}
+                {'linktext':'R667 Repository','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true},
+                {'linktext':'Haruko Haruhara\'s Doom stuff','url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true}
             ]},
         ]},
     ],   //TODO
@@ -224,6 +225,21 @@ let engine = {
                     }
                     $(_sectionwrapper).append('<h3>'+section+'</h3>');
                     $(_sectionwrapper).append('<ul>');
+                    
+                    
+                    let _block = document.createElement('div');
+                    _block.setAttribute('class','pure-q');
+                    let _itemcol = document.createElement('div');
+                    _itemcol.setAttribute('div','pure-u-1-3');
+                    let _ul = document.createElement('ul');
+                    _itemcol.appendChild(_ul);
+                    let _infocol = document.createElement('div');
+                    _infocol.setAttribute('div','pure-u-2-3');
+                    _block.appendChild(_itemcol);
+                    _block.appendChild(_infocol);
+                    _sectionwrapper.appendChild(_block)
+                    
+                    
                     $(_topicWrapper).append(_sectionwrapper);
                     
                     
@@ -238,12 +254,33 @@ let engine = {
                         if(parseInt(_path)){
                             _path = '_num'
                         }
-//                        $('#sausage > div > ul#'+_cssId).append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
-                        $('#sausage > div > div#'+_cssId+' > ul').append('\t<li><a href="https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename+'"    >'+thing+'</a></li>\n');
+                        /* build download entries */
+                        let _li = document.createElement('li');
+                        let _downloadicon = document.createElement('img');
+                        _downloadicon.setAttribute('src','/images/dl-anim.gif');
+                        _downloadicon.setAttribute('class','dlicon');
+                        let _a = document.createElement('a');
+                        _a.setAttribute('href', 'https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename);
+                        _a.setAttribute('title','download item "'+ thing +"'")
+                        _a.appendChild(_downloadicon);
+                        let _a2 = document.createElement('a');
+                        _a2.setAttribute('href','#');
+                        _a2.setAttribute('class','infolink');
+                        _a2.setAttribute('title','Show info about "' + thing + '"');
+//                        $(_a2).dialog({});//make modal
+                        _a2.appendChild(document.createTextNode(thing));
+                        $(_a2).off('click').click(function(){
+                            /* build the info block for this item */
+                            console.log(_categories[topic][section][thing])
+                            return(false);
+                        });
+                        _li.appendChild(_a);
+                        _li.appendChild(_a2);
+                        $('#sausage > div > div#'+_cssId+' > ul').append(_li);
                     }
                     _counter2++;
                 }
-                console.log(_l2navwrapper);
+//                console.log(_l2navwrapper);
                 //https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child
                 _topicWrapper.insertBefore(_l2navwrapper,_topicWrapper.firstChild);
             }
