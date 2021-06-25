@@ -45,7 +45,7 @@ let engine = {
             ]},  
             {'linktext':'Useful Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
                 {'linktext':'R667 Repository','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true},
-                {'linktext':'Haruko Haruhara\'s Doom stuff','url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true}
+                {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true}
             ]},
         ]},
     ],   //TODO
@@ -69,6 +69,10 @@ let engine = {
         {'repo' : 'anitsotw',           'nicename':'A Nail in the Skin of the World',  'branch':'master','imagecount':22,'pagekey':'0.0.0'},
         {'repo' : 'corporate-nightmare','nicename':'Corporate Nightmare',  'branch':'master','imagecount':23,'pagekey':'0.0.3'}
     ],
+    
+    /* R667 metadata wrapper */
+    R667Categories : {},
+    toplevelcount : 0,
     /** start stuff */
     init : function(){
         let pagetype = $('body').attr('data-page');
@@ -93,7 +97,7 @@ let engine = {
 
             break;
             case "r667":
-                this.buildRepoList();
+                this.buildR667Browser();
             break;
             case "map":
                 let imageContainer = $('div.contents > div:nth-of-type(2)');
@@ -117,176 +121,210 @@ let engine = {
         $('#footer').empty().append(this.buildFooter());
     },
 
-    buildRepoList : function(){
-        let _categories = {};
+    buildR667Browser : function(){
         $.getJSON('/data/r667output.json',function(data){
-            /* data is FLAT! */
-            /*first pass: make empty root level topic object stubs:*/
-            for(let item in data){
-                /* build a top-level list for tabs */
-                if(!_categories[data[item]['topic']]){
-                    _categories[data[item]['topic']] = {};
-                }
-            }
-
-            //second pass: for each top level object entry, make second level section object stubs:
-            let _toplevelcount = 0;
-            for(topic in _categories){
-                for(let item in data){
-                    if(topic === data[item]['topic'] &&! _categories[topic][data[item]['section']]){
-                        _categories[topic][data[item]['section']] = {};
-                    }
-                }
-            }
-            //third pass: append data to correct key:
-            for(let item in data){
-                _categories[ data[item]['topic'] ][data[item]['section']][item] = data[item];
-            }
-            
-            /* build a responsive set of DIVs to act as top nav of repo items: */
-            let _navrow = document.createElement('div');
-            _navrow.setAttribute('class','pure-g toplevelitems');
-            /* make nav data */
-            for(let item in _categories){   
-                _toplevelcount++;
-                let _tab = document.createElement('div');
-                _tab.setAttribute('data-topic',item.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,''))
-                let _p = document.createElement('p');
-                _tab.setAttribute('class','pure-u-1 pure-u-md-1-4 pure-u-xl-3-24');   /* there are 8... */
-                _p.appendChild(document.createTextNode(item));
-                _tab.appendChild(_p);
-                _navrow.appendChild(_tab);
-            }
-
-            /* now, _items can be used to generate DOM output: */
-            $('#sausage').empty().append(_navrow);
-            /* append handlers */
-            let _counter = 0;
-            $('#sausage > div.toplevelitems > div').each(function(){
-                if(_counter === 0) $(this).addClass('current');
-                _counter++;
-                $(this).click(function(){
-                    /* on click, hide ALL, and set visible the selected */
-                    $('#sausage > div.toplevelitems > div').removeClass('current');
-                    $(this).addClass('current');
-                    $('#sausage > div.topic').addClass('hidden');
-                    $('#'+$(this).attr('data-topic')).removeClass('hidden');
-                });
-            });
-            _counter = 0;
-            for(let topic in _categories){
-                let _topicWrapper = document.createElement('div');
-                _topicWrapper.setAttribute('id',topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,''));
-                _topicWrapper.setAttribute('class','hidden topic');
-                if(_counter === 0) $(_topicWrapper).removeClass('hidden');
-                _counter++;
-                let _l2navwrapper = document.createElement('ul');
-                _l2navwrapper.setAttribute('class','l2nav');
-                let _counter2 = 0;
-                for(let section in _categories[topic]){
-                    
-                    /* I need a unique flag so I can append the correct items to the correct category/section: */
-                    let _cssId = section.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'')+'_'+topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'');
-                    /* here I want to put the headings next to each other and toggle the content as per the main topics:TODO */
-                    
-                    /* build l2 nav: */
-                    let _l2naventry = document.createElement('li');
-                    _l2naventry.setAttribute('data-itemcategory',_cssId);
-                    _l2naventry.appendChild(document.createTextNode(section));
-                    
-                    /* 
-                     * class 'reset' is do I can ensure that on click of any I can 
-                     * reset the hidden FIRST items. This nees to include the panels!!  */
-                    if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
-
-                    _l2navwrapper.appendChild(_l2naventry);
-                    
-                    /* append click handlers to l2 nav: */
-                    $(_l2navwrapper).find('li').each(function(){
-                        $(this).off('click').click(function(_that){
-                            $(this).parent().find('li').each(function(){
-                                /* unhighlight sibs: */
-                                $(this).removeClass('current');
-                            });
-                            /* and highlight item clicked on: */
-                            $(this).addClass('current');
-                            
-                            /* now work out the panel item to display: */
-                            $(this).parent().parent().find('div').addClass('hidden');
-                            $('#'+$(this).attr('data-itemcategory')).removeClass('hidden');
-                        })
-                    });
-                    
-                    let _sectionwrapper = document.createElement('div');
-                    _sectionwrapper.setAttribute('id',_cssId);
-                    /* hide each item section list (main panel) */
-                    if(_counter2){
-                        _sectionwrapper.setAttribute('class','hidden');
-                    }
-                    $(_sectionwrapper).append('<h3>'+section+'</h3>');
-                    $(_sectionwrapper).append('<ul>');
-                    
-                    
-                    let _block = document.createElement('div');
-                    _block.setAttribute('class','pure-q');
-                    let _itemcol = document.createElement('div');
-                    _itemcol.setAttribute('div','pure-u-1-3');
-                    let _ul = document.createElement('ul');
-                    _itemcol.appendChild(_ul);
-                    let _infocol = document.createElement('div');
-                    _infocol.setAttribute('div','pure-u-2-3');
-                    _block.appendChild(_itemcol);
-                    _block.appendChild(_infocol);
-                    _sectionwrapper.appendChild(_block)
-                    
-                    
-                    $(_topicWrapper).append(_sectionwrapper);
-                    
-                    
-                    let itemsWrapperDiv = document.createElement('div');
-                    itemsWrapperDiv.setAttribute('class','pure-g');
-                    let _left = document.createElement('div');
-                    _left.setAttribute('class','pure-u-1 pure-u-')
-                    $('#sausage').append(_topicWrapper);
-                    for(let thing in _categories[topic][section]){
-                        /* work out path */
-                        let _path = thing.substr(0,1).toLowerCase();
-                        if(parseInt(_path)){
-                            _path = '_num'
-                        }
-                        /* build download entries */
-                        let _li = document.createElement('li');
-                        let _downloadicon = document.createElement('img');
-                        _downloadicon.setAttribute('src','/images/dl-anim.gif');
-                        _downloadicon.setAttribute('class','dlicon');
-                        let _a = document.createElement('a');
-                        _a.setAttribute('href', 'https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + _categories[topic][section][thing].filename);
-                        _a.setAttribute('title','download item "'+ thing +"'")
-                        _a.appendChild(_downloadicon);
-                        let _a2 = document.createElement('a');
-                        _a2.setAttribute('href','#');
-                        _a2.setAttribute('class','infolink');
-                        _a2.setAttribute('title','Show info about "' + thing + '"');
-//                        $(_a2).dialog({});//make modal
-                        _a2.appendChild(document.createTextNode(thing));
-                        $(_a2).off('click').click(function(){
-                            /* build the info block for this item */
-                            console.log(_categories[topic][section][thing])
-                            return(false);
-                        });
-                        _li.appendChild(_a);
-                        _li.appendChild(_a2);
-                        $('#sausage > div > div#'+_cssId+' > ul').append(_li);
-                    }
-                    _counter2++;
-                }
-//                console.log(_l2navwrapper);
-                //https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child
-                _topicWrapper.insertBefore(_l2navwrapper,_topicWrapper.firstChild);
-            }
+            engine.buildR667Data(data);
+            engine.buildR667TopNav();
+            engine.buildR667ThingBrowser();
         });
     },
     
+    /**
+     * construct a hierarchical data object from the flat structure as obtained form R667 site:
+     * */
+    buildR667Data : function(data){
+        /* data is FLAT! */
+        /*first pass: make empty root level topic object stubs:*/
+        for(let item in data){
+            /* build a top-level list for tabs */
+            if(!this.R667Categories[data[item]['topic']]){
+                this.R667Categories[data[item]['topic']] = {};
+            }
+        }
+
+        //second pass: for each top level object entry, make second level section object stubs:
+        for(topic in this.R667Categories){
+            for(let item in data){
+                if(topic === data[item]['topic'] &&! this.R667Categories[topic][data[item]['section']]){
+                    this.R667Categories[topic][data[item]['section']] = {};
+                }
+            }
+        }
+        //third pass: append data to correct key:
+        for(let item in data){
+            this.R667Categories[ data[item]['topic'] ][data[item]['section']][item] = data[item];
+            /* also, explicitly as name as a property: */
+            this.R667Categories[ data[item]['topic'] ][data[item]['section']][item].name = item;
+        }
+        console.log('built root data OK');
+        console.log(this.R667Categories);
+    },
+    
+    /**
+     * construct a DOM entry representing the top level (category)
+     * */
+    buildR667TopNav : function(){
+        /* build a responsive set of DIVs to act as top nav of repo items: */
+        let _navrow = document.createElement('div');
+        _navrow.setAttribute('class','pure-g toplevelitems');
+        /* make nav data */
+        for(let item in engine.R667Categories){   
+            this.toplevelcount++;
+            let _tab = document.createElement('div');
+            _tab.setAttribute('data-topic',item.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,''))
+            let _p = document.createElement('p');
+            _tab.setAttribute('class','pure-u-1 pure-u-md-1-4 pure-u-xl-3-24');   /* there are 8... */
+            _p.appendChild(document.createTextNode(item));
+            _tab.appendChild(_p);
+            _navrow.appendChild(_tab);
+        } 
+
+        /* now, _items can be used to generate DOM output: */
+        $('#sausage').empty().append(_navrow);
+        
+        /* append click handlers */
+        let _counter = 0;
+        $('#sausage > div.toplevelitems > div').each(function(){
+            if(_counter === 0) $(this).addClass('current');
+            _counter++;
+            $(this).click(function(){
+                /* on click, hide ALL, and set visible the selected */
+                $('#sausage > div.toplevelitems > div').removeClass('current');
+                $(this).addClass('current');
+                $('#sausage > div.topic').addClass('hidden');
+                $('#'+$(this).attr('data-topic')).removeClass('hidden');
+            });
+        });
+    },
+    
+    /**
+     * build the R667 browser nav level 2. There's a bit of buggering about due to the 
+     * way I built it originally so probably not the most efficient...
+     * */
+    buildR667ThingBrowser : function(){
+        console.log('building thing browser...');
+        _counter = 0;
+        for(let topic in engine.R667Categories){
+            let _topicWrapper = document.createElement('div');
+            _topicWrapper.setAttribute('id',topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,''));
+            _topicWrapper.setAttribute('class','hidden topic');
+
+            /* default to showing first topic */
+            if(_counter === 0) $(_topicWrapper).removeClass('hidden');
+            _counter++;
+            let _l2navwrapper = document.createElement('ul');
+            _l2navwrapper.setAttribute('class','l2nav');
+            let _counter2 = 0;
+            for(let section in engine.R667Categories[topic]){
+
+                /* I need a unique flag so I can append the correct items to the correct category/section: */
+                let _cssId = section.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'')+'_'+topic.replace(/ /g,'').replace(/\//g,'').replace(/\&/g,'');
+                /* here I want to put the headings next to each other and toggle the content as per the main topics:TODO */
+
+                /* build l2 nav: */
+                let _l2naventry = document.createElement('li');
+                _l2naventry.setAttribute('data-itemcategory',_cssId);
+                _l2naventry.appendChild(document.createTextNode(section));
+
+                /* 
+                 * class 'reset' is do I can ensure that on click of any I can 
+                 * reset the hidden FIRST items. This nees to include the panels!!  */
+                if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
+
+                _l2navwrapper.appendChild(_l2naventry);
+
+                /* append click handlers to l2 nav: */
+                $(_l2navwrapper).find('li').each(function(){
+                    /* click hander logic to show/hide as clicking through. Clicked items will remain in each category until page is reloaded */
+                    $(this).off('click').click(function(_that){
+                        $(this).parent().find('li').each(function(){
+                            /* unhighlight sibs: */
+                            $(this).removeClass('current');
+                        });
+                        /* and highlight item clicked on: */
+                        $(this).addClass('current');
+
+                        /* now work out the panel item to display: */
+                        $(this).parent().parent().find('div').addClass('hidden');
+                        $('#'+$(this).attr('data-itemcategory')).removeClass('hidden');
+                    })
+                });
+                
+                /* build the panel to contain the heading and the item list for selected category.
+                 * (this could be a function call here?) */
+                let _sectionwrapper = document.createElement('div');
+                _sectionwrapper.setAttribute('id',_cssId);
+                /* hide each item section list (main panel) */
+                if(_counter2){
+                    _sectionwrapper.setAttribute('class','hidden');
+                }
+                $(_sectionwrapper).append('<h3>'+section+'</h3>');
+                $(_sectionwrapper).append('<ul>');
+
+
+                let _block = document.createElement('div');
+                _block.setAttribute('class','pure-q');
+                let _itemcol = document.createElement('div');
+                _itemcol.setAttribute('div','pure-u-1-3');
+                let _ul = document.createElement('ul');
+                _itemcol.appendChild(_ul);
+                let _infocol = document.createElement('div');
+                _infocol.setAttribute('div','pure-u-2-3');
+                _block.appendChild(_itemcol);
+                _block.appendChild(_infocol);
+                _sectionwrapper.appendChild(_block)
+
+                $(_topicWrapper).append(_sectionwrapper);
+
+                let itemsWrapperDiv = document.createElement('div');
+                itemsWrapperDiv.setAttribute('class','pure-g');
+                let _left = document.createElement('div');
+                _left.setAttribute('class','pure-u-1 pure-u-')
+                $('#sausage').append(_topicWrapper);
+                for(let thing in engine.R667Categories[topic][section]){
+                    /* work out path */
+                    let _path = thing.substr(0,1).toLowerCase();
+                    if(parseInt(_path)){
+                        _path = '_num'
+                    }
+                    /* build download entries */
+                    let _li = document.createElement('li');
+                    let _downloadicon = document.createElement('img');
+                    _downloadicon.setAttribute('src','/images/dl-anim.gif');
+                    _downloadicon.setAttribute('class','dlicon');
+                    let _a = document.createElement('a');
+                    _a.setAttribute('href', 'https://github.com/smeghammer/r667_mirror/raw/master/' + _path + '/' + engine.R667Categories[topic][section][thing].filename);
+                    _a.setAttribute('title','download item "'+ thing +"'")
+                    _a.appendChild(_downloadicon);
+                    let _a2 = document.createElement('a');
+                    _a2.setAttribute('href','#');
+                    _a2.setAttribute('class','infolink');
+                    _a2.setAttribute('title','Show info about "' + thing + '"');
+                    _a2.setAttribute('data-thingname',thing);
+//                        $(_a2).dialog({});//make modal
+                    _a2.appendChild(document.createTextNode(thing));
+                    $(_a2).off('click').click(function(){
+                        /* TODO: build the info block for this item */
+                        let currentThing = engine.R667Categories[topic][section][$(this).attr('data-thingname')];
+                        console.log(currentThing);
+                        /* build title from topic/section/name */
+                        $('#R667ItemInfoOverlay').attr('title',currentThing.topic +' - '+ currentThing.section +' - '+ currentThing.name);
+                        /* now build DOM for content from the info and credits nodes */
+                        console.log(currentThing['info']);
+                        console.log(currentThing['credits']);
+                        $('#R667ItemInfoOverlay').dialog();
+                        return(false);
+                    });
+                    _li.appendChild(_a);
+                    _li.appendChild(_a2);
+                    $('#sausage > div > div#'+_cssId+' > ul').append(_li);
+                }
+                _counter2++;
+            }
+            //https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child
+            _topicWrapper.insertBefore(_l2navwrapper,_topicWrapper.firstChild);
+        }
+    },
     
     /**
     See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
