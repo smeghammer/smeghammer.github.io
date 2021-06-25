@@ -303,16 +303,29 @@ let engine = {
                     _a2.setAttribute('data-thingname',thing);
 //                        $(_a2).dialog({});//make modal
                     _a2.appendChild(document.createTextNode(thing));
+                    
                     $(_a2).off('click').click(function(){
+                        /* 
+                         * TODO: Use this:
+                         * https://stackoverflow.com/questions/3423842/jquery-dialog-with-dynamic-content
+                         * to populate thte dialog!!
+                         * */
                         /* TODO: build the info block for this item */
                         let currentThing = engine.R667Categories[topic][section][$(this).attr('data-thingname')];
-                        console.log('https://github.com/smeghammer/r667_mirror/raw/master/currentThing' + ['filename'].split(/\./)[0] + '.png');
+                        //https://github.com/smeghammer/smeghammer.github.io/blob/master/images/items/AA12Shotgun.png?raw=true
+                        //https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/AmmoSatchel.png
+                        let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' + currentThing['filename'].split(/\./)[0]+".png";
+                        console.log(imgUrl);
                         /* build title from topic/section/name */
                         $('#R667ItemInfoOverlay').attr('title',currentThing.topic +' - '+ currentThing.section +' - '+ currentThing.name);
                         /* now build DOM for content from the info and credits nodes */
 //                        console.log(currentThing['info']);
 //                        console.log(currentThing['credits']);
-                        $('#R667ItemInfoOverlay').dialog();
+                        let _imgelem = '<img src="'+imgUrl+'">';
+                        $('#R667ItemInfoOverlay').append(_imgelem).ready(function(){
+                            $('#R667ItemInfoOverlay').dialog();
+                        });
+                        
                         return(false);
                     });
                     _li.appendChild(_a);
