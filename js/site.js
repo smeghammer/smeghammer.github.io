@@ -306,12 +306,12 @@ let engine = {
                     $(_a2).off('click').click(function(){
                         /* TODO: build the info block for this item */
                         let currentThing = engine.R667Categories[topic][section][$(this).attr('data-thingname')];
-                        console.log(currentThing);
+                        console.log('https://github.com/smeghammer/r667_mirror/raw/master/currentThing' + ['filename'].split(/\./)[0] + '.png');
                         /* build title from topic/section/name */
                         $('#R667ItemInfoOverlay').attr('title',currentThing.topic +' - '+ currentThing.section +' - '+ currentThing.name);
                         /* now build DOM for content from the info and credits nodes */
-                        console.log(currentThing['info']);
-                        console.log(currentThing['credits']);
+//                        console.log(currentThing['info']);
+//                        console.log(currentThing['credits']);
                         $('#R667ItemInfoOverlay').dialog();
                         return(false);
                     });
