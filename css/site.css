@@ -132,6 +132,15 @@ div.topic img.dlicon{
     width: 25px;
     padding-right: 5px;
 }
+span.inline_credit{
+    display: inline-block;
+    float: right;
+    /* vertical-align: baseline; */
+    padding-top: 11px;
+    color: #c0c0c0;
+    font-weight: normal;
+    text-decoration: none;
+}
 /* 768 */
 @media screen and (min-width: 48em){
     /* get rid of border at low width */

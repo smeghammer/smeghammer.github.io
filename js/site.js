@@ -289,6 +289,24 @@ let engine = {
                     }
                     /* build download entries */
                     let _li = document.createElement('li');
+                    let _crds = "";
+                    if(engine.R667Categories[topic][section][thing]['credits']['entries']){
+//                        console.log(engine.R667Categories[topic][section][thing]['credits']['entries'][0]);
+                        /* https://www.geeksforgeeks.org/how-to-get-the-first-key-name-of-a-javascript-object/ - ugh!!! */
+                        /* root credit */
+                        for(let _count = 0;_count < engine.R667Categories[topic][section][thing]['credits']['entries'].length; _count++){
+                            for(let thing2 in engine.R667Categories[topic][section][thing]['credits']['entries'][_count]){
+                                if(thing2.replace(/:/g,'') === 'Submitted'){    /* tidy up entries - colon si sometimes not there... */
+//                                    console.log(engine.R667Categories[topic][section][thing]['credits']['entries'][_count][thing2]);
+                                    _crds = thing2 + " " + engine.R667Categories[topic][section][thing]['credits']['entries'][_count][thing2];
+                                }
+                            }
+                        }
+//                        console.log(_crds);
+                    }
+                    let _credit= document.createElement('span');
+                    _credit.setAttribute('class','inline_credit');
+                    _credit.appendChild(document.createTextNode(_crds));
                     let _downloadicon = document.createElement('img');
                     _downloadicon.setAttribute('src','/images/dl-anim.gif');
                     _downloadicon.setAttribute('class','dlicon');
@@ -315,21 +333,26 @@ let engine = {
                         //https://github.com/smeghammer/smeghammer.github.io/blob/master/images/items/AA12Shotgun.png?raw=true
                         //https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/AmmoSatchel.png
                         let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' + currentThing['filename'].split(/\./)[0]+".png";
-                        console.log(imgUrl);
-                        /* build title from topic/section/name */
-                        $('#R667ItemInfoOverlay').attr('title',currentThing.topic +' - '+ currentThing.section +' - '+ currentThing.name);
-                        /* now build DOM for content from the info and credits nodes */
-//                        console.log(currentThing['info']);
-//                        console.log(currentThing['credits']);
+//                        console.log(imgUrl);
                         let _imgelem = '<img src="'+imgUrl+'">';
-                        $('#R667ItemInfoOverlay').append(_imgelem).ready(function(){
-                            $('#R667ItemInfoOverlay').dialog();
-                        });
+                        var newDiv = $(document.createElement('div')); 
+                        newDiv.html(_imgelem);
+                        newDiv.dialog();
+//                        /* build title from topic/section/name */
+//                        $('#R667ItemInfoOverlay').attr('title',currentThing.topic +' - '+ currentThing.section +' - '+ currentThing.name);
+//                        /* now build DOM for content from the info and credits nodes */
+////                        console.log(currentThing['info']);
+////                        console.log(currentThing['credits']);
+//                        let _imgelem = '<img src="'+imgUrl+'">';
+//                        $('#R667ItemInfoOverlay').append(_imgelem).ready(function(){
+//                            $('#R667ItemInfoOverlay').dialog();
+//                        });
                         
                         return(false);
                     });
                     _li.appendChild(_a);
                     _li.appendChild(_a2);
+                    _li.appendChild(_credit);
                     $('#sausage > div > div#'+_cssId+' > ul').append(_li);
                 }
                 _counter2++;
