@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+        <link rel="stylesheet" href="/css/site.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/gif" href="/images/favicon.gif">
+        <title>
+        Smeghammer's Doom
+        </title>
+    </head>
+    <body class="home" data-page="snippets" data-pagekey="0.1.8">
+        <div class="pure-g">
+            <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
+            <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-5-6">
+                <h1 class="centre"></h1>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
+        </div>
+        
+        <!-- top menu -->
+        <div class="pure-g">
+            <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-2-24"></div>
+            <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-20-24 menubar">
+                <div class="pure-menu pure-menu-horizontal centre" id="menubar" >
+                    <!-- inject menu -->
+                </div>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-2-24"></div>
+        </div>
+
+        <!-- contents -->
+        <div class="pure-g contents">
+            <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8"></div>
+            <div class="pure-u-1 pure-u-md-2-3 pure-u-lg-1-2">
+                <h2>Maps &amp; WADs</h2>
+                <p>A crude attempt at doing footsteps per surface. This particular try is keyed on sector tags. It would be better probably to key on floor flat name.</p>
+                <p>The main difficulty I found was to change the frequency of the stepping as the player speed changed.</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/J6Uad4jNKX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p>I added suitable sound lumps and a corresponding SNDINFO:</p>
+                <pre>
+FS_METAL    FS_METAL
+FS_WOOD     FS_WOOD
+FS_CONCR    FS_CONCR
+FS_MUD      FS_MUD
+FS_WTR      FS_WTR
+                </pre>
+                <p>And a fairly crude script that maps sector tags with a sound to play. The stub of the frequency routine is there too, but needs expanding to account for 
+                different player speeds, and possibly a starting and stopping pattern.</p>
+                <pre>
+#include "zcommon.acs"
+
+int footstepTypesCount = 6;
+int footstepTypesDef[6][2]  = {{0,""},{1,"FS_WTR"},{2,"FS_MUD"},{3,"FS_CONCR"},{4,"FS_WOOD"},{5,"FS_METAL"}};
+
+script 1 ENTER{
+    Thing_ChangeTID(0, 1000 + PlayerNumber());
+    ACS_Execute(2,0,0,0,0);
+}
+
+/*
+detect footsteps:
+also, see https://zdoom.org/wiki/GetActorVelY
+*/
+script 2 (void){
+    int _delay = 15;
+    while(TRUE){
+        int x = GetActorVelX(0);
+        int y = GetActorVelY(0);
+        int z = GetActorVelZ(0);
+        int speed = FixedSqrt(FixedMul(x, x) + FixedMul(y, y) + FixedMul(z, z));
+        str _footstep = "";
+        _footstep = isInFootstepSector();
+        if(_footstep){
+            if(speed > 3){
+                PlaySound(1000,_footstep);
+            }
+        }
+        delay(_delay);
+    }
+}
+
+/*
+return whether player is in marked sector
+*/
+function str isInFootstepSector(void){
+    if(getActorVelX(0) || getActorVelY(0) || getActorVelZ(0)){
+        for(int a=0; a<footstepTypesCount; a++){
+            if(ThingCountSector (T_NONE, 1000, footstepTypesDef[a][0])){
+                return(footstepTypesDef[a][1]);
+            }
+        }
+    }
+    return(FALSE);
+}
+                </pre>
+                <ul>
+                    <li><a href="https://github.com/smeghammer/snippets/raw/master/footsteps/steptest.wad">Download example WAD</a></li>
+                    <li><a href="https://github.com/smeghammer/snippets/tree/master/footsteps">Github</a></li>
+                </ul>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-6 pure-u-lg-1-4">
+                <div id="subnav">
+                    <!-- inject subnav here -->
+                </div>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8"></div>
+        </div>
+        
+        <!-- inject footer -->
+        <div id="footer"></div>
+        <script src="/js/jquery.js"></script>
+        <script src="/js/site.js"></script> 
+    </body>
+</html>
