@@ -1,0 +1,241 @@
+Lines:https://github.com/smeghammer/r_mirror/raw/master/t/TeleportSmokeSpawner.zip
+https://github.com/smeghammer/r_mirror/raw/master/b/Butcher(Gun).zip
+https://github.com/smeghammer/r_mirror/raw/master/s/StainedGlassWindows.zip
+https://github.com/smeghammer/r_mirror/raw/master/p/PowerUpRingSpawners.zip
+https://github.com/smeghammer/r_mirror/raw/master/p/PSXFireSkies.zip
+https://github.com/smeghammer/r_mirror/raw/master/i/IDTexTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/q/Quad-ShotgunZombie.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SoulSpawners.zip
+https://github.com/smeghammer/r_mirror/raw/master/v/VariousDoomKeys.zip
+https://github.com/smeghammer/r_mirror/raw/master/h/HellBass.zip
+https://github.com/smeghammer/r_mirror/raw/master/t/TrashCans.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/StatusReport.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SharkwithLaser.zip
+https://github.com/smeghammer/r_mirror/raw/master/g/GatlingLaser.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RainSimple.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RiseoftheTriadTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RocketPile.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/Revolver(PS).zip
+https://github.com/smeghammer/r_mirror/raw/master/s/ScreamsScreamsScreams.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SkullCandle.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/StatusReportBig.zip
+https://github.com/smeghammer/r_mirror/raw/master/f/FirePillars(Hexen).zip
+https://github.com/smeghammer/r_mirror/raw/master/q/QuakeITexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/StalagmitesandStalactite.zip
+https://github.com/smeghammer/r_mirror/raw/master/d/Doom64Lights.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RecoloredDoomTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RingofRegeneration.zip
+https://github.com/smeghammer/r_mirror/raw/master/u/UsefulFlatsTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/m/MaxPayneTextures.zip
+https://github.com/smeghammer/r_mirror/raw/master/h/HexenTree&LeafVariants.zip
+https://github.com/smeghammer/r_mirror/raw/master/t/TooMuchBrownTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/StarTrekEliteForceTexs.zip
+https://github.com/smeghammer/r_mirror/raw/master/u/UsefulDoomEdits.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RocketZombieII.zip
+https://github.com/smeghammer/r_mirror/raw/master/d/DoomTexturesforDoomII.zip
+https://github.com/smeghammer/r_mirror/raw/master/b/BloodyChain.zip
+https://github.com/smeghammer/r_mirror/raw/master/p/PsyrenTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/n/NightmareTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/d/Doom64Torches.zip
+https://github.com/smeghammer/r_mirror/raw/master/p/PowerslaveTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/f/FistsofFury.zip
+https://github.com/smeghammer/r_mirror/raw/master/t/TekWarTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/a/AnachronoxTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/q/QuiverTextures.zip
+https://github.com/smeghammer/r_mirror/raw/master/d/Doom25SSG.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/StrongholdPowerPad.zip
+https://github.com/smeghammer/r_mirror/raw/master/d/DualBarrelLaserRifle.zip
+https://github.com/smeghammer/r_mirror/raw/master/u/UnmakerZombie.zip
+https://github.com/smeghammer/r_mirror/raw/master/c/Chasm-TheRiftTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/Squirrel.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/ReturnToCastleWolfensteinTextures.zip
+https://github.com/smeghammer/r_mirror/raw/master/w/WallTorches.zip
+https://github.com/smeghammer/r_mirror/raw/master/d/DoomPotpourriTexs.zip
+https://github.com/smeghammer/r_mirror/raw/master/n/NightmareAnimationsPack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/ShadowWarriorTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/a/ASMDShockRifle.zip
+https://github.com/smeghammer/r_mirror/raw/master/d/Dead/SwampTrees.zip
+https://github.com/smeghammer/r_mirror/raw/master/u/UndeadKnight(dualaxe).zip
+https://github.com/smeghammer/r_mirror/raw/master/q/QuakeIIChaingun.zip
+https://github.com/smeghammer/r_mirror/raw/master/b/BakersLegacyTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/e/EternalDoomResourcePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RadixTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/t/Tormentstein3D.zip
+https://github.com/smeghammer/r_mirror/raw/master/b/BRPS.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SmallBloodContainer.zip
+https://github.com/smeghammer/r_mirror/raw/master/t/ThunderFX.zip
+https://github.com/smeghammer/r_mirror/raw/master/w/WandofEmbers.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SupplyBox.zip
+https://github.com/smeghammer/r_mirror/raw/master/_num/5thEpisodeTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/t/TorchVariations.zip
+https://github.com/smeghammer/r_mirror/raw/master/z/ZombiePlasmaScientist.zip
+https://github.com/smeghammer/r_mirror/raw/master/m/MagicSparkle.zip
+https://github.com/smeghammer/r_mirror/raw/master/m/MaliceTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/w/WarlordofHell.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/Smalltrees&bushes.zip
+https://github.com/smeghammer/r_mirror/raw/master/h/HeavyChaingun.zip
+https://github.com/smeghammer/r_mirror/raw/master/u/UACSniperRifle.zip
+https://github.com/smeghammer/r_mirror/raw/master/c/ClaymoreMines.zip
+https://github.com/smeghammer/r_mirror/raw/master/f/FirePillars(Doom).zip
+https://github.com/smeghammer/r_mirror/raw/master/a/Alternate/GibDeaths.zip
+https://github.com/smeghammer/r_mirror/raw/master/p/PowerStimpack.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RomerosDoomDumpGore.zip
+https://github.com/smeghammer/r_mirror/raw/master/b/BloodGhost.zip
+https://github.com/smeghammer/r_mirror/raw/master/g/GrayTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/q/Quake2Small.zip
+https://github.com/smeghammer/r_mirror/raw/master/p/Pump-ActionShotgun.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/Seaweed.zip
+https://github.com/smeghammer/r_mirror/raw/master/u/UndyingTextures.zip
+https://github.com/smeghammer/r_mirror/raw/master/z/ZDoomBig.zip
+https://github.com/smeghammer/r_mirror/raw/master/c/Chicken.zip
+https://github.com/smeghammer/r_mirror/raw/master/u/UTNTPyro-Cannon.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/ShirtlessBeheadedMarine.zip
+https://github.com/smeghammer/r_mirror/raw/master/q/QuakeIIITexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SilverTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SparkleSpawners.zip
+https://github.com/smeghammer/r_mirror/raw/master/w/WitchavenTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/Sparks.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/ScrollofHellfire.zip
+https://github.com/smeghammer/r_mirror/raw/master/b/BaphometsEyes.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/StarvingRat.zip
+https://github.com/smeghammer/r_mirror/raw/master/r/RiotNerveGasLauncher.zip
+https://github.com/smeghammer/r_mirror/raw/master/m/MysteriesotSithTexs.zip
+https://github.com/smeghammer/r_mirror/raw/master/d/DarkBaseTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/a/AutoShotgun.zip
+https://github.com/smeghammer/r_mirror/raw/master/x/XtraLitesTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SolidSnakeSmall.zip
+https://github.com/smeghammer/r_mirror/raw/master/t/TomeoftheForsaken.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/SystemShockTexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/q/QuakeIITexturePack.zip
+https://github.com/smeghammer/r_mirror/raw/master/s/ShellKit.zip
+
+
+
+
+
+Lines: 925, 1778, 2608, 3406, 3994, 4527, 5050, 5543, 5981, 6386, 6769, 7121, 7442, 7756, 8044, 8329, 8601, 8815, 9022, 9163, 9291, 9407, 9519, 9625, 9729, 9832, 9934, 10035, 10134, 10229, 10323 https://github.com/smeghammer/r667_mirror/raw/master/_num/5thEpisodeTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 964, 1817, 2647, 3445, 4033, 4566, 5089, 5582, 6020, 6425, 6808, 7160, 7481, 7795, 8083, 8368, 8640, 8854, 9061, 9202, 9330, 9446, 9558, 9664, 9768, 9871, 9973, 10074, 10173, 10268, 10362, 10427, 10485 https://github.com/smeghammer/r667_mirror/raw/master/a/AnachronoxTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 948, 1801, 2631, 3429, 4017, 4550, 5073, 5566, 6004, 6409, 6792, 7144, 7465, 7779, 8067, 8352, 8624, 8838, 9045, 9186, 9314, 9430, 9542, 9648, 9752, 9855, 9957, 10058, 10157, 10252, 10346 https://github.com/smeghammer/r667_mirror/raw/master/r/RecoloredDoomTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 950, 1803, 2633, 3431, 4019, 4552, 5075, 5568, 6006, 6411, 6794, 7146, 7467, 7781, 8069, 8354, 8626, 8840, 9047, 9188, 9316, 9432, 9544, 9650, 9754, 9857, 9959, 10060, 10159, 10254, 10348 https://github.com/smeghammer/r667_mirror/raw/master/s/SilverTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 902, 1755, 2585, 3383, 3971, 4504, 5027, 5520, 5958, 6363, 6746, 7098, 7419, 7733, 8021, 8306, 8578, 8792, 8999, 9140, 9268 https://github.com/smeghammer/r667_mirror/raw/master/t/TeleportSmokeSpawner.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 746, 1599, 2429, 3227, 3815, 4348, 4871, 5364, 5802, 6207, 6590, 6942, 7263, 7577, 7865, 8150 https://github.com/smeghammer/r667_mirror/raw/master/t/Tormentstein3D.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 698, 1551, 2381, 3179, 3767, 4300, 4823, 5316, 5754, 6159, 6542, 6894, 7215 https://github.com/smeghammer/r667_mirror/raw/master/c/Chicken.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 679, 1532, 2362, 3160, 3748, 4281, 4804, 5297, 5735, 6140, 6523, 6875 https://github.com/smeghammer/r667_mirror/raw/master/f/FirePillars(Hexen).zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 1000, 1853, 2683, 3481, 4069, 4602, 5125, 5618, 6056, 6461, 6844, 7196, 7517, 7831, 8119, 8404, 8676, 8890, 9097, 9238, 9366, 9482, 9594, 9700, 9804, 9907, 10009, 10110, 10209, 10304, 10398, 10463, 10521 https://github.com/smeghammer/r667_mirror/raw/master/p/PowerslaveTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 527, 1380, 2210, 3008, 3596, 4129, 4652, 5145 https://github.com/smeghammer/r667_mirror/raw/master/b/BloodyChain.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 91 https://github.com/smeghammer/r667_mirror/raw/master/h/HeavyChaingun.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 726, 1579, 2409, 3207, 3795, 4328, 4851, 5344, 5782, 6187, 6570, 6922, 7243, 7557 https://github.com/smeghammer/r667_mirror/raw/master/s/SolidSnakeSmall.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 929, 1782, 2612, 3410, 3998, 4531, 5054, 5547, 5985, 6390, 6773, 7125, 7446, 7760, 8048, 8333, 8605, 8819, 9026, 9167, 9295, 9411, 9523, 9629, 9733, 9836, 9938, 10039, 10138, 10233, 10327 https://github.com/smeghammer/r667_mirror/raw/master/d/DarkBaseTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 664, 1517, 2347, 3145, 3733, 4266, 4789, 5282, 5720, 6125, 6508 https://github.com/smeghammer/r667_mirror/raw/master/w/WallTorches.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 943, 1796, 2626, 3424, 4012, 4545, 5068, 5561, 5999, 6404, 6787, 7139, 7460, 7774, 8062, 8347, 8619, 8833, 9040, 9181, 9309, 9425, 9537, 9643, 9747, 9850, 9952, 10053, 10152, 10247, 10341 https://github.com/smeghammer/r667_mirror/raw/master/n/NightmareTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 147 https://github.com/smeghammer/r667_mirror/raw/master/s/SniperRifle.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 1016, 1869, 2699, 3497, 4085, 4618, 5141, 5634, 6072, 6477, 6860, 7212, 7533, 7847, 8135, 8420, 8692, 8906, 9113, 9254, 9382, 9498, 9610, 9716, 9820, 9923, 10025, 10126, 10225, 10320, 10414, 10479, 10537 https://github.com/smeghammer/r667_mirror/raw/master/t/TooMuchBrownTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 663, 1516, 2346, 3144, 3732, 4265, 4788, 5281, 5719, 6124, 6507 https://github.com/smeghammer/r667_mirror/raw/master/t/TorchVariations.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 922, 1775, 2605, 3403, 3991, 4524, 5047, 5540, 5978, 6383, 6766, 7118, 7439, 7753, 8041, 8326, 8598, 8812, 9019, 9160, 9288, 9404, 9516, 9622, 9726, 9829, 9931, 10032, 10131 https://github.com/smeghammer/r667_mirror/raw/master/h/HellBass.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 942, 1795, 2625, 3423, 4011, 4544, 5067, 5560, 5998, 6403, 6786, 7138, 7459, 7773, 8061, 8346, 8618, 8832, 9039, 9180, 9308, 9424, 9536, 9642, 9746, 9849, 9951, 10052, 10151, 10246, 10340 https://github.com/smeghammer/r667_mirror/raw/master/n/NightmareAnimationsPack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 246, 1099, 1929, 2727 https://github.com/smeghammer/r667_mirror/raw/master/b/BloodGhost.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 887, 1740, 2570, 3368, 3956, 4489, 5012, 5505, 5943, 6348, 6731, 7083, 7404, 7718, 8006, 8291, 8563, 8777, 8984, 9125 https://github.com/smeghammer/r667_mirror/raw/master/t/ThunderFX.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 703, 1556, 2386, 3184, 3772, 4305, 4828, 5321, 5759, 6164, 6547, 6899, 7220 https://github.com/smeghammer/r667_mirror/raw/master/s/Squirrel.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 896, 1749, 2579, 3377, 3965, 4498, 5021, 5514, 5952, 6357, 6740, 7092, 7413, 7727, 8015, 8300, 8572, 8786, 8993, 9134, 9262 https://github.com/smeghammer/r667_mirror/raw/master/p/PowerUpRingSpawners.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Line: 67 https://github.com/smeghammer/r667_mirror/raw/master/d/Doom25SSG.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 952, 1805, 2635, 3433, 4021, 4554, 5077, 5570, 6008, 6413, 6796, 7148, 7469, 7783, 8071, 8356, 8628, 8842, 9049, 9190, 9318, 9434, 9546, 9652, 9756, 9859, 9961, 10062, 10161, 10256, 10350 https://github.com/smeghammer/r667_mirror/raw/master/u/UsefulFlatsTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 981, 1834, 2664, 3462, 4050, 4583, 5106, 5599, 6037, 6442, 6825, 7177, 7498, 7812, 8100, 8385, 8657, 8871, 9078, 9219, 9347, 9463, 9575, 9681, 9785, 9888, 9990, 10091, 10190, 10285, 10379, 10444, 10502 https://github.com/smeghammer/r667_mirror/raw/master/e/EternalDoomResourcePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 796, 1649, 2479, 3277, 3865, 4398, 4921, 5414, 5852, 6257, 6640, 6992, 7313, 7627, 7915, 8200, 8472 https://github.com/smeghammer/r667_mirror/raw/master/s/StarvingRat.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 894, 1747, 2577, 3375, 3963, 4496, 5019, 5512, 5950, 6355, 6738, 7090, 7411, 7725, 8013, 8298, 8570, 8784, 8991, 9132, 9260 https://github.com/smeghammer/r667_mirror/raw/master/m/MagicSparkle.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 1009, 1862, 2692, 3490, 4078, 4611, 5134, 5627, 6065, 6470, 6853, 7205, 7526, 7840, 8128, 8413, 8685, 8899, 9106, 9247, 9375, 9491, 9603, 9709, 9813, 9916, 10018, 10119, 10218, 10313, 10407, 10472, 10530 https://github.com/smeghammer/r667_mirror/raw/master/s/ShadowWarriorTexturePack.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 729, 1582, 2412, 3210, 3798, 4331, 4854, 5347, 5785, 6190, 6573, 6925, 7246, 7560 https://github.com/smeghammer/r667_mirror/raw/master/z/ZDoom2012Big.zip
+Status: 404 Not Found
+The link is broken. Double-check that you have not made any typo, or mistake in copy-pasting. If the link points to a resource that no longer exists, you may want to remove or fix the link.
+
+error Lines: 968, 1821, 2651, 3449, 4037, 4570, 5093, 5586, 6024, 6429, 6812, 7164, 7485, 7799, 8087, 8372, 8644, 8858, 9065, 9206, 9334, 9450, 9562, 9668, 9772, 9875, 9977, 10078, 10177, 10272, 10366, 10431, 10489 https://github.com/smeghammer/r667_mirror/raw/master/c/Chasm-TheRiftBetaPack.zip
+Status: 404 Not Found

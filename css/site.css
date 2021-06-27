@@ -409,34 +409,51 @@ div.menubar li {
     padding-bottom: 10px;
     padding-right: 20px;
 }
-.ui-dialog{
+
+
+/* override JQueryUI dialog styles: */
+body.repo .ui-dialog{
     font-size: 1em;
+    background-color: #330000;
+    border: 1px solid darkred;
+    padding:0px;
+}
+
+body.repo .ui-dialog div.ui-dialog-titlebar{
+    background-color: darkred;
+    border: none;
+}
+body.repo .ui-dialog div.ui-dialog-titlebar > span{
+    color: white;
+}
+body.repo .ui-widget-content{
+    color: #aaa;
 }
 .ui-dialog h3{
     text-decoration: none;
-    color: darkred;
+    color: #fff;
     margin-top: 5px;
     margin-bottom: 5px;
     font-size: 1.2em;
     font-style: italic;
 }
 .ui-dialog span.hilite {
-	font-weight: bold;
-        padding-right:10px;
+    font-weight: bold;
+    padding-right:10px;
 }
 li.hilight {
-	font-weight: bold;
+    font-weight: bold;
 }
 .inlineimages {
     margin-left:50px;
-	display: block;
-	height: 233px;
+    display: block;
+    height: 233px;
 }
 .inlineimage {
-	float: left;
-	text-align: center;
-	width: 260px;
-	height: 230px;
+    float: left;
+    text-align: center;
+    width: 260px;
+    height: 230px;
 }
 .navbullet
 {
