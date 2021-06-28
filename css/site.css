@@ -455,6 +455,12 @@ li.hilight {
     width: 260px;
     height: 230px;
 }
+div.ui-dialog-content img.soundwave_padding{
+    margin-top: -60px; 
+    margin-bottom: -80px;
+}
+
+
 .navbullet
 {
     border:0px;

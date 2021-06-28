@@ -321,30 +321,26 @@ let engine = {
                     _a2.appendChild(document.createTextNode(thing));
                     
                     $(_a2).off('click').click(function(){
-                        /* 
-                         * TODO: Use this:
-                         * https://stackoverflow.com/questions/3423842/jquery-dialog-with-dynamic-content
-                         * to populate thte dialog!!
-                         * */
-                        /* TODO: build the info block for this item */
+                        /* * https://stackoverflow.com/questions/3423842/jquery-dialog-with-dynamic-content * */
                         let currentThing = engine.R667Categories[topic][section][$(this).attr('data-thingname')];
-                        //https://github.com/smeghammer/smeghammer.github.io/blob/master/images/items/AA12Shotgun.png?raw=true
-                        //https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/AmmoSatchel.png
-                        console.log(currentThing);
                         let _path = currentThing['filename'].substr(0,1).toLowerCase();
                         if(parseInt(_path)){
                             _path = '_num'
                         }
 
                         let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' + _path +'/'+ currentThing['filename'].split(/\./)[0]+".png";
-//                        console.log(imgUrl);
                         /* if it is a sound-effect, there is no associated graphic - therefore use  
                          * 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/sound-effect.jpg
                          * */
                         if(currentThing['topic'].toUpperCase() ===  'SOUND FACTORY'){
                             imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/sound-wave-icon.png';
                         }
-                        let _imgelem = '<img src="'+imgUrl+'">';
+                        
+                        let _imgelem = document.createElement('img');
+                        _imgelem.setAttribute('src',imgUrl);
+                        if(currentThing['topic'].toUpperCase() ===  'SOUND FACTORY'){
+                            _imgelem.setAttribute('class','soundwave_padding');
+                        }
                         let newDiv = $(document.createElement('div')); 
                         newDiv.attr({'title':currentThing.name});
                         newDiv.append(_imgelem);
