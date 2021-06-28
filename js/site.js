@@ -338,6 +338,12 @@ let engine = {
 
                         let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' + _path +'/'+ currentThing['filename'].split(/\./)[0]+".png";
 //                        console.log(imgUrl);
+                        /* if it is a sound-effect, there is no associated graphic - therefore use  
+                         * 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/sound-effect.jpg
+                         * */
+                        if(currentThing['topic'].toUpperCase() ===  'SOUND FACTORY'){
+                            imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/sound-effect.jpg';
+                        }
                         let _imgelem = '<img src="'+imgUrl+'">';
                         let newDiv = $(document.createElement('div')); 
                         newDiv.attr({'title':currentThing.name});
