@@ -58,8 +58,16 @@
                 //first pass: make empty root level topic object stubs:
                 for(var item in data){
                     console.log(data[item]);
-                    let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' + data[item]['filename'].split(/\./)[0]+".png";
-                        
+                    let _path = data[item].filename.substr(0,1).toLowerCase();
+                    if(parseInt(_path)){
+                        _path = '_num'
+                    }
+                    
+                    console.log(_path);
+                    let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' +_path + '/'+data[item]['filename'].split(/\./)[0]+".png";
+                    if(data[item]['topic'].toUpperCase() ===  'SOUND FACTORY'){
+                        imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/sound-wave-icon.png';
+                    }    
                     let img = "<img src='" + imgUrl + "' style='width:120px;'>";
                     $('#sausage').append(img);
                 }
