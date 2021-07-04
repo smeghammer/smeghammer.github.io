@@ -472,6 +472,7 @@ let engine = {
         navWrapper.setAttribute('class','pure-menu-list'); 
         let _currpagekey = $('body').attr('data-pagekey');
         
+        /* primary navigation */
         if(main){
             /* pull out correct data from page index data attribute */
             let _home = this.buildLink(this.navdata[0])
@@ -482,11 +483,12 @@ let engine = {
                 navWrapper.appendChild(this.buildLink(this.navdata[0].childs[a],main));
             }
         }
+        /* second level navigation */
         else{
             /* where are we? */
             if(_currpagekey.split('.').length > 1){
                 let l2Index = parseInt(_currpagekey.split('.')[1]);
-                navWrapper.appendChild(document.createElement('h2')).appendChild(document.createTextNode('Subnav'));
+//                navWrapper.appendChild(document.createElement('h2')).appendChild(document.createTextNode('Subnav'));
                 for(let a=0;a<this.navdata[0].childs[l2Index].childs.length;a++){
                     if(this.navdata[0].childs[l2Index].childs[a].visible){
                          navWrapper.appendChild(this.buildLink(this.navdata[0].childs[l2Index].childs[a],false));
@@ -495,6 +497,9 @@ let engine = {
                 }
             }
         }
+        /* and work out the breadcrumb */
+        
+        
         return(navWrapper);
     },
     
