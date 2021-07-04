@@ -57,17 +57,17 @@ let engine = {
     repobase : 'https://github.com/smeghammer/',
     imagesuffix : '?raw=true',
     repolist : [
-        {'repo' : 'hellbreach',         'nicename':'Hellbreach',        'branch':'master','imagecount':12,'pagekey':'0.0.6'},
-        {'repo' : 'fuescher',           'nicename':'Fuck You, Escher!', 'branch':'master','imagecount':30,'pagekey':'0.0.5'},
-        {'repo' : 'crushdepth',         'nicename':'Crushdepth',        'branch':'master','imagecount':21,'pagekey':'0.0.10'},
-        {'repo' : 'belials_ruin',       'nicename':'Belial\'s Ruin',    'branch':'master','imagecount':4,'pagekey':'0.0.1'},
-        {'repo' : 'islandfortress',     'nicename':'Island Fortress',   'branch':'master','imagecount':29,'pagekey':'0.0.7'},
-        {'repo' : 'rectilinia',         'nicename':'Rectilinia',        'branch':'master','imagecount':38,'pagekey':'0.0.8'},
-        {'repo' : 'tubeworm',           'nicename':'Tubeworm',          'branch':'master','imagecount':19,'pagekey':'0.0.9'},
-        {'repo' : 'departure',          'nicename':'Departure',         'branch':'master','imagecount':59,'pagekey':'0.0.4'},
-        {'repo' : 'CardinalSin',        'nicename':'Cardinal Sin',      'branch':'master','imagecount':27,'pagekey':'0.0.2'},
-        {'repo' : 'anitsotw',           'nicename':'A Nail in the Skin of the World',  'branch':'master','imagecount':22,'pagekey':'0.0.0'},
-        {'repo' : 'corporate-nightmare','nicename':'Corporate Nightmare',  'branch':'master','imagecount':23,'pagekey':'0.0.3'}
+        {'download':'https://github.com/smeghammer/hellbreach/blob/master/hellbrch.wad?raw=true',   'repo' : 'hellbreach',         'nicename':'Hellbreach',        'branch':'master','imagecount':12,'pagekey':'0.0.6'},
+        {'download':'https://github.com/smeghammer/fuescher/blob/master/fuescher.wad?raw=true',   'repo' : 'fuescher',           'nicename':'Fuck You, Escher!', 'branch':'master','imagecount':30,'pagekey':'0.0.5'},
+        {'download':'https://github.com/smeghammer/crushdepth/blob/master/crushdepth.wad?raw=true',   'repo' : 'crushdepth',         'nicename':'Crushdepth',        'branch':'master','imagecount':21,'pagekey':'0.0.10'},
+        {'download':'https://github.com/smeghammer/belials_ruin/blob/master/belials_ruin.wad?raw=true',  'repo' : 'belials_ruin',       'nicename':'Belial\'s Ruin',    'branch':'master','imagecount':4,'pagekey':'0.0.1'},
+        {'download':'https://github.com/smeghammer/islandfortress/blob/master/ifortress.wad?raw=true',   'repo' : 'islandfortress',     'nicename':'Island Fortress',   'branch':'master','imagecount':29,'pagekey':'0.0.7'},
+        {'download':'https://github.com/smeghammer/rectilinia/blob/main/rectilinia.wad?raw=true',   'repo' : 'rectilinia',         'nicename':'Rectilinia',        'branch':'master','imagecount':38,'pagekey':'0.0.8'},
+        {'download':'https://github.com/smeghammer/tubeworm/blob/master/tubeworm.wad?raw=true',   'repo' : 'tubeworm',           'nicename':'Tubeworm',          'branch':'master','imagecount':19,'pagekey':'0.0.9'},
+        {'download':'https://github.com/smeghammer/departure/blob/master/compiled/departure.pk3?raw=true',   'repo' : 'departure',          'nicename':'Departure',         'branch':'master','imagecount':59,'pagekey':'0.0.4'},
+        {'download':'https://github.com/smeghammer/CardinalSin/blob/master/compiled/cardinalsin.pk3?raw=true',  'repo' : 'CardinalSin',        'nicename':'Cardinal Sin',      'branch':'master','imagecount':27,'pagekey':'0.0.2'},
+        {'download':'https://github.com/smeghammer/anitsotw/blob/master/compiled/anitsotw.pk3?raw=true',  'repo' : 'anitsotw',           'nicename':'A Nail in the Skin of the World',  'branch':'master','imagecount':22,'pagekey':'0.0.0'},
+        {'download':'https://github.com/smeghammer/corporate-nightmare/blob/master/compiled/corp-nm.pk3?raw=true',   'repo' : 'corporate-nightmare','nicename':'Corporate Nightmare',  'branch':'master','imagecount':23,'pagekey':'0.0.3'}
     ],
     
     /* R667 metadata wrapper */
@@ -77,6 +77,18 @@ let engine = {
     init : function(){
         let pagetype = $('body').attr('data-page');
         let pagekey = $('body').attr('data-pagekey');
+        let ytvid = $('body').attr('data-ytvid');
+        
+        
+        if(ytvid){
+            console.log('setting video width');
+            this.resizeVid();
+            //need size change callback:
+            window.onresize = function(){
+                engine.resizeVid();
+            };
+        }
+        
         switch(pagetype){
             /* do page-specific stuff: */
             case "home":
@@ -105,8 +117,18 @@ let engine = {
                 //render images for specified map:
                 for (let a=0;a<this.repolist.length;a++){
                     if(this.repolist[a]['pagekey'] === pagekey){
+                        /* build download link */
+                        console.log(this.repolist[a]);
+                        let _dlh3 = document.createElement('h3');
+                        let _dl = document.createElement('a');
+                        _dl.setAttribute('href',this.repolist[a].download);
+                        _dl.setAttribute('title',this.repolist[a].nicename);
+                        _dl.appendChild(document.createTextNode('Download ' + this.repolist[a].nicename));
+                        _dlh3.appendChild(_dl);
+                        imageContainer.append(_dlh3);
+                        /* render images: */
                         for(let b=0;b<this.repolist[a].imagecount;b++){
-                            $(imageContainer).append(this.getImageDOM(this.buildImageUrl(this.repolist[a].repo,this.repolist[a].branch,b+1),this.repolist[a]));
+                            imageContainer.append(this.getImageDOM(this.buildImageUrl(this.repolist[a].repo,this.repolist[a].branch,b+1),this.repolist[a]));
                         }
                         break;
                     }
@@ -119,6 +141,26 @@ let engine = {
         
         /* and load footer */
         $('#footer').empty().append(this.buildFooter());
+    },
+    
+    resizeVid : function(){
+//body > div.pure-g.contents > div.pure-u-1.pure-u-md-5-6.pure-u-lg-3-4
+                console.log();
+                //first, work out the ratio:
+                let _iframe = $('div.contents > div:nth-of-type(2) iframe');
+                let _initW = _iframe.attr('width');
+                let _initH = _iframe.attr('height');
+                let _ratio = _initH / _initW;
+                
+                
+                let iframe_width = $('div.contents > div:nth-of-type(2)').width();
+                let iframe_height = iframe_width * _ratio;
+                console.log(iframe_width);
+                
+                _iframe.removeAttr('width');
+                _iframe.removeAttr('height');
+                _iframe.attr({'width':iframe_width,'height':iframe_height});
+//                _iframe.attr('height');
     },
 
     buildR667Browser : function(){
@@ -472,6 +514,7 @@ let engine = {
         navWrapper.setAttribute('class','pure-menu-list'); 
         let _currpagekey = $('body').attr('data-pagekey');
         
+        /* primary navigation */
         if(main){
             /* pull out correct data from page index data attribute */
             let _home = this.buildLink(this.navdata[0])
@@ -482,11 +525,12 @@ let engine = {
                 navWrapper.appendChild(this.buildLink(this.navdata[0].childs[a],main));
             }
         }
+        /* second level navigation */
         else{
             /* where are we? */
             if(_currpagekey.split('.').length > 1){
                 let l2Index = parseInt(_currpagekey.split('.')[1]);
-                navWrapper.appendChild(document.createElement('h2')).appendChild(document.createTextNode('Subnav'));
+//                navWrapper.appendChild(document.createElement('h2')).appendChild(document.createTextNode('Subnav'));
                 for(let a=0;a<this.navdata[0].childs[l2Index].childs.length;a++){
                     if(this.navdata[0].childs[l2Index].childs[a].visible){
                          navWrapper.appendChild(this.buildLink(this.navdata[0].childs[l2Index].childs[a],false));
@@ -495,6 +539,9 @@ let engine = {
                 }
             }
         }
+        /* and work out the breadcrumb */
+        
+        
         return(navWrapper);
     },
     
@@ -614,7 +661,7 @@ let engine = {
         let _right = document.createElement('div');
         _right.setAttribute('class','pure-u-1-3');
         let _img = document.createElement('img');
-        _img.setAttribute('src','/images/smeghammer.gif');
+        _img.setAttribute('src','/images/smeghammer.png');
         _img.setAttribute('alt','Snaggletooth');
         
         let _centre = document.createElement('div');
