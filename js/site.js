@@ -619,7 +619,7 @@ let engine = {
         let _right = document.createElement('div');
         _right.setAttribute('class','pure-u-1-3');
         let _img = document.createElement('img');
-        _img.setAttribute('src','/images/smeghammer.gif');
+        _img.setAttribute('src','/images/smeghammer.png');
         _img.setAttribute('alt','Snaggletooth');
         
         let _centre = document.createElement('div');
