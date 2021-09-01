@@ -104,6 +104,19 @@ let engine = {
                     currImageIndex = engine.getRandomImageIndex(currRepoIndex);
                     $('#splash').empty().append(engine.getImageDOM(engine.buildImageUrl(currRepo.repo, currRepo.branch,currImageIndex+1),currRepo));
                 },15000);
+                
+                
+                //jstest
+                let x = 2;
+                if(1<x<3){
+                	console.log("fish1");
+                }
+                
+                if(x > 1 && x < 3){
+                	console.log("fish2");
+                }
+                
+                
             break;
             case "maps":
 
