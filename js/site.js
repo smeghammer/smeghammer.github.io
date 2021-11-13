@@ -47,6 +47,7 @@ let engine = {
                 {'linktext':'R667 Repository','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true},
                 {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true}
             ]},
+            {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.3', 'childs':[]}
         ]},
     ],   //TODO
     
@@ -104,19 +105,7 @@ let engine = {
                     currImageIndex = engine.getRandomImageIndex(currRepoIndex);
                     $('#splash').empty().append(engine.getImageDOM(engine.buildImageUrl(currRepo.repo, currRepo.branch,currImageIndex+1),currRepo));
                 },15000);
-                
-                
-                //jstest
-                let x = 2;
-                if(1<x<3){
-                	console.log("fish1");
-                }
-                
-                if(x > 1 && x < 3){
-                	console.log("fish2");
-                }
-                
-                
+
             break;
             case "maps":
 

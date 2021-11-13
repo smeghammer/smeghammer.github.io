@@ -131,12 +131,19 @@ div.toplevelitems > div.current{
 }
 /* alternate l2 nav: */
 #subnav > ul > li{
-    display:inline-block;
+	display: inline-block;
     padding-left: 5px;
     padding-right: 5px;
+    padding-top: 2px;
+    border-right: 2px solid darkred;
+    padding-bottom: 2px;
+}
+#subnav > ul > li:last-of-type{
+    border-right: none;
 }
 #subnav > ul > li > a{
     color: red;
+    padding-right: 4px;
 }
 
 
@@ -153,7 +160,22 @@ span.inline_credit{
     font-weight: normal;
     text-decoration: none;
 }
-/* 768 */
+
+/* before media queries otherwise it overrides them. I.E. LESS than 768px */
+div#menubar{
+	white-space: normal;
+}
+
+div#menubar li {
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    font-size: medium;
+}
+
+
+/* > 768 */
 @media screen and (min-width: 48em){
     /* get rid of border at low width */
     body{	
@@ -171,8 +193,12 @@ span.inline_credit{
         /*text-align: left;*/
         /*margin-top: 50px;*/
     }
+    
+    div#menubar li {
+    	font-size: large;
+    }
 }
-/* 1024 */
+/* > 1024 */
 @media screen and (min-width: 64em){
     body{	
         /*background-color: red;*/        
@@ -187,6 +213,9 @@ span.inline_credit{
     #subnav > ul{
         /*text-align: left;*/
         /*margin-top: 50px;*/
+    }
+    div#menubar li {
+     font-size: x-large;
     }
 }
 
@@ -423,12 +452,7 @@ div.menubar ul{
 /*	width: 100%;
 	padding-inline-start: 0px;*/
 }
-div.menubar li {
-    padding-left: 15px;
-    padding-top: 0px;
-    padding-bottom: 10px;
-    padding-right: 20px;
-}
+
 
 
 /* override JQueryUI dialog styles: */
