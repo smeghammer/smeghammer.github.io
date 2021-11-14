@@ -58,17 +58,17 @@ let engine = {
     repobase : 'https://github.com/smeghammer/',
     imagesuffix : '?raw=true',
     repolist : [
-        {'download':'https://github.com/smeghammer/hellbreach/blob/master/hellbrch.wad?raw=true',   'repo' : 'hellbreach',         'nicename':'Hellbreach',        'branch':'master','imagecount':12,'pagekey':'0.0.6'},
-        {'download':'https://github.com/smeghammer/fuescher/blob/master/fuescher.wad?raw=true',   'repo' : 'fuescher',           'nicename':'Fuck You, Escher!', 'branch':'master','imagecount':30,'pagekey':'0.0.5'},
-        {'download':'https://github.com/smeghammer/crushdepth/blob/master/crushdepth.wad?raw=true',   'repo' : 'crushdepth',         'nicename':'Crushdepth',        'branch':'master','imagecount':21,'pagekey':'0.0.10'},
-        {'download':'https://github.com/smeghammer/belials_ruin/blob/master/belials_ruin.wad?raw=true',  'repo' : 'belials_ruin',       'nicename':'Belial\'s Ruin',    'branch':'master','imagecount':4,'pagekey':'0.0.1'},
-        {'download':'https://github.com/smeghammer/islandfortress/blob/master/ifortress.wad?raw=true',   'repo' : 'islandfortress',     'nicename':'Island Fortress',   'branch':'master','imagecount':29,'pagekey':'0.0.7'},
-        {'download':'https://github.com/smeghammer/rectilinia/blob/main/rectilinia.wad?raw=true',   'repo' : 'rectilinia',         'nicename':'Rectilinia',        'branch':'master','imagecount':38,'pagekey':'0.0.8'},
-        {'download':'https://github.com/smeghammer/tubeworm/blob/master/tubeworm.wad?raw=true',   'repo' : 'tubeworm',           'nicename':'Tubeworm',          'branch':'master','imagecount':19,'pagekey':'0.0.9'},
-        {'download':'https://github.com/smeghammer/departure/blob/master/compiled/departure.pk3?raw=true',   'repo' : 'departure',          'nicename':'Departure',         'branch':'master','imagecount':59,'pagekey':'0.0.4'},
-        {'download':'https://github.com/smeghammer/CardinalSin/blob/master/compiled/cardinalsin.pk3?raw=true',  'repo' : 'CardinalSin',        'nicename':'Cardinal Sin',      'branch':'master','imagecount':27,'pagekey':'0.0.2'},
-        {'download':'https://github.com/smeghammer/anitsotw/blob/master/compiled/anitsotw.pk3?raw=true',  'repo' : 'anitsotw',           'nicename':'A Nail in the Skin of the World',  'branch':'master','imagecount':22,'pagekey':'0.0.0'},
-        {'download':'https://github.com/smeghammer/corporate-nightmare/blob/master/compiled/corp-nm.pk3?raw=true',   'repo' : 'corporate-nightmare','nicename':'Corporate Nightmare',  'branch':'master','imagecount':23,'pagekey':'0.0.3'}
+        {'download':'https://github.com/smeghammer/hellbreach/blob/master/hellbrch.wad?raw=true',   'repo' : 'hellbreach',         'nicename':'Hellbreach',        'branch':'master','imagecount':12,'pagekey':'0.0.6',"summary":"Three maps (currently) and one secret map. My first crack at map building over lockdown...  Starts with a sort of techbase thing, followed by a large rocky outdoor type thing, and finally a big canyon featuring my first attempt at a 3D structure. The secret is a marble/lava/hell thing..." },
+        {'download':'https://github.com/smeghammer/fuescher/blob/master/fuescher.wad?raw=true',   'repo' : 'fuescher',           'nicename':'Fuck You, Escher!', 'branch':'master','imagecount':30,'pagekey':'0.0.5',"summary":"A twisty, irrational mindfuck that could be a challenge as thngs may not lead to other things... A single map only."},
+        {'download':'https://github.com/smeghammer/crushdepth/blob/master/crushdepth.wad?raw=true',   'repo' : 'crushdepth',         'nicename':'Crushdepth',        'branch':'master','imagecount':21,'pagekey':'0.0.10',"summary":"A big experiment with moving 3D floors and liquid. Quite a bit of experimentation here with various GZDoom features and ACS scripting"},
+        {'download':'https://github.com/smeghammer/belials_ruin/blob/master/belials_ruin.wad?raw=true',  'repo' : 'belials_ruin',       'nicename':'Belial\'s Ruin',    'branch':'master','imagecount':4,'pagekey':'0.0.1',"summary":"One map. May, or may not, be inspired by Stonehenge... I tried to do a traditional arena type hing, with waves of monsters. A little bit of 3d floor stuff, and my first use of a Mechadon custom sky!"},
+        {'download':'https://github.com/smeghammer/islandfortress/blob/master/ifortress.wad?raw=true',   'repo' : 'islandfortress',     'nicename':'Island Fortress',   'branch':'master','imagecount':29,'pagekey':'0.0.7',"summary":"One map. Infiltrate a big, heavily defended rocky island. Possibly inspired by that action film \"The Rock\". My first attempt a \"realistic\" map. Lots of hitscanners..."},
+        {'download':'https://github.com/smeghammer/rectilinia/blob/main/rectilinia.wad?raw=true',   'repo' : 'rectilinia',         'nicename':'Rectilinia',        'branch':'master','imagecount':38,'pagekey':'0.0.8',"summary":"A little bit inspired by Minecraft - my kids just started playing and were obsessed with it... A four map miniwad ranging from cubical hills to chaingunner infested cityscapes."},
+        {'download':'https://github.com/smeghammer/tubeworm/blob/master/tubeworm.wad?raw=true',   'repo' : 'tubeworm',           'nicename':'Tubeworm',          'branch':'master','imagecount':19,'pagekey':'0.0.9',"summary":"FIREBLU! Lots of it! A surreal journey through energy tubes of pure FIREBLU..." },
+        {'download':'https://github.com/smeghammer/departure/blob/master/compiled/departure.pk3?raw=true',   'repo' : 'departure',          'nicename':'Departure',         'branch':'master','imagecount':59,'pagekey':'0.0.4',"summary":"Three Doom 1 maps, and a secret map. I used a PUSH action in this - it's so unusual I don't think anyone found it."},
+        {'download':'https://github.com/smeghammer/CardinalSin/blob/master/compiled/cardinalsin.pk3?raw=true',  'repo' : 'CardinalSin',        'nicename':'Cardinal Sin',      'branch':'master','imagecount':27,'pagekey':'0.0.2',"summary":"A Heretic map! Fairly traditional build with a bit of 3D floor work and an experiment with breakable walls"},
+        {'download':'https://github.com/smeghammer/anitsotw/blob/master/compiled/anitsotw.pk3?raw=true',  'repo' : 'anitsotw',           'nicename':'A Nail in the Skin of the World',  'branch':'master','imagecount':22,'pagekey':'0.0.0',"summary":"Pure Hellscape single map... Based around a concept of gigantic nails hammering into bloody flesh"},
+        {'download':'https://github.com/smeghammer/corporate-nightmare/blob/master/compiled/corp-nm.pk3?raw=true',   'repo' : 'corporate-nightmare','nicename':'Corporate Nightmare',  'branch':'master','imagecount':23,'pagekey':'0.0.3',"summary":"A UAC corporate building in the middle of the desert. Lots of 3D fun, and one-way translucent glass that is mirrored on the other side." }
     ],
     
     /* R667 metadata wrapper */
@@ -108,7 +108,8 @@ let engine = {
 
             break;
             case "maps":
-
+            	console.log("maps home");
+            	$('#mapsummaries').empty().append(this.buildMapSummaries());
             break;
             case "r667":
                 this.buildR667Browser();
@@ -164,7 +165,67 @@ let engine = {
                 _iframe.attr({'width':iframe_width,'height':iframe_height});
 //                _iframe.attr('height');
     },
+    
+    /* 
+     * render thumbs and summaries for maps */
+    buildMapSummaries : function(){
+    	let _wrapper = document.createElement('div');
+    	_wrapper.setAttribute('class','pure-g');
+    	//for(let x=0;x<this.repolist.length;x++){
+    	for(let x=0;x<this.navdata[0].childs[0].childs.length;x++){
+    		//console.log(this.navdata[0].childs[0].childs[x].pagekey);
+    		let _summary = document.createElement('div');
+    		let _summarytext = document.createElement('p');
+    		let _summaryimg = document.createElement('div');
+    		let _title = document.createElement('h3');
+    		let _thb =  document.createElement('img');
+    		let _link = document.createElement('a');
+    		let _link2 = document.createElement('a');
+    		
+    		_summary.setAttribute('class','pure-u-2-3');
+    		_summaryimg.setAttribute('class','pure-u-1-3');
+    		
+    		//get repoindex:
+    		let _key = this.getRepoIndexByPagekey(this.navdata[0].childs[0].childs[x].pagekey);
+    		console.log(this.navdata[0].childs[0].childs[x]);
+    		
+    		_thb.setAttribute('src',this.buildImageUrl(this.repolist[_key].repo,this.repolist[_key].branch,2));
+    		_thb.setAttribute('class','thumbnail');
+    		
+    		_link.setAttribute('title',this.repolist[_key]['summary']);
+    		_link.setAttribute('href',this.navdata[0].childs[0].childs[x].url);
+    		_link.appendChild(_thb);
+    		
+    		_link2.setAttribute('title',this.repolist[_key]['summary']);
+    		_link2.setAttribute('href',this.navdata[0].childs[0].childs[x].url);
+    		_link2.appendChild(document.createTextNode(this.repolist[_key]['nicename']));
+    		
+    		_summarytext.appendChild(document.createTextNode(this.repolist[_key]['summary']));
+    		_summaryimg.appendChild(_link);
+    		_title.appendChild(_link2);
+    		
+    		_summary.appendChild(_title);
+    		_summary.appendChild(_summarytext);
+    		
+    		
+    		console.log(this.repolist[_key]);
+    		_wrapper.appendChild(_summaryimg);
+    		_wrapper.appendChild(_summary);
+    		
+    	}
+    	return(_wrapper);
+    },
 
+    getRepoIndexByPagekey : function(pagekey){
+    	let repoIndex = -1;
+    	for (let a=0;a<this.repolist.length;a++){
+    		if(this.repolist[a].pagekey === pagekey){
+    			return(a);
+    		}
+    	}
+    	return(repoIndex);
+    },
+    
     buildR667Browser : function(){
         $.getJSON('/data/r667output.json',function(data){
             engine.buildR667Data(data);
@@ -486,6 +547,10 @@ let engine = {
     *
      */
     buildImageUrl : function(reponame,branch,imagenum){
+    	console.log(this.imagebase);
+    	console.log(reponame);
+    	console.log(branch);
+    	console.log(imagenum);
         return(this.imagebase + reponame + '/' + branch + '/screenshots/' + imagenum + '.png');
     },
     

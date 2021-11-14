@@ -530,3 +530,18 @@ code{
 .ui-dialog{
     z-index: 100;
 }
+
+#mapsummaries img.thumbnail{
+	float: left;
+    width: 250px;
+    padding-right: 10px;
+}
+#mapsummaries h3{
+	margin-top: 0px;
+}
+
+
+#mapsummaries > div > div{
+	height:150px;
+}
+
