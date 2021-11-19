@@ -533,7 +533,8 @@ code{
 
 #mapsummaries img.thumbnail{
 	float: left;
-    width: 250px;
+    maxwidth: 250px;
+    maxheight: 143
     padding-right: 10px;
 }
 #mapsummaries h3{

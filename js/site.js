@@ -15,37 +15,41 @@ let engine = {
                 {'linktext':'Tubeworm','url':'/maps/tubeworm.htm', 'parenturl':'/maps/', 'pagekey':'0.0.9', 'childs':[],visible:true}
             ]},
             {'linktext':'Snippets','url':'/snippets/', 'parenturl':'/', 'pagekey':'0.1', 'childs':[
-                {'linktext':'1 way glass','url':'/snippets/1wayglass.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.0', 'childs':[],visible:true},
-//                {'linktext':'1 way glass','url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.1', 'childs':[],visible:true},
-                {'linktext':'3D floor','url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.2', 'childs':[],visible:true},
-                {'linktext':'ACS tests','url':'/snippets/acs_tests.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.3', 'childs':[],visible:true},
-                {'linktext':'Bridge','url':'/snippets/bridge.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.4', 'childs':[],visible:true},
-                {'linktext':'Custom sound','url':'/snippets/custom_sound_test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.5', 'childs':[],visible:true},
-                {'linktext':'Custom sprite','url':'/snippets/custom_sprite.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.6', 'childs':[],visible:true},
-                {'linktext':'Flamer Baron','url':'/snippets/flamerbaron.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.7', 'childs':[],visible:true},
-                {'linktext':'Footsteps','url':'/snippets/footsteps.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.8', 'childs':[],visible:true},
-                {'linktext':'Increment test','url':'/snippets/increment-test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.9', 'childs':[],visible:true},
-                {'linktext':'Laddertest','url':'/snippets/laddertest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.26', 'childs':[],visible:true},
-                {'linktext':'Nail test 1','url':'/snippets/nailtest1.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.10', 'childs':[],visible:true},
-                {'linktext':'Nail test 2','url':'/snippets/nailtest2.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.11', 'childs':[],visible:true},
-                {'linktext':'PK3 test','url':'/snippets/pk3test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.12', 'childs':[],visible:false},
-                {'linktext':'Portal horizon issue','url':'/snippets/portalhorizonbug.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.13', 'childs':[],visible:false},
-                {'linktext':'Portal test','url':'/snippets/portaltest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.14', 'childs':[],visible:false},
-                {'linktext':'Random bits','url':'/snippets/random.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.15', 'childs':[],visible:false},
-                {'linktext':'Randomized teleport',  'url':'/snippets/rndtele.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.18', 'childs':[],visible:false},
-                {'linktext':'Remote kill',          'url':'/snippets/rekill.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.16', 'childs':[],visible:false},
-                {'linktext':'RFB!',                 'url':'/snippets/rfb.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.17', 'childs':[],visible:false},
-                {'linktext':'Script test','url':'/snippets/scripttest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.19', 'childs':[],visible:false},
-                {'linktext':'Sky hack','url':'/snippets/skyhack.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.20', 'childs':[],visible:false},
-                {'linktext':'Spawn test','url':'/snippets/spawntest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.21', 'childs':[],visible:false},
-                {'linktext':'Stacked tests','url':'/snippets/stacktests.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.22', 'childs':[],visible:false},
-                {'linktext':'Switch test','url':'/snippets/switchtest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.23', 'childs':[],visible:false},
-                {'linktext':'Telepotal','url':'/snippets/teleportal.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.24', 'childs':[],visible:false},
-                {'linktext':'Turret test','url':'/snippets/turrettest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.25', 'childs':[],visible:false}
+                {'linktext':'1 way glass',"repopath":"1wayglass",	"img":"6",		'url':'/snippets/1wayglass.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.0', 'childs':[],visible:true,"summary":""},
+//                {'linktext':'1 way glass',"repopath":"",		'url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.1', 'childs':[],visible:true,"summary":""},
+                {'linktext':'3D floor',"repopath":"3d_floor",	"img":"1",			'url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.2', 'childs':[],visible:true,"summary":""},
+                {'linktext':'ACS tests',"repopath":"ACS_TESTS",			'url':'/snippets/acs_tests.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.3', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Bridge',"repopath":"Bridge",		"img":"1",		'url':'/snippets/bridge.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.4', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Custom sound',"repopath":"custom_sound_test",			'url':'/snippets/custom_sound_test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.5', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Custom sprite',"repopath":"custom_sprite",	"img":"2",		'url':'/snippets/custom_sprite.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.6', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Flamer Baron',	"repopath":"flamerbaron",	"img":"3",		'url':'/snippets/flamerbaron.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.7', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Footsteps',"repopath":"footsteps",			'url':'/snippets/footsteps.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.8', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Increment test',"repopath":"increment-test",		'url':'/snippets/increment-test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.9', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Laddertest',"repopath":"laddertest",	"img":"1",			'url':'/snippets/laddertest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.26', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Nail test 1',"repopath":"nails1",	"img":"1",			'url':'/snippets/nailtest1.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.10', 'childs':[],visible:true,"summary":""},
+                {'linktext':'Nail test 2',"repopath":"nails2",	"img":"1",			'url':'/snippets/nailtest2.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.11', 'childs':[],visible:true,"summary":""},
+                {'linktext':'PK3 test',	"repopath":"pk3test",			'url':'/snippets/pk3test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.12', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Portal horizon issue',"repopath":"portal%20horizon%20bug",	'url':'/snippets/portalhorizonbug.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.13', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Portal tests',	"repopath":"portaltests",	"img":"1",		'url':'/snippets/portaltest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.14', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Random bits',	"repopath":"random",		'url':'/snippets/random.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.15', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Randomized teleport', "repopath":"randomised_teleport","img":"1",	 'url':'/snippets/rndtele.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.18', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Remote kill',  "repopath":"remote_kill_test",        'url':'/snippets/rekill.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.16', 'childs':[],visible:false,"summary":""},
+                {'linktext':'RFB!',    "repopath":"RFB",             'url':'/snippets/rfb.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.17', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Script test',	"repopath":"script_test",		'url':'/snippets/scripttest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.19', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Sky hack',		"repopath":"skyhack",		'url':'/snippets/skyhack.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.20', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Spawn test',	"repopath":"spawntests",		'url':'/snippets/spawntest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.21', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Stacked tests',"repopath":"stacked",	"img":"1",		'url':'/snippets/stacktests.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.22', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Switch test',	"repopath":"switch",		'url':'/snippets/switchtest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.23', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Teleportal',	"repopath":"teleportal",		'url':'/snippets/teleportal.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.24', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/turrettest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.25', 'childs':[],visible:false,"summary":""},
+                
+                {'linktext':'Teleport test',	"repopath":"teletest",		'url':'/snippets/xx.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.26', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""}
             ]},  
             {'linktext':'Useful Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
                 {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true},
-                {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true}
+                {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true},
+                {'linktext':"Doom fonts",'url':'/links/doomfonts.htm', 'parenturl':'/links/', 'pagekey':'0.2.2', 'childs':[],visible:true}
             ]},
             {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.3', 'childs':[]}
         ]},
@@ -80,7 +84,6 @@ let engine = {
         let pagekey = $('body').attr('data-pagekey');
         let ytvid = $('body').attr('data-ytvid');
         
-        
         if(ytvid){
             console.log('setting video width');
             this.resizeVid();
@@ -108,7 +111,6 @@ let engine = {
 
             break;
             case "maps":
-            	console.log("maps home");
             	$('#mapsummaries').empty().append(this.buildMapSummaries());
             break;
             case "r667":
@@ -137,6 +139,11 @@ let engine = {
                     }
                 }
             break;
+            
+            case "snippets":
+            	$('#snippetsummaries').empty().append(this.buildSnippetSummaries());
+            	
+            break;
         }
         /* build navigation */
         $('#menubar').empty().append(this.buildNav(true));
@@ -164,6 +171,68 @@ let engine = {
                 _iframe.removeAttr('height');
                 _iframe.attr({'width':iframe_width,'height':iframe_height});
 //                _iframe.attr('height');
+    },
+    
+    getSnippetDataByKey : function(){
+//    	for(let a=0;a<this.)
+    	return(null);
+    },
+    
+    /* 
+     * render thumbs and summaries for maps */
+    buildSnippetSummaries : function(){
+    	let _wrapper = document.createElement('div');
+    	_wrapper.setAttribute('class','pure-g');
+    	//for(let x=0;x<this.repolist.length;x++){
+    	//  https://github.com/smeghammer/snippets/blob/master/3d_floor/screenshots/1.png
+    	let defaultImage = "default.png";
+    	for(let x=0;x<this.navdata[0].childs[1].childs.length;x++){
+    		let _path = this.repobase + "snippets/tree/master/" + this.navdata[0].childs[1].childs[x].repopath;
+    		let _summary = document.createElement('div');
+    		let _summarytext = document.createElement('p');
+    		let _summaryimg = document.createElement('div');
+    		let _title = document.createElement('h3');
+    		let _thb =  document.createElement('img');
+    		let _link = document.createElement('a');
+    		let _link2 = document.createElement('a');
+    		
+    		_summary.setAttribute('class','pure-u-2-3');
+    		_summaryimg.setAttribute('class','pure-u-1-3');
+    		
+//    		//get repoindex:
+    		let _key = this.getRepoIndexByPagekey(this.navdata[0].childs[1].childs[x].pagekey);
+    		console.log(_key);
+    		console.log(_path);
+    		let _img = this.imagebase + "snippets/master/" +  defaultImage;
+    		if(this.navdata[0].childs[1].childs[x].img)
+    			_img = this.imagebase + "snippets/master/" + this.navdata[0].childs[1].childs[x].repopath + "/screenshots/"+ this.navdata[0].childs[1].childs[x].img+".png"
+    		console.log(_img);
+    		
+    		_thb.setAttribute('src',_img);
+    		_thb.setAttribute('class','thumbnail');
+//    		
+//    		_link.setAttribute('title',this.repolist[_key]['summary']);
+//    		_link.setAttribute('href',this.navdata[0].childs[0].childs[x].url);
+    		_link.appendChild(_thb);
+//    		
+//    		_link2.setAttribute('title',this.repolist[_key]['summary']);
+//    		_link2.setAttribute('href',this.navdata[0].childs[0].childs[x].url);
+//    		_link2.appendChild(document.createTextNode(this.repolist[_key]['nicename']));
+//    		
+//    		_summarytext.appendChild(document.createTextNode(this.repolist[_key]['summary']));
+    		_summaryimg.appendChild(_link);
+//    		_title.appendChild(_link2);
+//    		
+//    		_summary.appendChild(_title);
+//    		_summary.appendChild(_summarytext);
+//    		
+//    		
+//    		console.log(this.repolist[_key]);
+    		_wrapper.appendChild(_summaryimg);
+    		_wrapper.appendChild(_summary);
+    		
+    	}
+    	return(_wrapper);
     },
     
     /* 
