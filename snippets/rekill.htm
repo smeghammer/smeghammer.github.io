@@ -10,7 +10,7 @@
         Smeghammer's Doom
         </title>
     </head>
-    <body class="home" data-page="map" data-pagekey="0.1.16">
+    <body class="home" data-page="snippets" data-pagekey="0.1.16">
         <div class="pure-g">
             <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
             <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-5-6">
@@ -34,9 +34,146 @@
 
         <!-- contents -->
         <div class="pure-g contents">
-            <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8"></div>
+            <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8">            
+            </div>
             <div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+            <h2></h2>
+            <p>A test of an idea to 'remotely' kill monsters.</p>
+            <p>The skull switch on the first level takes you to a secret level, in which there are three imps. Killing one or more of these will trigger the deaths of a corresponding number in later level 'fish!'</p>
+            <p>The idea was to have a 'normal' level with an inaccessible area, with monsters, that is actually the same design visually as part of a secret level. Going to the secret level and killing some monsters will 
+            then allow you to see those 'same' monsters dead in the inaccessible area of the later level.</p>
+            <p>I am adding this as part of my unfinished <a href="https://github.com/smeghammer/hellbreach/raw/master/PK3/compiled/hellbreach.pk3" title="Helbreach">Hellbreach</a> mapset.</p>
+            <h3>Secret level</h3>
+            <p>
+            You enter a secret level and proceed to kill some imps. Keep track of the ones flagged with TIDs, and record them ad dead when killed in the global array:
+            </p>
+            <pre>
+#include "zcommon.acs"
+/*
+MAP31
+*/
 
+global int 1:lookupDeadThings[];
+
+script 1 ENTER{
+	/*
+	kill corresponding monster in MAP18
+	
+	See https://zdoom.org/wiki/Scope
+	*/
+	int thingsToKill[3] = {11,12,13};
+	bool aliveThings[3] = {1,1,1};
+	int count = 3;
+	/*
+	define flag for exiting the loop on completion of killing all flagged imps
+	*/
+	bool exitLoop = false;
+	/*
+	Start loop running that processes recording of deaths of things (IMPS in thi case), whose TIDs
+	are present in the thingsToKill array:
+	*/
+	while(true){
+		/*
+		set exitloop flag in case tests for alive thngs fail:
+		*/
+		exitLoop = true;
+
+		/*
+		check each imp is alive. If not, set up array of TIDs to kill imps in MAP18:
+		*/
+		for(int a=0;a<count; a++){
+			/*
+			If we have an imp in THIS map that matches a TID in the thingsToKill array, that is still
+			alive, add this TID to the global array:
+			*/
+			if(!(ThingCount(T_NONE, thingsToKill[a]))){
+				log(s:"adding TID to kill array: ", i:thingsToKill[a]);
+				lookupDeadThings[a]=thingsToKill[a];	//look these up in MAP18 start script...
+				
+				/*
+				And set the alive flag for this index to dead (0) - yes I coul duse a multidimensional array here, but, - meh...
+				*/
+				aliveThings[a]=0;
+			}
+		}
+	
+		/*
+		see if there are still alive imps. If not, break out of the loop:
+		*/
+		for(int b=0;b<count;b++){
+			if(aliveThings[b]){
+				exitLoop = false;
+			}
+		}
+		
+		/*
+		exit the loop if alive thingcount is zero:
+		*/
+		if(exitLoop){
+			break;
+		}
+		delay(35); // check every second.
+	}
+	/*debug:*/
+	log(s:"All dead Dave.");
+	for(int d=0;d<count;d++){
+		log(i:aliveThings[d]);
+	}
+	for(int c=0;c<count;c++){
+		log(i:lookupDeadThings[c]);
+	}
+}
+            </pre>
+            <h3>Later level</h3>
+            <p>
+            When we enter a later map, we check whether the global array of things to kill is populated. If so, kill things in THIS map with same TID on enter. 
+            </p>
+            <pre>
+#include "zcommon.acs"
+global int 1:lookupDeadThings[];
+/*
+MAP18
+
+Here, we are testing for a global array of TIDs of imps to kill.
+This defaults to empty, but if one or more imps are killed in the secret level,
+this array is populated with TIDs.
+
+If it is so populated, the killSecretThings() method is called and the global
+array used to kill off correspondsingly TID flagged imps in THIS map.
+*/
+
+
+/* I know ther are at most three imps to kill: */
+int killsize = 3;
+
+script 1 ENTER{
+	//debug
+	for(int a=0;a<killsize;a++){
+		/* what do I have in my kill array? - it *should* be the imps killed on MAP31 if so visited...: */
+		log(i:lookupDeadThings[0]);
+	}
+	
+ 	log(s:"triggering kill script with world scope data");
+	killSecretThings();
+}
+
+/*
+called from MAP31:
+*/
+function void killSecretThings(void){
+	for(int a=0;a<3;a++){
+ 		log(s:"thing to destroy ", i:lookupDeadThings[a]);
+		if(lookupDeadThings[a]> 0){
+			Thing_Destroy(lookupDeadThings[a],0,0);
+		}
+		
+	}
+}
+            </pre>
+                <ul>
+                    <li><a href="https://github.com/smeghammer/snippets/blob/master/remote_kill_test/rekill.wad?raw=true">Download example WAD</a></li>
+                    <li><a href="https://github.com/smeghammer/snippets/tree/master/remote_kill_test">Github</a></li>
+                </ul>
             </div>
 
             <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8"></div>

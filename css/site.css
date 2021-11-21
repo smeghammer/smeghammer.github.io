@@ -64,7 +64,7 @@ body {
     font-family: arial,sans serif;
     background-color: black;
     padding-bottom: 80px;
-    padding-left: 5px;
+/*     padding-left: 5px; */
     background-image: linear-gradient(to left, darkred,black,black,black,black,black,black,black, darkred);
 }
 
@@ -174,13 +174,28 @@ div#menubar li {
     font-size: medium;
 }
 
+/* default styles for summary pages */
+#mapsummaries div.pure-u-1-3,#mapsummaries div.pure-u-2-3{
+/* 	margin: 2px; */
+padding-top:2px;
+}
+
+#mapsummaries p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#mapsummaries h3{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 5px;
+	padding-top:20px;
+	text-align:center;
+}
 
 /* > 768 */
 @media screen and (min-width: 48em){
     /* get rid of border at low width */
     body{	
-        /*background-color: red;*/        
-        
         background-image: linear-gradient(to left, darkred,black,black,black,black,black, darkred);
     }
     h1 {
@@ -189,14 +204,24 @@ div#menubar li {
         margin-top: 30px;
         margin-bottom: -10px;
     }
-    #subnav > ul{
-        /*text-align: left;*/
-        /*margin-top: 50px;*/
-    }
+    #subnav > ul{ }
     
     div#menubar li {
     	font-size: large;
     }
+    
+	#mapsummaries h3{
+		margin-bottom:0px;
+		padding-top:0px;
+		text-align: left;
+	}
+	#snippetsummaries div.pure-u-md-2-3{
+		border-top: 3px solid #460000;
+	} 
+
+	#snippetsummaries div.pure-u-md-1-3{
+		background-color: #460000;
+	}
 }
 /* > 1024 */
 @media screen and (min-width: 64em){
@@ -532,17 +557,14 @@ code{
 }
 
 #mapsummaries img.thumbnail{
-	float: left;
-    maxwidth: 250px;
-    maxheight: 143
-    padding-right: 10px;
+/*     padding-right: 10px; */
+/*     margin: 3px; */
+/*     border: 1px solid white; */
 }
-#mapsummaries h3{
-	margin-top: 0px;
-}
+
 
 
 #mapsummaries > div > div{
-	height:150px;
+/* 	height:150px; */
 }
 

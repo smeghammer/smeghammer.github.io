@@ -15,25 +15,24 @@ let engine = {
                 {'linktext':'Tubeworm','url':'/maps/tubeworm.htm', 'parenturl':'/maps/', 'pagekey':'0.0.9', 'childs':[],visible:true}
             ]},
             {'linktext':'Snippets','url':'/snippets/', 'parenturl':'/', 'pagekey':'0.1', 'childs':[
-                {'linktext':'1 way glass',"repopath":"1wayglass",	"img":"6",		'url':'/snippets/1wayglass.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.0', 'childs':[],visible:true,"summary":""},
-//                {'linktext':'1 way glass',"repopath":"",		'url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.1', 'childs':[],visible:true,"summary":""},
-                {'linktext':'3D floor',"repopath":"3d_floor",	"img":"1",			'url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.2', 'childs':[],visible:true,"summary":""},
-                {'linktext':'ACS tests',"repopath":"ACS_TESTS",			'url':'/snippets/acs_tests.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.3', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Bridge',"repopath":"Bridge",		"img":"1",		'url':'/snippets/bridge.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.4', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Custom sound',"repopath":"custom_sound_test",			'url':'/snippets/custom_sound_test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.5', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Custom sprite',"repopath":"custom_sprite",	"img":"2",		'url':'/snippets/custom_sprite.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.6', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Flamer Baron',	"repopath":"flamerbaron",	"img":"3",		'url':'/snippets/flamerbaron.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.7', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Footsteps',"repopath":"footsteps",			'url':'/snippets/footsteps.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.8', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Increment test',"repopath":"increment-test",		'url':'/snippets/increment-test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.9', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Laddertest',"repopath":"laddertest",	"img":"1",			'url':'/snippets/laddertest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.26', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Nail test 1',"repopath":"nails1",	"img":"1",			'url':'/snippets/nailtest1.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.10', 'childs':[],visible:true,"summary":""},
-                {'linktext':'Nail test 2',"repopath":"nails2",	"img":"1",			'url':'/snippets/nailtest2.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.11', 'childs':[],visible:true,"summary":""},
-                {'linktext':'PK3 test',	"repopath":"pk3test",			'url':'/snippets/pk3test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.12', 'childs':[],visible:false,"summary":""},
-                {'linktext':'Portal horizon issue',"repopath":"portal%20horizon%20bug",	'url':'/snippets/portalhorizonbug.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.13', 'childs':[],visible:false,"summary":""},
-                {'linktext':'Portal tests',	"repopath":"portaltests",	"img":"1",		'url':'/snippets/portaltest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.14', 'childs':[],visible:false,"summary":""},
+                {'linktext':'1 way glass',"repopath":"1wayglass",	"img":"6",		'url':'/snippets/1wayglass.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.0', 'childs':[],visible:true,"summary":"A method to simulate one way translucent glass."},
+                {'linktext':'3D floor',"repopath":"3d_floor",	"img":"1",			'url':'/snippets/3dfloor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.2', 'childs':[],visible:true,"summary":"An early test of buildng a 3D floor"},
+                {'linktext':'ACS tests',"repopath":"ACS_TESTS",			'url':'/snippets/acs_tests.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.3', 'childs':[],visible:true,"summary":"An early ACS test that triggers sequential platform lowering."},
+                {'linktext':'Bridge',"repopath":"Bridge",		"img":"1",		'url':'/snippets/bridge.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.4', 'childs':[],visible:true,"summary":"A better 3D floor test of a simple bridge"},
+                {'linktext':'Custom sound',"repopath":"custom_sound_test",			'url':'/snippets/custom_sound_test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.5', 'childs':[],visible:true,"summary":"First test of SNDINFO and custom sounds"},
+                {'linktext':'Custom sprite',"repopath":"custom_sprite",	"img":"2",		'url':'/snippets/custom_sprite.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.6', 'childs':[],visible:true,"summary":"A custom sprite test."},
+                {'linktext':'Flamer Baron',	"repopath":"flamerbaron",	"img":"3",		'url':'/snippets/flamerbaron.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.7', 'childs':[],visible:true,"summary":"My first attempt of creating a new DECORATE monster."},
+                {'linktext':'Footsteps',"repopath":"footsteps",			'url':'/snippets/footsteps.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.8', 'childs':[],visible:true,"summary":"Tryng to simulate footsteps on different surfaces"},
+                {'linktext':'Increment test',"repopath":"increment-test",		'url':'/snippets/increment-test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.9', 'childs':[],visible:true,"summary":"More ACS tests, adding a count logic"},
+                {'linktext':'Laddertest',"repopath":"laddertest",	"img":"1",			'url':'/snippets/laddertest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.26', 'childs':[],visible:true,"summary":"One solution to a veretical ladder"},
+                {'linktext':'Nail test 1',"repopath":"nails1",	"img":"1",			'url':'/snippets/nailtest1.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.10', 'childs':[],visible:true,"summary":"ACS test of triggering a huge nail into flesh floor"},
+                {'linktext':'Nail test 2',"repopath":"nails2",	"img":"1",			'url':'/snippets/nailtest2.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.11', 'childs':[],visible:true,"summary":"A better ACS test of triggering a huge nail into flesh floor"},
+                {'linktext':'PK3 test',	"repopath":"pk3test",			'url':'/snippets/pk3test.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.12', 'childs':[],visible:false,"summary":"My first attempt at using PK3 namespacing rather than a flat .WWAD."},
+                {'linktext':'Portal horizon issue',"repopath":"portal%20horizon%20bug",	'url':'/snippets/portalhorizonbug.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.13', 'childs':[],visible:false,"summary":"Testing weird clippig bug with portals.	"},
+                {'linktext':'Portal tests',	"repopath":"portaltests",	"img":"1",		'url':'/snippets/portaltest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.14', 'childs':[],visible:true,"summary":"Example line and sector portal. "},
                 {'linktext':'Random bits',	"repopath":"random",		'url':'/snippets/random.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.15', 'childs':[],visible:false,"summary":""},
-                {'linktext':'Randomized teleport', "repopath":"randomised_teleport","img":"1",	 'url':'/snippets/rndtele.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.18', 'childs':[],visible:false,"summary":""},
-                {'linktext':'Remote kill',  "repopath":"remote_kill_test",        'url':'/snippets/rekill.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.16', 'childs':[],visible:false,"summary":""},
+                {'linktext':'Randomized teleport', "repopath":"randomised_teleport","img":"1",	 'url':'/snippets/rndtele.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.18', 'childs':[],visible:true,"summary":"ACS-scripted random teleport destinations"},
+                {'linktext':'Remote kill',  "repopath":"remote_kill_test",        'url':'/snippets/rekill.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.16', 'childs':[],visible:true,"summary":"An experiment with killing a monster on another map"},
                 {'linktext':'RFB!',    "repopath":"RFB",             'url':'/snippets/rfb.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.17', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Script test',	"repopath":"script_test",		'url':'/snippets/scripttest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.19', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Sky hack',		"repopath":"skyhack",		'url':'/snippets/skyhack.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.20', 'childs':[],visible:false,"summary":""},
@@ -85,7 +84,6 @@ let engine = {
         let ytvid = $('body').attr('data-ytvid');
         
         if(ytvid){
-            console.log('setting video width');
             this.resizeVid();
             //need size change callback:
             window.onresize = function(){
@@ -187,62 +185,71 @@ let engine = {
     	//  https://github.com/smeghammer/snippets/blob/master/3d_floor/screenshots/1.png
     	let defaultImage = "default.png";
     	for(let x=0;x<this.navdata[0].childs[1].childs.length;x++){
-    		let _path = this.repobase + "snippets/tree/master/" + this.navdata[0].childs[1].childs[x].repopath;
-    		let _summary = document.createElement('div');
-    		let _summarytext = document.createElement('p');
-    		let _summaryimg = document.createElement('div');
-    		let _title = document.createElement('h3');
-    		let _thb =  document.createElement('img');
-    		let _link = document.createElement('a');
-    		let _link2 = document.createElement('a');
     		
-    		_summary.setAttribute('class','pure-u-2-3');
-    		_summaryimg.setAttribute('class','pure-u-1-3');
+    		if(this.navdata[0].childs[1].childs[x].visible){
+
     		
-//    		//get repoindex:
-    		let _key = this.getRepoIndexByPagekey(this.navdata[0].childs[1].childs[x].pagekey);
-    		console.log(_key);
-    		console.log(_path);
-    		let _img = this.imagebase + "snippets/master/" +  defaultImage;
-    		if(this.navdata[0].childs[1].childs[x].img)
-    			_img = this.imagebase + "snippets/master/" + this.navdata[0].childs[1].childs[x].repopath + "/screenshots/"+ this.navdata[0].childs[1].childs[x].img+".png"
-    		console.log(_img);
-    		
-    		_thb.setAttribute('src',_img);
-    		_thb.setAttribute('class','thumbnail');
-//    		
-//    		_link.setAttribute('title',this.repolist[_key]['summary']);
-//    		_link.setAttribute('href',this.navdata[0].childs[0].childs[x].url);
-    		_link.appendChild(_thb);
-//    		
-//    		_link2.setAttribute('title',this.repolist[_key]['summary']);
-//    		_link2.setAttribute('href',this.navdata[0].childs[0].childs[x].url);
-//    		_link2.appendChild(document.createTextNode(this.repolist[_key]['nicename']));
-//    		
-//    		_summarytext.appendChild(document.createTextNode(this.repolist[_key]['summary']));
-    		_summaryimg.appendChild(_link);
-//    		_title.appendChild(_link2);
-//    		
-//    		_summary.appendChild(_title);
-//    		_summary.appendChild(_summarytext);
-//    		
-//    		
-//    		console.log(this.repolist[_key]);
-    		_wrapper.appendChild(_summaryimg);
-    		_wrapper.appendChild(_summary);
-    		
+	    		let _path = this.repobase + "snippets/tree/master/" + this.navdata[0].childs[1].childs[x].repopath;
+	    		let _summary = document.createElement('div');
+	    		let _summarytext = document.createElement('p');
+	    		let _summaryimg = document.createElement('div');
+	    		let _title = document.createElement('h3');
+	//    		_title.appendChild(document.createTextNode(this.navdata[0].childs[1].childs[x].linktext));
+	    		let _thb =  document.createElement('img');
+	    		let _link = document.createElement('a');
+	    		let _link2 = document.createElement('a');
+	    		
+	    		_summary.setAttribute('class','pure-u-1  pure-u-md-2-3');
+	    		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
+	    		
+	//    		//get repoindex:
+	    		let _key = this.getRepoIndexByPagekey(this.navdata[0].childs[1].childs[x].pagekey);
+//	    		console.log(_key);
+//	    		console.log(_path);
+	    		let _img = null;
+	    		if(this.navdata[0].childs[1].childs[x].img)
+	    			_img = this.imagebase + "snippets/master/" + this.navdata[0].childs[1].childs[x].repopath + "/screenshots/"+ this.navdata[0].childs[1].childs[x].img+".png"
+	    		console.log(this.navdata[0].childs[1].childs[x]);
+	    		
+	    		
+			
+	    		_link.setAttribute('title',this.navdata[0].childs[1].childs[x]['summary']);
+	    		_link.setAttribute('href',this.navdata[0].childs[1].childs[x].url);
+	    		
+	    		if(_img){
+		    		_thb.setAttribute('src',_img);
+		    		_thb.setAttribute('class','thumbnail');
+		    		_link.appendChild(_thb);
+	    		}
+	//    		
+	    		_link2.setAttribute('title',this.navdata[0].childs[1].childs[x]['summary']);
+	    		_link2.setAttribute('href',this.navdata[0].childs[1].childs[x].url);
+	    		_link2.appendChild(document.createTextNode(this.navdata[0].childs[1].childs[x].linktext));
+	//    		
+	    		_summarytext.appendChild(document.createTextNode(this.navdata[0].childs[1].childs[x].summary));
+	    		_summaryimg.appendChild(_link);
+	    		_title.appendChild(_link2);
+	//    		
+	    		_summary.appendChild(_title);
+	    		_summary.appendChild(_summarytext);
+	//    		
+	//    		
+	//    		console.log(this.repolist[_key]);
+	    		
+	    		_wrapper.appendChild(_summary);
+	    		_wrapper.appendChild(_summaryimg);
+    		}
     	}
     	return(_wrapper);
     },
     
     /* 
-     * render thumbs and summaries for maps */
+     * render thumbs and summaries for maps 
+     * */
     buildMapSummaries : function(){
     	let _wrapper = document.createElement('div');
     	_wrapper.setAttribute('class','pure-g');
-    	//for(let x=0;x<this.repolist.length;x++){
     	for(let x=0;x<this.navdata[0].childs[0].childs.length;x++){
-    		//console.log(this.navdata[0].childs[0].childs[x].pagekey);
     		let _summary = document.createElement('div');
     		let _summarytext = document.createElement('p');
     		let _summaryimg = document.createElement('div');
@@ -251,12 +258,11 @@ let engine = {
     		let _link = document.createElement('a');
     		let _link2 = document.createElement('a');
     		
-    		_summary.setAttribute('class','pure-u-2-3');
-    		_summaryimg.setAttribute('class','pure-u-1-3');
+    		_summary.setAttribute('class','pure-u-1  pure-u-md-2-3');
+    		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
     		
     		//get repoindex:
     		let _key = this.getRepoIndexByPagekey(this.navdata[0].childs[0].childs[x].pagekey);
-    		console.log(this.navdata[0].childs[0].childs[x]);
     		
     		_thb.setAttribute('src',this.buildImageUrl(this.repolist[_key].repo,this.repolist[_key].branch,2));
     		_thb.setAttribute('class','thumbnail');
@@ -276,11 +282,8 @@ let engine = {
     		_summary.appendChild(_title);
     		_summary.appendChild(_summarytext);
     		
-    		
-    		console.log(this.repolist[_key]);
-    		_wrapper.appendChild(_summaryimg);
     		_wrapper.appendChild(_summary);
-    		
+    		_wrapper.appendChild(_summaryimg);
     	}
     	return(_wrapper);
     },
@@ -630,22 +633,9 @@ let engine = {
     /**
      * build top horizontal menu from l0 (index) and l1. Ensure that l1 is highlighted if in a child of that entry.
      * set data-page to key to object (self/parent IDs?)
-     * 
-<ul class="pure-menu-list">
-    <li class="pure-menu-item hilight">
-        <span>Home</span>
-    </li>
-    <li class="pure-menu-item">
-        <a href="maps.htm" title="Maps">Maps &amp; WADs</a>
-    </li>
-    <li class="pure-menu-item">
-        <a href="test-maps.htm" title="Snippets">Snippets</a>
-    </li>
-</ul>
-     * 
      * */
     buildNav : function(main){
-        
+        console.log('build nav');
         let navWrapper = document.createElement('ul');
         navWrapper.setAttribute('class','pure-menu-list'); 
         let _currpagekey = $('body').attr('data-pagekey');
@@ -675,9 +665,6 @@ let engine = {
                 }
             }
         }
-        /* and work out the breadcrumb */
-        
-        
         return(navWrapper);
     },
     
@@ -727,7 +714,6 @@ let engine = {
     },
     
     populatePageData : function(pagedata){
-        console.log(pagedata);
         path = null;
         let _path = pagedata.pagekey.split(/\./g);
         path = _path;
@@ -744,8 +730,7 @@ let engine = {
                     console.log('h2.static');
                 }
                 else{
-                    console.log('h2');
-                    $('h2').empty().append(this.navdata[0].childs[a].linktext);
+                    $('h2').empty().append(this.navdata[0].childs[a].linktext + " - " +  pagedata.linktext);
                 }
             }
         }

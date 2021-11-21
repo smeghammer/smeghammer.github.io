@@ -88,7 +88,7 @@ return whether player is in marked sector
 */
 function str isInFootstepSector(void){
     if(getActorVelX(0) || getActorVelY(0) || getActorVelZ(0)){
-        for(int a=0; a<footstepTypesCount; a++){
+        for(int a=0; a < footstepTypesCount; a++){
             if(ThingCountSector (T_NONE, 1000, footstepTypesDef[a][0])){
                 return(footstepTypesDef[a][1]);
             }
