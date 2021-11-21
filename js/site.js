@@ -114,21 +114,28 @@ let engine = {
             case "r667":
                 this.buildR667Browser();
             break;
+            
             case "map":
                 let imageContainer = $('div.contents > div:nth-of-type(2)');
                 imageContainer.empty();
-                //render images for specified map:
+                //render title, notes and images for specified map:
                 for (let a=0;a<this.repolist.length;a++){
                     if(this.repolist[a]['pagekey'] === pagekey){
                         /* build download link */
                         console.log(this.repolist[a]);
+                        let _dlh2 = document.createElement('h2');
+                        _dlh2.appendChild(document.createTextNode("Maps & Wads - " + this.repolist[a].nicename));
                         let _dlh3 = document.createElement('h3');
+                        let _txt = document.createElement('p');
+                        _txt.appendChild(document.createTextNode(this.repolist[a].summary));
                         let _dl = document.createElement('a');
                         _dl.setAttribute('href',this.repolist[a].download);
                         _dl.setAttribute('title',this.repolist[a].nicename);
-                        _dl.appendChild(document.createTextNode('Download ' + this.repolist[a].nicename));
+                        _dl.appendChild(document.createTextNode('Download'));
                         _dlh3.appendChild(_dl);
+                        imageContainer.append(_dlh2);
                         imageContainer.append(_dlh3);
+                        imageContainer.append(_txt);
                         /* render images: */
                         for(let b=0;b<this.repolist[a].imagecount;b++){
                             imageContainer.append(this.getImageDOM(this.buildImageUrl(this.repolist[a].repo,this.repolist[a].branch,b+1),this.repolist[a]));
@@ -140,8 +147,11 @@ let engine = {
             
             case "snippets":
             	$('#snippetsummaries').empty().append(this.buildSnippetSummaries());
+            	break;
+            
+            case "snippet":
             	
-            break;
+            	break;
         }
         /* build navigation */
         $('#menubar').empty().append(this.buildNav(true));
@@ -730,7 +740,11 @@ let engine = {
                     console.log('h2.static');
                 }
                 else{
-                    $('h2').empty().append(this.navdata[0].childs[a].linktext + " - " +  pagedata.linktext);
+                	let _h2 = this.navdata[0].childs[a].linktext;
+                    if(_path.length>2){
+                    	_h2 += " - " +  pagedata.linktext
+                    }
+                    $('h2').empty().append(_h2);
                 }
             }
         }
