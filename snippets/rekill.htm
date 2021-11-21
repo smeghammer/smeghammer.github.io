@@ -10,7 +10,7 @@
         Smeghammer's Doom
         </title>
     </head>
-    <body class="home" data-page="snippets" data-pagekey="0.1.16">
+    <body class="home" data-page="snippet" data-pagekey="0.1.16">
         <div class="pure-g">
             <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
             <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-5-6">
@@ -148,7 +148,7 @@ int killsize = 3;
 
 script 1 ENTER{
 	//debug
-	for(int a=0;a<killsize;a++){
+	for(int a=0;a < killsize;a++){
 		/* what do I have in my kill array? - it *should* be the imps killed on MAP31 if so visited...: */
 		log(i:lookupDeadThings[0]);
 	}
@@ -166,7 +166,6 @@ function void killSecretThings(void){
 		if(lookupDeadThings[a]> 0){
 			Thing_Destroy(lookupDeadThings[a],0,0);
 		}
-		
 	}
 }
             </pre>
