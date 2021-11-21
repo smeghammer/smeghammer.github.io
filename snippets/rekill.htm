@@ -81,7 +81,7 @@ script 1 ENTER{
 		/*
 		check each imp is alive. If not, set up array of TIDs to kill imps in MAP18:
 		*/
-		for(int a=0;a<count; a++){
+		for(int a=0;a < count; a++){
 			/*
 			If we have an imp in THIS map that matches a TID in the thingsToKill array, that is still
 			alive, add this TID to the global array:
@@ -100,7 +100,7 @@ script 1 ENTER{
 		/*
 		see if there are still alive imps. If not, break out of the loop:
 		*/
-		for(int b=0;b<count;b++){
+		for(int b=0;b < count;b++){
 			if(aliveThings[b]){
 				exitLoop = false;
 			}
@@ -116,14 +116,14 @@ script 1 ENTER{
 	}
 	/*debug:*/
 	log(s:"All dead Dave.");
-	for(int d=0;d<count;d++){
+	for(int d=0;d < count;d++){
 		log(i:aliveThings[d]);
 	}
-	for(int c=0;c<count;c++){
+	for(int c=0; c < count;c++){
 		log(i:lookupDeadThings[c]);
 	}
 }
-            </pre>
+</pre>
             <h3>Later level</h3>
             <p>
             When we enter a later map, we check whether the global array of things to kill is populated. If so, kill things in THIS map with same TID on enter. 
