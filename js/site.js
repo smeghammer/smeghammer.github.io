@@ -33,7 +33,7 @@ let engine = {
                 {'linktext':'Random bits',	"repopath":"random",		'url':'/snippets/random.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.15', 'childs':[],visible:false,"summary":"Various map bits."},
                 {'linktext':'Randomized teleport', "repopath":"randomised_teleport","img":"1",	 'url':'/snippets/rndtele.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.18', 'childs':[],visible:true,"summary":"ACS-scripted random teleport destinations"},
                 {'linktext':'Remote kill',  "repopath":"remote_kill_test",        'url':'/snippets/rekill.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.16', 'childs':[],visible:true,"summary":"An experiment with killing monsters on another map. Uses some ACS logic and global variables."},
-                {'linktext':'RFB!',    "repopath":"RFB",             'url':'/snippets/rfb.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.17', 'childs':[],visible:true,"summary":"A very silly map that will trap you and kill you. Doesn't really do anythng, just kept it in because its silly."},
+                {'linktext':'RFB!',    "repopath":"RFB",   "img":"1",          'url':'/snippets/rfb.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.17', 'childs':[],visible:true,"summary":"A very silly map that will trap you and kill you. Doesn't really do anythng, just kept it in because its silly."},
                 {'linktext':'Script test',	"repopath":"script_test",		'url':'/snippets/scripttest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.19', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Sky hack',		"repopath":"skyhack",		'url':'/snippets/skyhack.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.20', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Spawn test',	"repopath":"spawntests",		'url':'/snippets/spawntest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.21', 'childs':[],visible:false,"summary":""},
@@ -50,7 +50,8 @@ let engine = {
                 {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true},
                 {'linktext':"Doom fonts",'url':'/links/doomfonts.htm', 'parenturl':'/links/', 'pagekey':'0.2.2', 'childs':[],visible:true}
             ]},
-            {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.3', 'childs':[]}
+            {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.3', 'childs':[]},
+            {'linktext':'DW REST API browser','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]}
         ]},
     ],   //TODO
     
