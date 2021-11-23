@@ -51,7 +51,7 @@ let engine = {
                 {'linktext':"Doom fonts",'url':'/links/doomfonts.htm', 'parenturl':'/links/', 'pagekey':'0.2.2', 'childs':[],visible:true}
             ]},
             {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.3', 'childs':[]},
-            {'linktext':'DW REST API browser','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]}
+            {'linktext':'IDGames downloads','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]}
         ]},
     ],   //TODO
     
