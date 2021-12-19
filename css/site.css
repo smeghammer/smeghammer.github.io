@@ -528,6 +528,10 @@ body.repo .ui-widget-content{
     font-weight: bold;
     padding-right:10px;
 }
+#menubar > ul > li.pure-menu-item.hilight > a{
+	color: #c00000;
+	text-decoration: underline;
+}
 li.hilight {
     font-weight: bold;
 }
