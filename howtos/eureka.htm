@@ -1,0 +1,284 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+        <link rel="stylesheet" href="/css/site.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/gif" href="/images/favicon.gif">
+        <title>
+        Smeghammer's Doom - Eureka: custom things
+        </title>
+    </head>
+    <body class="content" data-page="howto" data-pagekey="0.5.0">
+        <div class="pure-g">
+            <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
+            <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-5-6">
+                <h1 class="centre"></h1>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
+        </div>	
+
+        <!-- top menu -->
+        <div class="pure-g">
+            <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-2-24"></div>
+            <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-20-24 menubar">
+                <div id="menubar" class="pure-menu pure-menu-horizontal centre">
+                    <!-- inject menu -->
+                </div>
+                <div id="subnav">
+                    <!-- inject subnav here -->
+                </div>
+            </div>
+            <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-2-24"></div>		
+        </div>
+
+        <!-- content #1 -->
+        <div class="pure-g contents">
+            <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8"></div>
+            <div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                <h2></h2>
+                
+                <p>I wanted to share how to use custom Things in the Eureka Doom editor. It took me quite a few attempts to get figure this out as it is definitely not a case of drag and drop or browse/include a resource 
+                directory... The aim is to include a new custom monster into your project such that it correctly appears in the Things browser, in the 2D and 3D preview and in the corresponding Thing properties, and is 
+                correctly <b>usable</b>. Note that I am going to describe the process 
+for including in an <b>expanded PK3 project.</b> </p>
+<p>There are a few actions we need to take to do this.</p>
+                <ul class="bulleted">
+                	<li>Extract the Thing's components from the resource WAD</li>
+                	<li>Namespace the components in expanded PK3 directory structure</li>
+                	<li>Add DECORATE import file to root</li>
+                	<li>Create resource WAD with example sprite</li>
+                	<li>Link everything togeher with Eureka custom thing config file</li>
+                </ul>
+<p> It is a bit more envolved than adding custom Things to UDB, but once it is set up, it is easy to extend. I will use the 
+<a href="https://github.com/smeghammer/r667_mirror/raw/master/d/DarkCardinal.zip" title="Dark Cardinal">Dark Cardinal</a> as it's cool.</p>
+                
+                <!-- Step 1 -->
+                <h3>Extract the Thing's components from WAD</h3>
+                <p>Download to a suitable location, unzip and open the WAD in Slade3:</p>
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/1.png" alt="WAD loaded in Slade3" />
+                   	</div>
+                </div>
+                <p>The main thing to note here is the DECORATE lump defining behaviour. The other lumps are graphics that represent the frames of the sprite animation.
+Other custom monsters may also include sound, brightmaps, ACS (compiled and source) and other lumps as well.</p>
+                
+                <!-- Step 2 -->
+                <h3>Namespace the components in expanded PK3 directory structure</h3>
+                <p>The full namespace list for the .pk3 archive format is specified in the <a href="https://zdoom.org/wiki/Using_ZIPs_as_WAD_replacement" title="PK3 archive format">ZDoom WIKI</a>. For the
+                Dark Cardinal, we will only need the exploded sub-directories for /actors, /maps and /sprites, so create a directory hierarchy like so:</p>
+                
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/2.png" alt="File structure for exploded PK3 structure" />
+                	</div>
+                </div>
+                
+                <p>Create subdirectories </p>
+                <pre>/actors<br />/maps<br />/sprites</pre>
+                <p> inside the <span class='code'>/src</span> directory - we will place the extracted lumps and a test map in these directories.
+                <span class="italic">Note that I will describe a </span><a href='#' title='PK3 project setup'>PK3 project setup</a><span> elsewhere.</span></p>
+                
+                
+                <!-- Step 3 -->
+                <h3>Extract <span class='code'>DECORATE</span> lump</h3>
+                
+                <p>In Slade3, highlight the DECORATE lump</p>
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/3.png" alt="DECORATE lump in Slade3" />   
+                	</div>
+                </div>            
+                <p>And right-click on this entry:</p>
+                
+                 <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                 		<img src="/images/howto-eureka/4.png" alt="Right-click menu for lump entry in Slade3" />
+                	 </div>
+                </div>    
+                 
+                 
+                 <p>And select the <span class='code'>export</span> option from the menu. In the resulting 'save-as' dialog, browse to 
+                 the <span class='code'>/src/actors/</span> directory of your empty PK3 structure and save it there. 
+Note the code at the top of the DECORATE file:</p>
+                 <pre>
+ACTOR Cardinal 3120
+{ 
+   Health 4500
+   Speed 6
+   Radius 24
+   ...
+                 </pre>
+                 <p>and in particular the <a href="https://zdoom.org/wiki/Editor_number" target="_blank" alt="DoomEd editor number on ZDoom wiki">editor number</a> - in this case 3120. This is important, and you may find that some actor DECORATE 
+                 code does not have one, and in such cases , a unique (to your project) number must be added.</p>
+                 
+                 <!-- Step 4 -->
+                 <h3>Extract sprite lumps</h3>
+                 <p>Do a similar process for the remaining graphic lumps, and export them from Slade3 into the <span class='code'>/src/sprites/</span> directory.
+You should end up with all the graphics lumps and the DECORATE lump in the corresponding namespaces in your exploded directory structure. If you plan to use many custom sprites, 
+                I suggest adding sub-directories to each namespace for each custom monster, and this is what I have done here. </p>
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/5.png" alt="DECORATE and sprites in exploded directories." />   
+                	</div>
+                </div>
+                
+                <!-- Step 5 -->
+                <h3>Add DECORATE import file to root</h3>
+                <p>The DECORATE file(s) in the <span class='code'>/actors</span> namespace are not read directly by the sourceport - mainly because they may be found in any subdirectory within this namespace or may
+                not actually be called 'DECORATE.*'. Therefore, we must place a special DECORATE file (<span class='italic'>it <span class='bold'>must be called 'DECORATE.txt', or simply 'DECORATE'</span>) that specifies
+                the file(s) inside the /actors namespace to import as custom monster definitions.
+                Create a file in the root of the /src directory like so:
+                </p>
+                <pre>
+#include "Actors/dcardinal/DECORATE.txt"
+                </pre>
+                <p>
+                Note the include path matches the location that we saved the Dark Cardinal decorate code.
+                </p>
+                
+                <!-- Step 6 -->
+                <h3>Create a test map</h3>
+                <p>We now have enough info to make a basic working map inside our PK3 directory structure. So, in Eureka editor, go ahead and create a new project and specify the map location as the /maps subdirectory of 
+                the /src directory. Make sure you use a wad filename of 'map01.wad', and IWAD=Doom2, Source=ZDoom and map type=Hexen as the project settings. Leave the default square room with player starts as it is. 
+                <i>Note that the map WAD name can be anything, but that would require a</i><a href='https://zdoom.org/wiki/MAPINFO' title='MAPINFO on zdoom.org' target='_blank'>MAPINFO</a><i> to map map slot with map 
+                name. In this case, 'map01.wad' is recognised by GZDoom without a MAPINFO.</i></p><p>Now, we can add a new Thing - say a health bonus, like so:</p>
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/6.png" alt="New map with added health bonus" />   
+                	</div>
+                </div>
+                <p>Note the 'Type' in the top right corner? This is the editor number of the current Thing.
+If we simply replace this with the editor number for the Dark Cardinal we got from the DECORATE code (3120), the PK3 should technically work now, though Eureka does not know how to display an unknown 
+Thing in the interface at the moment:</p>
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/7.png" alt="Dark Cardinal custom thing unknown in the UI" />   
+                	</div>
+                </div>
+<p>You can test the map by loading the /src directory into GZDoom - you should see the Dark Cardinal...The final two steps are to set up Eureka to know about the custom Thing and to nicely display the 
+custom Thing sprite so you can use it as you would one of the default Doom2 Things.</p>
+                
+                
+                <!-- Step 7 -->
+                <h3>Tell Eureka about the custom thing</h3>
+                <p>Eureka makes extensive use of configuration files both internally and for customisation. These are text files that have the file extension of <span class="code">.ugh</span>.
+                This is where the <span class="code">/resources</span> directory comes in. We need to give the Eureka project some information that will allow it to locate the custom Thing and display its metadata
+                in the Eureka editor interface. We do this with a custom config file. This is simply a text file that contains information about what it is.
+<br />Create a file called 'custom_things.ugh' and add the following text:</p>
+                <pre>
+#
+#	Definition of thing groups
+#	Format is : thinggroup <letter> <colour> <description>
+#
+#   Custom
+thinggroup q 66C "Custom monsters"
+#
+#	Definition of things
+#	Format is : thing <number> <group> <flags> <radius> <sprite> <desc>
+#
+#	<sprite> should be NULL for things without any sprite
+#
+# <flags> can contain these letters:
+#    i  :  invisible
+#    c  :  on ceiling
+#    l  :  lit up
+#    n  :  non-blocking
+#    v  :  can exist in void-space
+#    t  :  teleport dest (can overlap certain things)
+#
+thing 3120  q - 30 NULL   "Dark Cardinal"
+#
+</pre>
+<p>
+This is mostly comment and instructions, which I have left in place from the original files I used as reference. The key thing is the last line defining the new custom Thing in a format that
+Eureka understands. Note the NULL entry for the sprite. We don't yet know what value this entry should be, so substituting for NULL for now is sufficient.
+Once we have this defined, we need to tell the Eureka project about it so we can use it.</p>
+<p>Select 'File/Manage Project':</p>     
+                    <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/8.png" alt="Manage Project" />   
+                	</div>
+                </div>         
+
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/9.png" alt="Manage Project" />   
+                	</div>
+                </div> 
+                <p>Click the first 'Load' button and browse for the 'custom_things.ugh' file we created in the previous step above: </p>  
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/10.png" alt="Manage Project" />   
+                	</div>
+                </div>  
+                <p>
+                And click 'Use'. Refresh or restart Eureka, and you will see the the question mark icon change to a green triangle, and the properties form will show the defined name. 
+                </p>
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/11.png" alt="Manage Project" />   
+                	</div>
+                </div> 
+                <p>
+                However, the Thing browser does not contain a new icon for the new Thing - even a generic one - so we cannot yet actually <i>use</i> it! This is all tied together with the final steps... 
+                </p>
+                
+                <!-- Step 8 -->
+                <h3>Create resource WAD with example sprite</h3>
+                <p>
+                In order to properly display and use this custom sprite in the editor, we need to create a WAD that contains an appropriate sprite frame image and update the custom_thngs.ugh to include this 
+                additional information.
+                </p>
+                <p>
+                Now we can <a href="#" title="Create a new WAD from scratch (TODO)">create a new resource WAD</a> in Slade3 and add a suitable sprite frame image between sprite markers. Copy the sprite name!
+                Save this WAD to the /resources directory of the project.</p>
+                 <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/12.png" alt="Create resource WAD" />   
+                	</div>
+                </div>
+
+                <p>
+                Finally! we can include this new resource. Update the custom_things.ugh file to include the sprite name we used in the resource WAD, and additionally include the WAD with the sprite as another 
+                Project resource:
+                </p>
+                <p>
+                Add the resource WAD i the same way as for the .ugh file:
+                </p>
+                <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-1-2   pure-u-lg-1-2">
+                		<img src="/images/howto-eureka/14.png" alt="Include resource WAD in Project" />   
+                	</div>
+                </div>
+                <p>
+                And on refreshing Eureka, you should see the new Thing fully integrated into the project:
+                </p>
+				 <div class="pure-g">
+                	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
+                		<img src="/images/howto-eureka/15.png" alt="Include resource WAD in Project" />   
+                	</div>
+                </div>
+                
+                
+                
+                
+                
+                <div id="content">
+                
+                </div>
+            </div>
+
+            
+            <div class="pure-u-1 pure-u-md-1-12 pure-u-lg-1-8"></div>
+        </div>
+
+
+            <!-- inject footer -->
+            <div id="footer"></div>
+        <script type="text/javascript" src="/js/jquery.js"></script>
+        <script type="text/javascript" src="/js/site.js"></script>
+    </body>
+</html>

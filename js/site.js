@@ -1,7 +1,7 @@
 let engine = {
     navdata : [
         {'linktext':'Home','url':'/', 'parenturl':null, 'pagekey':'0', 'childs':[
-            {'linktext':'Maps & WADs','url':'/maps/', 'parenturl':'/', 'pagekey':'0.0', 'childs':[
+           {'linktext':'My WADs','url':'/maps/', 'parenturl':'/', 'pagekey':'0.0', 'childs':[
                 {'linktext':'A Nail in the Skin of the World','url':'/maps/anitsotw.htm', 'parenturl':'/maps/', 'pagekey':'0.0.0', 'childs':[],visible:true},
                 {'linktext':'Belial\'s Ruin','url':'/maps/belials-ruin.htm', 'parenturl':'/maps/', 'pagekey':'0.0.1', 'childs':[],visible:true},
                 {'linktext':'Cardinal Sin','url':'/maps/cardinal-sin.htm', 'parenturl':'/maps/', 'pagekey':'0.0.2', 'childs':[],visible:true},
@@ -41,19 +41,21 @@ let engine = {
                 {'linktext':'Switch test',	"repopath":"switch",		'url':'/snippets/switchtest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.23', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Teleportal',	"repopath":"teleportal",		'url':'/snippets/teleportal.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.24', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/turrettest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.25', 'childs':[],visible:false,"summary":""},
-                
                 {'linktext':'Teleport test',	"repopath":"teletest",		'url':'/snippets/xx.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.26', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""}
-            ]},  
-            {'linktext':'Useful Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
+            ]},
+            {'linktext':'Howtos','url':'/howtos/', 'parenturl':'/', 'pagekey':'0.5', 'childs':[
+            	{'linktext':'Eureka: custom things',	"img":"1",		'url':'/howtos/eureka.htm', 'parenturl':'/howtos/', 'pagekey':'0.5.0', 'childs':[],visible:true,"summary":"How to set up Eureka editor to use custom things and display them correctly in the editor environment."}
+            ]},
+            {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[]},
+            {'linktext':'IDGames','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]},  
+            {'linktext':'Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
                 {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true},
                 {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true},
                 {'linktext':"Doom fonts",'url':'/links/doomfonts.htm', 'parenturl':'/links/', 'pagekey':'0.2.2', 'childs':[],visible:true}
-            ]},
-            {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.3', 'childs':[]},
-            {'linktext':'IDGames downloads','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]}
+            ]}
         ]},
-    ],   //TODO
+    ],
     
     topnavWrapper : null,
     
@@ -153,6 +155,10 @@ let engine = {
             case "snippet":
             	
             	break;
+            	
+            case "howtos":
+            	$('#howtosummaries').empty().append(this.buildHowtoSummaries());
+            	break;
         }
         /* build navigation */
         $('#menubar').empty().append(this.buildNav(true));
@@ -163,49 +169,108 @@ let engine = {
     },
     
     resizeVid : function(){
-//body > div.pure-g.contents > div.pure-u-1.pure-u-md-5-6.pure-u-lg-3-4
-                console.log();
-                //first, work out the ratio:
-                let _iframe = $('div.contents > div:nth-of-type(2) iframe');
-                let _initW = _iframe.attr('width');
-                let _initH = _iframe.attr('height');
-                let _ratio = _initH / _initW;
-                
-                
-                let iframe_width = $('div.contents > div:nth-of-type(2)').width();
-                let iframe_height = iframe_width * _ratio;
-                console.log(iframe_width);
-                
-                _iframe.removeAttr('width');
-                _iframe.removeAttr('height');
-                _iframe.attr({'width':iframe_width,'height':iframe_height});
-//                _iframe.attr('height');
+        //first, work out the ratio:
+        let _iframe = $('div.contents > div:nth-of-type(2) iframe');
+        let _initW = _iframe.attr('width');
+        let _initH = _iframe.attr('height');
+        let _ratio = _initH / _initW;
+        
+        
+        let iframe_width = $('div.contents > div:nth-of-type(2)').width();
+        let iframe_height = iframe_width * _ratio;
+        console.log(iframe_width);
+        
+        _iframe.removeAttr('width');
+        _iframe.removeAttr('height');
+        _iframe.attr({'width':iframe_width,'height':iframe_height});
     },
     
     getSnippetDataByKey : function(){
-//    	for(let a=0;a<this.)
     	return(null);
     },
     
-    /* 
-     * render thumbs and summaries for maps */
-    buildSnippetSummaries : function(){
+    getPageKey : function(){
+    	return($('body').attr('data-pagekey'));
+    },
+    
+    buildHowtoSummaries : function(){
+    	console.log('building howto summaries:');
     	let _wrapper = document.createElement('div');
     	_wrapper.setAttribute('class','pure-g');
-    	//for(let x=0;x<this.repolist.length;x++){
     	//  https://github.com/smeghammer/snippets/blob/master/3d_floor/screenshots/1.png
     	let defaultImage = "default.png";
-    	for(let x=0;x<this.navdata[0].childs[1].childs.length;x++){
-    		
-    		if(this.navdata[0].childs[1].childs[x].visible){
-
-    		
-	    		let _path = this.repobase + "snippets/tree/master/" + this.navdata[0].childs[1].childs[x].repopath;
+    	/* get the correct sub-section: */
+//    	let _currpagekey = this.getPageKey();
+//    	console.log(_currpagekey);
+    	let section = this.getNavSectionByPagekey(this.getPageKey());
+//    	console.log(_currpagekey);
+    	console.log(section);
+    	
+    	for(let x=0;x<section.childs.length;x++){
+    		console.log(section.childs[x]);
+    		if(section.childs[x].visible){
+    			let _path = this.repobase + "snippets/tree/master/" + section.childs[x].repopath;
+	    		let _summary = document.createElement('div');
+	    		let _summarytext = document.createElement('p');
+//	    		let _summaryimg = document.createElement('div');
+	    		let _title = document.createElement('h3');
+//	    		let _thb =  document.createElement('img');
+	    		let _link = document.createElement('a');
+	    		let _link2 = document.createElement('a');
+	    		
+	    		_summary.setAttribute('class','pure-u-1  pure-u-md-2-3');
+//	    		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
+	    		
+	//    		//get repoindex:
+	    		let _key = this.getRepoIndexByPagekey(section.childs[x].pagekey);
+//	    		let _img = null;
+//	    		if(section.childs[x].img)
+//	    			_img = this.imagebase + "snippets/master/" + section.childs[x].repopath + "/screenshots/"+ section.childs[x].img+".png";
+			
+	    		_link.setAttribute('title',section.childs[x]['summary']);
+	    		_link.setAttribute('href',section.childs[x].url);
+	    		
+//	    		if(_img){
+//		    		_thb.setAttribute('src',_img);
+//		    		_thb.setAttribute('class','thumbnail');
+//		    		_link.appendChild(_thb);
+//	    		}
+	    		_link2.setAttribute('title',section.childs[x]['summary']);
+	    		_link2.setAttribute('href',section.childs[x].url);
+	    		_link2.appendChild(document.createTextNode(section.childs[x].linktext));
+	    		_summarytext.appendChild(document.createTextNode(section.childs[x].summary));
+//	    		_summaryimg.appendChild(_link);
+	    		_title.appendChild(_link2);
+	    		_summary.appendChild(_title);
+	    		_summary.appendChild(_summarytext);
+	    		_wrapper.appendChild(_summary);
+//	    		_wrapper.appendChild(_summaryimg);
+    		}
+    	}
+    	return(_wrapper);
+    	
+    },
+    
+    /** render thumbs and summaries for maps */
+    buildSnippetSummaries : function(){
+    	console.log('building summaries:')
+    	let _wrapper = document.createElement('div');
+    	_wrapper.setAttribute('class','pure-g');
+    	//  https://github.com/smeghammer/snippets/blob/master/3d_floor/screenshots/1.png
+    	let defaultImage = "default.png";
+    	/* get the correct sub-section: */
+    	let _currpagekey = this.getPageKey();
+    	let section = this.getNavSectionByPagekey(_currpagekey);
+    	console.log(_currpagekey);
+    	console.log(section);
+    	
+    	for(let x=0;x<section.childs.length;x++){
+    		if(section.childs[x].visible){
+    			let _path = this.repobase + "snippets/tree/master/" + section.childs[x].repopath;
 	    		let _summary = document.createElement('div');
 	    		let _summarytext = document.createElement('p');
 	    		let _summaryimg = document.createElement('div');
 	    		let _title = document.createElement('h3');
-	//    		_title.appendChild(document.createTextNode(this.navdata[0].childs[1].childs[x].linktext));
 	    		let _thb =  document.createElement('img');
 	    		let _link = document.createElement('a');
 	    		let _link2 = document.createElement('a');
@@ -214,39 +279,27 @@ let engine = {
 	    		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
 	    		
 	//    		//get repoindex:
-	    		let _key = this.getRepoIndexByPagekey(this.navdata[0].childs[1].childs[x].pagekey);
-//	    		console.log(_key);
-//	    		console.log(_path);
+	    		let _key = this.getRepoIndexByPagekey(section.childs[x].pagekey);
 	    		let _img = null;
-	    		if(this.navdata[0].childs[1].childs[x].img)
-	    			_img = this.imagebase + "snippets/master/" + this.navdata[0].childs[1].childs[x].repopath + "/screenshots/"+ this.navdata[0].childs[1].childs[x].img+".png"
-	    		console.log(this.navdata[0].childs[1].childs[x]);
-	    		
-	    		
+	    		if(section.childs[x].img)
+	    			_img = this.imagebase + "snippets/master/" + section.childs[x].repopath + "/screenshots/"+ section.childs[x].img+".png";
 			
-	    		_link.setAttribute('title',this.navdata[0].childs[1].childs[x]['summary']);
-	    		_link.setAttribute('href',this.navdata[0].childs[1].childs[x].url);
+	    		_link.setAttribute('title',section.childs[x]['summary']);
+	    		_link.setAttribute('href',section.childs[x].url);
 	    		
 	    		if(_img){
 		    		_thb.setAttribute('src',_img);
 		    		_thb.setAttribute('class','thumbnail');
 		    		_link.appendChild(_thb);
 	    		}
-	//    		
-	    		_link2.setAttribute('title',this.navdata[0].childs[1].childs[x]['summary']);
-	    		_link2.setAttribute('href',this.navdata[0].childs[1].childs[x].url);
-	    		_link2.appendChild(document.createTextNode(this.navdata[0].childs[1].childs[x].linktext));
-	//    		
-	    		_summarytext.appendChild(document.createTextNode(this.navdata[0].childs[1].childs[x].summary));
+	    		_link2.setAttribute('title',section.childs[x]['summary']);
+	    		_link2.setAttribute('href',section.childs[x].url);
+	    		_link2.appendChild(document.createTextNode(section.childs[x].linktext));
+	    		_summarytext.appendChild(document.createTextNode(section.childs[x].summary));
 	    		_summaryimg.appendChild(_link);
 	    		_title.appendChild(_link2);
-	//    		
 	    		_summary.appendChild(_title);
 	    		_summary.appendChild(_summarytext);
-	//    		
-	//    		
-	//    		console.log(this.repolist[_key]);
-	    		
 	    		_wrapper.appendChild(_summary);
 	    		_wrapper.appendChild(_summaryimg);
     		}
@@ -260,7 +313,10 @@ let engine = {
     buildMapSummaries : function(){
     	let _wrapper = document.createElement('div');
     	_wrapper.setAttribute('class','pure-g');
-    	for(let x=0;x<this.navdata[0].childs[0].childs.length;x++){
+    	this.getPageKey()
+    	let section = this.getNavSectionByPagekey(this.getPageKey());
+  	
+    	for(let x=0;x<section.childs.length;x++){
     		let _summary = document.createElement('div');
     		let _summarytext = document.createElement('p');
     		let _summaryimg = document.createElement('div');
@@ -273,17 +329,17 @@ let engine = {
     		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
     		
     		//get repoindex:
-    		let _key = this.getRepoIndexByPagekey(this.navdata[0].childs[0].childs[x].pagekey);
+    		let _key = this.getRepoIndexByPagekey(section.childs[x].pagekey);
     		
     		_thb.setAttribute('src',this.buildImageUrl(this.repolist[_key].repo,this.repolist[_key].branch,2));
     		_thb.setAttribute('class','thumbnail');
     		
     		_link.setAttribute('title',this.repolist[_key]['summary']);
-    		_link.setAttribute('href',this.navdata[0].childs[0].childs[x].url);
+    		_link.setAttribute('href',section.childs[x].url);
     		_link.appendChild(_thb);
     		
     		_link2.setAttribute('title',this.repolist[_key]['summary']);
-    		_link2.setAttribute('href',this.navdata[0].childs[0].childs[x].url);
+    		_link2.setAttribute('href',section.childs[x].url);
     		_link2.appendChild(document.createTextNode(this.repolist[_key]['nicename']));
     		
     		_summarytext.appendChild(document.createTextNode(this.repolist[_key]['summary']));
@@ -630,10 +686,10 @@ let engine = {
     *
      */
     buildImageUrl : function(reponame,branch,imagenum){
-    	console.log(this.imagebase);
-    	console.log(reponame);
-    	console.log(branch);
-    	console.log(imagenum);
+//    	console.log(this.imagebase);
+//    	console.log(reponame);
+//    	console.log(branch);
+//    	console.log(imagenum);
         return(this.imagebase + reponame + '/' + branch + '/screenshots/' + imagenum + '.png');
     },
     
@@ -649,10 +705,11 @@ let engine = {
         console.log('build nav');
         let navWrapper = document.createElement('ul');
         navWrapper.setAttribute('class','pure-menu-list'); 
-        let _currpagekey = $('body').attr('data-pagekey');
-        
+        let _currpagekey = this.getPageKey();
+        console.log(_currpagekey);
         /* primary navigation */
         if(main){
+        	console.log('main nav');
             /* pull out correct data from page index data attribute */
             let _home = this.buildLink(this.navdata[0])
             navWrapper.appendChild(_home);
@@ -664,19 +721,50 @@ let engine = {
         }
         /* second level navigation */
         else{
+        	console.log('L2 nav',_currpagekey);
             /* where are we? */
+        	let _navKey = _currpagekey;
             if(_currpagekey.split('.').length > 1){
-                let l2Index = parseInt(_currpagekey.split('.')[1]);
+            	let level = 2;
+            	console.log('generate L2 nav: ',_navKey);
+            	if(_currpagekey.split('.').length > 2){
+            		level = 3;
+            		_navKey = _currpagekey.split('.')[0]+"."+_currpagekey.split('.')[1];
+            	}
+            	
+            	/* now get the childs */
+            	let section = this.getNavSectionByPagekey(_navKey);
+            	console.log(section)
+//                let l2Index = parseInt(_currpagekey.split('.')[1]);
+//                console.log(l2Index);
 //                navWrapper.appendChild(document.createElement('h2')).appendChild(document.createTextNode('Subnav'));
-                for(let a=0;a<this.navdata[0].childs[l2Index].childs.length;a++){
-                    if(this.navdata[0].childs[l2Index].childs[a].visible){
-                         navWrapper.appendChild(this.buildLink(this.navdata[0].childs[l2Index].childs[a],false));
+                //console.log(this.navdata[0].childs[l2Index]);
+//                for(let a=0;a<this.navdata[0].childs[l2Index].childs.length;a++){
+//                    if(this.navdata[0].childs[l2Index].childs[a].visible){
+//                         navWrapper.appendChild(this.buildLink(this.navdata[0].childs[l2Index].childs[a],false));
+//                    }
+//                }
+                for(let a=0;a<section.childs.length;a++){
+                	console.log(section.childs[a]);
+                    if(section.childs[a].visible){
+                         navWrapper.appendChild(this.buildLink(section.childs[a],false));
                     }
-                   
                 }
             }
         }
         return(navWrapper);
+    },
+    
+    /** get current nav subsection */
+    getNavSectionByPagekey : function(pagekey){
+    	for(let a=0;a<this.navdata[0].childs.length;a++){
+    		console.log(this.navdata[0].childs[a].pagekey);
+    		if(this.navdata[0].childs[a].pagekey === pagekey){
+    			console.log(this.navdata[0].childs[a]);
+    			return(this.navdata[0].childs[a]);
+    		}
+    	}
+    	return(false);
     },
     
     /* Build a link inside a list item tag: */

@@ -77,6 +77,10 @@ h1 {
     margin-bottom: -10px;
 }
 
+p{
+	line-height: 1.6em;
+}
+
 /* styles for r667 repo navigation */
 div.toplevelitems{
     text-transform: uppercase;
@@ -258,21 +262,21 @@ h2 {
 	color: #c00000;
 	font-size: 1.4em;
 	margin-top: 50px;
-	/*text-decoration: underline;*/
+	font-style: italic;
 }
 
 
 h3 {
-	color: #c0c0c0;
+	color: #c00000;
 	font-size: 1.0em;
 	margin-top: 30px;
-	text-decoration: underline;
+	font-style: italic;
 }
 h4{
-	color: #c0c0c0;
+	color: #c00000;
 	font-size: 0.9em;
 	margin-top: 30px;
-/* 	text-decoration: underline; */
+	text-decoration: italic;
 }
 
 h4.screenshots:hover{
@@ -302,6 +306,12 @@ ul.links > li > span {
 .thumbs p{
     width: 600px;
 }
+
+.contents ul > li{
+	color: white;
+	font-style: italic;
+}
+
 
 /* 
 fucking irrationinal box model! If you have A4 paper, and want a margin when you print, adding a margin to your doc DOES NOT ALTER THE FUCKING PAGE SIZE!!!
@@ -350,6 +360,14 @@ div.contents pre {
 div.contents ul > li {
 	list-style-type: none;
 }
+div.contents ul.bulleted > li{
+	list-style-type: disc;
+}
+
+p.italic{
+	font-style: italic;
+}
+
 div.contents ul > li a {
 	color: #cc0000;
 	font-style: italic;
@@ -547,6 +565,16 @@ code{
     color:darkgreen;
     font-style: italic;
 }
+
+span.code{
+    font-family: courier, monospace;
+    font-size: 1.2em;
+    color: #0ff;
+}
+h1 > span.code, h2 > span.code, h3 > span.code, h4 > span.code, h5 > span.code{
+	color: #c00000;
+}
+
 
 /* JQuery UI over-rides */
 .ui-widget-overlay{
