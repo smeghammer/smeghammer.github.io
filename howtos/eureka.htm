@@ -146,7 +146,7 @@ You should end up with all the graphics lumps and the DECORATE lump in the corre
                 <h3>Create a test map</h3>
                 <p>We now have enough info to make a basic working map inside our PK3 directory structure. So, in Eureka editor, go ahead and create a new project and specify the map location as the /maps subdirectory of 
                 the /src directory. Make sure you use a wad filename of 'map01.wad', and IWAD=Doom2, Source=ZDoom and map type=Hexen as the project settings. Leave the default square room with player starts as it is. 
-                <i>Note that the map WAD name can be anything, but that would require a</i><a href='https://zdoom.org/wiki/MAPINFO' title='MAPINFO on zdoom.org' target='_blank'>MAPINFO</a><i> to map map slot with map 
+                <i>Note that the map WAD name can be anything, but that would require a</i> <a href='https://zdoom.org/wiki/MAPINFO' title='MAPINFO on zdoom.org' target='_blank'>MAPINFO</a><i> to map map slot with map 
                 name. In this case, 'map01.wad' is recognised by GZDoom without a MAPINFO.</i></p><p>Now, we can add a new Thing - say a health bonus, like so:</p>
                 <div class="pure-g">
                 	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
@@ -218,7 +218,7 @@ Once we have this defined, we need to tell the Eureka project about it so we can
                 	</div>
                 </div>  
                 <p>
-                And click 'Use'. Refresh or restart Eureka, and you will see the the question mark icon change to a green triangle, and the properties form will show the defined name. 
+                And click 'Use'. Refresh or restart Eureka, and you will see the the question mark icon change to a blue triangle, and the properties form will show the defined name. 
                 </p>
                 <div class="pure-g">
                 	<div class="pure-u-1 pure-u-md-5-6   pure-u-lg-3-4">
@@ -245,12 +245,29 @@ Once we have this defined, we need to tell the Eureka project about it so we can
                 </div>
 
                 <p>
-                Finally! we can include this new resource. Update the custom_things.ugh file to include the sprite name we used in the resource WAD, and additionally include the WAD with the sprite as another 
-                Project resource:
+                Finally! we can include this new resource. We need to update the custom_things.ugh file and include the WAD with the sprite as another Project resource.
                 </p>
+	<p>
+	Update the .ugh file to include the sprite frame instead of the NULL value:
+	</p>
+                
+                                <pre>
+...
+# <flags> can contain these letters:
+#    i  :  invisible
+#    c  :  on ceiling
+#    l  :  lit up
+#    n  :  non-blocking
+#    v  :  can exist in void-space
+#    t  :  teleport dest (can overlap certain things)
+#
+thing 3120  q - 30 CARDA1   "Dark Cardinal"
+#
+</pre>
                 <p>
-                Add the resource WAD i the same way as for the .ugh file:
+                And add the resource WAD i the same way as for the .ugh file:
                 </p>
+
                 <div class="pure-g">
                 	<div class="pure-u-1 pure-u-md-1-2   pure-u-lg-1-2">
                 		<img src="/images/howto-eureka/14.png" alt="Include resource WAD in Project" />   
