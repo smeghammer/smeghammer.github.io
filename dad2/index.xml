@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">clement</owner></defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Concerts</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Concerts</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Concerts</keywords>
+        <description datatype="property" friendlyname="Page description">Concerts</description>
+        <author datatype="property" friendlyname="Page author">clement</author></metadata>
+    <content>
+        <content1 datatype="string" friendlyname="LH heading 1">{CMS_CONTENT1}</content1>
+        <content2 datatype="text" friendlyname="Content"><h2><h2>Welcome</h2>
+<p>
+This is the personal website of Dr Clement Jewitt, BMus, PhD (formerly MIInfSc, ALA), composer, 
+improviser,writer &amp; editor, lecturer, sometime artist, and workshop facilitator.
+</p>
+<p>
+Visitor, you are welcome to share those aspects of his life represented within.
+</p></content2>
+        <content3 datatype="string" friendlyname="LH heading 2">{CMS_CONTENT3}</content3>
+        <content4 datatype="text" friendlyname="LH box 2">
+        </content4>
+        <content5 datatype="text" friendlyname="Main content"></content5>
+        <content6 datatype="string" friendlyname="RH heading 2">{CMS_CONTENT6}</content6>
+        <content7 datatype="text" friendlyname="RH box 2">{CMS_CONTENT7}</content7></content>
+</doc>
+
+

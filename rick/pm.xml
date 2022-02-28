@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">silas</owner>
+    </defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Project Management</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Project Management</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Project Management</keywords>
+        <description datatype="property" friendlyname="Page description">Project Management</description>
+        <author datatype="property" friendlyname="Page author">silas</author>
+    </metadata>
+    <content>
+        <content1 datatype="string" friendlyname="Heading">Welcome</content1>
+        <content2 datatype="text" friendlyname="Content"><p style="margin-bottom: 0cm;"><span style="color: #000000;">For larger and more complex contracts APD offer a formal contract management service based on the "PRINCE" protocol (PRojects</span><span style="color: #000000;">&nbsp;</span><span style="color: #000000;">IN</span><span style="color: #000000;">&nbsp;</span><span style="color: #000000;">Controlled</span><span style="color: #000000;">&nbsp;</span><span style="color: #000000;">Environments). This was established by the Central Computer and Telecommunications Agency in 1989 and is a structured method for effective project management.</span></p>
+<p style="margin-bottom: 0cm;">&nbsp;</p>
+<p style="margin-bottom: 0cm;"><span style="color: #000000;">It is a</span><span style="color: #000000;">&nbsp;</span><em><span style="color: #000000;">de facto</span></em><span style="color: #000000;">&nbsp;</span><span style="color: #000000;">standard used extensively by the</span><span style="color: #000000;">&nbsp;</span><span style="color: #000000;">UK</span><span style="color: #000000;">&nbsp;</span><span style="color: #000000;">Government and in the private sector. The key features are a focus on business justification, a defined structure for the project management team, product-based planning, an emphasis on creating manageable project stages and a flexibility appropriate to the nature of the project.</span></p>
+<p>&nbsp;</p></content2>
+        <content3 datatype="text" friendlyname="Banner image"><p>{CMS_CONTENT3}</p></content3>
+    </content>
+</doc>

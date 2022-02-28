@@ -1,0 +1,15 @@
+*{padding:0px;margin:0px;border:no-border;}
+body{font-family:arial,Geneva,Helvetica,sans-serif;font-size:0.9em;background-color:#fff;margin:0px;padding:0px;height:100%;text-align:center;}
+html{padding:10px;}
+.form_header{background-color:#D60000;width:660px;text-align:left;border:2px solid #D60000;padding:5px;}
+.form_header div{color:#fff;}
+.form_header h1{font-size:1.1em;padding-left:0px;color:#fff;}
+#form_wrapper{padding:0px;border:2px solid #fcc;width:670px;text-align:left;}
+.form_field1{background-color:#fcc;padding:2px;padding-left:10px;}
+.form_field2{background-color:#fff;padding:2px;padding-left:10px;}
+.field_title{float:left;width:150px;left:0px;font-weight:bold;}
+.section_title{font-weight:bold;height:30px;}
+.field{padding:2px;vertical-align:middle;}
+.field input,textarea{font-family:arial;color:#666666;background-color:#ffffff;border:1px solid #B7B7B7;width:auto;}
+.chbx_left{float:left;width:250px;height:24px;}
+.chbx_right{height:24px;}

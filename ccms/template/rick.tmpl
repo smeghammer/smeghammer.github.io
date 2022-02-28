@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=windows-1250" />
+    <script type="text/javascript" src="/ccms/editor/script/edit.js"></script>
+    <script language="javascript" type="text/javascript" src="/script/rickscripts.js"></script>
+    <meta name="keywords"       content="{CMS_KEYWORDS}" />
+    <meta name="description"    content="{CMS_DESCRIPTION}" />
+    <meta name="author"         content="{CMS_AUTHOR}" />
+  <link href="/styles/rickstyles.css" rel="stylesheet" type="text/css" />
+  <title>{CMS_PAGETITLE}</title>
+  </head>
+  <body>
+  
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+	window.onload = function(){
+		sfHover();
+	}	
+//]]>
+</script>
+  
+      {CMS_EDITLINK}
+  
+    <!-- begin outer wrapper -->
+    <div id="outer_wrapper">
+        <div id="header_wrapper">
+            <a href="/rick/" title="Home">
+                <img src="/images/logo2.png" alt="logo" />
+            </a>
+            <div id="header_nav">
+                <ul>
+                    <li><a href="/rick/" title="link">home</a></li>
+                    <li><a href="#" onclick="popup('contact.pl');" title="Email us">email us</a></li>
+                    <li class="last"><a href="url" title="link">guarantees</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="topnav">
+            <ul>
+                <li><a href="/rick/" title="link">Home</a></li>
+                <li>Service Offerings
+                    {CMS_SERVICESNAV}
+                    <!-- ul>
+                        <li><a href="arch.pl">Architects</a></li>
+                        <li><a href="bath.pl">Bathrooms</a></li>
+                        <li><a href="carp.pl">Carpentry</a></li>
+                        <li><a href="refurb.pl">Complete Refurbishments</a></li>
+                        <li><a href="sparks.pl">Electrical &#38; Lighting</a></li>
+                        <li><a href="extens.pl">Extensions &#38; Conversions</a></li>
+                        <li><a href="gbs.pl">General Building Services</a></li>
+                        <li><a href="int_des.pl">Interior Design &#38; Decorating</a></li>
+                        <li><a href="kitchen.pl">Kitchens</a></li>
+                        <li><a href="loft.pl">Loft Conversions</a></li>
+                        <li><a href="plumb.pl">Plumbing</a></li>
+                        <li><a href="pp.pl">Planning Permission</a></li>
+                        <li><a href="roof.pl" class="last">Roofing</a></li>
+                    </ul -->                
+                </li>
+                <li><a href="cd.pl" title="link">Commercial Developments</a></li>
+                <li><a href="guar.pl" title="link">Guarantees</a></li>
+                <li><a href="sm.pl" title="link">Site Management</a></li>
+                <li><a href="find.pl" title="link">Find Us</a></li>
+            </ul>
+        </div>
+        
+        <div id="content_banner_wrapper">
+            <div id="content_banner_image">
+               {CMS_CONTENT3}
+                 <!-- <img src="/images/banners/dummy_content_banner.gif" alt="banner" /> -->
+            </div>
+            <div id="content_banner_links">
+                <ul>
+                    <li class="first"><a href="url" title="link">linktext</a></li>
+                    <li><a href="url" title="link">linktext</a></li>
+                    <li><a href="url" title="link">linktext</a></li>
+                    <li><a href="url" title="link">linktext</a></li>
+                    <li class="last"><a href="url" title="link">linktext</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="content_wrapper">
+            <h1>{CMS_LINKTEXT}</h1>
+            {CMS_CONTENT2}
+        </div>
+        <div id="footer_separator">
+            
+        </div>
+        <div id="footer_links">
+            <a href="#">link 1</a>|<a href="#">link 2</a>|<a href="#">link 3</a>|<a href="#">link 4</a>|<a href="#" class="last">link 5</a> 
+        </div>
+    </div>
+    <!-- end outer wrapper -->
+  </body>
+</html>

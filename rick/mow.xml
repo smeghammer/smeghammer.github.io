@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">silas</owner>
+    </defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Method of working</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Method of working</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Method of working</keywords>
+        <description datatype="property" friendlyname="Page description">Method of working</description>
+        <author datatype="property" friendlyname="Page author">silas</author>
+    </metadata>
+    <content>
+        <content1 datatype="string" friendlyname="Heading">Welcome</content1>
+        <content2 datatype="text" friendlyname="Content"><p>Following your enquiry, we will visit your site and discuss and agree with you a preliminary programme of work for your job or project. We will identify in advance any foreseeable and significant issues or risks that you should consider because they may affect the progress, cost or nature of the work. Within an agreed time, we will draw up an outline working plan identifying the operations, materials, components, timings and payments needed to complete the work. The estimated total cost, expected completion date and details of any important events along the way will be confirmed in writing. These processes will be appropriately shorter and less complicated or longer and more complicated depending on the nature and extent of the job or project.</p>
+<p><br />Building and construction work, especially the refurbishment or replacement of existing buildings and services, can be unpredictable. For this reason we will tell you of any&nbsp;unforeseen issues and risks&nbsp;that arise and estimate the extent to which they require changes to the working plan including delays and additional costs.</p>
+<p><br />Also, building and construction work can be noisy, dusty and messy. As much as possible we will minimise this and, in any event, we will clear up afterwards and remove any waste. We want you to be completely satisfied with our work. <br />You will be able to contact our offices during your project to raise any concerns you may have.</p>
+<p><br />Our normal hours of work on site are 0800 to 1630 hrs, Monday to Friday, with a 30 minute lunch break at 1230 hrs.</p>
+<p>&nbsp;</p></content2>
+        <content3 datatype="text" friendlyname="Banner image"><p>{CMS_CONTENT3}</p></content3>
+    </content>
+</doc>

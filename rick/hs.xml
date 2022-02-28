@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">silas</owner>
+    </defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Health & safety</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Health & safety</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Health & safety</keywords>
+        <description datatype="property" friendlyname="Page description">Health & safety</description>
+        <author datatype="property" friendlyname="Page author">silas</author>
+    </metadata>
+    <content>
+        <content1 datatype="string" friendlyname="Heading">Welcome</content1>
+        <content2 datatype="text" friendlyname="Content"><p>APD recognises its duty to provide a safe environment for all staff, contractors, visitors, trainees and others who may be affected by the activities at our working sites. As a Company we are committed to health and safety at work. We believe that the health and safety of all participants is of paramount importance whatever their position or function. See the Health and Safety at Work Act 1974, the Construction (Design and Management) Regulations (CDM 2007) and all other relevant legislation.</p></content2>
+        <content3 datatype="text" friendlyname="Banner image"><p>{CMS_CONTENT3}</p></content3>
+    </content>
+</doc>

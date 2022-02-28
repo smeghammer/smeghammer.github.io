@@ -1,0 +1,17 @@
+/* CSS Document */
+
+/* over-ride topnav */
+ul#topnav
+{
+    width:370px;
+}
+ul#topnav li
+{
+    display:block;
+    padding:2px;
+    padding-left:25px;
+    margin:2px;
+    border:1px solid black;
+    font-weight:bold;
+    font-size:1.1em;
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">clement</owner></defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Concerts</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Concerts</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Concerts,performances,music,choral,vocal,instrumental</keywords>
+        <description datatype="property" friendlyname="Page description">Concerts</description>
+        <author datatype="property" friendlyname="Page author">clement</author></metadata>
+    <content>
+        <content1 datatype="string" friendlyname="LH heading 1">{CMS_CONTENT1}</content1>
+        <content2 datatype="text" friendlyname="Content"><h2>UPCOMING PERFORMANCES<br /></h2>
+<h3>2009. <em>The Night Sea: transitions and recurrences</em> <br /></h3>
+<p>This 50 minute work is planned to be performed together with a work by Ligeti and one by Lutoslawski, probably in London and Birmingham, followed by a studio recording, if funds allow.  Venues and dates to be decided.  Further information to be uploaded when available.</p>
+<p>Conductor: Steven Gonzalez.&nbsp;    Players to be recruited.</p>
+<p>&nbsp;</p>
+<h2>RECENT PERFORMANCES<br /></h2>
+<h3>November 2008. <em>Sacred Music Through the Ages</em></h3>
+<p>This concert on 1st November by the Kingfisher Chorale, conducted by Giles Turner in The Emmanuel Church, Loughborough, included the choral version of <span style="text-decoration: underline;"><em>Invocations to Archangels</em></span>. Other works were by William Byrd, J.S.Bach, Peter Crump and Arvo Paart. A <a title="Leicester Mercury" href="../../dad/5.pl#anchor01">review</a> appeared in the Leicester Mercury of 6th November.</p>
+<h3>August 2008: radio broadcast</h3>
+<p>On the afternoon of Sunday 31st August, between 3 and 5 o'clock, I was interviewed&nbsp; by Bernard Davis on <a title="South Birmingham Community Radio" href="http://www.southbirminghamcommunityradio.co.uk/" target="_blank">South Birmingham Community Radio</a>. The following of my music was played (see Compositions):</p>
+<ul>
+<li><em>Come With Me </em>(Milton Godfrey)</li>
+<li><em>He Would Send Me Running</em> (Marion Griffin)</li>
+<li><em>Three Hokku on Time</em> (composer's text)</li>
+<li><em>With Your Own Light</em></li>
+<li><em>The Last Invocation </em>(Walt Whitman)</li>
+</ul>
+<h3>April 2008 &hellip;                 <em>the</em> <em>Isle is Full of Music &hellip;</em></h3>
+<p>This full length concert, shared with friend and fellow composer <a title="Raymond Head" href="http://www.raymondhead.com" target="_blank">Raymond Head</a>,   took place to great acclaim at the Holywell Music Room, Oxford on 20th April 2008, and at the Arena Foyer, Birmingham Conservatoire, on April 24th 2008.  A review appeared in                 <em>Tempo</em> No.246, Oct. 2008, pp58-59.</p>
+<p>The players were <a title="Wendy Nieper" href="http://www.wendynieper.com" target="_blank">Wendy Nieper</a>, soprano, <a title="Kirsten Johnson" href="http://www.kirstenjohnsonpiano.com" target="_blank">Kirsten Johnson</a>, piano &amp; <a title="Christopher Britton" href="http://www.pavlovaquintet.co.uk" target="_blank">Christopher Britton</a>, flute.</p>
+<p>My songs performed with piano were:</p>
+<ul>
+<li> <em>Come With Me </em>(Milton Godfrey)</li>
+<li> <em>He Would Send Me Running</em> (Marion Griffin)</li>
+<li> <em>But a Part of it All</em> (James Kavanaugh)</li>
+<li> <em>Save now we pray</em> (bell hooks) premiere                     <br /> </li>
+<li> <em>The Harvest Bride </em>(Christina Edwards) premiere</li>
+</ul>
+<p>with flute alone:</p>
+<ul>
+<li><em>Three Hokku on Time</em> (composer's text) premiere </li>
+</ul>
+<p>and four songs from                 <em>The Night Sea</em>, arranged for piano &amp; two also with flute</p>
+<ul>
+<li> <em>The Last Invocation </em>(Walt Whitman) - with flute<br /></li>
+<li> <em>Rumination </em>(Richard Eberhart) premiere</li>
+<li> <em>Skins 20</em> (Charles Wright) premiere</li>
+<li> <em>The Coming of Light</em> (Mark Strand) premiere - with flute<br /></li>
+</ul>
+<p>&nbsp;</p></content2>
+        <content3 datatype="string" friendlyname="LH heading 2">{CMS_CONTENT3}</content3>
+        <content4 datatype="text" friendlyname="LH box 2">
+        </content4>
+        <content5 datatype="text" friendlyname="Main content"></content5>
+        <content6 datatype="string" friendlyname="RH heading 2">{CMS_CONTENT6}</content6>
+        <content7 datatype="text" friendlyname="RH box 2">{CMS_CONTENT7}</content7></content>
+</doc>

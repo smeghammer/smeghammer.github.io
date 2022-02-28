@@ -1,0 +1,39 @@
+/* CSS Document */ 
+/* text align fidge for DIV aligning in IE6 */
+body{background-color:#ffffff;font-family:trebuchet MS,verdana,arial,sans-serif;text-align:center;} 
+a:hover{text-decoration:underline;color:#660000;} 
+a{color:#660000;text-decoration:none;} 
+.banner{position:relative;width:660px; height:108px; margin-left:auto; margin-right:auto; text-align:center; vertical-align:middle; } 
+.banner h1 { font-size:2.6em; letter-spacing:0.25em; color:#800000; margin-bottom:0px; } 
+.banner h2{ margin-top:0px; color:#660033; font-size:0.9em; } 
+/* reset the text-align fudge for IE6 */
+.outer_border{ background-color:#FEDAF1; border:2px solid #CC99FF; position:relative; top:10px; width:660px; /*height:900px;*/ margin-left:auto; margin-right:auto; padding-bottom:2px; } 
+.middle_border{ border:2px solid #CC99FF; position:relative; top:1px; left:1px; width:654px; /*height:894px;*/ padding:0px; padding-bottom:2px; } 
+/* IE 6 doesn't inherit background-color properly. IE5 does... */
+.main{ background-color:#FEDAF1; border:2px solid #CC99FF; position:relative; top:1px; left:1px; width:648px; /*height:888px;*/ padding:0px; text-align:center; font-weight:bold; color:#660033; padding-bottom:2px; } 
+.main .player{font-size:1.5em; } 
+.main .work{ font-size:1.2em; font-style:italic; } 
+.main .details{ color:#800000; } 
+.main .details h1,h2{ display:inline; } 
+.main .details h1{ font-size:1.5em; } 
+.main .details h2{ font-size:1.3em; } 
+.bannertext{ margin-top:27px; } 
+.details{ padding-bottom:20px; } 
+.programme{ position:relative; width:660px; height:108px; margin-left:auto; margin-right:auto; text-align:left; vertical-align:middle; color:#800000; } 
+.programme h1{ font-size:1.8em; margin-top:30px;} 
+.programme table{ width:100%;  color:#800000; padding:0px;} /* added color: here because IE6 back dont inherit from class 'programme' properly */
+.programme h2{ display:block; font-size:1.0em; margin-bottom:-12px; padding-bottom:-10px; margin-top:0px;} 
+.programme tr{ margin-top:10px;}
+.programme div{padding:3px;padding-top:15px;padding-bottom:15px;}
+.programme .bios td{ padding-top:0px; padding-bottom:0px; vertical-align:top;padding-top:20px;} 
+.programme p{ font-size:0.9em; font-weight:normal; text-indent:15px; text-align:justify;} 
+.programme .left{ width:70%; display:block; float:left; font-weight:bold; } 
+.programme .right{ width:30%px; display:block; font-weight:bold; } 
+.programme .leftimg{ width:30%; display:block; float:left; } 
+.programme .righttext{width:70%px; display:block; font-weight:normal; } 
+.programme img{ float:left; display:inline; padding-right:10px; }
+.programme .subhead{margin-top:30px;margin-bottom:15px;}
+.programme .subhead h1{display:inline;}
+.indent{ padding-left:50px; } 
+.right{ text-align:right; } 
+.fullwidth{ width:100%; border:1px solid black; }

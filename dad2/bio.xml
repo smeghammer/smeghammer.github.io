@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">clement</owner></defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Concerts</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Concerts</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Concerts</keywords>
+        <description datatype="property" friendlyname="Page description">Concerts</description>
+        <author datatype="property" friendlyname="Page author">clement</author></metadata>
+    <content>
+        <content1 datatype="string" friendlyname="LH heading 1">{CMS_CONTENT1}</content1>
+        <content2 datatype="text" friendlyname="Content"><p>
+Born in North London early in the 2nd World War, my earliest clutch of memories are of bombs exploding, glass flying, 
+houses reduced to rubble, the church down the road spectacularly burning.  The nursing home where I emerged into daylight 
+was bombed flat shortly after my mother left it with me.  Several families lost members then.
+</p><p>
+However, this is not going to be a complete biography, though maybe I’ll write one: who knows?—not before I’m ninety though.  
+Life was a bit quieter after the war, and I grew up with Alexandra Palace (Ally Pally) as my childish stamping ground, local 
+schools for discipline (did they succeed?), public libraries to satisfy curiosities, and the streets and Highgate Woods for 
+bonding with mates (who were they, I ask myself?—memory fails).  Until Dad started building the family home in Kent south of 
+London, when school holidays were filled down there helping him with the build, on a rural site where a previous house had 
+been.  [We heard about the ghost from a brickie during one of those working vacations, but that’s another story…]
+</p><p>
+Skipping forward three decades, I had been married, four loved children had arrived and thrived, we are living in Chipping 
+Norton, Oxfordshire, and I continued living there after the divorce.  I studied architecture on leaving school, but didn’t 
+finish the course (the pull of the art school was strong—more females there), eventually became a librarian, migrated from 
+there to early work on library automation, and was elected to the Institute of Information Scientists.
+</p><p>
+And now, in my mid-forties, after ten years with a small innovative high-tech computer company which collapsed when the bank 
+grew nervous, a couple of years later I am personally in the same bind in the role of Consultant (to ICL, the Technical 
+Directorate of the European Communities, and others, but not enough of it).  Fortunately the bank manager pulled the rug 
+before I would have lost my house—wise man!
+</p><p>
+So, redundancies again.  This was another existential shock, following the earlier crash of Oriel Computer Services and more 
+personal crises connected with marriage breakup and related matters.  These traumas gave me the opportunity to ask myself what 
+did I want to do with the rest of my life?  Always ready to turn a corner when matters crumbled, quite another personal 
+strength beckoned.
+</p><p>
+Throughout my life there had always been some connection with music making, including choral singing, beginning with church 
+choirs in boyhood.  As an adult, founding and directing amateur early music groups centred around recorders occupied attention, at about the same time learning to play and perform on the classical guitar, which I then taught informally for many years.  During an earlier period of redundancies I had experimentally tried composing for my own guitar or recorder playing, at first to fill vacant hours.  But then I was hooked—this was what I really wanted to do.  But first I had to go back to earning, for my children were not grown: hence the consultancy project.  
+Now, though, all employment options were gone: ‘ageism’ prejudice saw to that, and the consultancy had not worked sufficiently 
+well, albeit better than average.  So I felt free enough to concentrate on what I now loved.  I was continuing a journey in, 
+a trajectory of, what I focussed on and worked at, from the materiality of architecture to the intangibility of music.  The 
+rest, as they say, is history.
+</p><p>
+But not quite.  My curious mind repeatedly fails to focus undeviatingly on a single endeavour, as the wide range of books on 
+my shelves testify.  Early interest in our fellow animals and other forms of life found a focus for a while in anatomy and 
+physiology, now superseded by an ecological world view verging on deep ecology.  In a wood, I am a different person.  A 
+counterbalance to all that was and remains a keen interest in occultism in all its forms, viewed for many years as 
+essentially a variety of props for intuition.  Some side studies connected with the musical work are mentioned in 
+<a href="/writings/articles/dissertation/ch1.pl" title="Disertation Chaper one">Chapter 1 of my PhD dissertation</a>, 
+the most important being a natural development out of a long standing psychological attitude and study focussed particularly 
+on the work of C.G.Jung and successors.  Consequently I am interested in the now current consciousness studies astonishingly 
+appearing within mainstream science.
+</p><p>
+This (in the view of some) heterological bundle of interests  led to my membership of the 
+<a href="http://www.scimednet.org/" title="Scientific and Medical Network" rel="external">Scientific and Medical 
+Network</a> 
+(SMN)   where I have found a fellowship of similar minds, not a few greater than my own.
+</p><p>
+The various navigation links will transport you to some of my compositions, writings (prose and poetry), artworks including some 
+photographs taken by an ancestor, what others have said or written about my work, and to events coming up and past.  
+The family page is restricted to password holders.
+</p>
+</content2>
+        <content3 datatype="string" friendlyname="LH heading 2">{CMS_CONTENT3}</content3>
+        <content4 datatype="text" friendlyname="LH box 2">
+        </content4>
+        <content5 datatype="text" friendlyname="Main content"></content5>
+        <content6 datatype="string" friendlyname="RH heading 2">{CMS_CONTENT6}</content6>
+        <content7 datatype="text" friendlyname="RH box 2">{CMS_CONTENT7}</content7></content>
+</doc>
+
+

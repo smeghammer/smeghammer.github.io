@@ -1,0 +1,56 @@
+/* CSS Document */  
+    /*    
+    base colour: #E6FF00      [yellow]   
+    border colour: #8D9E00    [yellow dark]   
+    */      
+    body{font-family:Tahoma, Geneva, sans-serif;}
+    div{background:#FFEA01;margin:20px;padding:5px;border:1px solid black;-moz-border-radius: 5px;border-radius: 5px;}      
+    #body_wrapper{width:800px;}  
+        
+    /* main header */
+    #header{position:absolute;width:754px;height:80px;}
+    #header h1{font-weight:normal;font-size:50pt;margin:0px;font-style:italic;text-align:center;letter-spacing:8px;}
+    
+    /* LH top */
+    #lh_1{position:absolute;top:110px;height:150px;width:150px;}
+    
+    /* LH bottom */
+    #lh_2{position:absolute;top:280px;height:130px;width:150px;}
+    #lh_2 ul {padding-left:0px;margin-top:0px;}
+    #lh_2 ul li{list-style-type:none;}
+
+            
+    /* RH main content */
+    #main_panel{position:absolute;left:180px;top:110px;height:300px;width:582px;}
+    
+    /* footer row 1 */
+    #footer1{position:absolute;height:80px;top:430px;width:754px;text-align:center;font-size:14pt;}
+    
+    /* footer row 2 */
+    #footer2{position:absolute;height:80px;top:530px;width:754px;text-align:center;font-size:14pt;}       
+    
+    /* tab container */
+    #sub-header{border:1px solid #8D9E00;height:150px;} 
+
+    /*make tabs inline*/   
+    #tabber_wrapper {margin:0px;padding:0px;border:1px solid #8D9E00;}   
+    #tabber_wrapper ul li{display:inline;background:#FFEA01;margin:0px;padding:10px;font-size:12pt;}   
+    #tabber_wrapper ul{padding-left:0px;}   
+    #tabber_wrapper ul li.highlight{font-weight:bold;} 
+         
+    /*.hidden{position:relative;left:-1000px;}*/   
+    .hidden{display:none;}   
+    #tab_content_wrapper{border:1px solid #8D9E00;margin:0px;margin-top:5px;height:230px;}
+    #tab_content_wrapper div{border:none;text-align:center;font-size:14pt;margin-top:0px;margin-bottom:-10px;}
+    #tab_content_wrapper div p{margin-top:0px;margin-bottom:15px;}
+       
+    /*.tab_content{text-align:center;}*/        
+    tabber_highlight{font-weight:bold;}   
+    tabber_normal{font-weight:normal;} 
+   
+    .text_highlight{color:red;}
+    .text_italic{font-style:italic;} 
+    .vspace{padding-bottom:10px;}
+    .small{font-size:8pt;}
+    .large{font-size:18pt;}
+      

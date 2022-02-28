@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">{CMS_OWNER}</owner>
+    </defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Architect services</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Architectural</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">architects,design</keywords>
+        <description datatype="property" friendlyname="Page description">Architects</description>
+        <author datatype="property" friendlyname="Page author">{CMS_AUTHOR}</author>
+    </metadata>
+    <content>
+        <content1 datatype="string" friendlyname="Heading">Architects</content1>
+        <content2 datatype="text" friendlyname="Content"><p>test</p>
+<p><img title="music.gif" src="../../images/music.gif" alt="music.gif" width="17" height="17" /></p></content2>
+        <content3 datatype="text" friendlyname="Banner image"><p><img title="rotator7.jpg" src="../../images/rotator7.jpg" alt="rotator7.jpg" width="245" height="151" /></p>
+<p>&nbsp;</p></content3>
+    </content>
+</doc>

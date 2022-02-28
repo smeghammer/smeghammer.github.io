@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">clement</owner></defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Concerts</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Concerts</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Concerts</keywords>
+        <description datatype="property" friendlyname="Page description">Concerts</description>
+        <author datatype="property" friendlyname="Page author">clement</author></metadata>
+    <content>
+        <content1 datatype="string" friendlyname="LH heading 1">{CMS_CONTENT1}</content1>
+        <content2 datatype="text" friendlyname="Content">
+<p>
+Scores included here are extracts from a representative sample of my formally 
+composed music. Most have audio performance samples, matched to the score sample.
+</p>
+<p>
+This is not a complete list, including only relatively recent pieces and those which are abidingly important, 
+such as from winning prizes, or with which I remain reasonably satisfied.
+</p>
+<p>
+The list is divided into VOCAL and INSTRUMENTAL. Vocal works include those with substantial instrumental passages as 
+well as mandatory vocal parts, such as <em>Chechnya Story</em> and <em>The Night Sea</em>.
+</p>
+</content2>
+        <content3 datatype="string" friendlyname="LH heading 2">{CMS_CONTENT3}</content3>
+        <content4 datatype="text" friendlyname="LH box 2">
+        </content4>
+        <content5 datatype="text" friendlyname="Main content"></content5>
+        <content6 datatype="string" friendlyname="RH heading 2">{CMS_CONTENT6}</content6>
+        <content7 datatype="text" friendlyname="RH box 2">{CMS_CONTENT7}</content7></content>
+</doc>
+
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">silas</owner>
+    </defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Mission statement</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Mission statement</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Mission statement</keywords>
+        <description datatype="property" friendlyname="Page description">Mission statement</description>
+        <author datatype="property" friendlyname="Page author">silas</author>
+    </metadata>
+    <content>
+        <content1 datatype="string" friendlyname="Heading">Welcome</content1>
+        <content2 datatype="text" friendlyname="Content"><p style="margin-bottom: 0cm;"><span style="color: #000000;">APD's aim is to provide high-quality, professional property services to private and commercial clients in the greater Bristol area on the basis of competitive prices, continuous customer satisfaction and regulatory compliance.</span></p>
+<p>&nbsp;</p></content2>
+        <content3 datatype="text" friendlyname="Banner image"><p>{CMS_CONTENT3}</p></content3>
+    </content>
+</doc>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">silas</owner>
+    </defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">Construction skills certification scheme</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">Construction skills certification scheme</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">Construction skills certification scheme</keywords>
+        <description datatype="property" friendlyname="Page description">Construction skills certification scheme</description>
+        <author datatype="property" friendlyname="Page author">silas</author>
+    </metadata>
+    <content>
+        <content1 datatype="string" friendlyname="Heading">Welcome</content1>
+        <content2 datatype="text" friendlyname="Content"><p>APD recognises the benefits of their staff and operatives being appropriately trained to improve quality and reduce accidents in their work. The CSCS provides a system of plastic cards to be carried by individuals, on large construction sites, that identify their personal level of occupational competence, experience and seniority. The scheme covers hundreds of occupations and seniorities from trainees through skilled workers to senior management. Full details are available on the CSCS website at <a title="Construction Skills Certification Scheme" href="http://www.cscs.uk.com" target="_blank">www.cscs.uk.com</a>.</p>
+<p>&nbsp;</p></content2>
+        <content3 datatype="text" friendlyname="Banner image"><p>{CMS_CONTENT3}</p></content3>
+    </content>
+</doc>

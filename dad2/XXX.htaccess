@@ -1,0 +1,10 @@
+DirectoryIndex index.pl
+
+AuthUserFile /home/vhosts/sjewitt-1342337/dad2/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Please log in"
+AuthType Basic
+
+<Limit GET POST>
+require valid-user
+</Limit>

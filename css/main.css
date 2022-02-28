@@ -1,0 +1,109 @@
+/* CSS Document */
+    .body-wrapper
+    {
+      width:1000px;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    .banner
+    {
+      background-image:url('/images/banner-background.png');
+      height:268px;
+    }
+    .masthead
+    {
+      background-color:rgba(0,0,0,0.5);
+      font-size:18pt;
+      color:#fff;
+      padding-top:10px;
+      padding-bottom:10px;
+      padding-left:120px;
+      background-image:url('/images/logo-small.png');
+      background-repeat:no-repeat;
+      background-position:30px;
+      width:880px;
+    }
+    .social-media
+    {
+      float:right;
+      height:0px; 
+      margin-right:10px;
+    }
+    .social-media ul
+    {
+      display:inline;
+    }
+    .social-media ul li
+    {
+      display:inline;
+    }
+
+    .menu
+    {
+      background-color:#333; 
+      font-size:10pt;
+    }
+    .menu a
+    {
+      color:#eee;
+    }
+    .menu li
+    {
+      padding:0px;margin:0px;border:0px;
+      padding-left:40px;
+      padding-right:40px;
+    }
+    .menu li:hover { background-color: #666; }
+    .menu li a:hover { background-color: #666; }
+     .menu li.pure-menu-selected {color:#cc0; background-color: #666; }
+     
+     #body
+     {
+       margin-left:70px;margin-right:10px;text-align:justify;
+       color:#3e3e3e; 
+     }
+     .content-image
+     {
+      /* margin-right:20px;  border:1px solid red; */
+      margin-top:35px;
+     }
+     .content-image img
+     {
+      float:right;
+      border:1px solid grey; 
+     } 
+    .images
+    {
+      margin-top:5px;
+      background-color:#ccc;
+    }
+    .image
+    {
+      padding-top:10px;
+      padding-bottom:5px;
+      padding-right:-5px;
+    }
+    .image img
+    {
+        position:relative;
+        left:4px;
+    } 
+    .footer
+    {
+       background-color:#333;
+    }
+    .footer-text
+    {
+      text-align:center;color:#eee; font-size:10pt;
+    }
+    .footer-logo img
+    {
+      padding:10px;
+      padding-bottom:7px;
+    }
+    .footer-logo-right img
+    {
+      float:right;
+    }
+
+    

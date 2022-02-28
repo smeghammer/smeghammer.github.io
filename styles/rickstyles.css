@@ -1,0 +1,115 @@
+/* CSS Document */
+/* reset margins etc. to zero: */
+*{padding:0px;margin:0px;border:no-border;color:#555;}
+/* html{height:100%;} */
+body{font-family:arial,Geneva,Helvetica,sans-serif;font-size:0.9em;background-color:#D60000;margin:0px;padding:0px;height:100%;text-align:center;}/*background:url("/images/structure/bg-body.jpg") repeat-y center top;}*/
+a{text-decoration:none;font-weight:bold;color:#fff;}
+a:hover{text-decoration:underline;}
+/* outer wrapper */
+#outer_wrapper{margin-left:auto;margin-right:auto;padding-top:5px;width:900px;height:100%;background-color:#fff;text-align:left;}
+
+/* header wrapper - logo, utility nav etc. */
+#header_wrapper{margin-left:auto;margin-right:auto;width:890px;height:90px;background-image:url("/images/structure/headerbg.gif");background-repeat:repeat-x;text-align:right;margin-top:0px;}
+#header_wrapper img{float:left;border:none;}
+#header_nav{padding-right:20px;font-size:0.75em;}
+#header_nav ul{display:inline;padding-left:0px;}
+#header_nav li{display:inline;padding-left:5px;padding-right:5px;text-align:center;padding-bottom:0px;border-right:1px solid #000000;}
+#header_nav li.last{border-right:none;}
+#header_nav a{font-weight:bold;text-decoration:none;font-size:0.8em;color:#000000;padding-bottom:0px;}
+#header_nav a:hover{text-decoration:underline;}
+
+
+/* topnav classes. NO javascript! */
+#topnav{margin-left:auto;margin-right:auto;vertical-align:middle;z-index:200;background-image:url("/images/structure/navbg.gif");left:0px;width:890px;position:relative;top:0px;height:28px;padding-top:2px;}
+#topnav a{text-decoration:none;}
+#topnav a:hover{text-decoration:none;color:#F8981D;}
+#topnav ul{display:block;margin:0px;list-style-type:none;padding-left:0px;}
+#topnav ul li{color:#fff;border-right:1px solid #fff;padding-right:15px;display:block;padding-left:15px;font-weight:bold;font-size:10pt;float:left;padding-bottom:0px;margin:0px;padding-top:5px;position:relative;height:20px;text-decoration:none;}
+#topnav ul li:hover{color:#F8981D;}
+#topnav ul ul{display:none;left:auto;position:relative;}
+#topnav ul ul ul{display:none;left:auto;position:relative;}
+#topnav ul li ul li{display:block;float:none;margin:0px;}
+#topnav ul li:hover ul li{padding-right:0px;padding-left:0px;padding-bottom:0px;text-transform:none;padding-top:0px;border-bottom:#fff 1px solid;}
+#topnav ul li:hover ul{display:block;left:0px;width:172px;color:#000;position:absolute;top:23px;background-color:#fff;}
+#topnav ul li ul{padding-right:0px;padding-left:0px;padding-bottom:0px;width:172px;padding-top:1px;background-color:#fff;}
+#topnav ul li:hover ul ul{display:none;}
+#topnav ul li ul li{padding-right:0px;padding-left:0px;padding-bottom:0px;margin:0px;padding-top:0px;height:auto;}
+#topnav ul li ul li a{padding-right:0px;display:block;padding-left:6px;padding-bottom:4px;width:166px;color:#fff;padding-top:5px;}
+#topnav ul li a:hover{color:#F8981D;}
+#topnav ul li:hover ul li:hover{color:#fff;}
+#topnav ul li ul li a:hover{color:#fff;}
+#topnav ul li:hover ul li:hover a{color:#fff;}
+
+/* javascript activated */
+#topnav ul li.sfhover{color:#F8981D;}
+#topnav ul li.sfhover ul li{padding-right:0px;padding-left:0px;background:#d60000;padding-bottom:0px;text-transform:none;padding-top:0px;border-bottom:#fff 1px solid;}
+#topnav ul li.sfhover ul{display:block;left:0px;width:182px;color:#000;position:absolute;top:25px;background-color:#fff;}
+#topnav ul li.sfhover ul ul{display:none;}
+#topnav ul li.sfhover ul li.sfhover{color:#fff;}
+#topnav ul li.sfhover ul li.sfhover a{color:#000;}
+/* END NAV STYLES */
+
+/* homepage banner */
+#homepage_banner_wrapper{padding:0px;margin-left:auto;margin-right:auto;width:890px;height:160px;margin-top:5px;border:0px;margin-bottom:0px;}
+#homepage_banner_image{float:left;padding:0px;margin:0px;vertical-align:text-top;clip:auto;position:relative;width:628px;height:161px;}
+#homepage_banner_links_outer{float:left;background-color:#ccc;margin-left:5px;width:255px;height:161px;padding:0px;vertical-align:middle;}
+#homepage_banner_links{position:relative;top:4px;left:4px;} /*border:1px solid #999; float:left;background-color:#0cc;width:245px;height:141px;padding:0px;margin:0px;}/* hack for IE6 as margin dont work properly...*/
+#homepage_banner_links ul{list-style-type:none;padding-left:1px;margin-left:5px;margin-top:0px;}
+#homepage_banner_links li{margin-left;0px;}
+#homepage_banner_links img{border:1px solid #999;width:245px;height:151px;margin:0px;padding:0px;background-color:#999;}
+
+/* homepage orig - rename these */
+#middlebody{border-top:1px solid #ffffff;float:left;width:890px;text-align:left;position:relative;top:5px;left:5px;}
+#leftnav{float:left;width:212px;text-align:left;}
+#leftnavheading{float:left;width:212px;height:38px;text-align:left;background-image:url("/images/structure/orange_heading_bg.gif");background-repeat:repeat-x;background-position:top;}
+#leftnavheading h1{display:inline;line-height:35px;font-size:1.2em;padding-left:5px;color:#fff;font-weight:normal;top:0px;}
+#leftnavtext{float:left;width:212px;text-align:left;}
+#leftnavtext ul{padding:0;margin:0;list-style-type:none;padding-bottom:0px;}
+#leftnavtext ul li{float:left;width:185px;padding-left:27px;height:24px;line-height:24px;border-bottom:1px solid #D56900;background:url("/images/structure/bullet.gif");background-repeat:no-repeat;background-position:12px 9px;background-color:#F8981D;}
+#leftnavtext li a{font-size:0.8em;color:#fff;font-weight:bold;}
+#redline{float:left;width:212px;text-align:left;height:8px;background-color:#D50000;}
+#indexmaintext{float:left;width:416px;background-image:url("/images/structure/contentheadingbg.gif");background-repeat:repeat-x;background-position:top;margin-right:auto;margin-left:auto;text-align:left;}
+#indexmaintext h1{position:relative;top:7px;left:5px;color:#d60000;font-size:1.2em;vertical-align:top;font-weight:bold;margin-bottom:20px;}
+/*#indexheading{float:left;padding-top:12px;padding-left:8px;width:406px;background-image:url("/images/structure/contentheadingbg.gif");background-repeat:repeat-x;background-position:top;margin-right:auto;margin-left:auto;text-align: left;height:27px;}*/
+#indextextarea{float:left;padding-left:8px;width:398px;padding-left:8px;text-align:left;font-size:0.9em;}
+#indextextarea p{margin-bottom:10px;font-size:0.9em;}
+
+#rightpanel{float:left;width:253px;margin-right:auto;margin-left:auto;text-align:left;padding-left:5px;}
+#rightnavtext{float:left;width:253px;text-align:left;}	
+#rightnavtext ul {padding:0;margin:0;list-style-type:none;padding-bottom:0px;}
+#rightnavtext ul li {display:block;float:left;width:214px;padding-left:39px;height:25px;line-height:25px;background:url("/images/structure/bullet3.gif");background-repeat:no-repeat;background-position:20px 9px;background-color:#BCBFC1;border-bottom:1px solid #ffffff;}
+#rightnavtext ul li a{font-size:0.8em;};
+#contactheading{float:left;width:235px;text-align:left;}
+#contactform{float:left;margin-top:0px;width:253px;background-image:url("/images/structure/contactformbg.gif");background-repeat:repeat-x;}
+/* end orig */
+
+
+/* topnav wrapper. not present on homepage (31px high) */
+#topnav_wrapper{margin-left:auto;margin-right:auto;width:890px;height:26px;background-image:url("/images/structure/navbg.gif");padding:0px;padding-top:5px;vertical-align:middle;}
+#topnav_wrapper ul{display:inline;padding-left:0px;height:24px;padding-bottom:0px;margin-left:0px;}
+#topnav_wrapper li{display:inline;padding-left:20px;padding-right:20px;text-align:center;padding-bottom:0px;border-right:1px solid white;}
+#topnav_wrapper li.last{border-right:none;}
+#topnav_wrapper a{font-weight:bold;text-decoration:none;font-size:0.8em;color:#ffffff;padding-bottom:0px;}
+#topnav_wrapper a:hover{text-decoration:underline;}
+
+/* content banner */
+#content_banner_wrapper{padding:0px;margin-left:auto;margin-right:auto;width:890px;height:130px;margin-top:5px;}
+#content_banner_image{float:left;padding:0px;margin:0px;vertical-align:text-top;position:relative;width:628px;height:130px;clip:auto;}
+#content_banner_links{float:left;}
+#content_banner_links ul{list-style-type:none;padding-left:1px;margin-left:5px;margin-top:0px;width:255px;}
+#content_banner_links li{background:#ccc;background-image:url("/images/structure/bullet3.gif");background-repeat:no-repeat;background-position:10px 8px;height:25px;padding-left:28px;margin-bottom:1px;}
+#content_banner_links li a{font-weight:bold;text-decoration:none;font-size:0.8em;color:#ffffff;padding-bottom:0px;}
+#content_banner_links li a:hover{text-decoration:underline;}
+#content_banner_links li.first{height:26px;background-image:url("/images/structure/content_banner_nav_first_bg.gif");background-repeat:repeat-x;background-position:0px 0px;}
+
+/* content */
+#content_wrapper{position:relative;top:5px;padding-left:30px;margin-left:auto;margin-right:auto;margin-top:0px;width:860px;background-image:url("/images/structure/contentheadingbg.gif");background-repeat:repeat-x;background-position:top;}
+#content_wrapper h1{position:relative;top:7px;color:#d60000;font-size:1.2em;vertical-align:middle;font-weight:bold;margin-bottom:20px;}
+#content_wrapper p{margin-bottom:10px;font-size:0.9em;}
+
+/* footer - push the content footer down. NASTY! */
+#footer_separator{margin-left:auto;margin-right:auto;width:10px;}
+
+#footer_links{color:#555;margin-left:auto;margin-right:auto;width:890;padding-left:20px;padding-right:20px;position:relative;top:0px;text-align:center;font-size:0.7em;}
+#footer_links a{color:#555;text-decoration:none;font-weight:normal;margin-left:3px;margin-right:3px;}
+#footer_links a:hover{text-decoration:underline;}

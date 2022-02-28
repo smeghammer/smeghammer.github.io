@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<doc>
+    <defaults>
+        <defaultpage datatype="core" friendlyname="">index</defaultpage>
+        <layoutpage datatype="core" friendlyname=""></layoutpage>
+        <owner datatype="core" friendlyname="">{CMS_OWNER}</owner></defaults>
+    <metadata>
+        <navorder>0</navorder>
+        <pagetitle datatype="property" friendlyname="Page title">{CMS_PAGETITLE}</pagetitle>
+        <linktext datatype="property" friendlyname="Page linktext">{CMS_LINKTEXT}</linktext>
+        <keywords datatype="property" friendlyname="Keyword list">{CMS_KEYWORDS}</keywords>
+        <description datatype="property" friendlyname="Page description">{CMS_DESCRIPTION}</description>
+        <author datatype="property" friendlyname="Page author">{CMS_AUTHOR}</author></metadata>
+    <content>
+        <content1 datatype="string" friendlyname="LH heading 1">{CMS_CONTENT1}</content1>
+        <content2 datatype="text" friendlyname="Content"><h2><span style="font-size: 12pt; font-family: ">MY COMPOSING LIFE<br /></span></h2>
+<p><img src="../../images/test.jpg" alt="test" width="117" height="164" /></p>
+<p>My composing muse was uncovered after a life review following simultaneous crises in my personal and professional lives in my 40s.  I formerly designed computer based information systems, but always had some connection with music making, including choral singing, founding and directing early music groups, playing trumpet, recorders, classical guitar, tuba, more recently percussion, and now clarinet.  Familiarity with the viola aids composition for strings, but I do not claim playing facility.  My principal performing practice now is improvisation, and from time to time I facilitate improvisation workshops for all comers.</p>
+<p>A strong interest in how sound and music is received by body, mind and spirit has lead to investigations in acoustics, physiology and transpersonal psychology.  My PhD, from Birmingham Conservatoire, investigating the application of a post-Jungian model of the psyche to creative endeavour, included writing the extended song cycle                 <em>The Night Sea</em>.</p>
+<p>I regard music as essentially an act of friendship.  An abiding interest in the musics of India and Indonesia has found some expression in my works.</p>
+<p>I have four grown and loved children, and support the   Medical Foundation for Victims of Torture, and the Samye Ling Holy Island Project.  I am a long time appreciator of trees and the under-valued role they play in helping this planet to be livable in.</p>
+<p>An interview of me by Christian Bodhi of Ability of Love TV in March 2008 appears on <a title="Clement Jewitt" href="http://www.youtube.com/watch?v=G66YDf9bq5g" target="_blank">Youtube</a>.</p>
+<h2><br /></h2>
+<h2>THIS SITE<br /></h2>
+<p>is focussed on my music, and events and news connected with that endeavour.  Information on other aspects of my creative life, and amplifications of musical work, will be found on <a title="www.eidos-inventions.co.uk" href="http://www.eidos-inventions.co.uk" target="_blank">www.eidos-inventions.co.uk</a> (under construction)</p></content2>
+        <content3 datatype="string" friendlyname="LH heading 2">{CMS_CONTENT3}</content3>
+        <content4 datatype="text" friendlyname="LH box 2">{CMS_CONTENT4}</content4>
+        <content5 datatype="text" friendlyname="Main content">{CMS_CONTENT5}</content5>
+        <content6 datatype="string" friendlyname="RH heading 2">{CMS_CONTENT6}</content6>
+        <content7 datatype="text" friendlyname="RH box 2">{CMS_CONTENT7}</content7></content>
+</doc>

@@ -1,0 +1,15 @@
+#navigation data
+#linktext,url,parent,order
+
+"FUCKWIT","/l1_1.pl",null,2
+"l1.2","/l1_2.pl",null,1
+"l2.1a","l2_1a.pl","l1_1.pl",2
+"l2.2a","l2_2a.pl","l1_1.pl",3
+"l2.3a","l2_3a.pl","l1_1.pl",1
+"l2.1b","l2_1b.pl","l1_2.pl",3
+"l2.2b","l2_2b.pl","l1_2.pl",1
+"l2.3b","l2_3b.pl","l1_2.pl",2
+
+#and a l3 test:
+"level 3b","l3b.pl","l2_3a.pl",2
+"level 3a","l3a.pl","l2_3a.pl",1

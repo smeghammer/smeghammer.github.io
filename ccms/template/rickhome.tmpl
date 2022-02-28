@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=windows-1250" />
+    <script type="text/javascript" src="/ccms/editor/script/edit.js"></script>
+    <script language="javascript" type="text/javascript" src="/script/rickscripts.js"></script>
+    <meta name="keywords"       content="{CMS_KEYWORDS}" />
+    <meta name="description"    content="{CMS_DESCRIPTION}" />
+    <meta name="author"         content="{CMS_AUTHOR}" />
+  <link href="/styles/rickstyles.css" rel="stylesheet" type="text/css" />
+  <title>{CMS_PAGETITLE}</title>
+  <script type="text/javascript">
+var slideShowSpeed = 5000;
+var crossFadeDuration = 3;
+var Pic = new Array();
+Pic[0] = {url:'/images/rotator1.jpg',alt:'Decorating'};
+Pic[1] = {url:'/images/rotator2.jpg',alt:'Driveways'};
+Pic[2] = {url:'/images/rotator3.jpg',alt:'Heating'};
+Pic[3] = {url:'/images/rotator4.jpg',alt:'Landscaping'};
+Pic[4] = {url:'/images/rotator5.jpg',alt:'The fleet'};
+Pic[5] = {url:'/images/rotator6.jpg',alt:'Roofing'};
+Pic[6] = {url:'/images/rotator7.jpg',alt:'Decking'};
+
+var t;
+var j = 0;
+var p = Pic.length;
+
+var preLoad = new Array();
+for (i = 0; i < p; i++){
+   preLoad[i] = new Image();
+   preLoad[i].src = Pic[i].url;
+   preLoad[i].alt = Pic[i].alt;
+}
+
+function runSlideShow(){
+   if (document.all){
+      document.images.SlideShow.style.filter="blendTrans(duration=2)";
+      document.images.SlideShow.style.filter="blendTrans(duration=crossFadeDuration)";
+      document.images.SlideShow.filters.blendTrans.Apply();      
+   }
+   document.images.SlideShow.src = preLoad[j].src;
+   document.images.SlideShow.alt = preLoad[j].alt;
+   if (document.all){
+      document.images.SlideShow.filters.blendTrans.Play();
+   }
+   j = j + 1;
+   if (j > (p-1)) j=0;
+   t = setTimeout('runSlideShow()', slideShowSpeed);
+}
+  </script>
+  </head>
+  <body onload="runSlideShow()">
+  
+    {CMS_EDITLINK}
+  
+    <!-- begin outer wrapper -->
+    <div id="outer_wrapper">
+        <div id="header_wrapper">
+                <img src="/images/logo2.png" alt="logo" />
+            <div id="header_nav">
+                <ul>
+                    <li><a href="/rick/" title="link">home</a></li>
+                    <li><a href="#" onclick="popup('contact.pl');" title="Email us">email us</a></li>
+                    <li class="last"><a href="#" title="link">guarantees</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div id="homepage_banner_wrapper">
+            <div id="homepage_banner_image">
+                {CMS_CONTENT3}
+            </div>
+            <div id="homepage_banner_links_outer">
+                <div id="homepage_banner_links"><img src="1.jpg" name='SlideShow' alt="image 1" /></div>
+            </div>
+        </div>
+        
+        <!-- content body -->
+        <div id="middlebody">
+            <div id="leftnav">
+                <div id="leftnavheading">
+                    <h1>Our Services</h1>
+                </div>
+                <div id="leftnavtext">
+                    {CMS_SERVICESNAV}
+                    <!-- ul>
+                        <li><a href="arch.pl">Architects</a></li>
+                        <li><a href="bath.pl">Bathrooms</a></li>
+                        <li><a href="carp.pl">Carpentry</a></li>
+                        <li><a href="refurb.pl">Complete Refurbishments</a></li>
+                        <li><a href="sparks.pl">Electrical &#38; Lighting</a></li>
+                        <li><a href="extens.pl">Extensions &#38; Conversions</a></li>
+                        <li><a href="gbs.pl">General Building Services</a></li>
+                        <li><a href="int_des.pl">Interior Design &#38; Decorating</a></li>
+                        <li><a href="kitchen.pl">Kitchens</a></li>
+                        <li><a href="loft.pl">Loft Conversions</a></li>
+                        <li><a href="plumb.pl">Plumbing</a></li>
+                        <li><a href="pp.pl">Planning Permission</a></li>
+                        <li><a href="roof.pl" class="last">Roofing</a></li>
+                    </ul -->
+                </div>
+                <div id="redline">
+                    <img src="/images/structure/spacer.gif" width="1" height="8" alt="#" />
+                </div>
+            </div>
+            
+            
+            <div id="indexmaintext">
+                <h1>
+                    {CMS_LINKTEXT}
+                </h1>
+                <div id="indextextarea">
+                    {CMS_CONTENT2}
+                </div>
+            </div>
+
+            <div id="rightpanel">
+                <div id="rightnavtext">
+                    <ul>
+                        <li><a href="#" title="Services">Service Offerings</a></li>
+                        <li><a href="#" title="link">Commercial Developments</a></li>
+                        <li><a href="#" title="link">Guarantees</a></li>
+                        <li><a href="#" title="link">Site Management</a></li>
+                        <li><a href="find.pl" title="link">Find Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!-- DO NOT remove the non-breaking space! -->
+        <div id="footer_separator">&nbsp;</div>
+        
+        <div id="footer_links">
+            <a href="#">link 1</a>|<a href="#">link 2</a>|<a href="#">link 3</a>|<a href="#">link 4</a>|<a href="#" class="last">link 5</a> 
+        </div>
+    </div>
+    <!-- end outer wrapper -->
+  </body>
+</html>
