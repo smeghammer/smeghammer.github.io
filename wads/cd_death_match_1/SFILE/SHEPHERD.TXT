@@ -1,0 +1,70 @@
+================================================================
+Title                   : SHEPHERD.WAD
+
+Author                  : Scott W. Shepherd
+
+Email Address           : sqs@inel.gov
+
+Misc. Author Info       : I am a Registered Professional
+                          Engineer (Civil/Structural) at the
+                          Idaho National Engineering Laboratory
+                          (INEL) - A DOE Nuclear Research Site
+                          and the birthplace of nuclear 
+                          generated electrical power.
+                          I live in Rigby, Idaho; the
+                          birthplace of TV (ie..CRT).
+
+Description             : This is my first PWAD and while not  
+                          the most flashy, it is solid. As far 
+                          as I know it has none of the STUPID   
+                          door and texture mismatches that make
+                          me want to scream and flame the author.
+                          Also, I kept it under a 100K and 
+                          didn't include any CyberDemons or
+                          Spiders.
+
+Additional Credits to   : Brittany - my daughter (5 years old)   
+                          for playtesting the easiest difficulty
+                          setting. 
+                          Ed A. - my DeathMatch playtester and 
+                          whipping boy!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (untested)
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (partially)
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : From scratch without a plan!
+Build Time              : Forever - 40+ Hours
+Editor(s) used          : Waded V1.17, BSP, and Reject V1.1. 
+                          Waded worked great except you
+                          can't preview the textures.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels or include it in a multi-level bundle; provided I  
+am given credit in the info file.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: The DOOM only server @ infant2.sphs.indiana.edu
+                                  /pub/doom/incoming
+                                  /pub/doom/wads
+================================================================

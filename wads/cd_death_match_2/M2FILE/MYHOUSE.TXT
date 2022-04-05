@@ -1,0 +1,50 @@
+================================================================
+Title                   : 70 Neponset St. in hell   
+Filename                : MYHOUSE.WAD
+Author                  : Dominic Anello
+Email Address           : none
+Misc. Author Info       : PipeBom >:-)<
+
+Description             : what my house would look like if it was taken over
+                          by fiends.
+
+Additional Credits to   : Authors of DEU 5.21, & Scruffy, Candlebox, Metallica
+                          Pantera
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU ver 5.21 
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels provided they credit the author of this WAD  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: SWC BBS: (508) 365-2359
+
+Other:

@@ -1,0 +1,47 @@
+SORROW.WAD <:-(
+
+-- After you unzip the file, make sure the .WAD file is in your DOOM
+   directory. 
+
+-- To play SORROW.WAD start DOOM by typing 'DOOM -FILE SORROW.WAD'
+   at the command prompt in your DOOM directory. 
+
+-- Start a new game from the menu and play EPISODE 2.
+
+-- The first mission of The Shores of Hell, (not Knee deep in the dead),
+   will be Sorrow instead of the normal one.
+
+                from -- Harris CGI <;-)
+				   <:-)
+
+PS:  Let me know what you think of the level.  If you see any of those 
+   @#$%@! unwanted effects, please tell me where so I can fix-'em.
+  (This does not include unwanted deaths.)
+
+This file is in no way related to, nor will be supported by ID Software.
+
+The Sorrow level was built using
+\ ------------\\  //---------\\  //----|    |----\\\ --------------//
+    ||           ||\|| ===========\||    ||    ||   || ||             ||
+    ||  =======  || || ||\_________||    ||    ||   || ||  ============|
+    ||  ||   ||  || || || |        ||    ||    ||   || ||  ||__________|
+    ||  ||   ||  || || ||========/\||    ||    ||   || ||  ||
+    ||  ||   ||  || ||         // /||    ||    ||   || ||  ||
+    ||  ||   ||  || || ||=====// / ||    ||    ||   || ||  ||=========\
+    ||  ||   ||  || || ||\------/  ||    ||   //   //  ||             \\
+    ||  ||  //    \\||  \\| /===/\ ||    || //   //  / ||              ||
+    ||  ||//      //\\\  \\////   ||\\   \\//  //  / |//============\\ ||
+    ||  |/      //   / \\  //   / /  \\      //  /   //------------ || ||
+    ||        //    /    \/   /    \  \======/ /                  | || ||
+    ||      //    /        \/       \--------/            /\=====\\ || ||
+    ||    //    /                                        /   \\   \\|| ||
+    ||  //    /                                           \    \\  \\| ||
+    ||//    /                    DEU 5.2                    \    \\    ||
+    |/    /                     >-------<                     \    \\  //
+    /   /               DOOM(TM) EDITOR UTILITIES               \    \//
+     \/                                                           \__/
+DOOM is a trademark of, and is copyright (c) 1993 by id Software, Inc.
+
+
+
+<end>

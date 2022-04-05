@@ -1,0 +1,58 @@
+================================================================
+Title                   : USQ IRC goes Deathmatch Hogwild
+Author                  : Chris Willacy
+Email Address           : q9323162@helios.usq.edu.au
+Misc. Author Info       : Protector of the Camel.
+			: Slayer of Gizlobbers.
+Description             : This WAD is a representation of the Uni
+                          of Southern Queensland L and T block buildings.
+                          Excellent deathmatch WAD. Weapons are fairly
+                          low level (Shottie, pistol, chaisaw. 
+			  This ensures maximum fairness and some cool
+                          shoot outs and fisticuffs. Loads 'o sniper positions,
+                          dark alleys, cool places to hide out. On 4 player
+			  this WAD should kick ARSE! (I hope...testing it on the
+			  weekend). Tested on 3 player. Groovalicious.
+Additional Credits to   : Deadly Dave (he of the Moonspammers), Moory 
+			  (also fellow Moonspammer and Pseudo-Echo piano guitarist
+                          look-a-like) and anyone else I happen to destroy on this
+			  wad. Also thanks to my playtesters: Georde, Matt, Deve
+			  Caity, Mick, Jules, and everyone else.
+			: Geoff Allan and ID software.			  
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : I guess...but theres no monsters.
+Cooperative 2-4 Player  : Oh yes. See comment 1 line up.
+Deathmatch 2-4 Player   : Yes indeed! Mucho fun!
+Difficulty Settings     : Nein.
+New Sounds              : No, but considering it.
+New Graphics            : No, but ditto.
+                        
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 6 hours which includes playtesting + 4 hours
+                          tweaking. Again, 23 hours spent swearing at Windows
+                          after it locked up 6,563,124,535,900 times.
+Editor(s) used          : DoomED 3.0b and IDBSP 1.something.
+Known Bugs              : None that i have found. E-mail me if you find any.
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels but whats the point? It's my creation not yours. Feel free
+to add weapons if you feel you are not gaining maximum sentence. This was designed
+as a deathmatch WAD. I don't wanna see it distributed with monsters (please).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+If you're reading this then you've probably got it. Happy shaggin' campers! Uh..
+i meant fraggin'.

@@ -1,0 +1,26 @@
+Just Another Death Match Level E1M1
+
+I threw this one together in a quick hour, it's a good low level Deathmatch
+level (shotgun,chainsaw & chaingun) very limited ammo, and only the shotguns
+are sticky :)
+I haven't tried it multi-player (yet), so there may be a few bugs with multi
+play.
+
+Note, textures aren't aligned well (or at all :), and for those wishing to
+go on to something better, the sparkly blue walls are the exits.
+
+
+One bug I do know about (but couldn't find in my brief search) is by the
+eastern player starting alcove, in the dark (normal play ;) the shaded
+triangle seems to bleed toward the player, if you figure this out drop me
+a note via choppe@hubcap.clemson.edu .
+
+Creator: Curtis Turner II
+Editor(s): DEU 5.0 w/BSP 1.0
+
+Future Concerns: Chainsaw Jousting, long hallway, two chainsaws, nuff said.
+
+'Cries in the heart of darkness' - A whole 9 huge new challenging levels
+(aka an episode :) figured release date: When it's done. :) :)
+
+

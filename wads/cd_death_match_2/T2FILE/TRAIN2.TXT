@@ -1,0 +1,66 @@
+Title                   : Space Marine Training Facility V2.0  
+Filename                : TRAIN2.WAD
+Author                  : Jon Oden
+Email Address           : oden@intnet.net
+Misc. Author Info       : 
+
+Description             :       The leaders of the Federation anticipating
+                          the possibility of an assult by the Denziens of Hell
+                          have constructed a training facility. The facility
+                          has been stocked with all weapons and plenty of ammo
+                          to train a marine in the use of various firepower.
+                                The Federation has also simulated, to the best
+                          of their knowledge, various beasts. Little is known
+                          about the creatures, so there might be more 
+                          formidable foes awaiting in the real attack. 
+                                The facitlity was built on the premise that 4 
+                          marines could simulate battle with each other, 
+                          because the limited knowledge of the beasts makes 
+                          for them to be rather predictable opponents.
+
+                                This is version 2.0 of my TRAINING.WAD. I
+                          modified it a little for the new respawning items
+                          in Deathmatch 2.0. I also added a few Multi-only
+                          items and a couple more monsters. Nothing special.
+
+
+Additional Credits to   : The Deathmatch Crew..They know who they are...
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : YES!! YES!! YES!!  
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU V5.2 (GO32/DOS Extended Version) and BSP 1.1x
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: a few BBS's...who needs em..go to the FTP site
+
+Other: none that I know of

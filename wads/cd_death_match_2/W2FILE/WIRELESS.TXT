@@ -1,0 +1,42 @@
+================================================================
+Filename                : Wireless.WAD
+Author                  : Gene Field
+CIS On-Line Name        : Wireless
+Additional Credits to   : None
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+
+
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : no
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Doom Editor V2.06b "The Real Thing"
+Known Bugs              : None, finally!
+Quote                   : "It's already three in the morning?"
+
+* Copyright / Permissions *
+
+Authors may use these levels as a base to build additional levels.  
+
+Do whatever the hell you want with this, you're going to anyway....
+
+Hey, all comments and criticism are welcome....
+
+* Where to get this WAD *
+
+Gene Field
+
+Compuserve Information Service # 75200.2123
+E-Mail:         

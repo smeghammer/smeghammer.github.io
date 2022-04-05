@@ -1,0 +1,14 @@
+                                The Hangar
+                                by Daugman 
+
+   This is a DOOM Registered Version PWAD file which replaces Episode 1,
+Mission 1.  The scenario is still a Hangar, except this one is tougher.
+The level has been completely redesigned using DEU v5.0 and BSP v1.1x.
+   To play this Mission, copy HANGAR.WAD into your DOOM directory and type:
+DOOM -FILE HANGAR.WAD
+   and then start DOOM as usual.  Select Episode 1 and start and you will be
+thrown into the thick of things.
+
+   This scenario may be difficult but it *CAN* be finished.  Take your time,
+have patience and grab another clip.  Enjoy!
+

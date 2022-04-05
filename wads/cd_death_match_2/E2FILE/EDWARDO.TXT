@@ -1,0 +1,49 @@
+================================================================
+Title                   : Mr. Edwardo :-)
+Filename                : EDWARDO.WAD
+Author                  : Mike Cole
+Email Address           : mikec@solano.community.net
+Misc. Author Info       : This is first .WAD file
+
+Description             : Lots of guns and invisabily things.  Play
+                          Ultra-Violence and it gets pretty hard.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomED 2.60 Beta 4
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+*Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu OR ftp.uwp.edu
+
+BBS numbers: (707)257-2380
+
+Other:
+
+

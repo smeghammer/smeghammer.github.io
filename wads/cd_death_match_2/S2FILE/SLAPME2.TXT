@@ -1,0 +1,56 @@
+================================================================
+Date				: 20/10/94
+Title               	   	: Slapme   
+Filename         	   	: SLAPME2.WAD
+Author                  	: Andrew J. Hulme
+Email Address      		: Andrew@metnov1.bham.ac.uk
+Misc. Author Info       	: "The new sawn off shooter - man's best friend"
+
+Description             	: This is an updated version of slapme for Doom II. It's a deathmatch only WAD set around a castle coourtyard type thing. There are lots of good sniper points and look out for the secret passages for the extra bonuses, the slimey walls inside give them away. Give your mates a right good slapping with this wad.
+
+Additional Credits to   	: Adam Gilchrist and Andy Banks for playtesting, when they should have been working. Ta to all the folks who have written the various editors. ID software are owed a mention cos Doom II is the dog's.
+================================================================
+
+* Play Information *
+
+Episode and Level #    	  	: Map 01
+Single Player        	  	: No 
+Cooperative 2-4 Player    	: No
+Deathmatch 2-4 Player    	: YES, YES, YES.
+Difficulty Settings     	: Not implemented
+New Sounds                    	: No
+New Graphics                 	: No
+New Music              	 	: No
+Demos Replaced            	: None 
+
+This level will work with 1-4 players normally but its shite cos there are no monsters. 
+
+* Construction *
+
+Base                   	 	: New level from scratch 
+Time taken		 	: Longer than the first one
+Editor(s) used         	 	: DEU v5.21gc, BSP 1.2 for the original then edmap 1.2 to update.
+Known Bugs                   	: Some textures are not aligned (I couldn't be arsed to do it).
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu and mirrors.
+================================================================
+
+Life, Liberty and Fruit of the Loom.
+
+Andrew.

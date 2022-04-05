@@ -1,0 +1,2 @@
+doom -file dave.wad
+

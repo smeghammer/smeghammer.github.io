@@ -1,0 +1,18 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+        This is my first attempt at a decent playing wad. This one is made
+        for deathmatch only. It chunks a bit on my 486/33 but thats because
+        I only have 4 megs of ram. Even though it's 12K it's not that small,
+        just the perfect size for deathmatch!
+
+        Anyway, warm up on the monsters, then toast some friends. Coop sucks
+        so play deathmatch. Oh. It's e1m1. 
+
+                email comments, complaints, or really nice jpegs to:
+                  ->    cw001c@uhura.cc.rochester.edu    <- 
+
+                  created with that fun fun deu 5.0 / bsp combo.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ps. next time i'm really bored i'll fix this one up. thpt.
+

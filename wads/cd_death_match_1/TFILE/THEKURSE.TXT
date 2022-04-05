@@ -1,0 +1,55 @@
+================================================================
+Title                   : THEKURSE.WAD
+Author                  : Sean Swanson
+Email Address           : kurse@cml.com
+
+Description             : I have made a lot of quicky deathmatch 
+                          and co-op levels.  This is my first single-
+                          player level.  I worked a LONG time on this
+                          level, and it's pretty big.  It consists of 
+                          4 main areas.  The first is the entance hall,
+                          the second is to get the keycard to get to the
+                          3rd and so forth.  I didn't implement skill
+                          levels, but it CAN be ended alone on Ultra-
+                          Violence, I have tested it, as well as some of
+                          my doom buddies.  I added in extra monsters and
+                          weapons for multiplayer <cyber-demon>.  I suggest
+                          you play with no monsters when playing death-
+                          match.  I also put in many secret area's, so try
+                          and find those.  This is my first "professional"
+                          level, so I'd appreciate any comments about what
+                          you think of it.
+
+Additional Credits to   : Maker's of DEU and BSP.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No (can be ended on Ultra-Violence)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A long time
+Editor(s) used          : DEU 5.1 and BSP 1.0
+Known Bugs              : None (may get slowdown on multiplayer co-op)
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels as long
+as credit is given.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

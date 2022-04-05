@@ -1,0 +1,43 @@
+* General Information *
+============================================================================
+
+Title                   : FERTILE.WAD
+Author                  : Kenneth S. Forte
+Email Address           : fusioncon@cup.portal.com
+Additional Credits to   : The authors of DOOM, DEU, and BSP, of course.
+Description             : Yet another hack and slash and bite and kill in
+                          any way you possibly can before you run out of
+                          ammunition level. Good for single player or
+                          cooperative play. Not too good for deathmatch.
+                          This is probably the last level I create that
+                          isn't specifically for Deathmatch play. (Do I
+                          hear cheering?). Enjoy.
+
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E2M5
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : About 6 hours.
+Editor(s) used          : DEU 5.0 and BSP 1.1x
+Known Bugs              : None known.
+
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

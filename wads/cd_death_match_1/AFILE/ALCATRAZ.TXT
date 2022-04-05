@@ -1,0 +1,125 @@
+
+
+                          ASSAULT on ALCATRAZ!
+
+
+   Welcome to another production by Critical Edge.  I hope you liked 
+   MURDER2, my first level.  
+
+
+   The story so far...
+
+   -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+   You are J.R., a member of the elite Delta Force.  Your group is
+presently inflight to San Francisco after a very short and tense briefing.
+It appears the rumors were true.  And the reality is even worse.  
+
+   A year ago some special "prisoners" were captured.  Where and how were
+never revealed.  These prisoners, however, were quite different from us and
+could not be reasoned with.  The old Alcatraz prison, an island off the
+California coast, was quietly renovated and with the highest of security
+held the prisoners for observation.  Until now.  A full scale revolt took
+place eight hours ago.  It seems that one group of inmates, with brown
+scales and claws, could inflict a nerve poison through scratches.  The
+guards were overpowered and apparently, because of the poison, are now
+teamed up with the revolt. Fortunately, escape from Alcatraz has never been
+documented.  Your team is to regain control of the island and allow no 
+escapes...AT ALL COST!  
+
+   You check your parachute buckles as you are motioned to the howling open
+jump door.  The tiny island is barely visible below you in the thick fog
+as a hand on your shoulder signals your turn.  You leap.  The descent is
+a chilling one.  Ominous dark shapes dart through the waters below and the
+prison grounds are littered with bodies.  As you pull your cord, warning 
+shouts come from the prison.  The billowing American flag below gives you the
+warning to pull hard to the right as you drift directly over the main
+building.  You look back to see your buddies 'chutes catch the downdraft
+you just avoided.  Helplessly you watch as they plummet directly into the
+assembly grounds.  A snipers bullet from one of the guard towers catches
+you in the leg as you clear the building and drop to the ground outside
+dangerously close to the cliff edge. Damn, who shot me? The screams and 
+gunfire fade. Hastely, you unbuckle your harness and enter the prison from 
+the guards entrance.  
+
+   You place your riot gun on the deck as you expertly bandage your leg.
+Just a flesh wound.  The din of metal cups and utensils being pounded on the
+tables in the cafeteria beyond is deafening. You hope your buddies are 
+okay as you start in...
+
+============================================================================
+Title                   : Assault on Alcatraz   
+Filename                : alcatraz.wad, alcatraz.txt, alcatraz.bat
+Author                  : Lawrence Britt   <Critical Edge>
+Email Address           : lbritt@bev.net                              
+                          l.britt2@genie.geis.com  
+
+
+Misc. Author Info       : I've been Deu'ing levels ever since we figured out 
+                          how to.  This is my second public release. Enjoy!
+
+Description             : Take back Alcatraz at all costs!
+                          P.S. I hope everyone enjoys my sick humor!
+
+Additional Credits to   : id Software, authors of DEU, BSP, Wad tools,
+                          Dmgraph, Dmaud, Dmfe, all of my GEnie pals and
+                          all of my playtesters at the Bat Ranch.
+============================================================================
+
+* Play Information *      For reg. DOOM (1) Ver 1.666 only. The demo won't
+                          work on prior versions, and HOM exists on prior
+                          versions (I took advantage of the improved engine)!
+                          Don't warp to the level as you will miss the intro.
+
+Episode and Level #     : E2M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, there are nine reincarnation spots as well as
+                          multi-player-only ammo and weapons.
+Difficulty Settings     : Yes
+New Sounds              : Not for this release.
+New Graphics            : Bunches! Title screen, menu selections, End mission
+                          screen, new sky, and many wall textures. Stand on
+                          the island and check out the fog!
+New Music               : Not for this release.
+Demos Replaced          : Demo 1
+
+* Construction *
+
+Base                    : New level from scratch
+Build time              : Three months (I didn't keep track of hours!)
+Editor(s) used          : Deu GCC 5.21, BSP 1.2, NeoPaint, Wad Tools 1.0,
+                          Dmgraph 1.1, Dmaud 1.1, Dmfe 0.0.1
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels (it's 
+too big anyway!).  
+
+You MAY distribute this WAD, provided you include this file (alcatraz.txt),
+the original WAD (alcatraz.wad) and the batch file (alcatraz.bat) with no 
+modifications.  You may distribute this file in any electronic format (BBS, 
+Diskette, CD, etc) as long as you include these files intact pursuant to the 
+following limitation:
+
+YOU MAY NOT DISTRIBUTE THIS WAD AS PART OF A COMMERCIAL PRODUCT WITHOUT
+MY PRIOR WRITTEN PERMISSION!
+        
+You may distribute this WAD to commercial and private BB systems.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.uwp.edu
+           ftp.wustl.edu
+           ftp.cdrom.com
+
+Other:     On GEnie, in Scorpia's Gaming Library #30.
+                                                  ,       ,
+           And at the Bat Ranch, of course!      / \     / \
+                                               /     \^/     \
+                                                     ,,
+                                               
+============================================================================

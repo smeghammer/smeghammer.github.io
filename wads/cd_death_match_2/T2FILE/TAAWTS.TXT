@@ -1,0 +1,49 @@
+================================================================
+Title                  : TAAWTS.WAD (Things Aren't Always What They Seem)  
+Author                 : Keith Sebesta
+ 
+Description            : 2 levels, plenty of ammo & power-ups (You'll need em),
+			many puzzles, lots of new tricks, not for the squeamish.
+			Designed for two players but OK with one or three.
+			Simple hints - 	TAAWTS 
+			    and	     -	Have you hugged your CYBER today 
+
+Additional Credits to  : Kris Sebesta .aka Hunter/Killer. 
+			for testing and feedback. 
+			Makers of DEU
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1,E2M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, best with two 
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : To many. 
+Editor(s) used          : DEU 5.0, 5.1
+Known Bugs              : Must be built with DEU 5.0
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:
+
+Other:
+

@@ -1,0 +1,95 @@
+================================================================
+Title                   : SCARVES.WAD
+Author                  : Andrew Scarvell
+Email Address           : chriss@sequent.com (elder brother doing younger
+                          a favor)
+
+Misc. Author Info       : Known to like playing DOOM.
+
+Misc. Brother Info	: Conned into submitting this to the net. I take no
+                          responsibility for the contents of this file or the
+                          attached wad. That being said, it is a rather good
+                          example of the genre - Good design, no HOM,
+                          inappropriate or misaligned textures, and very
+                          hard >:)
+                          Anyway, here it is in the words of the Author...
+
+DESCRIPTION
+
+KILL, KILL, AND KILL SOME MORE.
+
+Puzzle wads really shit me off!! All that happens is you die 30 times trying
+to work out what combination to press the buttons (or whatever), and then
+never look at it again. I love playing DOOM, and I like new walls
+and doors in the same way that I like new scenery. What I had in mind when I 
+started designing this level was something to give a challenge to the most
+seasoned DOOM player. I believe that I have succeeded.
+
+This level does have it's fair share of tricks and traps, but basically I
+see them as just being new ways of introducing beasties onto unsuspecting
+(or just complacent) players. Words of warning appear below:
+
+1)      The level gets tough from the word go. Now you can't say that I 
+        didn't warn you.
+
+2)      If it looks like a trap, then it probably is. NB - I design traps
+        to KILL, not just scare. If you get killed the first time (and you
+        probably will), don't get too discouraged. Shit happens.
+
+3)      a big APOLOGY to those people who hate it when wad authors use
+        darkness excessively as a way of making mosters nastier. My 
+        darkened maze area has been known to piss the play testers off,
+        but in consideration of this there are two (2) sets of light amp. 
+        goggles available. Both are very hard to get. One is obvious (just 
+        don't get killed), and the other is in a secret area that shows   
+        up on the computer map.
+
+4)      If you can't find the red key, don't despair - it isn't hidden,
+        probably just disguised by monster bodies. Go and have another look.
+
+5)      If you think that it is too hard, then play it on an easier level.
+        'Hurt Me Plenty' is about equivalent to standard 'Ultra Violence'.
+        Don't feel ashamed - even I die about 50% of the time.
+
+Additional Credits to   : The authors of DEU and BSP.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M3 (just to be different)
+Single Player           : Yes.
+Cooperative 2-4 Player  : Yes. 
+Deathmatch 2-4 Player   : Yes. Lots of extra goodies for deathmatch. It
+                          should be fun, especially in the dark maze.
+Difficulty Settings     : Yes. Don't feel ashamed to use them, as this level
+                          is specifically designed to challenge even the
+                          most hardened DOOM players.
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : One. Watch it anyway - I punch out a cacodemon and
+                          chainsaw a baron to death, just to prove how stupid 
+                          I am. (it also shows how to complete the level
+                          - Big Bro)
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Many, many, many days  
+Editor(s) used          : DEU 5.21(GCC), BSP1.1x
+Known Bugs              : None.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, provided that I am given credit. If you do use it for some purpose 
+or another, please drop a line (I get a warm glow).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications except to mark any new FTP sites, BBS numbers, 
+etc. it may be got from. You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+infant2.sphs.indiana.edu (of course!)

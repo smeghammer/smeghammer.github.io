@@ -1,0 +1,50 @@
+
+================================================================
+Title                   : Harborside in hell   
+Filename                : Harbor.WAD
+Author                  : Chris Regenye
+Email Address           : ElkorAlish@AOL.com
+Misc. Author Info       : 
+
+Description             : Lots of large panoramic scenes.  Not a                           
+                          kiddie wad, many hours of professional                                                   
+                          work went into this!
+
+Additional Credits to   : Schmoltz, for his time and constant                                                 
+                          nitpicking.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 (,ExMx,...)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch 
+Editor(s) used          : Deu 5.12 Bsp 1.1x
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT  use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+

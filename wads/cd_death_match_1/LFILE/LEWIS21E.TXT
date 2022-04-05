@@ -1,0 +1,13 @@
+Hi,
+
+This is the E version of my canyons/outdoor wad. It is 99% complete.
+On monday, I will upload the final version, IF there is a final version.
+Please play this and enjoy. If you see errors or bugs in the WAD,
+please email lewis@c2d2e2.wes.army.mil. I can complete it fairly easily
+tho I do know the teleport sequence and I know where the stuff is.
+
+Thanks to the creators of DEU 5.0 and BSP 1.0. I made the level with
+DEU 5.0 and rebuilt the nodes with BSP 1.0. Thanks!
+
+Lewis
+lewis@c2d2e2.wes.army.mil

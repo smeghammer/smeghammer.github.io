@@ -1,0 +1,45 @@
+
+================================================================
+Title                   : SPIRAL.WAD   
+Author                  : KURT & CAROLYN SCHULENBURG
+Email Address           : COMPUSERVE 76360,3125
+Misc. Author Info       : 
+
+Description             : VERY CHAOTIC WAD.  TOUGH BUT CAN BE DONE.
+
+Additional Credits to   : OUR SON, KARL, "JUST A MINUTE, ONE MORE THING..."
+			  AND MEGA-DEATH MARTY!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes?
+Deathmatch 2-4 Player   : Yes?
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 1 WEEK 
+Editor(s) used          :DOOMED, THE REAL THING; DEU; BSP 
+Known Bugs              :NONE 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+COMPUSERVE

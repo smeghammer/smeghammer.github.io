@@ -1,0 +1,31 @@
+  Well, here's my first attempt at a Doom patch .wad.  I think
+it turned out pretty well.  Reactor.wad was created using Waded
+versions 1.17 through 1.23 by Matthew Ayres.  The nodes were built
+by BSP version 1.1x. (Sorry, Matt.  Your node builder was still
+giving me problems.  You still have the best editor out there, 
+though.)  
+  All the difficulty levels are active as are cooperative and 
+deathmatch multi-player games.  The game might be a bit slow on
+Ultra-violent over the modem, though.
+  I don't think there are any bugs in this .wad at all.  No HOM
+effects or texture alignment problems that I could find.  
+  Basically I set it up to look like the Doom dudes had taken over
+a nuclear reactor.  I'm particularly proud of the reactor core 
+room.
+  To play Reactor, unzip all files into doom directory and use 
+this command line:
+
+doom -file reactor.wad
+
+then start a new game in episode 1.
+
+  To play the demo of Reactor being beaten on Ultra-violent:
+
+doom -file reactor.wad -playdemo reactor
+
+  If you have any comments about Reactor.wad, you can contact me 
+on the Internet at scott46901@aol.com.
+
+
+                                         Enjoy,
+                                         Scott Crank

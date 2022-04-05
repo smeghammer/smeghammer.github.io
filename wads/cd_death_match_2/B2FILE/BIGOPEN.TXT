@@ -1,0 +1,70 @@
+================================================================
+Title                   : The Big Open
+Filename                : BIGOPEN.WAD
+Author                  : Mark Riel
+Email Address           : roc@eskimo.com
+
+Misc. Author Info       : Just Another Doom Enthusiast.
+
+Description             : Thought I'd stretch the DOOM engine a bit. This
+                          level is wide open, with six main areas. Its the 
+                          biggest PWAD I've made or ever seen. That is, big
+                          in area, not sectors and such. 
+                          It did hang the game for unknown reasons, so 
+                          maybe there is a size limit. Its too big for a 
+                          good deathmatch unfortunatly, though the starts
+                          are there.
+                          I like the sense of moving to a distinct -new-
+                          area. DOOM has little continuity...one area, hit a
+                          switch, poof, new area.  I would prefer a future
+                          with a wide open map...quake? You only get a
+                          sense of that here.
+
+Additional Credits to   : Creators of DEU, BSP, RMB (reject builder). 
+                          And, of course, id Software.
+                          
+                          And thanks to E.R. for playtesting & ideas.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes, HMP and UV. 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1 (bigopen.lmp included- v1.9)
+
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : Deu2,RMB
+Known Bugs              : Some single column glitches. BSP seems to create
+                          these when there are a lot of curves.
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+  ftp.cdrom.com?
+
+BBS numbers:
+
+Other:
+
+

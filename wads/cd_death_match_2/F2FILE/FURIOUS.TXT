@@ -1,0 +1,69 @@
+================================================================
+Title                   : FURIOUS (DOOM II Deathmatch PWAD)
+Filename                : FURIOUS.WAD
+Author                  : Tim (The TIMinator) Ash
+Email Address           : tim.ash@cyberstore.ca
+                          74724.374@compuserve.com
+Other PWADS by Author   : LOSTLEVL.WAD (DOOM)
+                          APYCLPSE.WAD (DOOM)
+                          GLADIATR.WAD (DOOM)
+                          CITADEL2.WAD (DOOM2)
+Description             : This PWAD is a mod of the original E1M1 mission
+                          in DOOM that has been revamped for OPTIMUM
+                          DOOM2 deathmatch play.  Yea, I know, you're 
+                          thinking "Oh great, another E1M1 mod...", but
+                          trust me, this one is GREAT for DM. Over 30 hours of 
+                          playtesting on a 4 player network has contributed
+                          to making this level a superior Deathmatch PWAD.
+
+Additional Credits to   : Bob Baum, Dave King and Scott West for thier
+                          playtesting and input.
+                          John Romero, for original design of the level
+                          and ID Software for the game we all love to play.
+                          Kenneth S. Forte for the great sound FX.  Check
+                          out his sound PWAD, YADSPWAD, it's great.                          
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : Yes (Not much point though...)
+Cooperative 2-4 Player  : Yes (Oh sure, this will be REAL fun...)
+Deathmatch 2-4 Player   : Yes!!!!!
+Difficulty Settings     : Yes - Skills 1 & 2 is designed for DEATHMATCH play. 
+                              - Skills 3 - 5 are for ALTDEATH play.
+New Sounds              : Yes (Provided mostly to make Deathmatch more fun)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : E1M1 of DOOM - by John Romero.
+Editor(s) used          : DEU2 v5.21, EDMAP v1.20, BSP v1.2, DMAUD v1.0,
+Known Bugs              : None - extensively playtested.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+Just give credit where credit is DEU..
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+* Running this WAD *
+
+  All participating players must have a registered copy of DOOM II
+and a copy of FURIOUS.WAD.  Use the -FILE parameter with -WARP 01
+at the command line.
+
+  FEEDBACK!!!!!  Please let me know what you and your Deathmatch buddies
+think of this WAD.  Send me a message or even some LMP recordings!
+
+* Where to get this WAD *
+
+FTP sites:          ftp.cdrom.com:/pub/doom2/levels/deathmatch (eventually)  

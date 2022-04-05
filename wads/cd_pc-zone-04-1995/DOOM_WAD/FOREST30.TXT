@@ -1,0 +1,71 @@
+================================================================
+Title                   : FOREST.WAD ver 3.0
+Author                  : Jean-Serge Gagnon
+Email Address           : az589@freenet.carleton.ca
+Misc. Author Info       : I am a computer service technician.
+
+Version Info            : With ver 3.0, I added a preview level taken
+                          from my upcomming OTTAWAU.WAD. It is E2M5,
+                          take a look at it!
+
+Description             : Forest is a five mission PWAD with new
+                          graphics. Look at the sky and watch for
+                          'graphiti' on some walls.
+
+Additional Credits to   : Peter Naus (petern@hparc8.aus.hp.com) and
+                          Daniel J. Deighan (djdst22+@pitt.edu).
+                          As everybody else is stating, a big hand to ID
+                          for giving us such a great game, and of course,
+                          thanks to:
+                          Raphael Quintet & Brendon J Wyber for DEU 5.21,
+                          Per Allansson & Per Kofod for DEU 5.21 (GCC),
+                          Collin Reed for BSP 1.2x,
+                          L.W. Witek for REJECT 1.0,
+                          Bill Neisius for DMGRAPH 1.1,
+                          Jeff Miller for Wad Tools 1.0 and
+                          the author of WadMaster ver 1.0
+
+How to use this PWAD    : Simply type FOREST at the DOS prompt.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1, M2, M3, M4 & M5. (M5:preview of OttawaU.WAD)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New demos               : Yes
+New Sounds              : No
+New Graphics            : Yes
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : Many weeks of hard work!
+Editor(s) used          : DEU 5.21, BSP 1.1x and REJECT 1.0
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu  in /pub/doom/wads/d-f
+           gaaj.cosmos.uottawa.ca    in /public/doom
+           bear.montefiore.ulg.ac.be in /pub/doom/wads/episode2
+           ftp.cdrom.com             in /pub/doom/wads/d-f
+
+    Until it is moved to the proper directory (except for gaaj), look
+    for the file FOREST??.ZIP in the incoming directories.
+
+For the newest version of the FOREST valley PWAD, and other PWADS by
+me, check the official DOOM FTP site, infant2.sphs.indiana.edu or my
+personal PC; gaaj.cosmos.uottawa.ca (while it's on the net).
+===========================================================================

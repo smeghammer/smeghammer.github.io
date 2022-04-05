@@ -1,0 +1,62 @@
+Title                   : 2BAD.WAD, version 1.0
+Filename                 :2BAD.WAD  (E1M6 replacement)
+Author                  : Tom Petrillo
+Email Address           : TommyP69@aol.com
+Misc. Author Info       : Age: 24, Occupation: Electronics Tech
+
+Description             : A couple of cavernous rooms with too many monsters,
+                               snipers up high, lots of trip wires - watch yer' back.
+                               Because of the amount of monsters in Ultra-Violence,
+                               the game may be choppy on slow machines.
+
+
+Additional Credits to   : Mumbles, Fat Boy, Phil, DEU authors.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M6 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos                   : None with this release
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.0, 5.1, & 5.2
+Known Bugs              : I am aware of a few small flaws,
+                          however these do not affect gameplay,
+                          except the first door sometimes locks up.
+                          I've decided to release this and perhaps
+                          create an update level in the near
+                          future.
+
+Disclaimer          : I not responsible for anything, I didn't do it!
+
+* Copyright / Permissions *
+
+Authors (MAY/may NOT) use this level as a base to build additional
+levels.  I take suggestions and advice very seriously; if you would
+like to see this PWAD modified, please send email to TommyP69@aol.com
+I'll be sure to provide a prompt response & an update when
+available!
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu 
+
+Other:        America Online - direct email to me!
+
+Happy Slaughtering!

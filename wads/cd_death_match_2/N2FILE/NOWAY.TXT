@@ -1,0 +1,72 @@
+================================================================
+Title                   : NO Way No How are you going to make it out alive.
+Filename                : NoWay.WAD (DOOM2 WAD FILE)
+Author                  : Eric Varner
+Email Address           : 75460,612 compuserve
+Misc. Author Info       : 
+
+Description             : You have just been assigned to the Red Dog recon 
+                         patrol, Your mission is to beem in and help wipe out 
+                         anything that moves and secure the area. Only one 
+                         thing they didn't tell you. You are going in alone. 
+                         They know you are the best at your job and you know 
+                         you are the best but it might not be enough to 
+                         survive. No one has heard from anyone else from 
+                         the recon patrol in over 12 hours.
+                           With a farewell look and a pat on the back you 
+                           close your eyes and ......
+
+
+Additional Credits to   : My wife, who came up with the floor plan.
+                          My brother and all the doomers at Georgia Power for
+                          play testing after hours.
+                          The awsome doomers at Id!
+================================================================
+
+* Play Information *
+
+Level #     : 1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : NO ( TO BIG)
+Difficulty Settings     : Yes
+New Sounds              : no
+New Graphics            : NO
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : deu2, BSP
+Known Bugs              : None that I know of.
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+You may do whatever you want with this file. Yeh, that too!
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:Try Compuserve or The main ID #
+
+
+Any comments will be greatly appreciated. 

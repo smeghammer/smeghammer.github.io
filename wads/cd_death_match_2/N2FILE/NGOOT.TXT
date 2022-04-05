@@ -1,0 +1,20 @@
+This is a Wad file for Registered Doom only Produced with DEU 5.1
+
+Ngoot means Now Get Out Of That!   to run this wad file you need to
+enter the following command line.
+
+doom -file ngoot.wad
+
+This file is in its design stage still so there may be some mistakes
+but all in all it is a rather large and difficult level to complete
+without cheating.... Specially with 5 Barons protecting the only path to
+the exit :-)
+
+Hope you enjoy it....
+
+Michael Forster
+Fidonet: 2:252/108
+texukrc@cix.compulink.co.uk
+yacht@spuddy.uucp
+
+

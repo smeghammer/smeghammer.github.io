@@ -1,0 +1,44 @@
+================================================================
+Title                   : Horror.WAD   
+Author                  : Todd Rodowsky
+Email Address           : oncore@interflex.com
+Misc. Author Info       : 
+
+Description             : Search and destroy, watch your "six". 
+			  This is a Deathmatch, Deathmatch+Co-op 
+			  level only.		
+Additional Credits to   : Ted Rosenbladt for playtesting and
+			  critiquing
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : -
+Cooperative 2-4 Player  : -
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : - (Deathmatch only)
+New Sounds              : -
+New Graphics            : -
+Demos Replaced          : -
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A month? (about 15 hrs.)
+Editor(s) used          : DEU
+Known Bugs              : A certain attempted duck-blind failed
+			  to work.  Still trying to take care
+			  of it....
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. Include my name when you give out this level.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+

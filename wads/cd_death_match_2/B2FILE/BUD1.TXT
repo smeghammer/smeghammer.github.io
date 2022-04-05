@@ -1,0 +1,56 @@
+================================================================
+Title                   : Bud1
+Filename                : bud1.wad
+Author                  : Galen "Bud" Light
+Email Address           : GALight@aol.com
+Completion Date         : 3-14-95
+Misc. Author Info       : I'm a perpetually poor student and this is 
+                          the first doom level I have ever designed.
+                          Infact, the first time I played doom was 
+                          12-31-94, thats right New Years Eve just a
+                          few months ago.  
+
+                                *********PLEASE********
+                     Send me e-mail and let me know how you like it.
+                            
+
+Additional Credits to   : id software, and the deu editor.
+================================================================
+                              
+* Play Information *     
+                           
+Map #                   : MAP01
+
+Single Player           : Ya, but it's tough!
+Cooperative 2-4 Player  : You might need to if you can't solo.
+Deathmatch 2-4 Player   : That's what it's designed for!!!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU
+Known Bugs              : Occasionally it will lock-up on slower 
+                          machines when you jump off near the soul
+                          sphere and look at the complex steps.
+
+   * Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:  ftp.cdrom.com
+
+Soon to come...AOL.

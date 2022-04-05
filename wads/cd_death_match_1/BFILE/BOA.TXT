@@ -1,0 +1,65 @@
+================================================================
+Title                   : Boa.WAD Baron on an Altar  
+Author                  : Andrew Murphy
+Email Address           : amurphy@hurri.kean.edu, murfs1@aol.com
+Misc. Author Info       : First really cool wad, probably be level
+                          seven in my "Barons Everywhere" episode
+                          which is now just 2 levels from completion
+                          It will be without an orginal secret level
+                          because episode 2's secret level has four
+                          barons in one room. This level contains the
+                          secret ending to the secret level
+                          
+Description             : Dark and Stoney, lots of marble all around
+                          Tons of enemies to kill, and you must
+                          use strategy or you'll get your ass kicked
+                          really bad. Running into rooms with a 
+                          flaming gun will make you dead real fast.
+                          Has some stairwells, and a spiral staircase
+                          that I think is a first in wads (if not
+                          tell me).
+
+Additional Credits to   : Id, The Just DEU it guys, the Selmer Company
+                          and Herman the Stealth Cat.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M5
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes, Clouds by Sambi Katano      
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Two weeks, tried to make it while 
+                          studying for finals 
+Editor(s) used          : Deu 5.21gcc, BSP
+Known Bugs              : NONE (perfection comes to those who work hard)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, if they give me proper credit.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:  Treefort (908) 388-3496
+              The Vector (908) 276-4405
+              
+Other:   American On-line

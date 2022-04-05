@@ -1,0 +1,50 @@
+================================================================
+Title                   : Claflin Hall goes to Hell
+Author                  : Scott Kearney
+Email Address           : skott@acs.bu.edu
+Misc. Author Info       : 
+Description             : This level is a take-off of my Dorm
+                          (Claflin Hall) at Boston University.
+                          There have been many elements added to
+                          make it interesting.  This is my first
+                          Wad, yet it doesn't suck!
+
+Additional Credits to   : my dedicated band of playtesters 8^)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes, two
+Difficulty              : 7/10
+New demos               : No
+New Sounds              : No, get my Classic?.zip (classics.wad) !!!
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 40 hours, plus playtesting
+Editor(s) used          : DEU 5.1, BSP 1.1x
+Known Bugs              : 
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+Wuarchive.wustl.edu
+infant2.syphs.edu (I think that's it.  Darn I never can remember it)
+ftp.uwp.edu
+
+

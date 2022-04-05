@@ -1,0 +1,67 @@
+Title                   : SQUALOR.WAD
+Date Finished           : 1-2-95
+Author                  : Kurt Dillard
+Email Address           :kurt@dillard.com
+Other Files By Author   :CASTLE.WAD & KEEP.WAD
+Misc. Author Info       : Second best deathmatch master of Austin
+
+Description             :.While I have constructed many maps for DOOM and DOOM II this is the first map that I feel proud enough of to post to the net. It's deathmatch only. Everyone here at my office enjoys it, let me know what you think. I put a few monsters in along with all of the weapons and powerups. Not really intended for Deathmatch II, but you can try. I tried to include some good sniper spots while using varying light levels to make the level more of a hunt and chase style of fighting rather that a free for all such as level seven of DOOM II.
+
+Additional Credits to   : The authors of DOOM II, DEU, DEU II, and BSP!
+===========================================================================
+* Type of DOOM or DOOM II file*
+
+(Choose One)
+New level WAD           : Yes 
+Sound PWAD Only         : No
+Music PWAD Only         : No
+Graphic Addon Only      : No
+Dehack Patch Only       : No
+.LMP Only               : No
+Required To Have In Dir :n/a 
+
+* Play Information *
+
+Map #                   : Map 01 (For DOOM II only)
+Single Player           : No 
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : No 
+New Sounds              : No
+New Music               : No
+New Graphics            : /No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch 
+Build Time              : 40 hours
+Editor(s) used          : DEU II and BSP
+Known Bugs              : Why would I post it with bugs?
+May Not Run With...     : ?
+
+* Copyright / Permissions *
+
+Authors (MAYuse this level as a base to build additional
+levels. Just give me a little credit! 
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+Compuserve Gamers Forum and Modem Gamers Forum
+
+FTP sites:
+ftp.cdrom.com
+ftp.orst.edu
+
+BBS numbers:
+
+Other:

@@ -1,0 +1,74 @@
+================================================================
+Title                   : WEEKEND.WAD
+Author                  : Brian Strough
+E-mail Address          : None at this time.......
+
+Additional Credits      : id Software, for making the greatest game in the world!
+                        : Jeff Rabenhorst for EdMap 1.31. Are there any other editors?
+                        : Greg Krzycki for several hours of Deathmatch 'Debugging'
+                        : My wife, Tina, who puts up with all this shit and still loves me!
+                        : My 4-year old son, Derek, for helping me "open", and "shoot".
+
+
+Description             : DOOM ][ DEATHMATCH WAD
+                          After playing many, good Deathmatch PWADS, and building
+                          a couple, I decided to build a fast, high-frag DeathMatch 
+                          wad. It has a central, open 'arena' to battle in with
+                          surrounding passageways, a couple of dark shortcuts and 
+                          NO shortage of weapons or ammo. You will amass MANY,
+                          MANY frags here!!!!!
+                        
+Instructions            : Put WEEKEND.WAD in your DOOM2 directory, change to that
+                          directory and type "doom2 -file weekend.wad -warp 1 -skill <#>"
+                          
+Disclaimer              : I assume no responsibility for anything of any sort,
+                          in any way, shape, or form--now, then, henceforeward 
+                          in this life (or the next several) for any screw-ups
+                          or even minor inconveniences this PWAD causes you,
+                          your family, your relatives, friends, ancestors,
+                          associates, employers, pets, neighbors, lovers,
+                          congressional representatives, nor any other person--
+                          living, dead, or undead -- that you have or will ever
+                          have any contact with in even the slightest form.
+                          This PWAD has been tested and tested and tested, so
+                          it shouldn't mess with your computer or anything else
+                          remotely associated with it.  But if it DOES, then
+                          that's just TUFF SHIT! Don't even come lookin' for me.
+                          It must be something YOU did. 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01 
+Single Player           : Yes, but why even bother. You'll clear it in a minute or two, then what?
+Cooperative 2-4 Player  : I suppose so, but it's never been tested. The wad does have 4 start positions.
+Deathmatch 2-4 Player   : Duh! Isn't this why id made this game?
+Difficulty Settings     : 4,5
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 4-5 hours.      
+Editor(s) used          : EdMap 1.31 by Jeff Rabenhorst
+Known Bugs              : None
+Unknown Bugs            : What?
+
+* Copyright / Permissions *
+
+Oh, yea. You'll read this and be scared to modify it. 
+Authors MAY use this level as a base to build additional levels.
+Shoot me a copy if possible.....
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+ftp.cdrom.com and mirror sites
+The SweetBriar BBS (402) 423-3630 -- Keith Steinkamp, Sysop.

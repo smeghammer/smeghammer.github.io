@@ -1,0 +1,41 @@
+================================================================
+Title                   : HOUSE.WAD   
+Author                  : Dean Helsley
+Email Address           : <none>
+Misc. Author Info       : <none>
+
+Description             : There are absolutely no creatures to
+                          kill in this level.
+
+                          This is a close approximation of
+                          my house (location of valuables not
+                          included!).  I was surprised how quickly
+                          it grew in size.  Alot more could be done
+                          if changing the textures was easier.
+
+                          Maybe ID could market DOOM and an editor
+                          to realtors with prefab furniture  :>
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes/No (there's nothing to KILL!)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : The layout of my house
+Build Time              : Didn't count/hate to think about it...
+Editor(s) used          : DEU 5.1 and BSP 1.1
+
+
+* Copyright / Permissions *
+
+If someone else wants to turn my home into a hellish nightmare, be my guest.
+Prospective thieves may not use this for any form of preliminary training.
+

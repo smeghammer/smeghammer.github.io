@@ -1,0 +1,55 @@
+
+================================================================
+Title                   : buttv3.WAD   
+Author                  : anonymous
+Email Address           : 
+Misc. Author Info       : 
+
+Description             : 
+
+Additional Credits to   : anonymous
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : 
+
+* Construction *
+
+Base                    : Butt.wad
+Build Time              :  
+Editor(s) used          : DMapEdit v3.0
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+
+
+
+* Where to get this WAD *
+
+FTP sites: ftp infant2.sphs.indiana.edu
+
+BBS numbers:
+
+Other:

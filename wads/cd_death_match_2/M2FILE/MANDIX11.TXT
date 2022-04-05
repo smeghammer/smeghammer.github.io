@@ -1,0 +1,42 @@
+================================================================
+Title                   : MANDIX11.WAD   
+Author                  : K. Mandix
+Email Address           : diakkima@unidhp.uni-c.dk
+Description             : Replaces e1m1.
+                          Not much harder than the original.
+                          This is the first level of what I hope to 
+                          be a complete episode when I'm done.
+Additional Credits to   : The guy's at ID.
+                          The authors of DEU and BSP.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes (Not much good.)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : Too much!
+Editor(s) used          : DEU 5.1, (BSP 1.1x)
+Known Bugs              : None! (Known at pressent.)
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels. 
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+On this computer!

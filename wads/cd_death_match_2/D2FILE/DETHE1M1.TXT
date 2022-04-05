@@ -1,0 +1,68 @@
+================================================================
+Title                   : dethe1m1.WAD   
+Author                  : Frederick J. Bradley
+Email Address           : ez018237@hamlet.ucdavis.edu
+Description             : (This is the first mission of my death 
+                          match episode.)  Remember playing war 
+                          with your friends when you were 
+                          little?  This level simulates the fun 
+                          of the good 'ol days with a mix of 
+                          good 'ol violence.  I made this level 
+                          to match my old home  in Washington 
+                          and I added a few secrets, ambush 
+                          spots, a cooperative exit, and only 
+                          ONE suicide spot!  Great for  
+                          no-holds-barred matches!  (Type 
+                          "death" to start in deathmatch mode.)
+
+Additional Credits to   : Jean, the author of Forest, because I 
+                          used his great sky graphics.  (It 
+                          matched the Wash landscape.)
+                          
+================================================================
+
+* Play Information *
+Level                   : E1M1
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+Demos Replaced          : All!
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Too Long! 
+Editor(s) used          : Deu 5.0, 5.1 & BSP 1.0
+Known Bugs              : None!  (i hope)
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels, as long as you ask and give me some credit.  Those 
+interested in helping make a death match episode, please 
+contact me (I only have 3 more ideas for levels right now)
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  DO NOT POST THIS TO THE ALT.GAMES.DOOM NEWSGROUP!  I 
+hate it when people do that too!  But I will email you a copy, if
+I can.  :)
+
+* Where to get this WAD *
+
+FTP sites:  ocf.unt.edu  (for right now, it's in the incoming 
+                         directory, but it might be moved to 
+                         a new directory)
+
+BBS numbers:  none
+
+Other:  email me for a uuencoded copy, I won't post it, but I 
+        mail it to you.
+
+

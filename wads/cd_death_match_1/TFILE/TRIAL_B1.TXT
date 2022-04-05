@@ -1,0 +1,49 @@
+================================================================
+Title                   : Trial   
+Filename                : TRIAL_B1.WAD
+Author                  : Douglas K McLemore
+Email Address           : Douglas.K.McLemore.1@nd.edu
+Misc. Author Info       : 
+
+Description             : This is basically an unfinished wad.  I wanted to have
+			  some outside input.  I plan on expanding the level and 
+			  maybe adding more levels.  This all depends on time and
+			  if I can figure out a good theme for my doom world.
+			  If you have any comments / flames please E-Mail me or
+			  post to alt.games.doom.  This is my first attempt at
+			  creating a playable doom level, so any advice would be 
+			  great :)
+
+Additional Credits to   : Thanks to all those DOOM Gods at Id for the world's best
+			  war, er game!!!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch - a few hours a day for one week
+Editor(s) used          : DEU 5.21, DoomCAD (I am working on the registration Matt)
+Known Bugs              : None that I know of...
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY not distribute this WAD file in any format.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu

@@ -1,0 +1,177 @@
+This WAD is actually 2 wads that me and a friend made.
+We have 4 more in progress.  The third should be out 
+by next week.  At that time we'll release a DEATH2.WAD.
+This is getting popular with my friends and we're going to
+put together a whole episode.  Look for it!
+
+E3L2	Eric Falsken (eric@tudorcon.com)
+E3L1	Ryan McGrail
+E3L?	Alex Hanson
+E3L?	Adam Boyd
+
+========================Part I=================================
+Title                   : Kingdom of Death   
+Filename                : DEATH.WAD
+Authors                 : Eric Falsken
+			  Ryan McGrail
+Email Address           : eric@tudorcon.com
+Misc. Author Info       : See Parts II and III
+
+Description             : See Parts II and III
+
+Additional Credits to   : Absolutely no one
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1, E3M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes E3L2
+Deathmatch 2-4 Player   : Yes E3L2
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1 2
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.1, DEU 5.2, DEU 5.21, BSP 1.1x
+Known Bugs              : See Parts II and III
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+(KNOWN) FTP sites:
+		infant2.sphs.indiana.edu
+		wuarchive.wustl.edu
+		ftp.uwp.edu
+
+BBS numbers:
+
+Other: ME!  eric@tudorcon.com
+
+======================= Part II ================================
+Title                   : Annex Of Death   
+Filename                : ANGEL.WAD
+Author                  : Ryan McGrail
+Email Address           : Friend (eric@tudorcon.com)
+Misc. Author Info       : Plays Bass Guitar and loves
+			  WarHammer and Chaotic Physics.
+
+Description             : Ah...Help!! I'm stuck in Hell
+			  And you gotta get me out!
+
+Additional Credits to   : Eric Falsken (eric@tudorcon.com)
+			  WarHammer and Games Workshop
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, DEU 5.1, BSP11X
+Known Bugs              : None that I know of.  ;)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+(KNOWN) FTP sites:
+		infant2.sphs.indiana.edu
+		wuarchive.wustl.edu
+		ftp.uwp.edu
+
+BBS numbers:
+
+Other: Eric Falsken (eric@tudorcon.com)
+
+======================= Part III ===============================
+Title                   : DEVIL.WAD   
+Author                  : Eric Falsken
+Email Address           : eric@tudorcon.com
+Misc. Author Info       : A pro with DEU after building this
+			  level.
+
+Description             : This WAD should be used with
+			  ANNEX.WAD by Ryan McGrail.  We
+			  designed them together.
+
+Additional Credits to   : Nobody...
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, kind of (4 player)
+Deathmatch 2-4 Player   : Not Suggested, but yes (4 player)
+Difficulty Settings     : Yes
+New Sounds              : yes
+New Graphics            : No
+Demos Replaced          : 2
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : +6 weeks
+Editor(s) used          : DEU 5.0, DEU 5.1, BSP 1.1x
+Known Bugs              : When you cross a couple of lines,
+			  something flashes across the screen.
+			  Ignore it...
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+If you're reading this you probably already have it.
+
+(KNOWN) FTP Sites:
+		infant2.sphs.indiana.edu
+		wuarchive.wustl.edu
+		ftp.uwp.edu
+		etc...
+
+Other: Me, of course!! Just send mail to eric@tudorcon.com

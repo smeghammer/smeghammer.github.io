@@ -1,0 +1,73 @@
+================================================================
+Title                   : Dynamic Chambers.
+Filename                : CHAM1.WAD
+Author                  : Mark Riel
+First Release           : March 95
+Email Address           : roc@eskimo.com
+
+Misc. Author Info       : Just Another Doom Enthusiast.
+
+Description             : Drew most of this one out on paper. 
+                          One room has four different looks, at each phase 
+                          of the level it will change. Depending on what 
+                          secrets you find, the ending can play quite 
+                          differently. My first DCK level.
+
+
+Additional Credits to   : Authors of DCK & BSP & RMB & DTEX
+                          Eric Riel  - Playtesting & Ideas.
+                          And, of course, id Software.
+
+Additional Notes        : This level has a few nasty traps, save often. Look
+                          to the demo (cham1.lmp) for general play. (Not all
+                          secrets are shown.) Still once you know, it can be 
+                          done without saving. Skill 3 has fewer monsters 
+                          and the same ammo and health, if you want just a 
+                          taste. Also the new textures I made add spice to 
+                          one area. Please send any comments, criticism.
+                          
+                          Currently working on a DOOM2 episode, 7 or 8 levels.
+                          Plus a Deathmatcher or two.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes - Not Tested.
+Deathmatch 2-4 Player   : Yes - Not Tested.
+Difficulty Settings     : Yes- Hurt me plenty & Ultraviolence
+New Sounds              : Nope.
+New Graphics            : Yes. A couple new walls.
+New Music               : No
+Demos Replaced          : 1 - cham1.lmp is for DOOM version 1.9
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DCK2.1,Bsp 1.2x,DUETEX,RMB
+Known Bugs              : Zippo
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: Dunno
+   ftp.cdrom.com
+
+BBS numbers: 
+   
+
+Other: Dunno
+
+If your reading it you found it.

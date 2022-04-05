@@ -1,0 +1,89 @@
+================================================================
+Title                   : Zorf
+Filename                : ZORF1-3.WAD
+Doom version		: DOOM I
+Author                  : Ron Olsen
+Email Address           : rolsen@nyx.cs.du.edu
+Misc. Author Info       : Programmer
+
+Description             : Constant action DEATHMATCH 2.0 levels.
+
+These are the first 3 in a series of Doom Deathmatch levels. Each of
+the levels has a different theme, and I tried to build them with individual
+consistancy in mind.  All of them are designed for high action.
+
+Zorf 1 - The Clover
+    - Very open clover shaped area designed for lots of running and 
+      chasing, and lots of offense.  The intention was to eliminate
+      ambush and safe spots, and keep the game moving at a fast pace.
+    - All the goodies are very easy to get but not without risk.  You'll
+      want to take the elevators to the upper tunnels, but be careful,
+      your location will obvious.
+    - Look up to find the exit.
+
+Zorf 2 - The Maze
+    - This level is really 2 in one.  In the normal state, it's mazelike
+      and your enemy may be just around the corner.  Hit the switches
+      in the ooze, and some of the walls drop to dramatically change the
+      layout.  If more than one of you is in the center room, usually only
+      one gets out alive!
+    - This is the only DM level I have seen where you can alter the layout
+      while playing.  Just find one of 4 switches in the ooze and see how
+      things change.
+    - The exit is not on the map and can only be found with the walls dropped.
+
+Zorf 3 - The Bridge
+    - There are two main battle areas separated by a narrow bridge.
+      You better be able to jump or you won't get any of the goodies...but
+      be careful, the walls seem to be alive!
+    - You won't find any lifts, doors or obstructions of any type. You
+      won't find many corners you can hide scared in either.
+    - Lean on the walls in the deepest part of the basement to find the secret
+      area and the way to the exit.  A huge reward awaits the first one to find
+      the super secret area and the secret exit. (think big jump) Neither exit
+      is on the map.
+
+
+Additional Credits to   : Little Gary Hintermeier  (ghinterm@nyx.cs.du.edu)
+
+Feedback is welcome and encouraged!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2, E1M3
+Single Player           : Sure, but not designed for it.
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : DEU 5.21 and IDBSP
+Build Time              : 5-10 hours for each level
+Known Bugs              : Minor Texture alignment (M1 only)
+
+
+* Copyright / Permissions *
+
+Authors may use these levels as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+	ftp.orst.edu
+
+File names:
+	zorf1-3.zip	- WAD and text files
+	zorf1-3.txt	- this file

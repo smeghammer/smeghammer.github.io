@@ -1,0 +1,81 @@
+================================================================
+Title                   : TechNoid.WAD
+Author                  : Rick Kelly
+Email Address           : ryngblud@svpal.org
+Misc. Author Info       : Doom Addict, Author of other crazy wads and music for Doom.
+
+Description             : Mutant TechNoids (Technical Nerds) have invaded. 
+                          Your mission is to eradicate and escape.  Lot's of
+                          hard to find doors and timing puzzles to solve.
+
+Additional Credits to   : Creators of DEU and BSP who made this possible.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes ? (Gotta check, sorry)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : !@#$% !#$% !#$% !#@% !
+Editor(s) used          : DEU 5.21, 5.2gcc, BSP 1.1
+Known Bugs              : Some textures not aligned perfectly. (switches, doors, etc..)
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+* Where to get this WAD *
+
+Compuserve GO GAMERS, in Action Aids Library
+
+
+
+
+*****************   WELCOME TO TECHNOID.WAD V1.0 ****************************
+
+Mutant TechNoid (Technical Nerds) theme.  Lots of computer looking textures.
+
+Based on an earlier wad (techno.wad) I included in the rickdoom.wad which has
+some of my first attempts at using DEU.
+
+Getting the yellow key can be a bit of a trick, and getting the red one can
+be dangerous, especially on ultimate or nightmare (if you dare!!).;-)
+
+This level has some doors that are tricky to find or open.  Unfortunately, you will
+have to find them and open them in order to leave.
+
+Like the original e1m3, there are two exits: one to e1m4 and one goes to e1m9 
+(secret military base level).
+
+There is a trap near the exit to e1m4.  If you fall into it (hint hint), you will
+not die, but you will start level e1m4 with <= 10% of your health left.
+
+I still think this would make a good deathmatch level.  The process for exiting 
+is complicated enough to discourage early exits, and all of the goodie (weapons)
+are in areas away from the exits.
+
+There are some "un-armoured" walls in this level.  These are walls that will stop 
+bullets and shot, but not rockets or fireballs.  Makes for some interesting ambush
+strategy.  
+
+I may still add more to the outdoor corridor.  Right now there is not much there.
+
+
+Have fun!
+
+Rick
+
+

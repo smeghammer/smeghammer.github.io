@@ -1,0 +1,42 @@
+wan.ton \'w<o.>nt-<\e>n, 'w<a:>nt-\ adj (14c)
+ [ME, fr. wan- deficient, wrong, mis- (fr. OE, fr. wan deficient) +
+towen,
+
+    1a archaic: hard to control: UNDISCIPLINED, UNRULY
+    1b: playfully mean or cruel: MISCHIEVOUS
+    2a: LEWD, BAWDY
+    2b: causing sexual excitement: LUSTFUL, SENSUAL
+    3a: MERCILESS, INHUMANE <wanton cruelty>
+    3b: having no just foundation or provocation: MALICIOUS <a wanton
+attack>
+    4: being without check or limitation: as
+    4a: luxuriantly rank <wanton vegetation>
+    4b: unduly lavish: EXTRAVAGANT
+
+	WANTON.WAD is a damn big new level for E1M1 registered
+DOOM which I think fulfills all the above definitions.... Ok, so it
+may not be that lewd or lustful but the imps do wear spikes which does 
+kinda remind me of bondage r sumthing.
+
+	Wanton can be played solo, cooperative or deathmatch and the
+difficulty levels are active. I definitely suggest playing hurt me
+plenty or easier at first and working your way up if you feel brave.
+This is a very large level (average play time is 40 mins to SUCKS) and
+it will challenge your dooming abilities. In order to complete this
+level you will need to be quite effective with ALL the E1 weapons
+including a good right uppercut.
+
+	This is not a "puzzle" level though there are many secrets to
+be found, and it's also not a "ooh ooh I got an editor I think I'll
+make you fight 3 Cyberdemons and a Spiderdemon or two but it will be
+ok cause I'll give you a BFG and 10,000 enegypacks in the first room
+and it will be fun yeah" level either. Most importantly, the default
+deu wall texture isn't used anywhere (I reallly hate that texture.)
+
+	Wanton was created using DEU 5.0 and BSP1.1x both of which are
+bitchin' programs. Kudos to the authors.
+
+	Ok, enough ramblin'. Enjoy! 
+
+Lemme know what you think of this level, comments and flames welcome.
+jayson@cs.tamu.edu

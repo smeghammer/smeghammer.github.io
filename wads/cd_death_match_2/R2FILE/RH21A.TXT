@@ -1,0 +1,53 @@
+================================================================
+Title                   : RH21A.WAD   
+Author                  : RICH HORN
+Email Address           : 
+Misc. Author Info       : 
+
+Description             : First level (Bottom) of my new "Ship of DOOM".wad.
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes-2 Player
+Deathmatch 2-4 Player   : Yes-2 Player
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None/1/2/3
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 70-80 Hrs. 
+Editor(s) used          : DEU 5.1 & BSP 1.1
+Known Bugs              : Slight visual glitch in one room
+
+
+* Copyright / Permissions *
+
+Authors May NOT use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:Ten Forward 719-687-2578
+
+Other:This the first installment in the "Ship of DOOM" episode.
+      Others are under development and will follow as soon as I get 
+      them done! So, keep an eye out and Don't Give Up the Ship!!!
+
+

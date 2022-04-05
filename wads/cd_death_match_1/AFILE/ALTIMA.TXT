@@ -1,0 +1,41 @@
+================================================================
+Title                   : ALTIMA.WAD
+Author                  : Robin L. Holden, Jr.
+Email Address           : Robin.holden@chrysalis.org
+Misc. Author Info       : First attempt at building a wad
+			  file for doom. Designed for deathmatch.
+			  It was not designed for shy (cowards) or 
+			  snipers it was designed for aggressive
+			  players who want to have fun !!!!!!!!!
+			  It is great for practicing various
+			  moves in open and closed areas. Plenty
+			  of weapons, ammo, armor, and health 
+			  to allow for fair and continuous slaying. 
+			  Has a few monsters and soldiers for 
+			  added challenge.
+
+Description             : Deathmatch. Would welcome any comments. 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M5  
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Some on a few guns.
+
+
+* Construction *
+
+Base                    : From scratch.
+Build Time              : Around 11 hours.
+Editor(s) used          : DoomEd 2.6 Beta version 4/ Wadedit v1.23
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors (May) use this level as a base to build additional
+levels. (please mention that it came from ALTIMA.WAD)  

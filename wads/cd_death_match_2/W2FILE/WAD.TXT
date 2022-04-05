@@ -1,0 +1,47 @@
+* General Information *
+============================================================================
+
+Title                   : WAD.WAD V1.1 (Waste And Destroy)
+Author                  : Johnnie Chan and Simon Griffin
+Email Address           : ma2jswc@bath.ac.uk and ee2smg@bath.ac.uk
+Additional Credits to   : The authors of DOOM, DEU, and BSP.
+Description             : An average sized wad centred around a large open 
+                          courtyard. You start out behind some cover, watch
+                          out for seargents around you in a bunker to the
+                          southwest and a shooting gallery to the east.
+                          The level is split into two main areas, the door to
+                          the south of the courtyard leads to my bit of the
+                          level, and the corridor to the east leads to
+                          Simon's. There is a keycard kept in each area.
+Hint                    : Don't go near the red door unless you have the red
+                          key. Think before shooting, especially when you're
+                          heavily outnumbered. Use cover if it is available.
+
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes - works very well two player.
+Deathmatch 2-4 Player   : Yes - extra things put in.
+Difficulty Settings     : Yes "Ultra-Violence" is best :-)
+New Sounds              : No
+New Graphics            : No
+Playing Time            : 20-35 mins on U.V. and getting 100% kills.
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : About 40 hours.
+Editor(s) used          : DEU 5.21 and BSP 1.0
+Known Bugs              : None. Email me if you find any!
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

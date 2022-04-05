@@ -1,0 +1,41 @@
+============================================================================
+Title                   : Fragpit: DeathMatch Wad 
+Filename                : FRAGPIT.WAD
+Author                  : Kevin Heebsh
+
+Email Address           : kevin.heebsh@daytonoh.ncr.com
+
+Description             : A Doom II Death Match level, with a pit in the 
+			  middle that could muss you up, if you are not 
+			  careful.
+
+Additional thanks to:    DEU 2 creators                          
+                         Brion Burcham - for letting me frag you silly !!!
+
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes, but no monsters or exit
+Cooperative 2-4 Player  : Yes, but why?
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : any
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : None
+Editor(s) used          : Deu 2
+Known Bugs              : None
+
+* Where to get this WAD *
+
+FTP sites: 
+
+        ftp.cdrom.com
+
+
+

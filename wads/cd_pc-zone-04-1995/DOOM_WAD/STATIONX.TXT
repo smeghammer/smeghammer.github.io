@@ -1,0 +1,54 @@
+WAD Authoring Template V1.2   (Clip this line)
+================================================================
+Title                   : STATIONX.WAD   
+Author                  : Russ Ringer
+Email Address           : 75410,1116
+Misc. Author Info       : 
+
+Description             : The genetic experiments at the Universal
+                          Acme Corp. have gotten out of hand. You
+                          must clean up the mess, find the computer
+                          control central, shut it down and destroy
+                          it.
+
+Additional Credits to   : Paul, Charlie and the Avtech Doomheads for
+                          play testing.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 40+ hours, mostly editor learning curve.
+Editor(s) used          : DEU 5.1, BSP 1.1
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, as long as I get proper credit.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.uwp.edu
+
+BBS numbers: BETTER WORLD (206) 634-0671
+
+Other: Compuserve GAMER forum
+

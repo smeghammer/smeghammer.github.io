@@ -1,0 +1,48 @@
+================================================================
+Title                   : Break-in
+Author                  : Bob Minnick
+Email Address           : bobmi@intercom.com
+Misc. Author Info       : Who knows? Not me, thats fer sure!
+
+Description             : Break In. Simply put, you've been sent
+                          on a mission to Break into Monster HQ.
+                          Your goal? Get out alive! Slugfest galore!
+
+Additional Credits to   : my dedicated albeit, dead band of
+                          playtesters.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes (admittingly, I haven't tried it on Nightmare)
+Difficulty              : 9'ish out of 10, especially to get 100% kills.
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 50 hours, plus playtesting
+Editor(s) used          : DoomEd Ver 2.60 Beta 4
+Known Bugs              : None, but if you find any, please let me
+know.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+        Apogee BBS
+        coming soon to a BBS near you!

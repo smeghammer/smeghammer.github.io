@@ -1,0 +1,59 @@
+Private Hell  Part 1
+
+Title                   : Private Hell
+Filename                : PRIVATE.WAD
+Author                  : Matrix
+Email Address           : 74407,623
+Misc. Author Info       : Hopelessly Addicted.
+
+Description             : You have died. Your mission was a failure and
+you took a round to the head.  Darkness fades and suddenly light is restored.
+You focus your eyes. You are in a a stone room. A chainsaw lies nearby and
+a box of rounds. Suddenly a face appears, shimmering phantomlike before you.
+"Nice to see you awake" the being says. "I am the DarkLord, Master of death, 
+and you are my newest acquisition." He continues, "I will give you one chance. 
+Find the exit and I while will restore you to your former life."
+        "Fail and......HAHAHAHAHAHAHAHAHAHA!!!!................."
+The face disappears and you assess the situation. You pick up the bullets,
+hoist the chainsaw to your back, and walk through the door...........
+
+Additional Credits to   : 
+Written using : DoomED, The Real Thing.(Thank you!)
+                Doom Edit Utility (Thanks for the testing capabilities!)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes(Not tested)
+Deathmatch 2-4 Player   : Yes(not tested)
+Difficulty Settings     : Yes, slightly.
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None(Too lazy)
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU,DoomED(T.R.T.)
+Known Bugs              : Sometimes a little HOM in the final room.
+                          Not much if any. Let me know of any other bugs!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+Electronic Gamers Forum, Compuserve.

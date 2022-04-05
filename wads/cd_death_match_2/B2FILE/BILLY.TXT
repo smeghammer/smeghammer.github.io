@@ -1,0 +1,37 @@
+================================================================
+Title                   :BILLY WAD    
+Filename                : BILLY.WAD
+Author                  :Banjo Oblivion
+Email Address           :pfleming@eros.otago.ac.nz
+Misc. Author Info       : 
+
+Description             : 
+Additional Credits to   :Ben, Peter, Petr & Sonya 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          :DEU 5.1, DOOMCAD 
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+

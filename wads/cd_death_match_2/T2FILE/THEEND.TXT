@@ -1,0 +1,63 @@
+New PWAD for DOOM: THEEND.WAD
+
+I designed this level specifically for me and my friends, who like the final 
+level in multiplayer games to be a blast-fest with lots of monsters (you
+know, "the final" battle).  For others who like levels where your primary
+opponent is monsters, this is for you.  As in all my levels, this is 
+"professionally" designed (wall textures align properly, careful choice
+and variety of room settings, exits labelled, ammo/supplies placed prudently
+etc.).
+
+For those who like more intricate levels with several obstacles/traps, keep
+an eye open for TOWN.WAD, which is in final test phases and should be 
+released in about 1 week.
+
+You can find THEEND.ZIP at infant2.sphs.indiana.edu
+
+================================================================
+Title                   : THEEND.WAD   
+Author                  : Kevin Haley
+Email Address           : khaley@nova.gmi.edu
+
+Description             : A blast-fest ending level for Episode 3.
+                          Designed esp. for multi-player games with lots
+                          of monster action.
+Additional Credits to   : Makers of DEU and BSP
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M8
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (designed for multi-player)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : None (Equivalent to "beyond Ultraviolence")
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20 hours
+Editor(s) used          : DEU 5.0/BSP 1.1
+Known Bugs              : None 
+
+* Copyright / Permissions *
+
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (FTP site, BBS, Diskette, etc) as long as you include this file 
+intact.  Please distribute everywhere!
+
+
+----------- DOOM levels from Kevin Haley
+
+E3WADSKH.ZIP       :Series of 4 "modified" DOOM levels.
+ELEVATOR.ZIP       :Stock DOOM level for Episode 1.
+THEEND.ZIP         :Blast-fest level for Episode 3.
+TOWN.ZIP           :Liberate a small town/research station.  Coming soon.
+
+All WAD files are max. 100K in size; which means there's little or no
+slowdown and they even work very well on upper-end 386's.
+

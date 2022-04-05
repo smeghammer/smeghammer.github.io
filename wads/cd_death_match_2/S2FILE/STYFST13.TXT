@@ -1,0 +1,58 @@
+================================================================
+Title                   : Stay Frosty   
+Filename                : Styfst13.Wad
+Author                  : Mike McGrath
+Email Address           : rimshot@wam.umd.edu
+Misc. Author Info       : Another unemployed college student...(sigh)
+
+Description             : You step quickly out of the Gate and  
+                          quickly grab Ole' Besse, your faithful
+                          shotgun.  You open the door and step out
+                          into the corridor with the feeling you're
+                          entirely alone....
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes...but not tested
+Deathmatch 2-4 Player   : Yes...but not tested
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU521, BSP11x, REJECT   
+Known Bugs              : None (but let me know if you find any...)
+
+* Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  Anyway, why would you want to?  But it may be included in 
+one of those Wadpak collections...
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           
+* Suggestions *
+
+I would advise installing some of the Star Wars patches before playing
+this wad (although its certainly not mandatory). Specifically the
+ones that replace the f_sky texture with a star field and the cacodamons
+with Probots.  I've never tried this wad without the star field, so
+I don't know if any HOM bugs would be caused by the normal f_sky texture.
+Keep those Star Wars patches comming!  Plus I advise using DeHakED to
+create the "moving barrel" effect because its just a really cool thing to
+do.
+
+* Special Thanks *
+
+ID (BTW: Take your time with 1.5)  
+Authors of DEU, BSP, Dehaked, Reject, Star Wars patches
+My playtesters: Jess Harding & Brad Ross

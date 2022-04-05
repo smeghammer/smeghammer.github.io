@@ -1,0 +1,17 @@
+
+
+Level:  E2M2
+Deathmatch, multiplayer supported.
+Difficulty level supported - no monsters on the easy levels.  (Well, maybe
+one or two)
+Author:  Megaduck
+
+
+This was supposed to be a small wad but somehow it got to be 180k for 
+one level.  This is a great deathmatch & multiplayer level, but it is
+also possible to win solo.  All weapons can be found on this level +
+extra health etc.  The Cyberdemon also exists on this level, but only
+comes out if you push a certain marked button.
+
+Distribute and modify this level to your hearts content.
+

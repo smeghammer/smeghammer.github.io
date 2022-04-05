@@ -1,0 +1,214 @@
+================================================================
+Title: 
+
+----      ------    -------                      ----------
+\   \    /    /      \     \                    /        /
+ \   \  /    /        \     \                  /        /
+  \   \/    /          \     \      ------    /        /
+   \       /            \     \    /      \  /        /
+    \     /              \     \  /        \/        /
+     |   |   A K          \     \/                  / O R L D !
+     |   |                 \                       /
+     |   |                  \         /\          /
+     |   |                   \       /  \        /
+     -----                    \_____/    \______/
+     
+(Oh, for Gob's sake. What a horrible job of ASCII art that is. Quite saddo,
+really. Obviously hasn't spent more 'n a couple of quid on that, poor sap.)
+
+Authors                 :   Spackle Ltd. consists of:
+
+                          Yak Man -- Level Editor (Deuer)
+                                     Image Editor
+                                     Text "Editor"
+
+                          Mister Bob -- Image Poobah
+                                        Computer Owner
+                                        Message Poster
+                                        Document Writer (that's me :)
+                                        Manual of Style
+
+                             Spackle Ltd. trainee:
+
+                          M.Bonzo -- Voice Talent
+
+YakWorld.Doc history:
+
+version 0.99 -- Mister Bob fills in the template
+version 1.1 -- Yak Man adds a couple sentences
+version 1.2 -- Mister Bob deletes aforementioned sentences
+version 1.3 -- Raid Fogger deployed
+
+E-Mail Address           : SPACKLE.LTD@genie.geis.com
+
+Misc. Author Info: 
+
+Yak Man has several years of computing experience behind him, but nothing 
+could prepare him for the complexity of linedefs, sidedefs, and the dreaded 
+STARTAN3 texture. It was only through sheer abuse of Mister Bob's computer 
+and GEnie account that he mastered the fine art that is Deuing.
+
+Mister Bob, while also technically skilled, is simply too lazy to bother 
+learning the intricacy of upper, lower, and normal textures, when to use 
+them, and how not to bring the level crashing to the ground when adding 
+a lift. He is much more confident when managing over 50 megs of Doom files 
+on his hard drive and when spicing up the drab Doom image world.
+
+M. Bonzo came over here and made himself useful with the microphone.
+
+Description: 
+
+What is Yak World? The simple and clear answer is that we haven't got a 
+clue. Many sections are highly nifty, but if it resembles a theme park 
+or some sort of yak-infested planet we'd be the last to know. It lacks 
+theme, unity, some of the things we love to see in a healthy WAD. We 
+admit it! Don't hurt us.
+
+However, Yak World shows a clear progression from Yak Man's initial 
+stumblings in Deu 5.0 ("oh boy, let's put a 1024 drop right here, and 
+many shotgunners") to an expert overuse of linedefs in 5.1 to create 
+lighting effects, ultimately bringing Deu to a crushing halt, unable to 
+create or delete sectors without giving over 1000 warnings and crashing 
+at the end of the compiling process... These problems have been 
+identified by UpJohn Co; Deu warnings are definitely a contributing factor 
+to male-pattern baldness.
+
+Of special note is the secret sewer area, which I rather like, being it
+my idea and all. If you haven't played it you haven't played the game, or
+something like that.
+
+Features of Yak World include aforementioned unfinished sewer system, big
+drops, scary things with light, weird texture replacements, guns, rockets,
+lack of spider demons. Lots of secrets I can't tell you about. Go play
+that wad!
+
+Additional Credits to:
+
+John Lyons, a brilliant and often witty Doomer. We often have frank 
+discussions on topics pertaining to the state of Indo-Chinese subcultures 
+as connected with recent discoveries of ancient artifacts in the Indus 
+River Valley civilizations of the Quasi-Bronze Age period, and on certain 
+occasions we might even speak about Doom (I miniaturized a trooper, he put 
+"Kick Me" signs on Imps and built glass; you know, the kind of stuff normal, 
+mentally healthy people do all the time.) Check out his FLORZOO and 
+JL2 wads (JL3 near completion.)
+
+Kami, reigning benedictine monk of DEU. BTW, KAMI2.WAD rules the world.
+
+Steve Purcell, deity.
+
+Trent Reznor, in-house audio stimulus. Caffeine on a shiny 5-inch platter.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (Oh, and E1M9, too!)
+Single Player           : Yes
+Cooperative 2-4 Player  : Sure. Go for it, sounds like fun!
+Deathmatch 2-4 Player   : Yes, well... it's not made for Deathmatches,
+                          but people like killing each other anywhere,
+                          don't they? :)
+Difficulty Settings     : Yes. Ultra-Violence is hard.
+New Sounds              : Yep
+New Graphics            : Yes nurse!
+New Demos               : Roger, Ebert
+Rating                  : R (just imagine a G-rated Doom level in which
+                          the sergeants hug you and the demons prance
+                          about with glee...)
+Chemical Formula        : Na B O  * 10H O
+                            2 4 7      2
+Recipe                  : Mix two parts coconut oil with a cup of ham 
+                          cubes and leave in oven until brown and crispy 
+                          (Yum!)
+
+* Construction *
+
+Base                    : New level from scratch (n' sniff)
+Build Time              : WAY TOO %&^$ING LONG... um, I mean quite some
+                          time. We weren't timing ourselves but it was
+                          off and on for weeks and weeks, it seems. A
+                          zillion hours. Good estimate.
+# of keystrokes involved: 14,732,265,321,145,317,331,353,282,383 (this number
+                          follows Bob's Law, stating that # of keystrokes in
+                          making a Doom level must be prime. If you are so
+                          inclined, you may spend many a millenia testing for 
+                          factors.)
+Editor(s) used: 
+
+DEU AND ONLY DEU 5.0 and 5.1. Er, for the level. Also Deluxe Paint 
+Animation fer some images and Paint Shop Pro as a cropper. Oh, and
+BSP 1.1 and DMGRAPH 1.1 and WadTools 1.0. These three little programs
+formed the foundation for usable levels that Deu sits upon. We bow to
+their power. Oh, and DMAUD 1.1 too! Blimey, there's a lot of good stuff
+out there!
+
+Known Bugs              : "Hall of Sky" in beginning. I BEGGED Yak Man to
+                          make the floors lower to eliminate this but he
+                          claims he'd have to reset the heights of the 
+                          entire level. (He may actually be right.)
+
+* Copyright / Permissions *
+
+Don't mess with the level. :) I mean, sure, futz around with it in Deu by
+all means, just don't upload modified versions.
+
+However, authors can use images and sounds from here (why you'd want to, 
+I wouldn't know...) as long as Spackle Ltd. is credited for originating 
+it and you say what the hell you stole, I mean, rightfully borrowed.
+
+Ah, here, in plain Swahili:
+
+"You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, 8-Track, etc) as long as you include this file
+intact."
+
+That sounds good.
+
+* Where to get this WAD *
+
+Wherever you found it. It was first uploaded to the Scorpia RT on GEnie, one
+heck of a inexpensive online service (with very little Internet access, the
+pinheads).
+
+
+(You think this is a big doc? Have you looked at the size of the .WAD? :)
+
+                                                Mister Bob
+
+Now I'm going to hand the whole thing over to Yak Man, our Yak World author 
+(run in fear!)
+
+-------------------Important Notes (REALLY!!!!!!!!!!!!!)----------- 
+                        YAK MAN DECLARES:
+                        ----------------
+1)DO NOT SKIP THROUGH THE END OF LEVEL TALLY PART (100% this, 100% that) OR 
+ONE OF MY VILE HENCHMEN WILL MAKE YOU PAY!
+2)There are three demos. The first is quick and pointless, but watch it
+anyway...(It's followed by a special reward!) The second is me, appearing 
+to have consumed many teslas of powdered Strawberry Quik, thrashing through 
+the level whereupon I promptly become meat.
+3)I have also included a third demo of me beating the entire level...
+        DO NOT WATCH IT UNLESS
+                1)You are too pathetic to beat this level even on easy mode
+                2)You are on the verge of pressing either
+                        a-IDDQD
+                        b-IDSPISPOPD
+                3)You have no qualms about cheating yourself out of the
+                  buckets of fun you could be having actually playing the
+                  level
+                4)You don't give a flying frenchman that poor Yak-boy had to
+                  toil for long hours under conditions unfit for any primate,
+                  and you'd rather have fun at his expense
+                  (Downright un-American I tell Ya)
+                5)You are not worried about any genetic mutation that this 
+                  may cause
+4)There are two exits to this level, do yourself a favor and find both.
+5)Keep your SFX all the way up and the music down (you probably shouldn't 
+need to but you wouldn't want to miss anything fun)
+6)SEND ME CASH! SEND ME CASH! SEND ME CASH!--you are getting sleepy-- SEND 
+ME CASH!! or credit cards, or travelers checks, or depositable beer cans...
+--------------------------------------------------------------------
+
+HAVE A BARREL OF MONKEYS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

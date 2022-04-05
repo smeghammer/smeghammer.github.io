@@ -1,0 +1,80 @@
+Blast'em!
+
+How cool. This is clearly my first WAD (ignoring the stains on the wall).
+You'll find that while it may be a good play, it's not the professional 
+piece of work one prefers in a WAD. So? Kiss my butt! I'm tired of this
+level and I'm ready to move on. Well! I'll do a better job on the next one,
+promise.
+
+A couple notes: I stole the terminator II music from Phil Wheeler's 
+PTULTRA.WAD. If you haven't seen it, check it out. Excellent design and a
+good Cyber-battle. The few other sounds I stole from various other WADS.
+Sorry, can't remember exactly which ones. Oh well, you know who you are.
+
+Why Blast'em? Stupid question. WHY NOT?! 
+
+UltraViolence is a tough battle. It was slightly tougher before I decided
+to nix the two CyberDemons. The other levels of difficulty are easier 
+('cept NIGHTMARE -- EEEEE!), but then, why bother? Same for you losers out 
+there that use cheat codes. WHY do you even bother PLAYING?
+
+Oh ya, one last thing. This level came about cause of all the useless WADs
+I saw out there that had no theme or purpose. You know the ones. You stumble 
+from room to room shooting anything that moves, oblivious of the horrid 
+decor or your reason for continuing. Bloody waste of time if you ask me.
+(Yeah I know, who asked? Shaddup!)
+
+======================================================================
+Title                   : BLASTEM.WAD   
+Author                  : Russell J. Lauzon
+Email Address           : russell.lauzon@canrem.com
+
+Misc Author Info        : Kinda shy. Happy go lucky.
+
+Description             : Er, yeah, that's it. (This is a stupid entry.
+                          Play the damn thing and find out!)
+                          
+Additional Credits to   : Sandy Ng and David Kelk for beta testing.
+
+======================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Of course
+Cooperative 2-4 Player  : Sure
+Deathmatch 2-4 Player   : I guess
+Difficulty Settings     : Uh huh.
+New Sounds              : Yup. (Stolen from other sources, yup)
+New Graphics            : Hardly mentionable
+Demos Replaced          : Heh, take a boo.
+
+* Construction *
+
+Base                    : No base. Home base? What does this mean?
+Build Time              : Week? Ah, I dunno.
+Editor(s) used          : DEU 5.21GCC; BSP11X; DMAUD 1.0; DMGRAPH 1.0
+Known Bugs              : NONE! (Damnit)
+
+* Ah here, in plain Swahili: *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Shit, I dunno. If you email me, tell me where ya got it from. K?
+
+* One last thing, really *
+
+I'd like to ask for money but I'm afraid there's too many other people I'd
+have to cut in. Like Bill Neisius for DMAUD & DMGRAPH; Raphael Quintet &
+Brendon J Wyber for DEU, etc. Instead, if you enjoyed playing this WAD 
+then please donate 5 bucks to your local Cancer Society. Those poor
+bastards can use the help.
+
+
+Russell J. Lauzon
+June 23, 1994

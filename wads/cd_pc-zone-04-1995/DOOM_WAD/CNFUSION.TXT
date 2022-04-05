@@ -1,0 +1,67 @@
+WAD Authoring Template V1.2   (Clip this line)
+================================================================
+Title                   : cnfusion.WAD   
+Author                  : Reza S. Dowlatshahi
+Mail Address            : Dowlat@emr1.emr.ca
+Misc. Author Info       : Based in Ottawa Canada
+
+Description             : I made this wad file right after I discovered DEU,
+                          the almighty doom level editor. This is an experi-
+                          mental level for me. I made it as I was learning 
+                          DEU and its how to. This is why there is no general
+                          theme to this wad ( Hence the name confusion). I 
+                          will make my future pwad files with a general theme 
+                          in mind. I would hope that you enjoy this level. 
+                          I would also greatly appreciative if you could drop 
+                          me a line and let me know what you thought of this 
+                          wad (Good or Bad). If there were any concept, rooms 
+                          and or ideas you liked or disliked.
+
+                          This level contains a few wall which you can walk
+                          through as well as hidden doors. There is plenty
+                          of ammo, but you should use it wisely!
+
+Additional Credits to   : Makers of DEU and BSP
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : I think so ( I have not tested it )
+Deathmatch 2-4 Player   : I think so ( I have not tested it )
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : So very many hours!!!
+Editor(s) used          : DEU 5.1 and BSP12x
+Known Bugs              : I am not aware of any!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels as long as you give me credit. I think that is fair.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers:
+
+Other:

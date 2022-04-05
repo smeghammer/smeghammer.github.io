@@ -1,0 +1,48 @@
+================================================================
+Title                   : Frag_You
+Author                  : David Davidson
+Email Address           : Software Creations
+Misc. Author Info       : Doom! What else can i say?
+
+Description             : I designed this level after being somewhat                                        dissapointed with most of the deathmatch PWADS
+                          out there. I've put in most of what I've learned
+                          playing netdoom. Which are:
+                          1)Keep it small.
+                          2)Good sniping spots.
+                          3)Opportunities for telefragging.
+                          4)Neato design.
+                           
+Additional Credits to   : Douglas H.Myers (PLUG!)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES! 
+Difficulty Settings     : NO
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 24 hours, plus playtesting
+Editor(s) used          : DEU 5.21GC, BSP 1.0
+Known Bugs              : NONE
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+This WAD can be d/l from Software Creations

@@ -1,0 +1,241 @@
+================================================================
+Title                   : SERENITY (successor to NATHRATH'S FAB FOUR)
+                          A full replacement for the third episode of
+                          Doom (which means there are 8 levels - sorry,
+                          no bonus level in this one, but you won't miss
+                          it...)
+IMPORTANT               : Do NOT move this level to another episode,
+                          since you can't finish our last level if it
+                          isn't played as being E3M8!
+
+Filename                : SERENITY.WAD (previously: NATHRATH.WAD)
+Authors                 : Bjorn Hermans and Holger Nathrath
+Email Address Hermans   : B.T.Hermans@kub.nl, or
+                          s879614@kub.nl
+Misc. Author Info       : Two guys with too much spare time...
+
+Description             : This set of 8 levels has been made with the
+                          word quality in mind. It's Mind here, not
+                          Muscles! Many days and weeks have gone into
+                          testing, designing and fine-tuning. Although
+                          this isn't a hack&kill kind of level, you will
+                          get your share of bloody action (especially
+                          when playing "Ultraviolent").
+                          Some of the levels may be a breeze, others may
+                          be a real pain in the *ss. But remember one
+                          thing: YOU DON'T HAVE TO USE THE CHEATS!!!
+                          There are a few very though places, but they
+                          can be done. When it seems you can't get
+                          around them without using the cheats, you may
+                          be doing it the wrong way and/or you may have
+                          missed one or more (valuable!) hidden rooms
+                          (which contain power-ups, weapons and/or ammo).
+                          Hidden rooms, by the way, can always be
+                          recognized in some way (different texture,
+                          different light-level, etc.).
+                          To give you a rough estimation of how long it
+                          will take you to finish this level: it took
+                          us more than half an hour to finish SERENITY on
+                          "Hurt Me Plenty". But then again: we know them
+                          inch by inch...
+
+Additional Credits to   : DEU (5.2GCC and 5.21), BSP (1.2x) and their
+                          many contributors; Id (no comment); all those
+                          people who have been so kind to send us
+                          remarks and feed-back about our previous
+                          wad-file (NATHRATH); every WADmaker whose WAD
+                          has been a source of inspiration for the rooms
+                          in SERENITY;
+
+                          And all those many others we have forgotten.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1 through E3M8, see below for descriptions
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (untested, please send comments)
+Deathmatch 2-4 Player   : Yes (untested, please send comments)
+Difficulty Settings     : Yes, there are three.
+                          The "Ultraviolent" setting may be a bit to
+                          easy for the real die-hards. On the other
+                          hand (and with a lot of practice), someone who
+                          normally plays "Hurt Me Plenty" might be able
+                          to finish SERENITY in "Ultraviolent" too.
+New Sounds              : No (See "Coming Soon"!)
+New Graphics            : Yes, although must Wad-managers won't spot
+                          them. We are especially very pleased with the
+                          graphic-patches in the last level (you'll see
+                          why).
+                          All patches work just fine in both 1.2 and 1.666.
+New Music               : Yes (a different song for each level)
+Demos Replaced          : None
+
+
+* Descriptions *
+
+Level 1 Description     : "A Warm Welcome"
+                          This first level is a warm welcome into the
+                          mysterious world of Serenity. It gives you a
+                          idea of what you might encounter in the
+                          following levels.
+
+Level 2 Description     : "Doom - The Movie"
+                          This level includes some nice, spiffy looking
+                          structures like a big archway, a plaza, and a
+                          movie theater ("Aliens" seems to score
+                          big-time at the Doom Box Office).
+
+Level 3 Description     : "R You Lonesome?"
+                          Hell isn't supposed to be fun, is it?
+
+Level 4 Description     : "All The Marbles"
+                          Here you will go through an underground
+                          section that has more in it than meets the
+                          eye... There is a maze also, but it has been
+                          kept simple (?) enough to keep it from getting
+                          boring.
+
+Level 5 Description     : "Dungeons Of The Dark"
+                          A level of considerable size. It's dark. It
+                          scares. It puzzles.
+
+Level 6 Description     : "I'm Here. I'm There. Stairs Are Everywhere"
+                          If you hate lots of stairs & switches, this
+                          level sure is Hell for you! You can finish
+                          this one in lots of ways. Be smart: take but
+                          one way, and that is the RIGHT way!
+                          This level, just to reassure you, is the only
+                          one that makes this heavy use of switches,
+                          stairs and lifts. We just wanted one level
+                          that had it, and this is it.
+
+Level 7 Description     : "Big Time"
+                          The name says it all!
+
+Level 8 Description     : "Church of The Poisened Minds"
+                          Bring enlightment to all those lost souls &
+                          sinners that you encounter here. Stand firm,
+                          and you will ultimately find there is a Heaven
+                          in Hell...
+
+                          **Spoiler**
+                          The barrel-puzzle you will probably encounter,
+                          may seem like it can only be solved by using a
+                          cheat. This is however not necessary. You will
+                          have to play around to get it (or perhaps
+                          we're just overestimating this one, YOU tell
+                          us!).
+
+
+* Construction *
+
+Base                    : 4 new levels from scratch, levels 2, 4, 5, and
+                          7 have been releases previously under the name
+                          of "Nathrath's Fab Four". These last four
+                          levels have been re-edited and re-vamped with
+                          the help of the comments that we received
+                          about it. Level two is the one that has
+                          undergone the most changes.
+                          How long it took us?? Two months is probably
+                          the most rough estimation we can make on that
+                          one... We don't know that for sure, but than
+                          again: we don't care 8-)) (it's fun!!)
+
+Editor(s) used          : DEU 5.21 and 5.22GCC, plus BSP 1.2x and IDBSP.
+
+Known Bugs              : There is one minor HOM in level 4. It can be
+                          seen as you open the door that needs a red
+                          key. Doom 1.666 may not have this, but we
+                          are not 100% sure of that.
+
+                          There is one Moire-effect when you go
+                          'underground'. We can't do much about it. Doom
+                          1.666 shouldn't have it, as it no longer poses
+                          the limitations on ceiling height that cause
+                          the Moire.
+
+                          There are a few places where textures aren't
+                          alligned, although - according to 'the'
+                          allignment-rules they SHOULD be alligned...
+                          Please don't flame us for it 8^)
+                          In fact: if you know how to get rid of them,
+                          please mail us! (we find it just as terrible
+                          as you do)
+
+
+* Philosophy *
+
+Appearance/Design       : A lot of effort was put into making things look
+                          good. Especially the last level deserves it to
+                          be given a second look having killed all the
+                          monsters (except THAT final one...).
+
+                          Not everything has a purpose.  Some things are
+                          just there for artistic or architectural interest.
+                          We think that is one of the things that made the
+                          original DOOM levels so good.  
+
+                          We replaced Episode Three ("Inferno") because
+                          it has the best ending, and the best sky
+                          texture (at least for our needs).
+                              
+Traps                   : All levels have been designed in a way that
+                          they do not contain places where you can get
+                          trapped (at least not without providing you
+                          with some kind of 'emergency exit').
+                          Yet, should there be a place where you do get
+                          stuck, and cannot get out except by using
+                          'IDSPISPOPD', then let us know!
+
+Secret Areas            : You do not have to get into the secret areas
+                          to complete a level. Keys or switches to open
+                          doors or areas are never located in secret areas.
+
+                          All secret areas/doors are marked in some way
+                          (for instance by giving it another light
+                          level, or a slightly different texture).
+
+Monsters                : We prefer quality over quantity, but on the
+                          other we also want a WAD that offers lots of
+                          action. We have tried to find a good balance
+                          between quality and quantity.
+                          We did make an exception though for
+                          "Ultraviolence". Here there are an awfully lot
+                          of monsters, and it should give those who like a
+                          lot of fragging & fighting the challenge and
+                          action you want (so we hope...).
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a source of inspiration to build
+new levels. Please don't copy large parts of this WAD, and leave us
+unnamed in your description file...
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD-ROM, etc) as long as you include this file
+intact (free copies of a CD-ROM that contains this WAD are warmly
+welcomed by the authors 8-)
+
+
+* Where to get this WAD *
+
+This WAD will be uploaded to infant2, so you will find it there, and on
+the mirror-sites of infant2 (since the policy of infant2 is going to
+change in the near future).
+We will also upload it to wuarchive and a few other sites as soon as
+possible.
+
+
+* Coming Soon.... *
+
+We are planning to release our own set of Doom sounds, as we think
+that SERENITY is enjoyed at its best when played with these sounds.
+
+================================================================
+
+
+Bjorn Hermans & Holger Nathrath.

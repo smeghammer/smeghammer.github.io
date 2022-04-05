@@ -1,0 +1,82 @@
+
+LIFTOR.WAD
+================================================================
+
+LIFTOR for DeathMatch!
+
+With the onset of the most recent upgrade to DOOM v1.666, not only
+was the game play sped up, but with eight channel sound, LIFTOR is
+ready to blow your mind! This PWAD contains over 100 lifts making
+DeathMatch a literal nightmare--sink holes, collapsing stairways,
+even entire floors will drop out of from under the player!  When
+LIFTOR is set to Ultra-Violence mode, the entire map is infested
+with Imps making single play a challenge, and making DeathMatch a
+true nightmare! I hope you enjoy your time in LIFTOR and be sure
+to note that this PWAD should only be played using DOOM v1.666!
+
+Enjoy,
+
+Vance Andrew Blevins
+
+P.S. To view a heavy DeathMatch v2.0 DEMO (reqs. DOOM v1.666), be
+     sure to load LIFTOR by typing DOOM -FILE LIFTOR.WAD and wait
+     a few moments after the opening screen.
+
+================================================================
+Title                   : LIFTOR.WAD
+
+Author                  : Vance Andrew Blevins
+
+Email Address           : VABlevins@aol.com
+                          V.A..Blevins@F209.n170.z1.fidonet.org
+
+Misc. Author Info       : Always looking for something NEW!
+
+Description             : With over 100 separate lifts, need I
+                          say anything more? LIFTOR was though
+                          created with DOOM v1.666 allowing you
+                          Eight Channel sound and DeathMatch v2.0
+                          for proper play and desired effect.
+
+Additional Credits to   : All the GREAT DOOM PWAD Authors and
+                          whomever wrote the ANOTHER1.MID file!
+                          Also, my brother, Jason Blevins, who
+                          kind of took it on the chin when helping
+                          me to make the DEMO in DeathMatch v2.0!
+                          DEU v5.2GCC, BSP v1.1x, DMMUSIC v1.1
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Drawn up from Scratch
+Build Time              : Altogether, Map, Music & Testing? A few weeks.
+Editor(s) used          : DEU v5.2GCC
+Known Bugs              : Zero
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.
+
+* Where to get this WAD *
+
+FTP sites: n/a
+
+BBS numbers: Almost anywhere PWADs can be found in great quantity!
+
+Other: n/a
+

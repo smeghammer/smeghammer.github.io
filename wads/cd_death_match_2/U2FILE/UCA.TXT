@@ -1,0 +1,74 @@
+        Deimos Moon Base, Anguilla Crater
+
+        Moondate 56-9-4:  A routine satellite terrain survey reveals EM
+                anomalies within the Uca Crater.  A terrain patrol squad is
+                sent to investigate.
+        Moondate 56-10-2: The patrol investigating the Uca Crater fails to
+                report in for the fourth consecutive check-time.  UAC Central
+                decides to send a Drop Squad to investigate.
+        Moondate 56-10-7: The storm-trooper transport, Aquarius, parks in an
+                orbit above the Uca Crater.  A Drop Squad descends into the
+                crater while the Aquarius conducts sensor analysis.
+        Moondate 56-10-7.2: At Mission Time Elapsed (MTE) 0020, Deimos Moon Base
+                receives an urgent message from the Aquarius, citing hostile
+                fire from the Uca Base.  The Aquarius is ordered to retrieve
+                the Drop Squad and return immediatly to base by UAC Central.
+        Moondate 56-10-7.3: Contact with the Aquarius is lost.
+        MD 56-11-5: The wreckage of a spacecraft, identified as the remains of
+                the Aquarius, is discovered.  The mission recorder is
+                removed from the wreckage and sent to C-Lab for data
+                retrieval.
+        MD 56-11-9: Though severely damaged during the crash, the mission
+                recorder reveals that shortly after the Drop Squad left the
+                Aquarius, the transport was attacked by ground-level pulse
+                cannons.  Nav Control was damaged, and as the Aquarius attempted
+                an emergency retreat to base, it crashed.  The fate of the
+                Drop Squad and the regular patrol remain unknown.
+        MD 56-14-0: UAC Central, having analysed the available information,
+                hypothesizes that the hostiles responsible for the infiltration
+                of Phobos Base months earlier have returned and commenced
+                construction of a clandestine base on Deimos.  Most probably,
+                the base is still under construction, using UAC technology
+                stolen from the Phobos Base.  The Uca Crater Base must
+                be infiltrated, and its layout must be determined.  UAC
+                Central decides to risk another Drop Squad, this time a heavily
+                armed one.  Mission operatives are to inflict maximal damage to
+                the base while recording the hostile base's layout so that
+                UAC Central may determine how best to proceeed to neutralize
+                this new threat.  Squad survival is of the utmost importance.
+                The transport, Gateway, will drop Red Squad and ascend to safer
+                high altitudes.  There, it will wait until Red Squad has
+                re-emerged.  The mission has been codenamed Operation UCA.
+        MD 56-14-5: Gateway arrives at the coordinates of the Uca Base under
+                heavy cloak.  Red Squad quickly makes a drop as the Gateway
+                ascends into a high orbit.  Red Squad begins
+                its descent into the Uca Base....
+                                         ---------
+        As Red Squad descends, it is ambushed by a huge horde of demons.  The
+        squad never stands a chance.  One by one, the soldiers are cut down
+        and butchered without warning.  You are one of the last men still
+        standing, though the attack has exhausted your store of munitions.
+        Wearily, you wave your pistol into the face of a charging demon, ready
+        to greet death with valor.......
+                .....but in stepping backwards to brace yourself for the
+        impending impact, you inadvertently trigger a teleporter.  There is a
+        flash of bright green, and as your eyes and body re-adjust, you find
+        yourself staring into an unfamilar wall...
+
+        Welcome to uca.zip.  This mission replaces e2m1.  This is also the first
+        WAD I've constructed, using DEU5.1 and BSP1.0.  I hope you enjoy it.
+        If so, or if not, please give me feedback so I know how to make my next
+        one even better.  Currently, this mission is tuned to single player
+        mode - it is challenging, but definitely possible to complete.
+        Believe me, I've play-tested it often enough. :-)  If there is a great
+        enough demand, I will add in multi-player options as well.
+                I am currently at work on a sequel that continues where uca.wad
+        ends.  After all, your soldier is still stuck and lost within the
+        hostile base....he still has to make it back to the surface alive
+        to make rendezvous with the Gateway... :-)
+
+        Happy Hunting!
+
+                Eddie Nguyen
+                anguilla@raphael.acpub.duke.edu
+

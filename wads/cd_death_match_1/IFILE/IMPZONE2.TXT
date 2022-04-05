@@ -1,0 +1,95 @@
+================================================================
+Title                   : IMPZONE 2 
+Author                  : John A Warren - Derby, England
+E-mail Address          : CIS:100270,1053
+                          or in the UK, leave a message on:
+
+                                 GREY CASTLE BBS 0332-756414
+ 
+                          PLEASE send me your comments.
+                          All E-Mail will be answered.  
+   
+Additional Credits      : All at ID of course.
+
+                        : Mathew Walker (Savannah, Georgia)
+                          Chief Play Tester (US)
+                                                   
+			: Paul Rowan (Nottingham, England)
+                          Chief Play Tester (UK)
+                          
+Description             : `Acorn Hardas' rides again - Following on from my
+                          experiences with `The Imp Zone' and the comments
+                          I received, here's the sequel.
+                          It seems the favourite part of Imp Zone was the
+                          Turkey Shoot off the pseudo bridge.  That was
+                          developed further in IZ2.  Just look out when you
+                          get to looking down on the Green Nuke Pit where you
+                          started from, it gets VERY hot in Ultra Violent
+                          Mode, don't be in too much of a rush to be
+                          confrontational, you must use your wits and take
+                          them by the `back door' Paul wanted some difficult
+                          secrets, I accomodated him with one `corker', if
+                          you can't get 3 x 100% watch the DEMO, it shows
+                          you most of the secrets.
+                        
+                          Most of all, I just hope it gives a few people as
+                          much pleasure playing it as it gave me to construct.
+                          JUST HAVE FUN but be careful out there!
+
+                                     ---------------------------
+
+                          The file is IMPZONE2.WAD and is level E1M1, i.e. 
+ 		 	  episode 1 mission 1. It supports all levels of
+                          violence.
+
+Instructions            : DOOM -FILE IMPZONE2.WAD
+
+  
+Disclaimer              : Sorry!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (Keys readily available in this mode)
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : Yes, DEMO1
+
+* Construction *
+
+Base                    : New level from scratch
+
+Build Time              : A fraction of the time of The Impzone
+
+Editors used            : DEU 5.2 by Rapha‰l Quinet & Brendon J. Wyber 
+        
+
+Known Bugs              : I experienced some slowing of my 486/33 when
+                          entering the `Warehouse Office', I couldn't
+                          find a reason and so changed the Office Wall
+                          Texture, I think (hope) that cured it.
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+CompuServe, Gamers+ Forum, Library 8 (Action Game Aids).
+
+Please upload to every and all BBS's to aid my endeavors to
+spread a little please.
+
+

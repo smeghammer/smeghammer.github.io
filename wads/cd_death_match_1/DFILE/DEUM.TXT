@@ -1,0 +1,70 @@
+Title                   : Escape from Planet Deum   
+Filename                : DEUM.WAD
+Author                  : Tony Priest
+Email Address           : Toeknee388 on AOL; 75117,1123 on CIS
+Misc. Author Info       : 
+
+Description             : Final Transmission of Agent Brendan Raphael
+			  Blaskowiecz:
+				When I arrived on Planet Deum last night
+				I teleported into the offices of the ware-
+				house. Disguised as a Cacodemon I was easily 
+				able to maneuver through the mazelike corridors
+				until I found the teleporter that took me to 
+				the computer facility. In the computer facility
+				I discovered crushing ceilings and after much 
+				carnage was able to locate the teleporter to 
+				the penal facility. This led to the surface 
+				where, after sneaking by a spider demon I 
+				arrived at the door to the exit. I am opening 
+				the door right ARGHHH....... 	
+				END OF TRANSMISSION. 
+				You will now be deposited into the warehouse 
+				where agent Blaskowiecz was sent. You must 
+				retrace his steps and discover his fate.
+
+				To play unzip this file into your DOOM dir-
+				ectory and type th following.
+
+				C:\DOOM\doom -file deum.wad
+				Play the second mission.						 
+			
+Additional Credits to   : The Usual
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2, BSP
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Where to get this WAD *
+
+America On Line
+Compuserve
+
+DOOM and the DOOM logo are trademarks of id Software inc.
+This is not a product of id Software and is not supported by them in any way.

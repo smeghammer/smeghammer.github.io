@@ -1,0 +1,45 @@
+================================================================
+Title                   : Stalker2
+Filename                : STALKER2.WAD
+Author                  : Chuck Jordan
+Email Address           : jordan@ix.netcom.com
+Misc. Author Info       : John Irving was an avid wrestler in
+                          school
+
+Description             : The continuation of the completely
+                          underwhelming STALKER.WAD
+                          A deathmatch level for E1M1, best
+                          played with 3 or 4 players
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes (for previewing)
+Cooperative 2-4 Player  : Not really
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2
+Known Bugs              : None yet
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+

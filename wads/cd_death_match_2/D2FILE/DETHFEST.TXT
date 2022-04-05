@@ -1,0 +1,93 @@
+================================================================
+Title                   : Deathfest   
+Filename                : DETHFEST.WAD
+Author                  : Jason Kirby
+Email Address           : jakirby@cyberstore.ca
+Misc. Author Info       : Other Pwads by Author : TIMJAY.WAD
+                                                   - containing:
+                                                     * Megapit
+                                                     * Serpent's Ring
+                                                     * Go For It
+                                                     * Outpost
+                                                     * a version
+                                                       of this wad
+                                                     * Plus other goodies
+                                                       by the TIMinator!.
+
+Description             : My attempt at finding the "flow" (That mystical
+                          force that makes a deathmatch wad so fraggin' 
+                          good!). Try it you'll like it!
+
+Additional Credits to   : Tim "TIMinator" Ash, Ryan Saari and many others
+                          for playtesting.
+
+Notes                   : I decided to release this one again by itself after
+                          I made a few small changes and added my own skill
+                          levels.
+
+                          Go ahead, get the rocket launcher (If you dare!).
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes (What a blast ;) )
+Cooperative 2-4 Player  : Yes (But why?)
+Deathmatch 2-4 Player   : Yes, more the merrier!
+Difficulty Settings     : Yes 
+
+                               Level 1-2: For those who like more goodies.
+                               Good for novice -altdeath and will also work 
+                               for reg. deathmatch if you prefer the BFG.
+                               Weapons : 2 Chainguns, 2 Shotguns, 1 Plasma 
+                                         rifle ,1 Super Shotgun, 1 BFG
+                               Goodies : 1 Soul Sphere, 1 Beserk, 2 Stimpacks,
+                                         2 Med Kits, 1 Energy Pack, 1 Box of
+                                         Rockets, 1 Box of Shells, 1 Box of
+                                         Ammo, 1 Blue Armour, 1 Backpack
+
+                               Level 3:  designed for original Deathmatch.
+                               Weapons : 2 Chainguns, 2 Shotguns, 1 Plasma 
+                                         rifle, 2 Super Shotguns, 1 Chainsaw
+                               Goodies : 1 Soul Sphere, 1 Beserk, 2 Stimpacks,
+                                         2 Med Kits, 1 Box of Shells, 1 Box of
+                                         Ammo, 1 Blue Armour, 1 Backpack
+                               
+                               Level 4-5: Made for -altdeath, and those who
+                                          don't like too much health and
+                                          excessive ammo. (My fav!)
+                               Weapons : 2 Chainguns, 2 Shotguns, 1 Plasma 
+                                         rifle, 1 Super Shotgun
+                               Goodies : 2 Stimpack, 1 Med Kit, 1 Box of Shells, 
+                                         1 Box of Ammo, 1 Blue Armour
+
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch (about 5 hrs)
+Editor(s) used          : DEU2C, BSP12X, REJECT11.
+Known Bugs              : None (Maybe those brazen victims heading for the
+                                rocket launcher ;) ).
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:   ftp.cdrom.com 
+
+

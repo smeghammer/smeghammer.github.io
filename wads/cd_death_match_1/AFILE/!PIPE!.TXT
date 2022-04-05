@@ -1,0 +1,104 @@
+================================================================
+Title                   : Pipes   
+Filename                : !PIPE!.WAD
+Author                  : Jon Landis
+Email Address           : alandis@delphi.com
+Misc. Author Info       : 
+
+Description             : Here is your chance to take a lovely tour
+                          of the subterranian sewer system that exists
+                          to fulfil all of Hell's waste disposal needs.
+                          But what is that coming out of the pipe?! 
+                          I guess it is time to take out the trash!
+                          Mangle the monsters, clean the sewers out,
+                          explore horrific ventilation shafts and find the
+                          pipe that will bring you back to the surface.
+
+                          For all of you thrill seekers out there, try 
+                          ULTRAVIOLENCE... You will have a little trouble
+                          getting down the first pipe, but after that
+                          it will be smooth sailing, yea right!  
+
+                          A warning to anyone who thinks they are cool and
+                          anyone who downloads a wad file, then uses IDDT
+                          IDDQD and IDKFA and breezes through the wad.  
+                          You will be pleasently surprized by this wad file.
+                          I put a few IDDT busters in there for all the 
+                          cheaters of the world to be discouraged with.
+
+                          Be warned.  I am a crafty bastard.  This Wad file
+                          is a bitch and there are many chances to die, so
+                          die and have fun doing so.  There is a demo included
+                          It is the SECOND demo, so wait for it.
+
+                          For all you network jocks out there...
+
+                          This level was designed for CO-OP play.  
+                          Deathmatch starts have been inserted, but
+                          Deathmatch sucks with this level.  There
+                          is a great possibility that one or more
+                          players will get stuck someplace.  And a greater
+                          possibility that any player will never see any
+                          of the other players. Go CO-OP for this one.
+
+Additional Credits to   : ID software (for such a kick-ass game!!!)
+                          Raphael Quinet and Brendom J. Wyber for
+                                DEU 5.21 (One word, quality)
+                          Colin Redd for BSP 1.2 (A Troubleshooting
+                                lifesaver)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : ExMx (2,2)
+Single Player           : Yes
+Cooperative 4 Player    : Yes
+Deathmatch 4 Player     : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : Demo #2
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, BSP 1.2
+Known Bugs              : The room with three pipes has a slight node
+                          error that BSP couldn't handle.  In each of 
+                          the rooms with two pipes, you can see the 
+                          Cacodemons as they are rising through slight
+                          nodes errors.  In the rooms where you have
+                          to shoot the Skull buttons, there may be a 
+                          slight nodes error, but that is not definate.
+                          In the last room you can walk on the toxic waste
+                          and get to a spot where the entire screen turns
+                          green.  That is pretty cool, but an error!
+                          Some monsters regain their hearing.  The lift
+                          near the end gets you stuck sometimes because the
+                          monsters set it off.  The music sometimes just
+                          cuts out.  The demo does not complete the level.
+                          (It was such a pain in the ass to make that damn
+                          thing!!!!)
+                          
+                          *** This may look like a big bunch of errors, 
+                              but this level is still quality.  You won't 
+                              even notice! ***
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You MAY not use my pipe design without giving me credit.  I have never
+seen anyone make pipes like mine.
+
+
+* Where to get this WAD *
+Well, I guess you got it, hey?

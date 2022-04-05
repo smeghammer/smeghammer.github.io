@@ -1,0 +1,68 @@
+
+================================================================
+Title                   : The Demons' Hive   
+Filename                : THEHIVE.WAD
+Author                  : Phillip Wayne
+Email Address           : papalegb@crl.com 
+Misc. Author Info       : Thanks go to Alex Wayne for play 
+                          testing and some very good ideas
+                          
+
+Description             : They're back. This time it's not the 
+                          moons they are after, but Mars itself.
+                          There is a hive/colony on the surface,
+                          and you (lucky you!) have been chosen
+                          to lead the attack. But your company
+                          never made it down, and you are the 
+                          only one left. You have some 
+                          explaining to do.
+
+                          Assuming, of course, that you can make 
+                          it back.
+
+			  This is the first four levels. I hope to have
+			  the rest of them done soon. As I finish them,
+			  they will show up at the ftp site on infant2
+
+			  If you are the hack-n-slash type, you won't make
+			  it very far in these levels. Most of them require
+			  some thought, and a LOT of F6. However, I have made
+			  it through on Ultra-Violence to the end of Level
+			  4, so it CAN be done. Good luck!
+
+Additional Credits to   : Alexander Wayne for play-testing and ideas
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1-E1M4 (more to come)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : DEU 5.21, BSP11X
+Known Bugs              : In MY code?????
+
+
+* Copyright / Permissions *
+
+Authors MAY use these level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+

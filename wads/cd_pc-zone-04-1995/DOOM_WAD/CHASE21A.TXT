@@ -1,0 +1,56 @@
+================================================================================
+
+Title         : chase21a
+Filename      : chase21a.wad
+Author        : Thomas E. Davis
+Email Address : tdavis@garnet.acns.fsu.edu
+
+Description:
+   This is a big and somewhat simple deathmatch wad (only a few tricks
+and traps).  It is made up of all the things I value in a deathmatch
+wad.  All the weapons are present, and they are spread out.  The more
+powerful the weapon, the harder it is to aquire.  I strategically placed
+each item for the new "altdeath" option with Doom 1.4 and above.  If you
+play without this option, you will have nothing but weapons to pick up
+after the first few minutes of play. 
+   In honor of one of my favorite wads (halls1-9), I have included a
+cage.  However, the person in the cage is able to see out and defend
+himself... at least until he runs out of ammo or gets fragged. 
+   The lmp was recorded from my (indigo) point of view.  We made it
+before I added the exit, so the ending is a little abrupt.  Nonetheless,
+it's a fairly long show.  Enjoy!
+
+================================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Nope
+Cooperative 2-4 Player  : YES!
+Deathmatch 2-4 Player   : YES!
+Difficulty Settings     : Nope (be a man, use skill 4)
+New Sounds              : Nope
+New Graphics            : Nope
+New Music               : Nope
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : DOOMCAD, DMGRAPH, and BSP.
+Known Bugs              : None.
+
+* Permissions *
+
+Please don't screw with this wad.
+
+* Where to get this WAD *
+
+FTP site: infant2.sphs.indiana.edu
+
+* Acknowledgements *
+
+Special thanks to Mike Webster (mlw2834@gold.acns.fsu.edu) for helping me test
+play this wad and record our game.
+
+================================================================================

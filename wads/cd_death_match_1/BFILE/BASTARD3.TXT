@@ -1,0 +1,66 @@
+First off, I'd like to thank everyone who has given us such positive 
+feedback on BASTARD1.WAD.  I've had several requests to post that file
+to infant2 (as before it had only been on ocf, and is now "lost").  
+However, Mike and I have already gotten quite a bit done on our
+episode, so we decided to go ahead and post the first three levels of
+our episode.  Hope you enjoy playing them as much as we did making them!
+
+BWL
+
+Note: There have been a few minor changes in Level 1 since our first upload.
+
+================================================================
+Title                   : BASTARD3.WAD
+Author                  : Ben Lagow (Levels 1 & 3) and Mike Arnett (1 & 2)
+Email Addresses         : gambit@uxa.cso.uiuc.edu (Ben)
+                          marnett@uxa.cso.uiuc.edu (Mike)
+Misc. Author Info       : Materials Science grad students.
+
+Description: 
+
+First three in a series of nine maps which together will comprise the "It's a
+Bastardly Day in the Neighborhood" episode.
+
+Level 1:  Well, you made it out of Hell all right, but the second you get
+home, you hear teleport sizzles all around you...those bastards have
+followed you!  Looking out the window, you can see they've got the
+building surrounded...and you can hear the grunts of mutant soldiers coming
+from inside your door...
+
+You've fought those bastards on their own turf and won.  Now they're back to
+even the score.  Fortunately, you've got a few tricks up your sleeve...
+not to mention your general issue pistol...
+
+Level 2:  Sewer Level
+
+Level 3:  Waste Treatment Plant
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2, E1M3
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Easy, Medium, Hard
+New Sounds              : None
+New Graphics            : None
+
+* Construction *
+ 
+Base                    : New levels from scratch
+Build Time              : 1. I can't count this high...
+                          2 & 3.  About 20 hours each
+Editor(s) used          : DEU 5.0, 5.1, and 5.21; BSP 1.1x
+Known Bugs              : None 
+
+* Copyright / Permissions *
+ 
+Authors may NOT use these levels as a base to build additional
+levels, nor may it be included in an episode package, without permission
+of the authors.
+
+* Where to get this WAD *
+ 
+FTP sites:      infant2.sphs.indiana.edu, wuarchive.wustl.edu
+
+

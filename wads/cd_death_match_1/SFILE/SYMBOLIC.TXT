@@ -1,0 +1,39 @@
+Symbolic.wad Info
+-----------------
+I tried to make this wad playable for everyone, easy to hard levels
+(not impossible), no places to get indefinately trapped, all textures
+match up, theres one place where there are switches but aren't shown as
+switches, this is intentional (they're in an obvious location though).This
+is my first creation so I don't know what to write other than I believe 
+it's worth the download. I'm very critical about myself, so it's probably
+better than I think, and I think it's good!
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes(not tested)
+Deathmatch 2-4 Player   : Yes(not tested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : No idea
+Editor(s) used          : DoomEd250b2+b3
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+Other:Please E-mail me with advise praise or whatever, please understand 
+that this is my first atempt.
+
+eric.birnie@canrem.com

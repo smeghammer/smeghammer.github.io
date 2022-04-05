@@ -1,0 +1,92 @@
+================================================================
+Title                   : Let The Bodies Fall
+Author                  : Sufferin' Pup
+Misc. Author Info       : Deathmatch fanatics everywhere!  I love DM, you
+                          should to.  As soon as I got a modem, the first   
+                          thing I did was play Doom!  This is my first 
+                          shot(pun intended) at a level.  It is just a remake,
+                          but it is incredible.  I have played as long as 
+                          3 hours on this level alone!  I think you will too.
+                          My next level will be all-new.  Taking what I have
+                          learned from this, and adding much more, it will be
+                          great.  Look for it, it is called: 
+                          "Tricks of the Trade".
+
+Description             : You like episode 1, level 5?  I sure do, it is THE
+                          best Deathmatch level I have ever found.  Even
+                          supposed "made for DM" levels by others can't stack
+                          up.  It had problems, though.  I fixed those, plus
+                          spiced up the graphics by adding many new textures
+                          from the registered IWAD.  It is okay 1-player, too.
+                          A little easy, but how else are you going to 
+                          practice?  It is pretty fun on Nightmare, though.  
+                          This PWAD will replace the first 4 levels of  
+                          episode 1 with Let The Bodies Fall.  So if the level
+                          is running low on health, or you want a true frag
+                          count, just end the level.  The next level will be  
+                          Let The Bodies Fall again, just refreshed!
+                            Check out BODY.GIF for a complete map of the 
+                          level, with some labels so you can communicate with 
+                          other Let The Bodies Fall players easily.  There are 
+                          few differences between E1M5 and this level, but the 
+                          differences are important(some can only be reached 
+                          in Deathmatch, or by using the cheat keys).
+
+Additional Credits to   : Geridak: he was the main tester and idea guy
+                          Tomor: for knocking some sense into me
+================================================================
+
+* Play Information *
+
+Episode and Level #     : First 4 levels in episode 1!  Play for hours!
+Single Player           : Yes
+2-4 Player Cooperative  : Yes -but not that great
+2-4 Player Deathmatch   : Yes -THE best...if you find one better, give it here 
+Difficulty Settings     : Yes -set it for Skill 1, Respawn for a perfect
+                                Deathmatch
+Difficulty              : 3 out of 10, made for player vs. player...the 
+                                monsters are just for ammo :>
+New demos               : No
+New Sounds              : No
+New Graphics            : No -sadly, I didn't have enough time to impliment
+                                any.  I was playing too much!
+* Construction *
+
+Base                    : E1M5
+Build Time              : Oh, maybe 10 hours plus endless playtesting :>
+Editor(s) used          : WADED 1.23...
+Known Bugs              : None, but it took me forever to get rid of them all
+                            (Stupid Node Builders, only WADED 1.23's made it
+                            work right)
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+I UL it to many BBSs all over the USA.  
+
+* Other Stuff *
+
+I know this level sucks as 1-player, it is geared for Deathmatch.  Don't judge
+this level by 1-player standards.  Many people will see the word "remake"
+and push this aside.  Don't.  I only used the wall structure from E1M5, I
+completely erased the things and replaced most of the wall and floor textures.
+When I placed the Things in the level, I kept Deathmatch in mind.  That
+Baron is not to be killed, but dodged as you get health and armor.  There are  
+shotguns near every Deathmatch start, and other weapons are placed with care.
+Enemies are for ammo, and to weaken and block the player's progress.  That
+is why I suggest "I'm too young to die", but turn respawn on.  This is how I
+designed the level to be played.  Just enough enemies to keep the ammo
+flowing, and the players challenged while crossing the map(enemies are a good
+way to track an opponent also: follow the dead bodies!).  Thanks for trying   
+out this level, it was fun to re-make, and even more fun to test.  I am sure
+I will be playing this level with others as long as Doom is around.  I hope
+you will be playing it too.

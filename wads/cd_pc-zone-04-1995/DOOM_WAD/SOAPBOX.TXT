@@ -1,0 +1,62 @@
+================================================================================
+             MY TWO CENTS..................
+
+
+Fellow DOOMers,
+
+From the beginning I have had one goal and one goal only: To create a level
+(well... MISSION) that is as consistent and detailed as the original game.
+
+ I personally feel that its critical to have as cohesive and consistent design
+in such that you could literally play a PWAD then continue into the very next
+original DOOM level and it would be a natural progression. Totally seamless.
+
+ One of the truly remarkable things about DOOM is that you could be tiptoing
+down a dark hall and then out of the black... FIREBALL!  and you DUCK! flinging
+your head away from the screen to avoid being hit.That is realism, engrossing
+the player in the enviornment.Id has taken us to "the next level" of realism.
+No fancy video on CD, just great DESIGN.I can only dream to be as good at it
+as Id but I strongly feel that we must strive in our level design to continue
+that same realism,engrossing the player in whatever "feel" or atmosphere you
+are trying to convey,to tell a story of the marines hell fight to get through!
+
+In My level(s), The cohesiveness I talk about is the same as DOOM itself.
+If you go back to the DOOM README and read the descriptions of secret rooms,ect
+my level is the same.look for the same clues. One other thing you might have
+noticed in DOOM itself is that most of the time you dont get things,weapons,
+ammo,ect, until you NEED them. And if it looks like a trap, it probably is.
+
+ I did not include the part in WAD_AUTH.TXT about "setting the mood" because
+Id did not tell you BEANS about any level before you went in,so I AINT EITHER!
+
+And PLEASE save those PWADS to *ANY* level exept E1M1! Fully 75-80% of the 150+
+PWADS I have played just used the "default" and us poor saps with sound cards
+have to listen to the same darn music over and over. I will usually sit down
+and play 3-4 per day (that is until i started this mess) and after the a while
+that music gets OLD!
+
+ I am no expert, and this IS my first level, but nonetheless I tried very hard
+to make it as I have stated above. There are many exeptional authors out there.
+People I can only hope to achieve the quality of work that they have done.
+But I will try....... and to the budding authors out there I hope you do too.
+
+ As beginning levels go (that is eXm1) this one is a little big.The originals
+are all smaller than 100k but you are here because you beat DOOM to death and
+you need more (read difficult) challenges. Remember though, this IS the first
+level of a MISSION and therefore it is not super hard as it is part of a bigger
+picture, (levels 2-9). I have outlined each and every one Im building and how
+they all tie together AS A GROUP when played as a mission.so on its own this
+level cannot be compared with a "complete" type level where it stands on its
+own to be played as only one "game" as it were. This is only the ground floor.
+
+ I do want comments. It means a lot to hear from players. There was a fine
+TXT file put out recently which REVIEWED some of the PWADS in circulation.
+And it was a real eye opening experience for me.Great stuff to hear from the
+players as to what they want, like, hate, whatever.
+
+That said, lets cut the chat and slap some lead!!
+
+(soapbox off)
+                                             -lee-
+
+

@@ -1,0 +1,54 @@
+================================================================
+Title                   : Springer
+Filename                : SPRINGER.WAD
+Editor                  : Frank S. Fejes III
+Original Author         : Mark K. Gresbach Jr.
+Email Address           : ffejes@midway.uchicago.edu
+Description             : This file is the Doom ][ conversion and 
+                          modification of tourney.wad, which was 
+                          created especially for a 4-player 
+                          deathmatch tournament. It has sniper 
+                          points, open areas and all weapons in 
+                          interesting places. The weapon placement 
+                          is designed to make for an intense 
+                          4-player altdeath deathmatch.
+Additional Credits to   : Mark Gresbach for permission to convert
+                          and modify the best deathmatch map for
+                          Doom
+                          John-paul, Matt, and Jimbo for testing
+                          the upper limits of the frag count
+                          id Software
+                          Jerry Springer
+No Credit to            : Apogee
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP 01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : TOURNEY.WAD
+Editor(s) used          : DEU 5.21 BSP 1.1x DM2CONV
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may not modify, change or in any way alter this level without
+written permission from the author. 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+

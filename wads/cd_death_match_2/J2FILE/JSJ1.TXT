@@ -1,0 +1,68 @@
+================================================================
+Title                   : JSJ1.WAD
+Author                  : Jamie Adams
+E-mail Address          : mpui3@central.susx.ac.uk
+
+Additional Credits      : id Software, obviously, for making such a cool game.
+                        : Joe Molleson and Steve Runyeard - both of you for
+                        : ideas and playtesting, and Joe for the use of your
+                        : Pentium.
+
+Description             : DOOM ][ DEATHMATCH WAD
+                        : This is my first Deathmatch wad, but I hope there
+                        : will be more from this stable. After playing several
+                        : I hope I have been able to bring together the best
+                        : elements of those into this one. Hope you like it.
+                        : Feel free to mail me your opinions.
+
+Instructions            : Put JSJ1.WAD in your DOOM2 directory, and start
+                        : a deathmatch network, or serial game, and add the
+                        : -file option, e.g. '-file jsj1.wad', and kill, KILL.
+                        : (As if you need to be told :)
+
+Disclaimer              : I assume no responsibility for anything of any sort,
+                        : in any way, shape, or form--now, then, henceforeward 
+                        : for any screw-ups or even minor inconveniences this 
+                        : PWAD causes you, or any other person. It has been
+                        : extensively tested so it should be OK.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01 
+Single Player           : You could do, but it's pointless - there isn't an
+                          exit switch either.
+Cooperative 2-4 Player  : Again it's pretty pointless - why play with your
+                          friends if you can't frag 'em anyway?
+Deathmatch 2-4 Player   : Now we're talking!! - The only reason this wad was
+                          designed.
+Difficulty Settings     : Unsupported.
+New Sounds              : No.
+New Graphics            : No.
+Demos Replaced          : None.
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 9 - 10 hours.
+Editor(s) used          : Waded 1.83 by Matthew Ayres.
+Known Bugs              : None.
+Unknown Bugs            : How do I answer this...?
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+Wouldn't mind a copy of them either.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+ftp.idsoftware.com or ftp.cdrom.com
+
+Jadz.
+

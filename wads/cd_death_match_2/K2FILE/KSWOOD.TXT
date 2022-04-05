@@ -1,0 +1,78 @@
+================================================================
+Title                   : KSWOOD
+Filename                : KSWOOD.WAD
+Revision                : 15 w180b
+Author                  : Klas Sch”ldstr”m
+Email Address           : d90-ksc@nada.kth.se
+Short Description       : forest, castle, firewall, village
+
+Description             : The evil forces have captured a whole small
+                          farmer village in a firewall and nobody has the
+                          guts to pass the firewall. Your mission is to
+                          take you to the village and blow away the evil
+                          forces.
+                          You are near now but you hear something,
+                          you aren't alone in the forest and begin to run
+                          to the small castle before something will get you.
+
+                          The game is constructed for a single player on
+                          hurt me plenty or hey not to rough.
+                          For more players hurt me plenty or ultra-
+                          violence
+                          Deathmatch start spots are all in the small
+                          village for some tight fighting.
+                          You are supposed to find the amo you need
+                          but you must fight to get amo, so if amo
+                          is running low begin to run before you run
+                          out of it, you need it to pass the enemy.
+                          I you leave amo, remember were you left it.
+                          The demo1 shows how to finish on skill 2.
+                          The demo2 and demo3 show how to get in to the
+                          castle on skill 4.
+
+Additional Credits to   : ID, and all people who do adds on.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes  ( little more of everything )
+Deathmatch 2-4 Player   : Yes  (7 point all in village, BFG in main house)
+Difficulty Settings     : Yes
+New Music               : Yes  ( Mountain King by Edward Grieg (classic2))
+Demos Replaced          : All
+
+
+Difficulty Settings
+  Hey:    Fun for peole who like Hurt me plenty
+  Hurt:   Fun for people who like ultraviolence
+          Game has been done on this level
+  Ultra:  if you think nightmare is fun
+  Multi:  Some extra monster to keep spirit up
+
+* Construction *
+
+Base                    : New level from scratch
+                          (40 hours building + 10 hours playing )
+Editor(s) used          : DEU 5.21GCC, BSP 1.2, Reject 1.0
+Known Bugs              : In front some of the houses is a small invisible
+                          step. It is no playing problem.
+                          In two places can monster
+                          be invisible from some angles
+                          in demo1 it happens once.
+                          It has something with nod-building to do.
+
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+

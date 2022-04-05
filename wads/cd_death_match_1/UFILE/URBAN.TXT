@@ -1,0 +1,126 @@
+================================================================
+Title                   : Urban Nightmare   
+Filename                : URBAN.ZIP
+Author                  : C. Bradford Rose
+Email Address           : cbr@wpi.edu
+
+Misc. Author Info       : Student at Worcester Polytech. Member of Army ROTC,
+                          future infantry officer (gee, wonder why I like 
+                          DOOM :) ). Plays computer games way to much.
+
+Description             : The Apocalyspe has finally come to pass... all of 
+                          Earth lies in ruin after a world-wide nuclear war.
+                          You are a lone infantry soldier who has managed
+                          to survive. You were lucky (depends on how you look
+                          at it) to be in an underground bunker when a nuke
+                          hit near your location. After the radiation levels
+                          dropped off, you left to search for more supplies.
+                          After many days of wandering.... you have come to 
+                          realize the awful truth... the Earth as you knew it
+                          is no more. You can find no signs of civilization 
+                          or life... except of course if you count the
+                          undead. The spawn of hell now roam the Earth...
+                          You never really believed so strongly in the
+                          super-natural untill now (and you think that pissed
+                          them off). You are about to give up and accept  
+                          death when you come across a city! Maybe there
+                          are people alive there! Maybe there are fresh 
+                          supplies! Or worse yet... maybe the undead, or
+                          even worse... perhaps enemy soldiers could be 
+                          lurking in that city. Only one way to find out.....
+                          
+Additional Credits to   : The creator of nightfall.wad (where I found the 
+                          sky1 textures :) ). My 486 dx2 66 laptop :) (great
+                          for DOOMing in lecture). My girlfriend... for moral
+                          support and for making realize that there IS a 
+                          world outside of DOOM :). Everyone on alt.games.doom 
+                          and the rec.computer.games.doom groups that helped 
+                          me with any questions I had. The creators of DEU,
+                          BSP12x, IDBSP, and DMAUD. And, of course- ID.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No (You can play but there's no exit... just see 
+                          how long you can last on nightmare)
+Cooperative 2-4 Player  : No (see above)
+Deathmatch 2-4 Player   : Hell YES... best for 4 players
+Difficulty Settings     : see below
+New Sounds              : Kinda (I erased the sound of the switches... when
+                          one was thrown you could hear it from anywhere in 
+                          the city as loud as if you were right there. That
+                          screws up the 'Hunt' :) )
+New Graphics            : Yes... sky1 replaced with stars
+New Music               : No (just used the music from E2M1... I love that
+                          one :) ).
+Demos Replaced          : None (Go ahead and make your own :) )
+
+
+Levels-
+
+All levels have the same amount of monsters, the powerups and items are 
+different however.
+
+All levels    Have weapons (duh), ammo (duh again), Armor, Blur spheres,
+              and monsters.
+
+1 and 2...    Also has medkits, stimpacks, (and other healing powerups), along 
+              with the BFG. Plus- there is a Computer Map, an Invunerability 
+              Sphere, and Light Amp Goggles.
+              
+3...          No healing powerups, no BFG, but still has Computer map,             
+              Invunerability Sphere, and Light Amp Goggles.
+
+4 and 5...    None of the above
+
+
+Addtional Information...
+
+This is a pretty complex deathmatch wad and is for those who like some tricks
+and hunting in their deathmatch games and not just a square room with a frag
+every second. There are a good deal of secret areas and traps, I have checked
+everthing over and over... there are NO good places to 'set up camp', even 
+places that look great for that, have a safeguard (something like a crushing
+ceiling activated from elsewhere. It may be a good idea to have allow all
+players to have a quick look at things before getting started). There are,
+however, MANY places to hide. Many nooks and cranys and lots of shadows :). 
+However- everything seems to balance out... email me with any comments or
+suggestions.
+              
+Also... watch out for bullet-proof windows. I came up with these babies while
+just playing around with things (I was determined to build one). Both players
+can see one another but neither can shoot each other... not with ANY weapon.
+Also... some of these windows are not windows, but force fields (they can be
+turned on and off). So... watch out :).
+
+One more thing... almost all the good weapons are in traps... that is-
+after you grab the weapon... a door closes behind you and doesn't open for
+30 sec.. In that time you are trapped. Be sure to stay close to the door
+so that when it opens and you try to leave, you don't accidently activate
+the linedef again (and trap yourself for another 30 sec. :) ).
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU5.21gcc, IDBSP, BSP12x, DMAUD, DEHACKED
+Known Bugs              : None... if you find any let me know.
+Build Time              : 2 quarters and 2 failed courses. 2 much :).
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. Just give me some credit please. 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers:
+
+Other:

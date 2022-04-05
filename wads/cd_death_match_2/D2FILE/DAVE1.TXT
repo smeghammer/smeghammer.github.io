@@ -1,0 +1,61 @@
+================================================================
+Title                   : Dave1.WAD   
+Author                  : David Bruni 
+Email Address           : 74353,357 
+Misc. Author Info       : My second WAD file, big improvement over my                       
+                          first attempt.
+
+Description             :Big level with lots of special lighting and a few   
+                         other special effects. You have to watch your back
+                         in this one. Also, lots of area left to add to if
+                         you have DoomED-The Real Thing editor.Availible in
+                         the Gamer's Forum as DMREAL.ZIP. I'd highly
+                         recommend this editor
+                         
+
+Additional Credits to   : id, for making DOOM and Geoff Allan for making 
+                          DoomED-The Real Thing Editor. Also special thanks 
+                          to my wife for helping beta test this floor and
+                          watching the kids so I could spend the better part
+                          of a Saturday making this floor.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : about 25 hours 
+Editor(s) used          : DoomEd-The Real Thing 
+Known Bugs              : a few misaligned wall textures, but not to 
+                          noticeable.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels provide you credit me with creating the original level and 
+that you say the level you've made is a modified version of my 
+original level.  
+
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+     :CompUServe

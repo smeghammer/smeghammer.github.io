@@ -1,0 +1,83 @@
+================================================================
+Title                 : The Temple of Bal
+Filename              : Fptemple.wad
+Author                : Denis Valente or Balrog.
+Email Address         : Denis.Valente@f617.n712.z3.fidonet.org
+                        Please contact me with suggestions, ideas and comments.
+Misc. Author Info     : An 18 year old Australian, creater of quite a few WADS
+                        which have since become VERY popular.
+                        Also created BalrogRV.wad and enigma.wad, and wrote
+                        the extremely popular Deu2.tip document.
+
+Description           :  Wad file is designed for multi-player deathmatch. 
+                         Naturally it has no monsters, and plenty of ammo and 
+                         health.
+                         The setting is a (fantastically decorated) temple,
+                         where evil priests conduct secret rituals, raising
+                         hideous monsters. The teleport at the entrance is
+                         the only means of gaining entry to it.
+                         There are'nt any tricks etc, but WAD designers may
+                         wish to have a look how things were done...:)
+                         The exit is found outside on the platform, which is
+                         reached by activating the switch in the altar room.
+                         This means co-operation is needed to finish the level
+                         Ideally for 4 players, but is great for less. 
+                         This was made for the doomII server on Flashpoint BBS
+
+Additional Credits to   : iD Software.
+                          Russell for letting me use the mine shafts design
+                          of his, and helping me de-bug this lvl. Thanx Russ!
+                          My brother Andy for a few suggestions.
+                          Playtesters: Paul, Enigma, Ryan and the rest!
+        ================================================================
+
+* Play Information *
+
+Game Type(Doom or Doom2): Doom 2
+Episode and Level #     : Level 01
+Single Player           : Yes, to admire the scenery.....
+Cooperative 2-4 Player  : NO
+Deathmatch 2-3 Players  : Yes   
+Deathmatch 4 Players    : Yes! Mind blowing!
+Difficulty Settings     : No. No monsters anyway
+New Sounds              : No.
+New Graphics            : No.
+New Music               : No.
+Demos Replaced          : None.
+
+* Construction *
+
+Base                  : NONE 
+Editor(s) used        : Deu2....you mean there are others...? :)
+Build time            : over 55 hours!
+Known Bugs            : Some walls may be shot through with a rocket etc. I 
+                        tried for ages but too late. By this stage just 
+                        touching a VERTEX made bugs galore! :(
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels or include it in any other Pwads etc.
+
+However if you make any modifications you must acknowledge that this wad was
+used. Anybody adding it to other Pwads etc must contact me first.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+This and ALL my WAD's are currently being converted to the Heretic format by
+GABBO. No other person has my permission to do so unless you ask me!
+
+* Where to get this WAD *
+    
+    The usual FTP sites, or your local BBS.
+
+Other:  Enigma BBS will have my WADS the instant of release so ring there for
+the best wads!
+              +61 2 909 8680 (A sydney BBS)
+
+Balrog
+\> Remember that name!

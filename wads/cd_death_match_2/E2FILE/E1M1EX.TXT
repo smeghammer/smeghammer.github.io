@@ -1,0 +1,18 @@
+This is a simple example of a modified level created with the registered
+version of Renegade Graphics DoomED (RGDMED).  Parts of this level have
+been heavily modified while others have not been touched and are 
+easily recognized.  Gameplay is good, try it at Ultra!
+
+To use this file copy it to your doom directory, then start Doom by 
+typeing:
+
+DOOM -FILE E1M1.WAD
+
+That's all there is to it.  This file is what is known as a PWAD file.  It
+contains a single extra level that overwrites (in memory only!) a particular
+level.  Multiple PWAD files can be used at once to provide an entirely
+new Episode.
+
+Want to make YOUR own levels?  Get the registered version of RGDMED!
+BBS:(615)337-9198
+

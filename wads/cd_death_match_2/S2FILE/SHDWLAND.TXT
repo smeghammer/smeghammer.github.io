@@ -1,0 +1,61 @@
+================================================================
+Title                   : ShadowLand   
+Filename                : SHDWLAND.WAD
+Author                  : Raymond Morford
+Email Address           : rem@datapoint.com
+Misc. Author Info       : 
+
+Description             : This is a brick and steel arena with
+                          special lighting.  It's possible to get
+                          lost when you have to in the shadows.
+                          Lots of atmosphere.  I've included all
+                          weapons except the BFG, lots of ammo,
+                          and enough health to make it worth 
+                          while to escape a losing firefight.  
+                          
+Additional Credits to   : id (of course)
+                          Ben Morris (author of DCK)
+                          Playtesters:
+                             Denny (Sitting Bull)
+                             Todd  (Plasma Junkie)
+                             Rudy  (Rocket Man)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DCK
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  ftp.cdrom.com
+
+BBS numbers:
+
+Other:

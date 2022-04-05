@@ -1,0 +1,24 @@
+
+
+Yet another DOOM level....
+
+11BONES.WAD
+
+Created with DEU 5.0 and BSP 1.0.
+
+FEATURES:
+   - A completely new level.
+   - Deathmatch ready. (Each warp in spot has a weapon)
+   - Varying skill levels enabled.
+   - All the textures match.
+
+This pwad is meant to be used as one of the lower levels.  Some
+other levels feature 10 Barons/room, not so here.
+
+Feel free to include it in an episode compilation.
+
+Have fun...
+
+Damon Brodie
+
+m0t3@unb.ca

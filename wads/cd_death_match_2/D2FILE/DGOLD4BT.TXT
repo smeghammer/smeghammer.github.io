@@ -1,0 +1,110 @@
+
+JUST BOUGHT DOOM II AND ALL I CAN SAY IS "WOW!!!!!"
+
+Id outdid themselves!  Go out and get it today!  If you already
+have a pirate copy, be real.  Dump it and pay for it so that 
+Id can continue to bring out kick-ass games like DOOM II!  If
+you insist on being a slacker asshole and not paying for the
+game, here's wishing you a speedy and final hard drive crash!
+
+**soapbox mode off**
+================================================================
+Title                   : Doom Gold Four BRIGHT                   
+Filename                : DGOLD4BT.WAD
+Author                  : Enigma-13  
+Email Address           : N/A                             
+Misc. Author Info       : Creator, ENIGMA'S NIGHTMARE I, II, III
+                          replacement episodes for Wolfenstein 3D
+                          (shareware version).  Also DOOM GOLD I,
+                          DOOM GOLD II, DOOM GOLD II BRIGHT, &
+                          DOOM GOLD II LITE, as well as E-13SND1,2
+                          and DOOM GOLD III.
+
+Description             : Sound and (some) graphics replacement
+                          PWAD for commercial DOOM II - Hell On Earth
+                          
+
+Notes                   : NOTE:  This WAD is designed to "turn on the
+                                 the lights" in DOOM II.  For those of
+                                 you who wish to keep the mystery of
+                                 darkened rooms but still wish to take
+                                 advantage of DOOM GOLD IV sounds, please
+                                 download DMGOLD_IV.ZIP
+                          
+                          This WAD was specially created for use with
+                          DOOM II  This is the first *LEGAL* WAD I know
+                          of that was built with DOOM II in mind.
+                         
+                          It will take advantage of the DOOM2.WAD structure
+                          and change a few sounds that were in the original
+                          DOOM for the better, WITHOUT losing the nifty
+                          new sounds Id put in the new version.
+
+                          Try playing DOOM II without this PWAD included.
+                          Then, try it with the PWAD.  I think you'll
+                          agree the game is much enhanced with the 
+                          addition of this WAD!!!!!
+
+                          If you still have the older commercial version
+                          of DOOM and want to enhance the sounds, you
+                          can find a copy of DOOM GOLD III on a BBS or
+                          ftp site near you.
+  
+================================================================
+
+* Play Information *
+
+Episode and Level #     : N/A (incorporates changes throughout entire game)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : None
+
+* Play Hints *          : You may use this wad with other PWADs.
+                          However to get the most complete DOOM GOLD IV
+                          effect possible, it is suggested that you load
+                          this WAD after any other PWAD.
+
+                          Please note that this PWAD does not replace
+                          all DOOM sounds.  Therefore, if using this
+                          PWAD in combination with other sound change
+                          PWADs, sounds may vary according to what
+                          sounds other PWADs replace.
+
+               EXAMPLE:  doom2 -file this.wad that.wad DGOLD4BT.WAD
+
+                          SUGGEST YOU ONLY RUN WADS CREATED FOR DOOM-II
+                          WITH THE HELL ON EARTH GAME!  TRYING TO RUN
+                          WADS THAT CHANGE LEVEL MAPS FROM THE OLDER
+                          DOOM MAY CAUSE PROBLEMS SINCE DOOM-II IS NOT
+                          BROKEN INTO EPISODES!
+
+* Construction *
+
+Base                    : DGOLD-IV.WAD 
+Known Bugs              : None found in testing.
+                          
+
+* Copyright / Permissions *
+
+Authors may use DGOLD4BT.WAD as a base to build additional WADs, of this
+type, but please mention that it was built from a DGOLD4BT base.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu DGOLD4BT.ZIP
+
+    *** Plus other sites as mirrored. ***
+I invite users to upload this wad to every BBS and ftp you can.
+BLANKET THE WORLD!  E-13, 10/1994
+
+

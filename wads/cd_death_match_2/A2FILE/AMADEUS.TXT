@@ -1,0 +1,70 @@
+WAD Title               : The DeathMatch Of The Century!   
+WAD Filename            : AMADEUS.WAD
+WAD Author              : Paul Johnson
+Email Address           : N/A (Yet!)
+Misc. Author Info       : Nothing Miscellanious About Me
+                          This is my FIRST WAD File Ever. I have tried many
+                          Times to make a good WAD, but I never knew about
+                          DEU until a little while back.. So now my WAD
+                          Making life is now a lot, Let me emphasize LOT
+                          Easier.
+
+Description             : Simply Put, A Deathmatch Level With BYTE.
+                          Nothing fancy, Just 6 Different playing fields
+                          loaded with ammo, weapons, and bonuses.  The health
+                          is not as heavy, nor are the monsters. Thats why 
+                          it's an excellent Deathmatch wad. NO DOORS, Or 
+                          Lifts. I like the even playing field, with the 
+                          exception of SNIPER POINTS <G>. Lot's of Warps, so
+                          you can hear your apponent, but wont know which 
+                          warp to take.. Oh Yea!, The Name of the WAD File
+                          Reflects the Name Of The Music I incorporated into
+                          this WAD.. Pretty Cool!! Another Strong point to 
+                          this WAD File is the NARROW Hallways, and pass-
+                          through's. If your aim isnt exact, it could very
+                          well kill you in the end... He He!
+                          NO HIDDEN ROOMS IN THIS WAD... Why? It's Deathmatch
+
+Additional Credits to   : Mom & Dad!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes 
+New Graphics            : No (Next AMADEUS.WAD)
+New Music               : Yes
+Demos Replaced          : None (Just Do It!)
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 18 Hours Give or take an hour
+Editor(s) used          : DEU 5.21 GO32 Version, BSP 1.2x, REJECT 1.0
+Known Bugs              : Let's See...  Red Ant, Fruit Fly, Praying Mantis
+                          Caterpiller, Oh Wait! You mean in the program.
+                          None, Nada, Zilch, Nyet, No Known Bugs!
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels. I'm going to call everyone who downloads this file. 
+Like I'm Really Gonna Know!!
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: None!!
+
+BBS numbers: The Landing Pad BBS   1-(317)-668-4834
+
+Other: America Online

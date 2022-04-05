@@ -1,0 +1,130 @@
+================================================================
+Title                   : MIA.WAD
+Author                  : Rick Kelly
+Email Address           : ryngblud@svpal.org
+Misc. Author Info       : Doom Addict, Author of other crazy wads and music 
+                          for Doom.
+
+Description             : You have been sent on a covert mission to SouthEast
+                          Asia to rescue some of your old buddies from 'Nam.
+                          When you find them, they have changed.  Now there 
+                          is only one way to save them from their horrible 
+                          fate. And what about Col. Smith?
+
+Additional Credits to   : Creators of DEU and BSP who made this possible.
+                          Creators of other fabulous PWAD files that I stole
+                          many ideas from.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (possible, don't know how good it is for this) 
+                          Someone please try it and tell me what you think.
+Difficulty Settings     : Yes
+Demos included          : None
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : !@#$% !#$% !#$% !#@% !
+Editor(s) used          : DEU 5.21, 5.2gcc, BSP 1.0, 1.1
+Known Bugs              : Minor visual glitches when looking up at tall 
+                          buildings from lower level in a couple of spots.  
+                          If anyone figures out how to fix this, please let 
+                          me know.
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels (it is 
+much more fun and rewarding to create your own from scratch)
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+* Where to get this WAD *
+
+Compuserve GO GAMERS, in Action Aids Library
+
+
+*****************   WELCOME TO MIA.WAD V 1.0 ****************************
+
+Set in the jungles of SouthEast Asia, this is a dark, intense level.  Lots of
+doors to open, secret places, neat effects, and even a magic trick. (Hint, 
+magic near rocket launcher).  Watch your six!!!
+
+To play this PWAD file, unzip it into the directory where you put DOOM, and 
+start DOOM like this:
+
+DOOM -DEVPARM -FILE MIA.WAD -SKILL 3 -WARP 1 1
+
+This will take you right into the level at "Hurt Me Plenty" difficulty 
+setting.
+
+If you don't want/need to warp right to the level, then use the following:
+
+DOOM -FILE MIA.WAD      
+
+For those of you with DEU 5.2 or better, you may want to resave this one as
+E1M9.  I am distributing it as E1M1 because it is easier for the average user
+to check it out that way.
+
+DEATHMATCH:
+
+Haven't been able to try it yet.  The doomers around here always have real
+(the nerve of them) work to do lately.  Someone please try it out and tell
+me what you think.  I think there are some good ambush spots, and I have 
+tried to put the weapons in places that will discourage people from just 
+waiting there to ambush others seeking that weapon.
+
+You have been sent on a covert mission to rescue some of your buddies from
+'Nam that were previously reported MIA, but sources now reveal their location
+at a secret camp deep in the jungle.
+
+After stealthilly (is that a word?) making your way into the camp, you 
+discover that your old friends have gone over the deep end, and are now 
+either participants or subjects of mean, nasty, evil experiments with forces 
+from the great beyond. (Beyond what?  Cleveland maybe, I don't know).
+
+You reluctantly decide to rid the world of these vermin and their evil
+activities.
+
+On "Hurt Me Plenty", "Ultimate" or "Nightmare" mode, you will eventually run 
+into Col. Smith. 
+
+He has been transformed into a CyberDemon.  After a brief meeting, you may 
+encounter him again before you exit.
+
+Although you do not have to kill Col. Smith to get out, for you real DOOM 
+badasses, it would be quite a challenge to do so.  There are more than enough 
+rockets for the job.
+
+There are not any Plasma Guns or BFG9000's laying around, so don't waste your 
+time looking for them.  You are going to be too busy looking around corners, 
+over your shoulder, and running alot just to make it out alive.
+
+No, this level is not exactly saturated with vermin, but they are 
+concentrated in some key areas.
+
+On "Ultimate" and "Nightmare" mode, there will be four (count 'em, 4 ) 
+wandering, teleporting Barons you will have to deal with.  Have a nice day.
+
+When you look up out of one of the staircases, you may see some visual 
+glitches at the top of the larger buildings on the left or right.  I don't 
+know why this is happening.  It is the first such problem I've run into that 
+BSP did not completely clean up.
+
+If anyone figures out why this is happening or what I may have done wrong, 
+please let me know.
+
+
+Have fun!
+
+Rick
+

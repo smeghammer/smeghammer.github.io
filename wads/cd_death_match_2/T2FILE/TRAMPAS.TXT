@@ -1,0 +1,422 @@
+
+*** El Documento Original est  en Espa¤ol (al final). ***
+
+********* EL TEXTO EN CASTELLANO ESTA AL FINAL DEL DOCUMENTO ************
+
+*** The Original Document was written in Spanish (at the end). ***
+
+*******************************
+********** ENGLISH : **********
+*******************************
+
+--------------------------------------------------------------------------
+NOTE: Excuse me for the bad translation of the texts into English, I used
+the program Spanish-Assistant to do it and I didn't check the text very
+much. If you have problems whith it try to read the original Spanish
+text. I thought the English text could be useful to get a basic idea of
+the WADs for people who cannot read Spanish. I'm SURE that there are many
+silly expressions, I'm sorry, I hope you can forgive me.
+-------------------------------------------------------------------------
+
+FILE: TRAMPAS.WAD     FOR: DOOM2     BY: HECTOR GUTIERREZ COLINO
+TITLE: " Mortal Traps"
+
+
+A PLAYER: Very, very difficult. A WAD difficult of forgetting. 
+COOPERATIVE: Equal of difficult but slowwer (except with Pentium 90 MHz).
+DEATHMATCH: Alucinante if you play as minimum with Pentiums 90 Mhz..., and
+               difficult to collide or else know each other the map well.
+
+
+
+	- A new dimension: the height!!!!.  A Super-Colosal WAD.
+	- Cyber-Daemons, more than ten, and included with them in the same
+room!!!  But you still believe that does it be possible???. Ja, Jo, Ji, Jo!!.
+Don't eat up many the coconut that you have not seen the one which waits for
+you. That is: one could get (at fewer with ticks, although it costs).
+
+	- you will Need the three keys in order to open the doors. Well...
+if the Cyber-Daemons doesn't allow you go you with the blue... better leave
+them, you don't need that key in order to finish the level.
+
+	- Try to kill to all the skeletons that I/you can before entering
+in that room.  And don't fall to the moats. Discover the fire-room and you
+will kill them.  Care doesn't stay included with the spiders, although there
+is an exit.
+
+	- Do you already have seen the room with the two Boss Shooters (do
+you discharge vermin)? If you cross the furrow that the activate you are
+lost. And I/you don't forget the yellow key.
+
+	- Possibly the WAD with more extension of land that you have seen.
+
+	- It's prepared for several fields. Hallucinate with the external
+room. Prove it in Deathmatch!!!!!!!... if you have Pentiums.
+
+NOTE: I recognize that I in this WAD have passed me quantity, but remember
+that the ones which you found are mortal traps... I advises to record many
+the departures. And spirit, I have gotten it in NightMare (authentic
+nightmare).
+
+
+
+SOLUTION: In this WAD there is a heap of confused lever, some one must
+activate them and another they loose us a trap. One must travel the map of up
+to below at fewer a pair of included times knowing the one which one must
+make. I have decided to detail the process to the maximum in order to don't
+lose.
+
+1. In the Eneagon room (9 sides) kill all the soldiers. Only one could go
+for one of the doors that you don't need key. We will see a very
+long aisle with a window to another room. Not throw for the windows.
+
+2. Get on the platform in the one which there is a blue shield. This will
+lower the platform of the soldiers, in the one which is the red key. Care,
+then beside the platform of the blue shield there is a Cyber-Daemon. We have
+two possibilities: or kill it (!!) or pass running to their side and leave
+it behind (it is fewer difficult of the one which seems).
+
+3. Once past the Cyber, we for the aisle will arrive to the room of fire. The
+floor is acid, one must go rapid. Once inside of we won't leave, a wall will
+block us the pass. Or else we have discharged nothing in the aisle we won't
+meet with no enemy, in another case one must go discharging.
+The road that one must follow is: right, left, right, left, right, left,
+rectum. Upon being left will have activated the roofs of the pedestals where
+they are eight white skeletons and they will squash them. This will avoid us
+many problems when we arrive to the room of the skeletons.
+
+4. Return to the Eneagon room and we catch the red key. We go to the door
+that she confides in and we passed. We forgot to catch the blue key, we
+didn't need it and better don't take a risk to stay caught with the
+Cyber-Daemos. If somebody wants to attempt him that it only step the steps
+for the part of behind the pedestal and that you leave running.
+
+5. We go for the dark road and we see two possibilities, a long aisle for the
+that Not one must pass and a very big full room of skeletons. We go with the
+skeletons. We should kill all those that we pruned before throwing us. When
+we throw us should go running until the final of the room. One must have
+special been careful to don't fall to the moats (although there is a
+teleporter in order to leave). If we fall prune prove to don't go
+for the central aisle, but for one of the fine borders that there is to the
+sides of the moats. In the bottom descend a box that leaves a road in order
+to leave. Upon arriving to throw.
+
+6. Ascend the stairways and the elevator. Not going to the zone of the
+spiders, pass directly for the door of the red key. There is no turn behind,
+one must find the exit in the room in the one which we entered, with form of
+face.
+
+7. We began in the part of up of the nose of the room with form of face. Here
+there is many complicated teleporters. I am going to explain what a first
+you makes each one.
+
+If we fall for a lateral of the nose teleports us to the eye of the
+corresponding side. If we fall for the base of the nose two things could
+occur: - we between the two barrels with fire go to the mouth,- or else we
+passed between the two barrels we will fall without teleport us, and
+the floor will ascend a little (increasing the complication, you/he/she/it
+could come to convert the mouth in a closed room, having to arrive to her for
+a teleporter).
+
+In the nose there is a teleporter that carries us the nose outside
+of, to the face, near the eye law of the face. Also there is a wooden box.
+Occult the teleporters that will carry us near her left from the
+level, and we will discover it with a lever (later, in the external room, and
+we will have to return here).
+
+In the cheeks, near the join of the lips there is two
+teleporters (one to each side) that carries us also to the eyes,
+each one to the of their side. There is a just teleporter under the
+nose, it carry us to the part of up of the nose. There is another
+very near this last, placed of form asymetric, it carry us to
+one of the towers that there is on the eyes.
+
+In the mouth there is a teleporter, it carry us to the
+nose. The superior border of the mouth also carries us of turn to the nose.
+There is a wooden column in the center of the mouth, occult the
+teleporter that allows us to leave from the room with form of face.
+In the zone of the chin, under the mouth there is another that
+carry us to the mouth.
+
+In the mouth, paralely to the superior border, there is a fringe in
+the floor. It should not never cross, it should
+enclose. They in another case will be activated TWO Boss-Shooters, in the
+columns that there is on the eyes, and they will begin to discharge monster
+on the eyes.
+
+8. I Now will say the one which one must make. First throw on one hand of the
+nose in order to go to an eye. In the eye catch the yellow key and jump the
+eye outside of. Going to the teleporter that carry to
+the column that there is on the eye us (it's between the nose
+and the mouth, placed asymetric). Once in the column jump out.
+He/she/it/you with this will be discovered the teleporter of the
+mouth in order to leave from the face. We should go this teleporter.
+We for that will go to the of the chin that will carry us to the
+mouth. Enclosing the mentioned fringe we will go to the central
+teleporter, and we liquidate of the face. To all this one must
+have with care with the Cyber-Demons that are there.
+
+A thing more: the teleporters are something special, you
+teleport upon they leaving from, not upon entering. Be careful if
+the floor ascends and is converted in holes, you can remain caught inside
+of, unless you go running through a corner. Ufff.!!!.
+
+9. we Are passing the room of the spiders. We should follow rectum and leave
+for the door to the Eneagon room. We have to go for the door of the yellow
+key of the right (the orientation is look at for the window, and then take
+the right). We will see an aisle that carries the external room us.
+The height of this salts is the maximum permitted by DOOM2, to the
+same as their longitude (it enclose all map).
+
+10. Advancing for the road of the cliff, revolve the first to the left three
+time, until arrive at first tower. Inside of activate the lever of the bottom
+(according to you are entered), it will be the one which discovers
+the secret teleporter that there is in the nose of the face. The
+lever of the left Not one must pulse she, it is a trap (some skeletons
+will appear), the of the right moves a column of red rock in order to could
+pass for the other yellow door, but it is not necessary pulse she.
+
+11. We left from the first tower (of the two twin) and we return back until
+the first deviation. We continued for her until see to the floor of metal. If
+we advanced will spread a gigantic metallic stairway.
+
+To all of this, if we fall accidentally we in the acid should catch one of the
+radiation-suits and direct us toward one of the teleporters
+that there are below. In we go for the road of the cliff looked after with
+the red pillar in the that there is megaspheres, they are the bait of a
+mortal trap.
+
+12. We ascended for the metallic stairway, and we to the half stopped in
+order to kill to the small spider that there is to our left (in order to
+avoid that it throw us). We followed until up. We advanced and
+we revolved to the right. We followed until the branchs. We go to the
+building of the right and we activated the lever that there is (it
+will allow us to use the teleporter that there is in the second twin
+tower). We left from the room for the window (we fall to the acid) and we go
+to the teleporter. We travel all road until the branchs again,
+and this time goes for the left. We jumped the cliffs that there is and we
+arrived until a room with two Mancubus. We killed them or we passed of them
+and we went toward the door. It is a lateral entrance to the room with form
+of face.
+
+13. We in the face go to the chin, that carry us to the mouth, and
+we of the mouth go to the nose. It in the nose is the teleporter
+that had been covered by the wooden box, it will carry us to the
+second twin tower.
+
+14. One could arrive twin tower much more at second easily, but upon entering
+some skeletons us for the door they will appear that they will kill us or
+they will impede us the pass. That is why always one must arrive at second
+twin tower for the teleporter. Once there, ascend for the automatic
+stairway until the last teleporter, that will carry the room us
+final, in the one which is the left from the level.
+
+      FINALLY!!!!!!!!!!!!!!!!!!!!!!!!!
+
+There are more rooms and more traps, but it would be too long
+tell him everything.
+
+If when I say that it is a Super-Colosal WAD difficult of forgetting.
+
+I recognize that it is very difficult, included with all the
+explanations that I have given, but with easy WADs you never won't
+knowledge the one which is a
+
+                          " MORTAL TRAP."
+
+
+
+****************
+*** ESPA¥OL: ***
+****************
+
+FICHERO: TRAMPAS.WAD      PARA: DOOM2      POR: HECTOR GUTIERREZ COLINO
+TITULO : " Trampas mortales "
+
+
+UN JUGADOR : Chungo, Chungo. Un WAD dif¡cil de olvidar... 
+COOPERATIVO: Igual de Chungo pero m s lento (excepto con Pentium 90 MHz).
+DEATHMATCH : Alucinante si juegas con Pentiums 90 MHz como m¡nimo..., y
+               chungo a tope si no se conoce bien el mapa...
+
+
+	- ­­­­ Una nueva dimensi¢n: la altura !!!!.  Un WAD Super-Colosal...
+	- ­­­ Cyber-Demons, m s de diez, y encerrado con ellos en la misma
+habitaci¢n !!!  ¨¨¨ Pero a£n crees que es posible ???...­­ Ja,Jo,Ji,Jo !!...
+No te comas mucho el coco que no has visto lo que te espera...
+Eso s¡: se puede conseguir (al menos con trucos, aunque cueste...).
+	- Necesitar s las tres llaves para abrir las puertas. Bueno....
+si los Cyber-Demons no te dejan irte con la azul... mejor dejales,
+no necesitas esa llave para acabar el nivel.
+
+	- Trata de matar a todos los esqueletos que puedas antes de entrar
+en esa sala...  Y no te caigas a los fosos...  Descubre la habitaci¢n de
+fuego y los matar s...  Cuidado no te quedes encerrado con las ara¤as,
+aunque hay una salida...
+
+	- ¨Ya has visto la sala con los dos Boss Shooters (dispara bichos)?
+Si cruzas el surco que los activa est s perdido...
+Y no olvides la llave amarilla.
+
+	- Posiblemente el WAD con m s extensi¢n de terreno que has visto...
+
+	- Est  preparado para varios jugadores. Alucina con la sala exterior.
+	   ­­­­­­­­ Pru‚balo en Deathmatch !!!!!!!..... si tienes Pentiums...
+
+NOTA: Reconozco que en este WAD me he pasado cantidad, pero recordad que
+lo que encontrais son trampas mortales... ...os aconsejo grabar mucho las
+partidas. Y  nimo, yo lo he conseguido en NightMare (aut‚ntica pesadilla).
+
+
+SOLUCION: En ‚ste WAD hay un mont¢n de palancas confusas, unas hay que
+activarlas y otras nos sueltan una trampa. Hay que recorrer el mapa de
+arriba a abajo al menos un par de veces incluso sabiendo lo que hay que
+hacer. He decidido detallar el proceso al m ximo para no perderse.
+
+1. En la sala Ene gono ( 9 lados ) matar a todos los soldados. S¢lo se puede
+ir por una de las puertas que no necesita llave. Veremos un pasillo muy largo
+con un ventanal a otra sala. NO tirarse por el ventanal.
+
+2. Subirse a la plataforma en la que hay un escudo azul. Esto bajar  la
+plataforma de los soldados, en la que est  la llave roja. Cuidado, pues
+al lado de la plataforma del escudo azul hay un Cyber-Demon. Tenemos dos
+posibilidades: o matarle (chungo) o pasar corriendo a su lado y dejarle
+atr s (es menos chungo de lo que parece).
+
+3. Una vez pasado el Cyber, por el pasillo llegaremos a la sala de fuego.
+El suelo es  cido, hay que ir r pido. Una vez dentro no podremos salir, un
+muro nos bloquear  el paso. Si no hemos disparado nada en el pasillo no nos
+encontraremos con ning£n enemigo, en otro caso hay que ir disparando.
+El camino que hay que seguir es: derecha, izquierda, derecha, izquierda,
+derecha, izquierda, recto. Al salir se habr n activado los techos de los
+pedestales donde est n ocho esqueletos blancos y los aplastar n. Esto nos
+evitar  muchos problemas cuando lleguemos a la sala de los esqueletos.
+
+4. Volvemos a la sala Ene gono y cogemos la llave roja. Vamos a la puerta
+que se abre con ella y pasamos. Nos olvidamos de coger la llave azul, no la
+necesitamos y mejor no arriesgarse a quedarse atrapado con los Cyber-Demos.
+Si alguien quiere intentarlo que s¢lo pise los escalones por la parte de
+detr s del pedestal y que salga corriendo.
+
+5. Vamos por el camino oscuro y vemos dos posibilidades, un pasillo largo
+por el que NO hay que pasar y una habitaci¢n muy grande llena de esqueletos.
+Vamos con los esqueletos. Debemos matar a todos los que podamos antes de
+tirarnos. Cuando nos tiremos debemos ir corriendo hasta el final de la
+habitaci¢n. Hay que tener especial cuidado de no caerse a los fosos (aunque
+hay un teletransportador para salir). Si nos caemos podemos probar a no ir
+por el pasillo central, sino por uno de los fin¡simos bordes que hay a los
+lados de los fosos. En el fondo se baja una caja que deja un camino para
+salir. Al llegar tirarse.
+
+6. Subir las escaleras y el ascensor. No ir a la zona de las ara¤as, pasar
+directamente por la puerta de la llave roja. No hay vuelta atr s, hay que
+encontrar la salida en la sala en la que entramos, con forma de cara.
+
+7. Comenzamos en la parte de arriba de la nariz de la sala con forma de cara.
+Aqu¡ hay muchos teletransportadores complicados. Voy a explicar primero qu‚
+hace cada uno.
+
+Si nos caemos por un lateral de la nariz nos teletransportaremos al ojo del
+lado correspondiente. Si nos caemos por la base de la nariz pueden ocurrir
+dos cosas: - entre los dos barriles con fuego vamos a la boca, - si no
+pasamos entre los dos barriles caeremos sin teletransportarnos, y el suelo
+subir  un poco (aumentando la complicaci¢n, puede llegar a convertir la boca
+en una sala cerrada, teniendo que llegar a ella por un teletransportador).
+
+En la nariz hay un teletransportador que nos lleva fuera de la nariz, a la
+cara, cerca del ojo derecho de la cara. Tambi‚n hay una caja de madera.
+Oculta el teletransportador que nos llevar  cerca de la salida del nivel, y
+lo descubriremos con una palanca (m s tarde, en la sala exterior, y tendremos
+que volver aqu¡).
+
+En las mejillas, cerca de la comisura de los labios hay dos
+teletransportadores (uno a cada lado) que nos llevan tambi‚n a los ojos, cada
+uno al de su lado. Hay un teletransportador justo bajo la nariz, nos lleva
+a la parte de arriba de la nariz. Hay otro muy cerca de ‚ste £ltimo, colocado
+de forma asim‚trica, nos lleva a una de las torres que hay sobre los ojos.
+
+En la boca hay un teletransportador, nos lleva a la nariz. El borde superior
+de la boca tambi‚n nos lleva de vuelta a la nariz. Hay una columna de madera
+en el centro de la boca, oculta el teletransportador que nos permite salir de
+la sala con forma de cara. En la zona de la barbilla, bajo la boca hay otro
+que nos lleva a la boca.
+
+En la boca, paralelamente al borde superior, hay una franja en el suelo.
+NO se debe cruzar nunca, se debe rodear. En otro caso se activar n DOS
+Boss-Shooters, en las columnas que hay sobre los ojos, y comenzar n a
+disparar monstruos sobre los ojos.
+
+8. Ahora dir‚ lo que hay que hacer. Primero tirarse por un lado de la nariz
+para ir a un ojo. En el ojo coger la llave amarilla y saltar fuera del ojo.
+Ir al teletransportador que nos lleva a la columna que hay sobre el ojo
+(est  entre la nariz y la boca, asim‚tricamente colocado). Una vez en la
+columna saltar fuera. Con ‚sto se descubrir  el teletransportador de la boca
+para salir de la cara. Debemos ir a ‚ste teletransportador. Para eso iremos
+al de la barbilla que nos llevar  a la boca. Rodeando la franja mencionada
+iremos al teletransportador central, y saldemos de la cara. A todo ‚sto hay
+que tener con cuidado con los Cyber-Demons que pululan.
+
+Una cosa m s: los teletransportadores son algo especiales, te teletransportan
+al salir de ellos, no al entrar. Tened cuidado si el suelo sube y se
+convierten en agujeros, podeis quedar atrapados dentro, a menos que paseis
+corriendo por encima de una esquina. ­­­ Ufff....!!!.
+
+9. Estamos pasada la sala de las ara¤as. Debemos seguir recto y salir por
+la puerta a la sala Ene gono. Tenemos que ir por la puerta de la llave
+amarilla de la derecha (la orientaci¢n es mirar por la ventana, y luego
+tomar la derecha). Veremos un pasillo que nos lleva a la sala exterior.
+La altura de ‚sta sala es c si el m ximo permitido por DOOM2, al igual que
+su longitud (rodea todo el mapa).
+
+10. Avanzar por el camino del precipicio, girar la primera a la izquierda
+tres veces, hasta llegar a la primera torre. Dentro activar la palanca del
+fondo (seg£n se entra), ser  la que descubra el teletransportador secreto
+que hay en la nariz de la cara. La palanca de la izquieda NO hay que
+pulsarla, es una trampa (aparecer n unos esqueletos), la de la derecha mueve
+una columna de roca roja para poder pasar por la otra puerta amarilla, pero
+no es necesario pulsarla.
+
+11. Salimos de la primera torre (de las dos gemelas) y volvemos hacia atr s
+hasta la primera desviaci¢n. Continuamos por ella hasta ver al suelo de
+metal. Si avanzamos se desplegar  una gigantesca escalera met lica.
+
+A todo ‚sto, si caemos accidentalmente en el  cido debemos coger uno de los
+trajes antiradiaci¢n y dirigirnos hacia uno de los teletransportadores que
+hay abajo. Mientras vamos por el camino del precipicio cuidado con el pilar
+rojo en el que hay megaesferas, son el cebo de una trampa mortal.
+
+12. Subimos por la escalera met lica, y a la mitad nos paramos para matar
+a la ara¤a peque¤a que hay a nuestra izquierda (para evitar que nos tire).
+Seguimos hasta arriba. Avanzamos y giramos a la derecha. Seguimos hasta la
+bifurcaci¢n. Vamos al edificio de la derecha y activamos la palanca que hay
+(nos permitir  usar el teletransportador que hay en la segunda torre gemela).
+Salimos de la sala por la ventana (caemos al  cido) y vamos al
+teletransportador. Volvemos a recorrer todo el camino hasta la bifurcaci¢n,
+y ‚sta vez vamos por la izquierda. Saltamos los precipicios que hay y
+llegamos hasta una sala con dos Mancubus. Les matamos o pasamos de ellos y
+nos dirigimos hacia la puerta. Es una entrada lateral a la sala con forma de
+cara.
+
+13. En la cara vamos a la barbilla, que nos lleva a la boca, y de la boca
+vamos a la nariz. En la nariz est  el teletransportador que hab¡a estado
+tapado por la caja de madera, nos llevar  a la segunda torre gemela.
+
+14. Se puede llegar a la segunda torre gemela mucho m s f cilmente, pero al
+entrar por la puerta nos aparecer n unos esqueletos que nos matar n o nos
+impedir n el paso. Por eso siempre hay que llegar a la segunda torre gemela
+por el teletransportador. Una vez all¡, subir por la escalera autom tica
+hasta el £ltimo teletransportador, que nos llevar  a la habitaci¢n final,
+en la que est  la salida del nivel....
+
+      ­­­­­­­­­­­­­­­­­­­­­­­­­ POR FIN !!!!!!!!!!!!!!!!!!!!!!!!!
+
+Hay m s salas y m s trampas, pero ser¡a demasiado largo contarlo todo...
+
+Si cuando digo que es un WAD Super-Colosal dif¡cil de olvidar...
+
+Reconozco que es muy dif¡cil, incluso con todas las aclaraciones que he dado,
+pero con WADs f ciles no llegareis a saber nunca lo que es una
+
+                          " TRAMPA MORTAL ".
+
+.

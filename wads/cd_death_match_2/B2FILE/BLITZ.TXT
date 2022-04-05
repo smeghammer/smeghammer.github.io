@@ -1,0 +1,51 @@
+WAD Authoring Template V1.4   (Clip this line)
+================================================================
+Title                   : Blitz Of Pain   
+Filename                : Blitz.WAD
+Author                  : Jim McColm
+Email Address           : CIS - 75040,1746
+Misc. Author Info       : Old Man
+
+Description             : Get ready to move once you leave the first room. 
+                          Lots of action. Good luck on the final blitz. 
+                          This level is best with single player but is set up
+                          to be played with multiple players.
+                          Tough to play on less than 486.
+
+Additional Credits to   : id Software - (The Doom People)
+                          Colin Reed - (BSP Node Builder)
+                          Raphael Quinet - (DEU)
+                          Brendon Wyber - (DEU) 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2 M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : None
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.0 & 5.2
+Known Bugs              : Plays slow in multi player games in one 
+                          particular room. (Will sometimes stop 
+                          then continue.) Room is very large with
+                          lots of things. 
+
+
+* Copyright / Permissions *
+
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+Compuserve (Gamers Forum)

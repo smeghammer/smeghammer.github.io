@@ -1,0 +1,78 @@
+================================================================
+Title                   : Destiny1.WAD   
+Author                  : Ron Pollard 
+Email Address           : rjpollar@indyunix.iupui.edu
+			  or 74077,2657 on CompuServe
+Misc. Author Info       : Uh, I like pizza, beer, and babes.
+			  I spent too much time making this
+			  level and now my eyesight's gone. ;-)
+Description             : This is my first attempt at trying
+			  to do something really cool with
+			  DEU 5.0, 5.1, 5.2, and 5.21.
+			  Yes, I really used them all on
+			  this level.  It's been little pieces
+			  at a time.
+Additional Credits to   : id, for making DOOM and to the fine
+			  producers of DEU.
+================================================================
+
+* Insider's Information *
+
+I designed this level one room at a time.  I stayed in each room until it
+looked just like I wanted it to.  In single player mode, it is very linear,
+and if you stick with the plan, you won't have to do any backpeddling.  This
+WAD boasts one of the biggest, tallest rooms I've seen (though I haven't
+seen a HUGE number of WADS) with no noticeable ill effects.  If you play it
+through on UltraViolent, you shouldn't have trouble beating it, but it
+should be challenging.  Always remember there's always more than one way to
+skin a cat, or kill a baron.   MINOR SPOILER ALERT!!!!!!  For more fun,
+				elude the barons, hit their switch and
+				advance.  Come back to kill them.
+
+This WAD wasn't designed with DeathMatch in mind, but when my buddy and I
+played it to test it out, we had a great time.  There's not an overabundance
+of weapons, although they all appear.  The BFG is limited to one or two
+shots in original deathmatch, and it's hard to get to without being pummeled
+by your opponent.
+
+I thouroughly enjoyed making this level (and yes, I'm one of those goobers
+who's going to say, "This is my first official WAD release....").  I hope
+you all have fun playing it.  Please give me some feedback, as my next
+level is in the works.   Look for DESTINY2.WAD coming in the next 6 or
+7 months....  ;-)  (Okay, hopefully much sooner!)
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (haven't tested it yet)
+Deathmatch 2-4 Player   : Yes (Works Great!)
+Difficulty Settings     : Yes (Easy or UV, take your pick)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No way, I suck at DOOM!  <G>
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Off and on for months (actual about 25 hours)
+Editor(s) used          : DOOM Editing Utility with BSP
+Known Bugs              : Very minor moire' effects in one room
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+     infant2.sphs.indiana.edu
+     CompuServe in The Gamer's Forum (Action Game Aids)
+     Software Creations BBS - (508) 368-7036
+     Starship 182 BBS - (317) 889-0206 or (317) 889-7899
+     Tropical BBS - (317) 831-8647
+     Cobra BBS - (317) 898-0274

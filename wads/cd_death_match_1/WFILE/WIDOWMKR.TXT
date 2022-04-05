@@ -1,0 +1,89 @@
+================================================================
+Title                   : Widowmaker
+Filename                : WIDOWMKR.WAD
+Author                  : Mark Harrison
+Email Address           : harrison@lclark.edu
+Misc. Author Info       : Just a (very bored) programmer.
+
+Additional Credits to   : id, author's of DEU, IDBSP, BSP11X, DMGRAPH,
+                          Matt Fell for the Unofficial DOOM Specs,
+                          Jim Tanner, Robert Forsman and M Brandon 
+                          Reinhart for playtesting and my wife for picking
+                          the title and not divorcing me while making it :-)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (it's kinda big though)
+Difficulty Settings     : Yes (easy levels are easy and hard levels are hard)
+New Sounds              : No
+New Graphics            : Yes (right in the beginning)
+New Music               : No
+Demos Replaced          : 1 (it shows all the secrets so play first!)
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.0, DEU 5.1, DEU 5.21, DEUGCC 5.21 :-)
+Known Bugs              : NONE! (though a few places might work a little
+                                 funky with two or more players.)
+
+================================================================
+
+Description
+
+After your return from Hell and a nice 6 month vacation, you received
+an urgent message from Union Aerospace Corporation today.  They started  
+picking up strange signals from an island (Widowmaker) on the other side
+of Deimos recently.  It seems that a few of the inhabitants from Deimos
+Lab escaped before you were able to get them.  
+
+You were happy to help in any way that you could, but it seems that your
+baggage ended up on Venus while you landed on Mars to begin your mission.
+You almost waited, but you entered their lair before with only a pistol.
+And it's such a small island.  How hard could it be?
+
+================================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels providing I get credit.  A little e-mail would be 
+nice (but not necessary) as well just so I can see what
+you've done.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+NOTE:  I asked id about creating a CD with all the files from
+infant2.sphs.indiana.edu on it.  They did not give me permission
+to do so.  They say that they do not want people commercially
+exploiting PWAD author's efforts whether the above statement was
+included in a PWAD or not.  And their defination of commercial
+exploitation is anything more than free.
+
+I think this attitude (though they have the right intentions) is
+absolutely stupid.  And if you think so as well, drop them a line
+and let them know.  Nor do I believe that they really have any power
+to stop such a CD from being sold.  After all, their only connection
+to our PWAD's is that their game can utilitize the files.  Just
+like Microsoft can't tell me what I can or can't do with Word files.
+I just don't want them to not include the ability to run custom built
+levels in future games because people don't respect their wishes.
+
+Well, enough of my soapbox.  If someone does make such a CD, you DO
+have my permission as stated above.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu, ftp.uwp.edu, wuarchive.wustl.edu.
+
+BBS numbers:
+
+Other:

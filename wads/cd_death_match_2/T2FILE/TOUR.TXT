@@ -1,0 +1,66 @@
+================================================================
+Title                   : Tour De France (Watched it while creating)   
+Filename                : Tour.wad
+Author                  : Paul Engel (Sandman for years)
+Email Address           : engelpj@ccvax4.ccs.csus.edu 
+                          pengel@water.ca.gov
+
+Misc. Author Info       : Civil Engr addicted to DoOm DeAtHmAtCh.
+                          But I guess you can't cure the willing..
+                          Been with Doom since the beginning.
+
+Description             : Designed this puppy to be a very intense
+                          deathmatch level. Wanted a fast flowing 
+                          level playable by most machines.
+
+Additional Credits to   : Of course ID for addicting all of us.
+                          Deu, Bsp for correcting everything else.
+                          Rod, Phil, and Bri (author of Maxfrag.wad)
+                          for the hours of testing.
+                          Author if 1_on_1.wad for dark hallway idea.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Why?
+Cooperative 2-4 Player  : Yes but again, why?
+Deathmatch 2-4 Player   : Oh baby!!! Right here. Oh yeah!!!
+Difficulty Settings     : When it comes down to it, isn't life tough enuff
+                          already. Choose any their are all the same.
+New Sounds              : Yes (check maxfrag.wad for details and trivia)
+New Graphics            : No (never was good at doodling just designing)
+New Music               : No (can't sing to save my life)
+Demos Replaced          : None (could never replace ID just follow)
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.1 (like the texture window better),
+                          BSP 11x, DMAUD 12, and a little REJECT for
+                          good measure
+Known Bugs              : kinda partial to squirrels which have been known
+                          to bug people at Sacramento State in the Quad.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. Just give me credit or e-mail me so i can feel important.
+
+You may do whatever you want with this file.
+I couldn't stop you if I wanted so hurt yourself but let me know what
+modifications you felt it needed. Constructive critisism or something
+like that.
+
+* Where to get this WAD *
+
+FTP sites: the illustrious and famous infant2.sphs.indiana.edu formed
+           out of the ashes of ocf.unt.edu (remember that one?)
+
+BBS numbers: Harvest BBS  (916) 368-7043
+                Sacramento's answer to internet connection
+
+Other: Enjoy and please let me know if you added this one to your permanent
+       deathmatch collection.
+

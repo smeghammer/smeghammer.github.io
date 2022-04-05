@@ -1,0 +1,66 @@
+================================================================
+Title                   : Twisting Halls
+Filename                : HALL1.WAD
+Author                  : Mark Riel
+Email Address           : roc@eskimo.com
+
+Misc. Author Info       : Just Another Doom Enthusiast.
+
+Description             : This is my first DOOM2 PWAD. Open areas and 
+                          twisting passages abound. A grand hall filled with 
+                          all your favorite demons. Something strange, and 
+                          a secret or two. Had a heck of time finishing it,
+                          DEU would reach its memory limit and crash 
+                          repeatedly. So...I used the old gcc 32 bit DEU 5.2
+                          then went back and insert DOOM2 onjects and 
+                          textures. Not going to DEU it anymore...
+
+Additional Credits to   : Creators of DEU, BSP, RMB (reject builder). 
+                          And, of course, id Software.
+                          
+                          Thanks to E.R. for the falling stair room and 
+                          playtesting.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP07
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes - HMP and UV. 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1 (hall1.lmp included- v1.9)
+
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : Deu2,RMB
+Known Bugs              : Some single column glitches. BSP seems to create
+                          these when there are a lot of curves.
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+  ftp.cdrom.com?
+
+BBS numbers:
+
+Other:
+
+

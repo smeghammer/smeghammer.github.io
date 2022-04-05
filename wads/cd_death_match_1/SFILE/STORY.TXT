@@ -1,0 +1,360 @@
+
+                                                       
+\  _____  \   ___     \         \   ___    \_     \     \_   _  \   ___ 
+ \         \     \     \         \     \     \_   \       \      \     \
+  \   \__   \   ___     \         \   ___      \   _       \      \   ___   
+   \     \   \     \     \         \     \     \    \_      \      \ 
+    \_______  \___  \___  \_______  \___  \___ \___   \___  \____   \___  \___
+
+                               The Ultimate Czech Level for DOOM by Pavel Hodek
+_______________________________________________________________________________
+
+The level is based on a comics sci-fi story. Here it is - just briefly:
+
+You are one of two astronauts who survived the swarm of the asteroids. Now,
+the huge spaceship on its voyage to explore the unknown civilizations seems
+to be dead. Nobody from the crew will ever breath its fresh air as it flew out
+to the space. The two friends decide to repair the ship and try to get back
+to the Mother Earth. They don't know their spaceship GALAXIA is approaching
+a black hole.
+...
+Nothing could save them. GALAXIA flew through the black hole and got to very
+strange planetary system. One of the plantes resembled the Earth. Having no
+idea where they are, the two astronauts decided to examine it closer. They
+discovered a strange orbital lab and decided to visit it. They took a probe
+module with some weapons, left GALAXIA and managed to get into the space lab.
+It was abandoned. Their computer cryptographer revealed some information about
+the planet. Only higher radioactivity made it different from the Earth. The
+mystery of the planet was so strong that they didn't hesitate a minute and 
+their probe module sank through the atmosphere. They penetrated over
+the ocean. With their high speed they soon got to an island which seemed to be
+covered with deep forest. Approaching the island, they were attacked by a huge
+red insect. Their probe was damaged but they managed to escape. The probe
+could not be controlled safely and there was a possibility of explosion. They
+have good luck and soon flew over the continent. The town with high buildings
+on the coast was faintly familiar, but undoubtable abandoned as well. Every-
+thing was very strange. The probe started to lose height and forced the two
+astronauts land near the city. There were several bad-looking trees and a lake
+with clear water. They didn't catch to leave the probe and were attacked by two
+huge "flies". It was no problem for built-in guns. But it didn't say anything
+hopefull about the planet. The only sign of life they encountered so far was
+giant insect. One "fly" tried to pick some white thing from grass. They decided
+to have a look. What they saw, was a human body being captured in a web. They
+began to tear the cocoon and found out, they had just saved a young girl.
+She communicated with them by means of telepaty and narrated them about her
+nation being held in underground storage areas by the huge insect. As she
+talked several minutes they learned the terrible history. The scientists had
+developed a special weapon of massdestruction based on biology. But the
+experiments had got out of their hands. One of the experiment explosions had 
+been so strong that people had had to hide in the underground if they hadn't
+want to be seized by deadly bacteria. Soon everything on the surface had died.
+There had been just a few kinds of insect that had mutated, grew to an 
+unbelievable size and survived. The spiders had got very inteligent and
+attacked the Mankind. The most inteligent spiders had formed a comunity and
+enslaved the less inteligent kinds of spiders. Now, they use them to fight 
+against people who are absolutly defensless.
+The nubmer of people is lower day to day. They form small groups and live in
+underground storage areas among crates containg stuff necessary to survive.
+Sometimes a few man decide to go up to the surface to bring some weapons but
+nobody ever returns.
+...
+Now, you are the one, who has a weapon. But the probe is useless. The plan is
+clear. Your friend stays and will try to fix it. You will go with that girl to
+the underground.
+...
+You meet the people from the underground and see that they believe in your
+help. You are their God who can help them. They know they have another home
+in the space. (Now you recall that space lab.) They offer you their best
+weapon - shotgun. One man managed to get back. He talked about mutated friends,
+who tried to get on the surface earlier, browsing around the corridors without
+aim, some of them having shotgun, some of them having just a pistol. He killed
+one of them and brought the gun. They must have been captured by spiders and
+poisened somehow.
+The conversation is interrupted by the sound of steel. One of the spiders
+- slaves is penetrating the area. They already know about you. Everybody is
+shouting. In several seconds, you can't see anybody. You are staying in a
+storage area, shotgun on the ground before your eyes. The steps of the spider
+cause the ground to shake under your feet. You have no choice. You must face
+it. You just hope that the way to the probe will be as easy as the way to the
+underground. You remember the way through the drainage, subway and narrow cave
+corridors. You must make it alive, get to your friend and take off with
+repaired probe module.
+
+
+Hint: Your friend could switch the shields of the probe on to prevent anybody
+to enter it. So be carefull, if you have too much blood on your face, the
+protection system can beam you upto 500 meters far from the module. :)
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+   Now go and play e1m1! When you are finished, get back and read on!
+	      doom -devparm -file galaxia.wad -wart 1 1 -skill 4
+        (please, play UV, HMP is here just for kiddies, really)
+              HEY, DON'T MAKE ME ANGRY AND PLAY UV! :)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+       Have you really finished that first level?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+O.K., you made it alive to the probe module. You hope you open the door and
+meet your friend. I will not pretend that their civilization has not
+invented anything like teleporter. A small example was in the underground.
+Isn't it strange that your friend didn't help you out there? Nothing could
+be easier then pressing fire on probe's laser guns. And instead of your friend,
+a baron awaits you in the entrance. Or was it your a little mutated friend?
+Just open the door to the level e1m9 (it is in the same pwad file, type:
+
+		doom -devparm -file galaxia.wad -wart 1 9 -skill 4
+
+		   Now you will see what is the reality. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Have you taken off?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Really?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+O.K. You took off and got to GALAXIA. Now, you can take some more powerfull
+weapons for those poor people on the planet and help them get into the lab
+from where they could lead a war against spiders. You don't have any other
+plans as you will probably never see the Earth again.
+
+Many thanks for playing my level(s). I hope you enjoyed it.
+Now, it is time to type several words and mail them to me:
+Don't forget recordings!!!!!!! I need them! (Both, e1m1&e1m9)
+
+Pavel Hodek
+xhodp03@st.vse.cz

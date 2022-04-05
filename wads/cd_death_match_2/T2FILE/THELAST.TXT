@@ -1,0 +1,56 @@
+================================================================
+Title                   : THELAST.WAD
+Author                  : Dave Sawford
+Email Address           : dws@ras.phy.cam.ac.uk
+Misc. Author Info       : Author of CAVLAB11.WAD
+
+Description             : A fairly large level.  No Spider Demons, 
+                          Cyber Demons or BFGs, just solid Dooming.
+                          Strategy is very important.
+
+Additional Credits to   : Hugh Gibson, Dr S. Gull for playtesting.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 1 month
+Editor(s) used          : Deu 5.1, Deu 5.2, Bsp 1.1, Reject 1.0
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+This level may be freely distributed as long as the following conditions
+are met :
+
+1.  This text file is included in the same archive as the file THELAST.WAD.
+
+2.  The files THELAST.WAD and THELAST.TXT are not altered in any way except
+    with prior consent of the copyright holder.
+
+3.  No charge is levied for distribution or use of the files THELAST.WAD,
+    THELAST.TXT, FILE_ID.DIZ or the archive THELAST.ZIP which contains
+    these files.
+
+
+This file and the file THELAST.WAD are Copyright (C) Dave Sawford 1994
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu, wuarchive.wustl.edu
+
+BBS numbers: The Shed BBS +44 (0)223 563468 (Tons of Doom stuff, go there!)
+

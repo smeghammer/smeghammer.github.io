@@ -1,0 +1,184 @@
+================================================================
+Title                   : PIMP.WAD
+Author                  : All the various WAD authors
+                          Jeremy Sammons
+
+Email Address           : bobspik@osuunx.ucc.okstate.edu
+
+Description             : This is a collection of 27 Doom1 wads which have
+                          been converted to Doom2 format usind WadCat and
+                          Wad1to2.  They are deathmatch wads specifically
+                          designed for 2-player DMing.  They are, in my
+                          opinion, the very best doom1 wads, both in terms
+                          of playability and design.  The conversion process
+                          changed some things that could not be helped, and
+                          the various doom2 editors out do not seem to let me
+                          correct the problems with ease, so some levels,
+                          such as ledgesi, may be a little different than you
+                          may remember.  Nevertheless, these wads are the very 
+                          best out there.  When I converted them I changed all
+                          the shotguns to super-shotguns. Make sure when you
+                          play them to use the -timer option; otherwise
+                          you will not be able to exit some levels.
+
+                          They are, in order:
+                          madmax
+                          bigempty
+                          jhldth1
+                          par-002c
+                          pueblo
+                          house
+                          myhouse
+                          tnplhome
+                          usqe1m1
+                          kill
+                          church
+                          tourney
+                          hitmeinf
+                          ledgesi
+                          subway11
+                          area8
+                          joi-cm1
+                          blob
+                          slapme
+                          butt
+                          trideath
+                          peace
+                          markroom
+                          phucked
+                          ledges4i
+                          markrm3
+                          october
+
+                          These wads look excellent as well as play well.
+                          Manyof the top ranked wads on the DM Wads
+                          ranking sheet play well but are designed poorly;
+                          not so with these wads.  I have played hundreds of
+                          different wads, and when these wads were converted
+                          to Doom2, a very important and beautiful change
+                          took place on many.  You first see it in the 4th
+                          wad, but you get the full extent of it in Pueblo
+                          wad.  Im sure the author had this in mind when he
+                          made it.
+                          Some notes on each wad:
+                          Madmax: this is a new wad, but an excellent start-
+                          ing wad.  The music is fitting; it is a pleasant
+                          surprise, seeing as how the sounds and music come
+                          from blob.wad.  You will see what I mean.
+                          Bigempty:I made some minor changes to this, but it
+                          still remains an excellent shotguns-only wad.
+                          Jhldth1: This is my all time favorite wad.  Its fun
+                          to play in, fun to wander around in, and any style
+                          of fighting can be used.
+                          Par-002c: I think this was named something else 
+                          originally but Im not sure what.  I got it out of
+                          another wad collection as I could not find it on
+                          the various sites.  The background fits the theme
+                          well, but not as well as in...
+                          Pueblo: absolutely beautiful.  Well designed, 
+                          originally made for a pro tourney, but never used.
+                          Unfortunately the oven texture gets pasted onto 
+                          the wall of the BFG secret room in ledgesi for some
+                          reason during conversion, and other places too,
+                          but its no big problem.
+                          House: A classic wad.  Nothing but fun.  Well 
+                          made, with weapons placed strategically.
+                          myhouse: A very recent wad, but lots of fun.  Goes
+                          after house perfectly.
+                          tnplhome: Another home, wad, I made minor changes
+                          to it to make more weapons.  Check out the toilet
+                          and the stove.
+                          usqe1m1: This is a college Student Union I think,
+                          and its a lot of fun to run around in, although not
+                          quite in the same vein as with myhouse.
+                          kill: Another college building wad.
+                          church: I tried to add a missle launcher to this, but
+                          for some reason the editing program wouldnt let me.
+                          But I did add deathmatch starts (which it did not
+                          previously have) and some shotguns and other weapons.
+                          Remember, God does not like BFGs on Holy Ground.
+                          Tourney: A wad created for a tournament.
+                          hitmeinf: a good arena wad, lots of fun.
+                          ledgesi: The conversion process made minor changes
+                          to make this wad not as fun (it removed the missle
+                          launcher for some reason) but it is still the all-
+                          time classic wad.
+                          subway11:Like church, this wad was not originally 
+                          for deathmatch play, but the minor changes I made make
+                          it a lot of fun. You will see why when you meet up with
+                          a guy in a tunnel.
+                          area8: This wad looks neat, and is fun to play, although
+                          the strategy level is not quite to the level its design
+                          would lead you to believe.
+                          joi-cm1: Oh Joi!  A small castle wad
+                          blob: This wad is the largest in the collection, but
+                          you can still find frags pretty easily.  Its a good
+                          hunting wad.  This is where the funky sounds come from.
+                          slapme: Another tournament wad.
+                          butt: This one has lots of secrets, another classic wad.
+                          Trideath: a good set of arenas.  The dark is fun.
+                          Peace: another classic.  There is a secret here which
+                          will hand you the match if you find it.  Watch the lmp
+                          for clues.
+                          markroom: the classic arena wad
+                          phucked: an interestingly designed wad, annoyingly fun
+                          to play in.
+                          ledges4i: ledges's big brother.
+                          markrm3: transporters can be annoying but also fun.
+                          October: another small castle wad, well designed.
+
+                          When you play this wad, I suggest you put in a -timer
+                          5 or 3 or 7 limit in it so you can go through all of
+                          them.  Our floor will be using this for a tournament.
+                          Thanks to all the guys on my floor
+                          who helped with the selection process; you don't
+                          know how long it took me to weed through all the wads
+                          out there and combine them in the proper way.
+                  
+
+Additional Credits to   : The wad authors; all of the level info can
+                          be found scattered around the net.
+                          The guys on my floor:Brad, Scott, Eric, Glenn, Matt,
+                          and the rest.
+                          The author of wad1to2
+                          the author of wadcat
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01-Map27
+Single Player           : No
+Cooperative 2-4 Player  : If you are that desparate, yes.
+Deathmatch 2-4 Player   : Yes, very much so.
+Difficulty Settings     : Yes
+New Sounds              : Yes, coutesy of Blob.wad
+New Graphics            : some, especially on Pueblo
+New Music               : Yes, on level 1
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : All the wads
+Build Time              : At least 30 hours looking around and weeding
+                          through the wads
+Editor(s) used          : Wadcat05, Wad1to2.exe, DEU5.21
+Known Bugs              : Some strange changes due to the conversion
+                          process
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD pursuant to the following
+limitations:
+1.  You include this file, with no modifications.
+2.  You MAY NOT distribute this WAD, in whole or in part, as part
+of a commercial product without the permission of the authors. 
+This includes any use for profit, including the use of this level
+in competitions or collections of files on physical media. 
+Distribution via electronic means is excepted from this
+limitation (you may post this WAD on commercial and private BB
+systems).
+

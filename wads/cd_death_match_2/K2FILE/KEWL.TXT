@@ -1,0 +1,62 @@
+================================================================
+Title                   : KEWL
+Filename                : KEWL.WAD
+Author                  : Hubert Seiwert
+Email Addresses         : 2:2453/61.6(FidoNet),
+                          37:101/200.6(TrekNet 37.TNG)
+                          PIRATE@ERATOSTH.WWB.SUB.DE(InterNet Gate)
+                          or Patrick's InterNet-address(a "real" one),
+                          bosch@rhea.informatik.uni-bonn.de...
+
+Misc. Author Info       : He likes to DOOM alright :-)
+
+Description             : Hot :-)
+                          Yo guyz thiz iz a DeathMatch *ONLY* Wad. And, for 2p-
+                          DeathMatching, it's really good. I tried a lot of
+                          known excellent deathmatch WADs(the MARKRM series,
+                          LEDGES...) and I like this one, too :-)
+                          BTW, if you don't know, "kewl" is a way of writing
+                          "cool" :-)
+
+Additional Credits to   : Patrick Bosch, my MoDooM partner
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes, but only for having a look, not for playing...
+Cooperative 2-4 Player  : No way
+Deathmatch 2 Player     : Yes!!
+Deathmatch 3-4 Player   : No(Haven't tried that, but I bet it'll be to small)
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch!!
+Editor(s) used          : (In order of most usage)
+                          DCK, DoomCad, WadEd&BSP 1.2... NO Deu, I really don't
+                          like that one... Why are YOU all using it :-) ??
+                          DCK(DooM Construction Kit) Rulez :-)
+Known Bugs              : None, no HOM or such...
+Time used               : If I would have constructed it all in one session,
+                          maybe a day or so...
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+(But credit me then, willya :-)
+
+You MAY distribute this WAD, provided you include this file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: Should be available in every mailbox which has the GamesNet-DooM-
+             Area...

@@ -1,0 +1,233 @@
+================
+[1] INTRODUCTION
+================
+
+This is an incomplete (yet) episode designed primarely for experienced DoOmers 
+who are ,say ,brave enough to face Baron of Hell having only pistol or to meet 
+a couple of spiders in the locked room (some tips for you :).
+
+Additional Credits to   : DEU team, Geoff Allan, Colin Reed 
+
+Level Bugs              : You can get to secret mission from mission 1
+                          and after you complete it you'll appear on
+                          mission 4 instead of 2. This will be changed
+                          when the other missions will be ready - so
+                          current mission 1 will be mission 4. Now 
+                          missions 3 - 7 are the same.
+
+Information for each level follows...
+
+ ================================================================
+ MISSION 1
+ ================================================================
+ Title                   : AARRGHH1.WAD   
+ Author                  : Oleg Tolstkhine 
+ Email Address           : hcc@ioh.free.net
+ Misc. Author Info       :  
+
+ Description             : 'Lost in souls'
+
+ Your main goal is to get to secret level although you'll be lucky enough just
+ to survive the way to plain old E1M2. And maybe you'll discover two new 
+ features of lost souls...
+ 
+ Additional Credits to   :
+ ==================================================
+
+ * Play Information * 
+
+ Episode and Level #     : E1M1
+ Single Player           : Yes
+ Cooperative 2-4 Player  : Yes
+ Deathmatch 2-4 Player   : Yes
+ Difficulty Settings     : Yes 
+ New Sounds              : No
+ New Graphics            : No
+
+ * Construction *
+
+ Base                    : New level from scratch
+ Build Time              : 6+ hours
+ Editor(s) used          : DoomEd 2.60 beta, idBSP for REJECT
+ Known Bugs              : None
+
+
+
+ ================================================================
+ MISSION 2
+ ================================================================
+ Title                   : AARRGHH1.WAD   
+ Author                  : Oleg Tolstkhine 
+ Email Address           : hcc@ioh.free.net
+ Misc. Author Info       : 
+
+ Description             : 'Teledeath'
+
+ You'd better be cautious here. And precise too.
+
+ Additional Credits to   :
+ ==================================================
+ 
+ * Play Information *
+
+ Episode and Level #     : E1M1
+ Single Player           : Yes
+ Cooperative 2-4 Player  : Yes
+ Deathmatch 2-4 Player   : Yes
+ Difficulty Settings     : Yes 
+ New Sounds              : No
+ New Graphics            : No
+
+ * Construction *
+
+ Base                    : New level from scratch
+ Build Time              : 6+ hours
+ Editor(s) used          : DoomEd 2.60 beta4, DEU 5.1, BSP 1.1, idBSP for REJECT
+ Known Bugs              : None
+
+ ================================================================
+ MISSIONS 3-7
+ ================================================================
+ Title                   : EMPTY.WAD   
+ Author                  : Alex Korobka
+ Email Address           : hcc@ioh.free.net
+ Misc. Author Info       : 
+
+ Description             : 
+
+ This file is temporary placeholder. Go straight to exit.
+
+ Additional Credits to   :
+ ==================================================
+ 
+ * Play Information *
+
+ Episode and Level #     : E1M3-7
+ Single Player           : Yes
+ Cooperative 2-4 Player  : Yes
+ Deathmatch 2-4 Player   : Yes
+ Difficulty Settings     : No 
+ New Sounds              : No
+ New Graphics            : No
+
+ * Construction *
+
+ Base                    : New level from scratch
+ Build Time              : 1+ hours
+ Editor(s) used          : DEU 5.1, BSP 1.1
+ Known Bugs              : None
+
+
+
+ ================================================================
+ MISSION 8
+ ================================================================
+ Title                   : AARRGHH8.WAD   
+ Author                  : Alex Korobka
+ Email Address           : hcc@ioh.free.net
+ Misc. Author Info       : 
+
+ Description             : 'The House Of Light'
+
+ Little bit surrealistic view of shining sky and dark battlefield. And it's
+ not as hollow as it seems...
+
+ Additional Credits to   : 
+ ================================================================
+
+ * Play Information *
+
+ Episode and Level #     : E1M8
+ Single Player           : Yes
+ Cooperative 2-4 Player  : Yes
+ Deathmatch 2-4 Player   : Yes
+ Difficulty Settings     : Yes 
+ New Sounds              : No
+ New Graphics            : No
+
+ * Construction *
+
+ Base                    : New level from scratch
+ Build Time              : 5 hours
+ Editor(s) used          : DEU 5.1 - 5.2 ,BSP 1.0 - 1.1, idBSP for REJECT
+ Known Bugs              : Infinitesimal HOM (too many 2-sided sidedefs ).
+
+
+
+ ================================================================
+ MISSION 9
+ ================================================================
+ Title                   : AARRGHH9.WAD   
+ Authors                 : Alex Korobka ,Oleg Tolstkhine 
+ Email Address           : hcc@ioh.free.net
+ Misc. Author Info       : 
+
+ Description             : 'Hell's Graveyards'
+
+ Basically it consists of 4 almost completely separated areas and you will
+ have to break through all of them in order to complete the level. 
+
+ There are two megarmours and two supercharge spheres to help you withstand 
+ assaults of demented Satan troops :)
+
+ Additional Credits to   :
+ ================================================================
+
+ * Play Information *
+
+ Episode and Level #     : E1M9
+ Single Player           : Yes
+ Cooperative 2-4 Player  : Yes
+ Deathmatch 2-4 Player   : Yes
+ Difficulty Settings     : Yes 
+ New Sounds              : No
+ New Graphics            : Yes
+
+ * Construction *
+
+ Base                    : New level from scratch
+ Build Time              : Helluva lot... but it's LAARGE!
+ Editor(s) used          : DoomEd 2.50 - 2.60 ,DEU 5.1 ,BSP 1.1w , idBSP
+ Known Bugs              : "moire" on the edges in SHAWN corridor. Let's
+                            wait for DOOM 1.4...
+
+
+
+================================================================
+[2] APPENDIX
+================================================================
+ Authors may NOT use this level as a base to build additional
+levels without prior permission from authors. If somebody wants
+to help to expand it into full episode - your suggestions are
+welcome (Note: our e-mail addresses may change in the near future )
+
+ You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+================================================================
+[3] WHERE TO GET THIS WAD
+================================================================
+
+FTP sites:
+	   - ftp.montefiore.ulg.ac.be
+	   - infant2.sphs.indiana.edu
+
+	 ___  
+    _  / /. _\    __
+  /   V-V-V   \\/    \
+ |                 .  |                                         _________
+ |                    | |    __   __    |                     /           \
+ |   DoOm InSaNiTy    |  \ /\  \^/  /\ /       ____          |  ...  .. .. |
+ .                    |  |\   \   /   /|      | ...|         |             |
+	      .       |\  |  * .|. *  |      _|_  _|_        |    . . .    |
+	.             |  \ \ ___-___ /                       |             |
+		      |    -||VV VV||-- _//                 -|_           ||-
+	       .      |\     \\-M-//      \                     ---------|
+     _   _ ___ _______| \     \___/       -----       ________________
+		       --//---_____      \\          /                  \
+						    /  hcc@ncc.free.net  \
+						    \    Alex Korobka    /
+						      \________________/

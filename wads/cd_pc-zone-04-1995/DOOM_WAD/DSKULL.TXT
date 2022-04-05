@@ -1,0 +1,75 @@
+* General Information *
+============================================================================
+
+Title                   : SKULL (dskull.wad.WAD)
+Author                  : Nukeface(c)
+Email Address           : Nukeface@aol.com (real internet address coming soon)
+Additional Credits to   : The authors of DOOM, DEU, and BSP.  
+                          Intel, for the 80x86 series of microprocessors            (death to the 680x0 cpu!!!!)
+                          My beta guys: Kirk (Ruasikko) Hagberg, 
+                          Glenn (dog boy) Sibley, and Dave Seper.
+
+Description             : A huge, fairly straight foreward level that is 
+                          shaped like the top portion of a skull.  It's not 
+                          all that difficult to complete, but nearly 
+                          impossible to find all the secrets.  I have 
+                          installed more teleporters than nescessary in order 
+                          to allow quick access to various parts in 
+                          deathmatches.  There are several areas that 
+                          "respawn", not in the sense of NIGHTMARE, 
+                          but some places you could kill everything, then 
+                          come back later and find some new nasties.
+                          This runs fine full or almost full screen on 
+                          the 486-33s I've tried it on.  I have no creative 
+                          or witty story behind this, except that I learned 
+                          that I spent way too much time on this stage.  
+                          95% of the textures are aligned the way I want them 
+                          (most done before DEU 5.2), so don't yell about the  
+                          few bad ones.  I have a bunch of new ideas for new
+                          levels, so this should not be my last stage.  Also
+                          look for my ray-traced robotic sentries (sentry.zip)
+                          they replace the cacodemons.
+
+* Technical Information *
+============================================================================
+
+Things                  : 430  -players, enemies, teleporter landings, etc.
+Linedefs                : 1331  -walls and triggers.
+Sectors                 : 301  -areas of same height, light level and texture.
+Line/Sector Tags        : 53  -unique teleporters, lifts, light switches, etc.
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E2M1
+Single Player           : yes
+Modem Play              : yes, I wouldn't recomend it, unless you use a 
+                          direct serial connection, the stage is too big. 
+Cooperative 2-4 Player  : yes (clone room <a secret worth finding>)
+Deathmatch 2-4 Player   : yes
+Difficulty Settings     : yes
+New Sounds              : yes, new music: Kashmir
+New Graphics            : yes, new selection icon,exit screen, Whoopie.....
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : 90-100 hours on the map only, not including testing 
+                          the map and getting the sound and graphics to work. 
+Editor(s) used          : DEU 5.0, DEU 5.1, DEU 5.2gcc, DEU 5.21gcc, 
+                          BSP 1.0, and BSP 1.1x
+Known Bugs              : In the noze, there are a few spots where it flickers, 
+                          I think it's beacuse of the 1000 unit drop.  I'd 
+                          appreciate any input on how to fix this.
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may NOT use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in only the following 
+electronic format: BBS or Diskette (no CD) as long as you include this file.
+
+This is a genuine Nukeface(c) production.
+"Nukeface" and the Nukeface(c) symbol are copyrights(c) of Devon Dossett

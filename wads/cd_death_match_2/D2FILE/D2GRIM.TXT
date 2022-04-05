@@ -1,0 +1,47 @@
+Title                   : Grim, son of Grunt.   
+Filename                : d2grim.WAD
+Author                  : Derek Waters
+Email Address           : 100137,2547
+Misc. Author Info       : 
+
+Description             : Number three in a short series of Doom ][ wads,
+                          converted from Doom wads by the same author.
+                          A journey to the four corners of something
+                          that isn't the Earth . . .
+
+Additional Credits to   : Iain and John for play-testing, id, the DEU crew,
+                          Jeff Rabenhorst, and Alison.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : 04
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified grim.WAD
+Editor(s) used          : DEU 5.21, EdMap 1.21
+Known Bugs              : C'mon . . .
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Other: Compuserve Gamers

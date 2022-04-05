@@ -1,0 +1,52 @@
+==========================================================================
+STARDEATH "A star is dead" v1.0 
+a PWAD by Derek Morton (73054,612 or mortman@delphi.com)
+==========================================================================
+
+A huge Deathmatch play level with a few nasties added to spice things up
+a little bit. Vigorously tested for two man deathmatch play but should
+support four man play. Average two man deathmatch game lasts between
+20-30 minutes when playing to ten frags.
+
+HINTS:
+------
+
+Starting Star lift: Starting about halfway between candelabra and Star 
+                    lift, walk towards Star lift.
+
+Stopping Star lift: ??? Try experimenting by walking around the star's
+                    perimeter. Walking over certain sides of the pillars
+                    will also work.
+
+Monster Pit:    Raise the pit with the 'eye' switch. Monsters cannot cross
+                the blue 'monster barrier' but they can slip out the back.
+                NOTE: Let the Baron live and watch him catch your 
+                opponent(s) when they least expect it.
+
+Automatic Door: Once the door closes it stays that way for 30 seconds.
+
+Teleporter lift:    Lift to teleporter is activated by exiting the gray 
+                    hallway with the red ceiling. Be quick about it!
+
+Enjoy....
+
+p.s.
+
+Feel free to send your suggestions and/or comments but you can keep the
+criticisms to yourself. I'd appreciate receiving a saved four player 
+deathmatch game. This PWAD would seem to be ideal for that.
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+

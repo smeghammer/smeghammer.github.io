@@ -1,0 +1,215 @@
+
+================================================================
+Title                   : Siawn Hy's Keep
+Author                  : Siawn Hy
+Name of File            : Beta7.ZIP
+Email Address           :
+Misc. Author Info       :
+Description             : **SEE BELOW**
+
+Additional Credits to   : Exodus (for helping me test and debug
+                          the level)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A long time!
+Editor(s) used          : DEU 5.0 & 1, DoomED 2.50 Beta 3, BSP 1.2x
+Known Bugs              : <<none>> -- I think I have de-bugged it...but
+                          you never know...there aren't any bugs that I
+                          found and I went over every inch of every wall
+                          so I am pretty sure it is fine.
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+BBS numbers: Albion -- (916)895-8689 -- SysOp - Siawn Hy
+
+* Story *
+
+        You look around and see signs of destruction everywhere.  Your 
+heart sinks as you see what has happened to Earth.  But, just as you start
+to reload your Shotgun, it vanishes along with all your other weapons, 
+leaving you with only a pistol and some ammo.  To your surprise,
+the scene of Earth vanishes and you find you are standing in a marble
+palace.
+        Looking behind you, you notice a stack of papers laying on a red
+pillar.  You pick up the papers and stand there for about an hour reading
+and trying to comprehend what it all means.  Finally, you figure out what
+has been going on.
+        The radioactive disposal site had been a mask for the UAC's true
+intentions.  More, the head of the UAC, Siawn Hy.  Using the UAC, Siawn 
+Hy managed to make contact with Hell.  Seeing as it was just demons running
+loose everywhere, he went there and, after much trouble, managed to make
+the demons see him as their leader.  With the forces of Hell behind him, he
+thought he could rule the entire universe.
+        Wanting to set up his own base in Hell, he managed to bring Deimos
+in to him.  Taking the resources from the base, he created, underneath Dis,
+a keep.  Then he sent hordes of demons to Phobos and then Deimos with orders
+to kill all life.  While I was fighting through Phobos and Deimos, Siawn Hy
+was hard at work creating and constructing his keep.  While I was on Hell,
+he managed to take one of each of the eight types of demons, made a special
+cage for each which enabled him to spawn unlimited demons, and finished his
+keep.
+        The eight monsters are still set up in the Lazarus Cages and are
+still reproducing demons.  Furthermore, Siawn Hy has established a link from
+the eight demons to himself, rendering him immortal.  An accident proved this
+as he was constructing his keep.  A marble block fell and crushed him, thus
+killing him.  But, soon afterwards, from a Lazarus Hold, he appeared.  He
+jumped out of it, looked at himself and proclaimed he was immortal.
+        As you finish thinking, you place the diary back on the pillar.  
+After removing your hand, the papers vanish from the pillar.  Four walls 
+start to rise and out of one approaches a figure.  Coming closer you 
+recognize the grey uniform of the UAC, worn only by one person.  "Siawn Hy!"
+        "So, my friend, you are the one who has been routing my forces.  Not
+to worry though, Hell and both bases have already been repopulated and the
+gateways to Earth are almost complete.  I would like to give you a chance,
+though."
+        You start to feel a strange sensation as a ball of plasma engulfs 
+you.  But it doesn't hurt.  Then six more walls, three on each side, near the
+top of the room open.  Each one blue.
+        "Do not be alarmed.  This will put a copy of your whole self into
+a Lazarus Hold.  I will give you twenty-five reincarnations before you die.
+Now, try to find a way to kill me, before I kill you..."
+        With that a green plasma engulfs both him and you.  The next thing
+you know you are standing in a small blue room.  The Lazarus Hold.
+
+* Instructions *
+
+        Sorry, but most of you won't be able to really "win" this level.  
+The only way to really win it is to play it with me.  Since most won't be
+able to do that, then your objective is to find and shut down each of the
+Lazarus Cages.  If you are playing with me, then after shutting down all
+eight Lazarus Cages, the final thing you need to do is to kill me.  Then
+since my powers from the eight demons have left me, I will be dead and not
+be able to reincarnate myself.  But, if you die twenty-five times (I can't
+count all of them so if you really want to have the full experience then
+you will count how many times you die) then I have won.  If you want to
+set up a time to play then call Albion and set up a time.  Have fun!
+
+        Be sure to turn on Respawn.  Siawn Hy (story) will bring them back
+to life.  Use Cooperative, unless you have the pleasure to play with me
+where it will be Deathmatch.  If I play on a net with three to four players
+it must still be Deathmatch though it will be me verses them.  That's it for
+now.
+
+        The enemies have been put in so this should add a lot more 
+difficulty.  It is almost impossible to get through the level with only
+one person at a hard skill level.  And the harder the level the more
+decor appears.
+        
+* Objective *
+
+        I might have said something up there but this should be more 
+detailed.  Find each of the eight Lazarus Cages (you'll know when you get
+to them) and shut them down.  There should be a couple switches in there
+that will accomplish this for you.  When one of them shuts down one of the
+eight doors that lead to Siawn Hy will open.  Once all eight cages have 
+been shut down, the way to Siawn Hy will be before you...
+
+* Revision Info *
+
+  Beta:
+
+The first version.  All in this was the marble palace and pit.  A few bugs
+but fun.
+
+  Beta2:
+
+Never released this one to the public.  Just corrected some bugs.  No major
+revisions.
+
+  Beta3:
+
+The dungeon was added.  I had to find a place worthy to hold the BFG so I
+created somewhere that could hold it with some risk to themselves but still
+accessible.  The dungeon was that and more.  Still some little errors.
+
+  Beta4:
+
+Ok...this one has many more special effects.  For example all my floors that
+lower.  Changed the pit texture and moved the level from E1L1 to E3L1.
+Still no Lazarus Cages added...I hope the first one will be in Beta5.
+
+  Beta5:
+
+Monsters added!  Skill levels!  Sorry, no Lazuras Cages yet.  I did add on
+a few teleporters and some cool stairs.  It is off the Marble Palace and
+the new area is in a mountain and the wood is holding the place together.
+It is called the Mine of Wood.  
+
+  Beta6:
+
+First Lazuras Cage added.  You will know when you get to it.  This cage is 
+holding the Imp.  There is a switch that will shut it down.  Also included
+is two batch files to run Doom with this wad.  One for dialing (BETADIAL)  
+and one for answering (BETAANSW).  Just type (for dial): BETADIAL (comport
+number ex:1) (phone number to dial ex:9116766) (skill level number ex:3)
+(for answer) BETAANSW (comport number ex:1) (skill level number ex:3)
+These are made for Doom's SERSETUP device so I don't think anything else 
+will work but that for these batch files.  
+That will set it up for modem play at the right
+episode and mission, respawning on, and cooperative.  It's a challenge but
+some of the pros out there should be able to pass it.
+
+  Beta7_7: 
+  
+Well, I finally reached the size limit for the level.  For this reason I will
+be spanning the Keep over all of Episode III.  This will make for bigger 
+levels and more fun.  Beta 7_7 is the last one for the level on e3m1.  The
+final Beta will be 8 which might contain some bug fixes (if there are any)
+and new graphics, sound, and music.  
+   
+   Beta7_8:
+
+Never really got around to distributing 7_7 cause I wanted something more.
+So there is a new piece of music in and some little bugs fixed along with
+a ceiling texture that I never changed...  I won't get into that.  
+   
+   Future Plans:
+
+       I might also do a bit of graphic editing so that one of
+the enemies I might not use (maybe a soldier?) will look super cool that 
+I will use for Siawn Hy.  Though for the full experience you will want to 
+play with me.  Sky editing, wall editing, etc.    
+       Donations?  Call Albion.  Five bucks will get you free updates and
+if you donate now the full version won't cost a penny.  
+       Beta 8 if it does contain the graphics and music etc. will be the last                             
+free version of the level.  After Beta 8 if you want to continue to        
+receive updates to Siawn Hy's Keep it will cost five bucks.  Send a check to
+my associate, Exodus, and then get on the board and you will be able to down-
+load the latest version.  The five bucks will get you the latest and ALL
+FUTURE versions of S.H.K.  Well worth it if you are into Doom.  
+       Checks, make them out to : Isaac Posey (Exodus)
+       Send to:     2673 Lakewest Dr.                             
+                    Chico, CA 95928
+       If you don't have a modem or would just rather have it sent to you,
+Exodus should have the most currect version, just send him a self-addressed
+envelope with a blank 3 1/2 disk.
+       Questions?  Call my board and I will try to answer them.
+
+                                    Farewell,
+
+                                          ô     Ã´
+                                          õiawn ³³y

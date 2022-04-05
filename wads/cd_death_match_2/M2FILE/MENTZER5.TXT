@@ -1,0 +1,68 @@
+================================================================
+Title                   : Mentzer5.WAD  (For Doom 2) 
+Author                  : David J. Hill   
+Email Address           : Mentzer@aol.com
+
+Description             : AKA: Tunnels of Death
+
+			  Another deathmatch wad in the Mentzer series.
+			  Four tunnels connect all areas of this wad together.
+			  Designed for dog fights over valuable territory.
+			  All weapons are available, along with the megashere
+		   	  and other goodies.  
+
+			  Search aaaaaand ....seek and destroy!!!
+						
+  
+Additional Credits to   : My wife Anna for here patience.
+
+			  Gregg Hicks (from Orion bbs) for beta testing.
+			
+			  And the authors of DoomCad and ID software.  
+ 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 1
+Single Player           : Yeah.
+Cooperative 2-4 Player  : uhhh, yeah.  
+Deathmatch 2-4 Player   : yes!!  And remember NO MERCY! 
+Difficulty Settings     : yes.
+New Sounds              : NO
+New music               : NO
+Demos Replaced          : None
+Date Finished		: Feb. 9, 1995  
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Around 15 hours.
+Editor(s) used          : DoomCad 5.1
+Known Bugs              : None - I probably violated some of the "rules"
+			  stated in the Doom Specs - so if you find any
+			  bugs - let me know!
+
+===============================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, just give me credit for my effort.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you find any bugs or have question or comments, write to Mentzer@aol.com.
+
+* Where to get this WAD *
+
+Other: America On-Line, Compuserve, Ftp.cdrom.com and mirrors
+
+Also:  The Unofficial Doom site of Western Kentucky  
+Orion BBs 502-898-7541 - user of MediaHost software.
+Home of some great deathmatch wads, and the first site to get all of
+Mentzer's releases.

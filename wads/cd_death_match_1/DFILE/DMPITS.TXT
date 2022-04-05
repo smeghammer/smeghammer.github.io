@@ -1,0 +1,54 @@
+================================================================
+Title                   : "DOOM PITS." DMPITS.ZIP
+Author                  : Nicholas Bell
+Email Address           : CIS 72162,1667
+Misc. Author Info       : Other DOOM levels: "Pits" (DMPITS.ZIP) 
+                          "Portal" (DMPRTL.ZIP) "Infestation" (DMIFST.ZIP)
+                          and "Der Turm" (DMTURM.ZIP)
+                          Aces Over Europe - AOEREAL.ZIP, AOEFIX.ZIP,
+                          AOEFLT.ZIP, etc. Aces over the Pacific - APFMD.ZIP, 
+                          APDMG.ZIP, etc.
+
+Description             : This is a very early PWAD creation done before DEU 
+                          allowed for relocating nodes.  All that has been
+                          done is to change linedef types, textures, sector
+                          heights, and monster/thing location.  For some
+                          reason I get a lot of positive mail of this one.
+
+
+
+Special Thanks to     : BRENDON WYBER AND RAPHAEL QUINET for DEU.
+                        COLIN REED for BSP
+
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M6
+Start-up Instructions   : If you're not using a front-end batch file creator,
+                          while in your DOOM directory, type: 
+                          doom -devparm -warp 1 6 -file dmpits.wad 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : No, one size fits all.
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : 60 hours. 
+Editor(s) used          : Orginal: DEU 4.0  Later touch-up:DEU 5.1, BSP 1.1x
+Known Bugs              : A few minor texture offsets.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  Why would anyone want to when they could create their own anyway?
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

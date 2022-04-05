@@ -1,0 +1,23 @@
+TEXT TO "NEVEREST.WAD"!
+
+
+After quite a lot of late nights, I have finished my second level (after 
+ambush.wad). This one is bigger... In short, it contains a lot of traps, 
+including a few that YOU can set up for the enemy, many nice light-
+effects, and, if not careful, a rocket-heated race!
+
+Two skill-levels are implemented, as well as multi-player and deathmatch.
+
+The level was created using DEU 5.0, and fixed up with BSP 1.1x (GO32-
+compiled version). Many greetings to their respective creators!
+
+To run the level single player, type "doom -file [path]neverest.wad 
+-episode 2", and two-player serial "sersetup -file [path]neverest.wad
+-episode 2 -com[comport #, without space!] <-deathmatch>" on both computers. 
+
+Any comments are gratefully recieved. I will probably not change anything
+in this level, as I barely can save it without getting out of memory, but
+I will bear them in mind creating my next (?) level.
+
+
+			f93-mwi@nada.kth.se (Mattias Widmark)

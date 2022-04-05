@@ -1,0 +1,7 @@
+Released previously on the net......
+
+s*rsetup -file dstink.wad -skill 4 -episode 2 -devparm -record stinky -fast -keep -going -if -you -like
+
+assists the BETA version of the 1.3 engine from crashing during two person
+net play, and quite possible under a true networked game.
+

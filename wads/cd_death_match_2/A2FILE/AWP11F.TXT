@@ -1,0 +1,73 @@
+================================================================
+Title                   : AWP11F.WAD (A Warm Place : Final)   
+Author                  : Dave Matteson
+Email Address           : davematt@mail.msen.com    
+Misc. Author Info       : This is my 2nd PWAD, hope you enjoy
+                          it.
+                          
+Description             : The original version of this PWAD (AWP11.WAD)
+                          had several bugs, and was not quite as
+                          complete as it should have been.  There was
+                          an intermediate version (AWP11E.WAD) which
+                          _should_ never have been released, i don't
+                          know if it leaked out, but if you see it
+                          or have it, just delete it.  This is the
+                          FINAL version (as the name says) and i
+                          will not redo this one again, even if
+                          there is some big huge bug that makes it
+                          not work on anyone else's computer.  (i
+                          assure you it works fine on mine.)  so, i
+                          hope you like it.  i enjoyed making it,
+                          because i finished learning DEU while making
+                          this level.
+                          NOTE ; per id's request (and out of common
+                          decency) this level WILL NOT work on the
+                          shareware version..(duh..)
+
+Additional Credits to   : Authors of DEU and BSP, and special
+                          thanks to Watcher and my beta testers ;
+                          Joel Connett, Neil Leavitt, and Bryan
+                          Muthig.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes (Exit to DOS Screen changed.)
+
+* Construction *
+
+Base                    : Modification of AWP11.WAD (which i made
+                          from nothingness..)
+Build Time              : Original ver ; 40+ hrs.
+                          This version ; 8 hrs.
+Editor(s) used          : DEU 5.1, BSP 1.1x 
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  As long as i am mentioned as being a pretty keen guy somewhere.
+
+You may do whatever you want with this file.
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+
+Or contact me, and i might uuencode it and mail it to you,...*MIGHT*.
+
+---------------------------
+STORY...                   
+===========================
+
+    You sneeze really hard, when you wake up, you are here.
+
+        THE END.
+
+(ok, it is a crappy story, what do you want for 3am?)

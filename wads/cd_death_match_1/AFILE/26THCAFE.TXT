@@ -1,0 +1,50 @@
+================================================================
+Title                   : 26th Century Cafe, Episode 1      
+Filename                :26thcafe.WAD
+Author                  :MIKE SEATON
+Email Address           :M76@AOL.COM 
+Misc. Author Info       :This is my first attempt at my own episode, please 
+                         let me know what you think.  thanx.
+
+Description             :You have been transported to a small ammo depot,
+Where all your former buddies have been transformed into "monsters",And it 
+is your job to check for survivors and secure the base and the "JUNGLE".
+(sound familiar?)
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M2 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomCad 4.3
+Known Bugs              : None  (That I've Seen)
+
+
+* Copyright / Permissions *
+Thanx to Paul at 26th Century Cafe, For the use of his BBS's name on this
+wad.
+Be sure to check out this great BBS.....
+14.4   NODE 1  612-574-1031
+14.4   NODE 2  612-574-1896
+14.4   NODE 3  612-572-0852
+                           
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file.
+
+
+

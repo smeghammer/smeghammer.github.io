@@ -1,0 +1,70 @@
+================================================================
+Title                   : TOWER2.WAD   
+Author                  : Chris Kendall
+Email Address           : cdk@aloft.att.com
+			: roshixyz@aol.com
+
+Misc. Author Info       : One day late and One dollar short!
+
+Description             : Episode 3 level 1 has always been kinda
+			: lame for me. Not much happening there....and
+			: the only way to crank it up a little was to
+			: hurry thru it. TOWER.WAD replaces E3L1 with
+			: what I attemped to be a "classic" type of
+			: DOOM level. Check out the "BARON TUBE".
+			: I should add that this wad was originally designed
+			: for CO-OP play, but has been edited for single
+			: player mode. (It's much more fun in co-op though).
+			: If someone should try it...and you think it's too
+			: busy...please let me know.
+			:
+			: TOWER2.WAD has the HOM corrected in the center
+			: courtyard...plus minor cosmetic changes.
+			:
+		
+Additional Credits to   : Drew Lucy, for the Baron tube concept.
+			: Special thanks to the creators of DEU and BSP!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (BEST)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Approx 30 hours
+Editor(s) used          : DEU 5.1, BSP 1.1
+Known Bugs              : Sometimes Demons and Imps get caught on
+			: the armory lift...but they're stupid anyway!
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites:
+	   infant2.sphs.indiana.edu
+	 
+BBS numbers:
+
+Other:
+	Contact me at email addresses above...
+	I'll send it to ya!

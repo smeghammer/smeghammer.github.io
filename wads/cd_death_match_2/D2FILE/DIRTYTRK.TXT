@@ -1,0 +1,40 @@
+================================================================
+Title                   : dirtytrk   
+Filename                : dirtytrk.WAD
+Author                  : Bob Caryl
+
+Description             : Replaces E2M1.  Emphasis is on exploration
+                          and dirty tricks.  My first attempt at  
+                          building a level.  Hope it isn't too boring.
+Additional Credits to   : My sons, who play tested it and kept me from
+                          getting too crazy with the monsters:  "NOBODY
+                          could get through here, Dad!".
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2, DCK 1.0
+Known Bugs              : None I haven't eradicated so far.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file.
+
+

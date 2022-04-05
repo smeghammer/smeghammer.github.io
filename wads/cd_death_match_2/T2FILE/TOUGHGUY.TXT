@@ -1,0 +1,48 @@
+Title                   : toughguy.zip
+Author                  : Rick Farmer
+Email Address           : gt5876b@prism.gatech.edu
+Misc. Author Info       : EE Major, biker, hacker, like it matters.
+
+Description             : This level is my first, and as such was designed
+                          to demonstrate an idea I had to simulate 3D play by
+                          silencing the teleporter and making the destination
+                          look like the jump point. Once I demonstrated that
+                          it worked I made a hardcore shotem' up because my
+                          roomates complained that DOOM is too easy. The level
+                          lacks a "motif" and I was lazy with the textures
+                          but if you have time to notice you must be a DOOM
+                          GOD. An included file toughguy.bat replaces the
+                          nessesary sounds & graphics, plays the game (with
+                          added extensions) then restores on exit. To play
+                          unzip all files to your DOOM dir and type
+                          "toughguy". The bat file calls DMGRAPH & DMAUD so
+                          you'll need them too.
+
+                          
+                          
+
+Additional Credits to   : Adam Nagel
+                          Pete Presti  for test playing the wad
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes  2,3,4
+New Sounds              : Yes
+New Graphics            : Yes
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : A week of on and off playing with it.
+Editor(s) used          : Doomed 2.60, dmgraph, & dmaud.
+Known Bugs              : A few textures don't quite line up but I don't care.
+
+This file is in the pulic domain, do with it what you wish. -Cheers
+
+FTP sites: infant2.sphs.indiana.edu    
+

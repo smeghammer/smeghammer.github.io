@@ -1,0 +1,95 @@
+================================================================
+Title                   : Realm of Illsuion   
+Filename                : ILLUSION.WAD
+Author                  : Aaron Gunstone
+Email Address           : Aaron.Gunstone@Paradise.Org
+Netmail Address         : 2:252/317
+Misc. Author Info       : A-level student at Richard Huish College,
+                          Somerset, United Kingdom
+Description             : Deep in the heart of the Phobos Moon Base,
+                          you find a strange teleport pad.  With 
+                          demons and spectres hot on your tail, your
+                          only hope is this strange device.  Stepping
+                          onto it, you find yourself in a strange new
+                          place.  Things are not as they seem here - 
+                          an innocent wall may hide hell-spawn, or a
+                          new weapon.  Always watch your back....
+
+Additional Credits to   : Stephen Vickery (Betatester)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (several good sniper spots <g>)
+Difficulty Settings     : Yes (but best played on Ultra Violence)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+Other Info              : Many illusionary walls, many level changes.
+
+Things you WILL find in this WAD:
+=================================
+Plenty of enemies, plenty of ammo, plenty to do.  Large changes to the
+level throughout the course of play.  Plenty of traps.  At least one of
+each weapon (in Ultra Violence - in lower levels, the more powerful weapons
+are not available in single player mode).  It IS possible to get the BFG
+without cheating, but it's not easy!
+
+Things you WON'T find in this WAD:
+==================================
+Large dark areas (I hate those), inescapable traps, "unavoidable damage"
+(ie damaging floor etc, that you HAVE to go through).
+
+Challenge:
+==========
+Get the BFG9000 WITHOUT cheating!
+
+Miscellaneous:
+==============
+PLEASE do not use cheats with this level!  I spent over 50 hours working
+on it (it's my first), and I put a lot of thought into such things as the
+BFG "happy room", the crusher etc. 
+This level is not meant to be supremely difficult, but it should prove
+challenging even to experienced players on Ultra Violence.
+NOTE:  It is possible to make most of the major fights easier by using the
+surrounding area to your advantage - look for switches, power - ups etc!
+This level is mostly non-linear - most parts can be completed in several
+different orders, although some keycards are necessary, but you will find
+it much easier if you do them in a particular order.
+HINT:  Go right at the start first!
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 50+ hours
+Editor(s) used          : DEU 5.21, DEU 5.21GCC, BSP1.1x
+Known Bugs              : Some decorations/enemys vanish in one room -
+                          no idea why.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: The Atlantic Dream BBS : 0628 417 457
+             The MFL                : 061 256 2220
+             Red Dwarf BBS          : 0604 705 744
+             The Shed BBS           : 0223 563 468
+             Abacus Vortex BBS      : 0483 755 099
+
+
+Other:

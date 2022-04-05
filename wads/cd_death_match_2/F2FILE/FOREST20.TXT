@@ -1,0 +1,53 @@
+================================================================
+Title                   : FOREST.WAD ver 2.0
+Author                  : Jean-Serge Gagnon
+Email Address           : jsg8a@acadvm1.uottawa.ca
+Misc. Author Info       : I am a computer service tech. and have 
+                          been playing DOOM since 0.99! It's
+                          awsome on a 486DX2/66 and S3-805 VLB!!!
+
+Description             : Forest is a four mission PWAD with new
+                          graphics. Look at the sky and watch for
+                          'graphiti' on some walls.
+
+Additional Credits to   : Marc Lusignan for helping me debug them.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1, M2, M3 & M4 (so far!)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New demos               : Yes
+New Sounds              : No
+New Graphics            : Yes
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : Many weeks of hard work!
+Editor(s) used          : DEU 5.21 and BSP 1.1x
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu  in /pub/doom/wads/d-f
+           gaaj.cosmos.uottawa.ca    in /public/doom
+           bear.montefiore.ulg.ac.be in /pub/doom/wads/episode2
+           ftp.cdrom.com             in /pub/doom/wads/d-f
+
+    Until it is moved to the proper directory (except for gaaj). Look
+    for the file FOREST20.ZIP in the incoming directories.
+
+===========================================================================

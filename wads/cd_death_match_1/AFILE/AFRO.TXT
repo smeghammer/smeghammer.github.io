@@ -1,0 +1,47 @@
+
+================================================================
+Title                   : AFRO.WAD   
+Author                  : Tim Scott
+Email Address           : tscott@plains.nodak.edu
+
+Description             : Deathmatch fun.  Lots of multiple entrances to
+                          most areas.  Great for doubling back on your 
+                          opponent.                                
+
+Misc Game Info          : This is the second release of my PWAD.
+                          I fixed some misaligned textures and fixed
+                          one Hall of Mirrors bug I found.
+
+Additional Credits to   : Robert Kemmetmueller for his input and suggestions.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1            
+Single Player           : Yes - okay, but not great.
+Cooperative 2-4 Player  : Yes - okay, but not great.
+Deathmatch 2-4 Player   : Yes <- specifically designed for this.
+Difficulty Settings     : Partially implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : Several hours
+Editor(s) used          : DEU 5.0, BSP 1.0
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu, wuarchive.wustl.edu, others..?
+

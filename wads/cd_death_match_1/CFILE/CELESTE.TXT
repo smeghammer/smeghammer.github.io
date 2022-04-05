@@ -1,0 +1,111 @@
+================================================================
+Title                   : The Mystery of the Marie Celeste   
+Filename                : CELESTE.ZIP
+Author                  : Mark Mackey
+Email Address           : mdm1004@cus.cam.ac.uk
+Misc. Author Info       : A PhD student at Cambridge University, doing 
+                          chemistry. Author of TEMPLE11.WAD and XQuest, 
+                          a PC version of the old Mac classic arcade game 
+                          Crystal Quest. Net junkie ;).
+
+Short Description       : A fully furnished clipper ship, with rather 
+                          hostile sailors. Extensive use of 'teleporter 
+                          stairs' to simulate multiple levels.
+
+Description             : The year: 1943
+                          The place: Somewhere in the northern Atlantic.
+                          The situation: Grim.
+
+                          Alone in the middle of the Atlantic. You knew 
+                          in your heart that it was the end when the 
+                          escort, the HMS Marianna, picked up three U-
+                          boats on the sonar. The Teela Dan didn't have a 
+                          chance: the torpedoes split her wide open and 
+                          she sank within seconds. You were lucky enough 
+                          to launch one of the liferafts before she went 
+                          down, but the others who dived overboard all 
+                          died in agony when the fuel slick went up. 
+
+                          You were hoping that the Marianna got an SOS 
+                          away before she too went down, but no rescue 
+                          ships have appeared and your water supply has
+                          nearly run out. You are almost resigned to a 
+                          lonely death on the high seas, when...
+
+                          Wait! Is that.. Yes, it's a ship! An old one, 
+                          by the looks of it, since it's running under 
+                          sail. Luckily the breeze is very light, and 
+                          you manage to paddle the raft into its course. 
+                          However, nobody on board is responding to your 
+                          hails. Strange... what's the name of the ship? 
+                          You squint, and can just make out the name 
+                          'Marie Celeste'. The Marie Celeste? Wasn't that 
+                          the ship that was found mysteriously abandoned 
+                          years and years ago? What the hell is it doing 
+                          here? Well, there's only one way to find out! 
+
+                          Grabbing the pistol from the emergency stores 
+                          locker, you pull alongside and climb the rope 
+                          ladder....
+
+Additional Credits to   : Id, the authors of DEU, Wacker, BSP11X, RMB and 
+                          WAD_DWD, and my friends for playtesting. 
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes (designed for single player)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (best for 2- or 3-player -altdeath)
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : One, for v1.666
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU (5.21 GCC version), BSP11X, WAD_DWD/IDBSP,
+                          RMB, Wacker, Deluxe Paint II, Graphics Workshop, 
+                          PicLab (I've got too much HD space, 
+                          obviously :).
+Known Bugs              : An occasional tiny bit of HOM in v1.2 from the 
+                          very rear of the ship. (sigh) :). Some of the 
+                          inter-level connections are also a bit dodgy: 
+                          in particular, none of the enemies will pursue 
+                          a player up or down stairs (they are apparently 
+                          too steep). 
+Other                   : I *wish* that you could put floors and sprites 
+                          properly in PWADS. I originally made this WAD 
+                          about four months ago but never quite got 
+                          around to releasing it. 
+
+                          Although this WAD was primarily designed for 
+                          single player play, it works well for two or 
+                          three player deathmatch due to the multiple 
+                          connectivity of most of the areas. If you want 
+                          to get a really good weapon, though, you may 
+                          find yourself trapped! Different weapons are 
+                          available at different difficulty levels, and 
+                          the plasma rifle and BFG are *not* included :). 
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels, since I'm using this as the first in a series. 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this work in any electronic
+format as long as you include this file intact. However, this WAD may 
+only be commercially distributed (on CD, magazine cover disk, via a 
+shareware vendor etc) if I am sent a copy of the distributed material. 
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com and ftp.luth.se in the pub/doom/incoming dirs
+
+Other: posted to UseNet newsgroup alt.binaries.doom
+

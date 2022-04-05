@@ -1,0 +1,54 @@
+================================================================
+Title                   : Annex Of Death   
+Filename                : ANNEX.WAD
+Author                  : Ryan McGrail
+Email Address           : Friend (eric@tudorcon.com)
+Misc. Author Info       : Plays Bass Guitar and loves
+			  WarHammer and Chaotic Physics.
+
+Description             : Ah...Help!! I'm stuck in Hell
+			  And you gotta get me out!
+
+Additional Credits to   : Eric Falsken (eric@tudorcon.com)
+			  WarHammer and Games Workshop
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, DEU 5.1, BSP11X
+Known Bugs              : None that I know of.  ;)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+(KNOWN) FTP sites:
+		infant2.sphs.indiana.edu
+		wuarchive.wustl.edu
+		ftp.uwp.edu
+
+BBS numbers:
+
+Other: Eric Falsken (eric@tudorcon.com)

@@ -1,0 +1,54 @@
+Introduction to BigBro.wad
+----------------------------------------------------------
+
+  This pwad was based on the Big Brother theme; when you're
+walking around, you'll always remember that _Big_Brother_is_
+watching_you_. The big brother will be informed in his 'workroom'
+about the other players' whereabouts with the help of secret lines.
+Those lines indicate the position of the other players. This
+knowledge is of great help when being in DEATHMATCH mode. This
+idea is implemented by a series of nasty secrets; it is intended
+for multi-player, with only one player knowing the way to what
+we call the "Big Brother Area" (ok, sounds stupid, but who cares).
+If you don't know the place: it's still playable, although it might
+be a bit too large; you don't meet the other player too often.
+If however you aren't able to find the area described, feel free to
+mail 1 of us for more details.
+  If more players know the bigbro stuff, decide who plays
+bigbro and don't let the rest enter the rooms (the bigbro
+scheme sounds real good with 1-3 play or something).
+  If you want to play it this way, let the one bigbro
+player look at the wad with DEU or another editor; the other
+players shouldn't look. If you want to find it without an
+editor, we wish you good luck. If you succeed, mail us
+and we'll add you to our lists of addicts, doom gods etc.
+  Because the stuff in the bigbro area is highly unfair,
+either let a bad player play bigbro (although he probably
+can't even reach the rooms) or at least appreciate a few
+kills by the other, the bigbro can only call the game a
+win if he wins with a _huge_ difference (87-11)..
+  That's the basic idea. If you don't get it,
+never mind; you'll never know about it all.
+
+If you don't like this and don't want to play like this, don't.
+
+  If you can only play one-player: it's a challenge as well.
+This is a level where you really have to watch your ammo, I
+know a lot of you guys don't like those situations, but then
+again: don't play it if you hate it. In 1-player mode you don't
+have to worry about the big brother area because it doesnt count
+as secret and there are no items/monsters.
+
+Thanks to:  Quinet/Wyber  of the _great_ DEU 5.0 editor
+                          Whatever they say, we loved to use it
+            Colin Reed    For BSP; whatever they say, DEU's nodes are buggy :)
+            ???           The author of Mine1.wad for the large
+                          gray room we more or less stole :)
+
+/Magne Groenhuis,  csg124@wing.rug.nl
+ Remco Gerlich,    remco@tcw2.ppsw.rug.nl
+
+
+
+/If you play LPMUD: PLAY NUCLEAR WAR melba.astrakan.hgs.se 4080
+ this is Yeti and Scarblac Pino

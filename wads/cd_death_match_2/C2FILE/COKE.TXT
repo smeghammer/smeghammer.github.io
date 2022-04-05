@@ -1,0 +1,191 @@
+
+How coke.wad was produced (painfully !!)
+
+Credits:
+Lee Witek     : For the bitmaps of the coke machine. (Also REJECT)
+Keith Wilkins : The hack of E1M1
+
+
+COKE.WAD was produced with the following tools:
+
+DEU 5.21 (Thanks to Rapheal Quinet et Al.)
+WACKER beta5
+
+
+It appears there is a serious bug in Deu 5.21 that will not allow
+the grpahics for the texure selection to come from a separate file.
+It works OK if the Level and grahics come from the same PWAD but
+NOT if the graphics PWAD is separate. This makes use of new textures
+a pain in the arse until the bug is fixed.
+
+
+These directions were typed from memory at the end of a long and
+hot day and as such I do not vouch for their complete correctness
+with some persverance you can do it, so please think before you
+email me saying it doesn't work. If I can figure it out I'm sure
+you can.
+
+If you do discover a bug in wacker please email me:
+
+spike@nectech-uk.com OR spike@nectech.demon.co.uk
+
+I will endeavour to fix all bugs that I know about.
+
+
+
+
+Step1
+-----
+
+Develop your bitmaps.
+
+
+Step2
+-----
+
+Load WACKER and then load in all of your new patches:
+
+
+It is no longer necessary for patches to be contained
+within P_START & P_END markers (Although it is still
+recommended) as beta7 wacker recognises patches that
+are not within P_START & P_END ONLY IF the are in the
+PNAMES & TEXTURE1 & TEXTURE2 objects.
+
+> For Wacker to recognise patches when loading a PWAD they must
+> be enclosed in P_START P_END markers
+
+> CREATE mygfx
+> CREATE mygfx p_start
+> CREATE mygfx p_end
+
+> LPB myfgx coke01 front.bmp
+> LPB mygfx coke02 back.bmp
+> LPB mygfx coke03 side.bmp
+> MOVE mygfx p_end coke03
+
+> The move command makes sure that the patches are within the markers
+> as when you load a new patch it is always tagged onto the end of a
+> WAD.
+
+Step3
+-----
+
+Create your new textures:
+
+CREATE texture coke_fr 128 128
+CREATE texture coke_bk 128 128
+CREATE texture coke_sd 64 128
+
+Note: You MUST repeat MUST make sure the width of your new texture
+      is binary power of 2 otherwise DooM will screw-up the drawing
+      of the new texture. 2,4,8,16,32,64,128,256
+
+Now make the textures with the drag and drop. 
+
+DISP coke01
+DISP coke_fr
+
+Now pickup the front panel of the machine by holding down the mouse
+button and drag it over to the white box. Position it in the top
+left of the box and drop by releasing the mouse button. Hint You can
+use the cursor keys to give fine control over positioning whilst the
+mouse button is held down.
+
+Now do the same for COKE_BK and COKE_SD
+
+The WEL_DOOM and WEL_WACK textures were craeated in a similar
+manner except that all of the bitmaps already exist within 
+the DOOM IWAD. You can pick and drop and bitmap from any of
+the patch galleries (SPRITE,PATCH,GRAPHIC) the alphabet used
+in both of the above can be found towards the end of the GRAPHIC
+gallery.
+
+
+
+Step4
+-----
+
+Saving out your new textures. To trigger wacker to make PNAMES
+TEXTURE1 and TEXTURE1 which are reauired for new textures you
+must make sure that the PNAMES entry exists in the PWAD:
+
+CREATE mygfx PNAMES
+
+SDW mygfx mygfx.wad
+
+
+
+Step5
+-----
+
+Load your new level and merge is with the graphics.
+
+LDW mylevel mylevel.wad
+COPY mylevel e1m1 mygfx
+
+Now to save out.
+
+SDW mylevel testlvl.wad
+
+
+Step6
+-----
+
+Exit wacker and loadup deu. Use the normal sidedef editor
++to incorporate you new graphics into the level and save
+out when finished.
+
+saved to mylevel2.wad
+
+This will ONLY save the Level, the new textures must be
+re-incorporated into the level.
+
+
+
+Step7
+-----
+
+To produce the final level load up wacker again and load your
+textures in:
+
+LDW mygfx mygfx.wad
+
+Merge the level
+
+LDW mylevel2 mylevel2.wad
+COPY mylevel2 e1m1 mygfx
+
+Finally save out
+
+SDW mygfx finallvl.wad
+
+
+
+------------------------------------------------------
+
+If deu functioned properly then steps 5 & 6 could be
+skipped. All you should need to do is step 1-4 and then
+entry deu load the patch do your editing/creation, test
+with the spearate graphics & level pwads and only do
+step 7 when everytinh is complete.
+
+With the current deu bug it is likely you must run abound
+the loop several times to get everything right, taking
+much long than is necessary.
+
+There is a way to fudge the issue as deu will work with
+a PNAMES, TEXTURE1 & 2 if there are NOT any external
+bitmaps. You can build a fake gfx wad with wacker that
+has the correct names and sizes of new textures but uses
+the graphics within the doom wad. You can then develop
+properly but you cannot view the real textures until
+you do the final merge.
+
+I used the fake method for developing coke.wad the fake
+pnames,texture1 & 2 are included in this release.
+
+At the moment the b5 of wacker will allow creation of
+textures but NOT modification so if you screw up when
+positioning then you must delete the texture and create it
+again.

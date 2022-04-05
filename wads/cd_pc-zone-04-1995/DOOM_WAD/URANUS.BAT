@@ -1,0 +1,1 @@
+doom -file uranus.wad -devparm -warp 1 2

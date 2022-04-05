@@ -1,0 +1,13 @@
+This pwad is a modification of e1m2 and was designed specifically for
+deathmatch. This means there are no enemies! However, the *entire* level
+has been changed...all of the textures, objects, etc. So even if you aren't
+playing deathmatch, give it a try to go exploring to see if you can recognize
+the map at all. There are a minimum amount of weapons (everything but BFG)
+scattered in hidden places, which I think makes for good deathmatch play.
+There are also several teleporters added. Have fun!
+
+-Jeff Sobotka
+jeffs@ccwf.cc.utexas.edu
+
+P.S. This was made with newdeu4.31. When deu5.0 comes out, I plan to create
+     a map of the University of Texas...watch for it!

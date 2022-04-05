@@ -1,0 +1,70 @@
+=============================================================================
+Title                   : GoodLuck.WAD   
+Author                  : Michael Giles
+Misc. Author Info       : SySop of Doomer's Corner BBS (904)-335-1190.
+                          Big MoDoomer with a lust for levels.
+
+Description             : This level is another in the "lucky" series.
+                        To play this level w/ any chance of completing
+                        it, you must use Super DooM Guns!  For any of
+                        you with a heart problem or low Dooming ability
+                        erase this wad now, it's not worth your time!
+                        All others continue reading.
+
+                        This level is, as are all in the series, a test 
+                        for those who think they are adept at Dooming.
+                        This level is not impossible, just looks that way
+                        at first.  Quite a few monsters inhabit the level
+                        with increased #s in UV setting.  PLEASE DON'T USE
+                        THE CHEAT CODES! They won't show you if you are as 
+                        good as you think you are.  
+                        Well, GOODLUCK!
+
+                        Bye the way, if you like the challenge of this level,
+                        call Doomer's Corner and D/L others of the "lucky"
+                        series (soon to be a Lucky Pack).
+
+Additional Credits to   : John Ridge, for starting the Idea of levels just
+                        made for killing and that challenge your running
+                        and shooting abilities!
+
+                          Richard Cheung, for making this level possible to 
+                        beat in UV Setting and for bringing a whole new
+                        meaning to Doom and DeathMatch! Oh, he made Super
+                        DooM Guns.
+=============================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M2 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (Easier)
+Deathmatch 2-4 Player   : Yes (Hmmm...not very fun.)
+Difficulty Settings     : Yes (Just HMP & UV)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch/Modified ExMx/xxx.WAD
+Build Time              : 5 hrs. 
+Editor(s) used          : Waded123 & BSP 1.1
+Known Bugs              : NONE
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:  Doomer's Corner BBS (904)-335-1190
+              DragonKeep (904)-374-7428 
+

@@ -1,0 +1,84 @@
+
+*** El Documento Original est  en Espa¤ol (al final). ***
+
+********* EL TEXTO EN CASTELLANO ESTA AL FINAL DEL DOCUMENTO ************
+
+*** The Original Document was written in Spanish (at the end). ***
+
+*******************************
+********** ENGLISH : **********
+*******************************
+
+--------------------------------------------------------------------------
+NOTE: Excuse me for the bad translation of the texts into English, I used
+the program Spanish-Assistant to do it and I didn't check the text very
+much. If you have problems whith it try to read the original Spanish
+text. I thought the English text could be useful to get a basic idea of
+the WADs for people who cannot read Spanish. I'm SURE that there are many
+silly expressions, I'm sorry, I hope you can forgive me.
+-------------------------------------------------------------------------
+
+FILE: MOGOLLON.WAD     FOR: DOOM2     BY: HECTOR GUTIERREZ COLINO
+TITLE: "Meddling of monsters"
+
+
+
+A PLAYER: If you get it improve your ability.
+COOPERATIVE: The union makes the force, it will be much more easy (or else
+              you kill between yourself).
+DEATHMATCH: A madness, you will die several time before getting it.
+
+
+
+	- Not!, it is not imposible getting it, although you seem it. I
+have gotten it many time, without tricks, in Hurt me Plenty level. I lament
+the extraordinary difficulty that supposes in Nightmare level, one must have
+much luck and a strategy.
+
+	- Inspect the map and locate the spheres of Invulnerability,
+without them you couldn't make absolutely NOTHING.
+
+	- If you are in Nightmare and you are already invulnerable go to the
+exit as faster as you can, leaving behind your enemies. In other case kill
+first the white skeleton, then revive to the other enemies.
+
+	- Ration your two Invulnerabilities: a for the white skeleton
+and the other in order to arrive to the exit (care with the Mechanic Spider).
+
+	- There is a plasm rifle. You should leave with a 200% of life and
+of shield. It's prepared for several fields.
+
+
+
+****************
+*** ESPA¥OL: ***
+****************
+
+FICHERO: MOGOLLON.WAD      PARA: DOOM2      POR: HECTOR GUTIERREZ COLINO
+TITULO : " Mogoll¢n de monstruos "
+
+
+UN JUGADOR : Si lo consigues mejora tu habilidad...
+COOPERATIVO: La uni¢n hace la fuerza, ser  mucho m s f cil (si no os mat is
+                entre vosotros mismos).
+DEATHMATCH : Una locura, morir‚is varias veces antes de conseguirlo...
+
+
+	- ­No!, no es imposible conseguirlo, aunque lo parezca. Yo lo he
+conseguido muchas veces, sin trucos, en nivel Hurt Me Plenty. Lamento la
+extraordinaria dificultad que supone en nivel Nightmare, hay que tener mucha
+suerte y una estrategia.
+
+	- Inspecciona el mapa y localiza las esferas de Invulnerabilidad,
+sin ellas NO puedes hacer absolutamente NADA.
+
+	- Si est s en Nightmare y ya eres invulnerable ve a la salida lo
+m s r pido que puedas, dejando atr s a tus enemigos. En otro caso mata
+primero al esqueleto blanco, pues revive a los otros enemigos.
+
+	- Raciona tus dos Invulnerabilidades: una para el esqueleto blanco
+y la otra para llegar a la salida (cuidado con la Ara¤a Mec nica).
+
+	- Hay un rifle de plasma. Se debe salir con un 200% de vida y
+de escudo. Est  preparado para varios jugadores.
+

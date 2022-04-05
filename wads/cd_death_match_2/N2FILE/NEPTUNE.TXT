@@ -1,0 +1,71 @@
+================================================================================
+Title                 : Neptune's Kingdom
+Filename              : NEPTUNE.WAD
+Author                : Virgil Itliong
+Email Address         : virgil@austin.ibm.com
+Major Credits to      : Doom and Dck authors
+Additional Credits to : Mike Panico, Brian Nelson, Keith Johnston: for their
+			long hours of testing.  
+			STOKER.WAD for being an inspiration.
+			Mind Riot for helping me with the editor.
+			Michelle, Tracy, Adriana, Rude Boy: for allowing us
+			to play.
+================================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP 1 (doom2 -file NEPTUNE.WAD -deathmatch -altdeath)
+Single Player           : no (There is a player start to look around)
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : no
+New Sounds              : no
+New Graphics            : no
+New Music               : no
+Demos Replaced          : no
+________________________________________________________________________________
+
+* Description *
+
+Water, water everywhere and not a drop to drink.
+
+While King Neptune is away, the marines will play.
+
+________________________________________________________________________________
+
+* Important Hints * 
+
+There are three different line switches to get the rocket launcher and bfg.
+All three line switches will release both the rocket launcher and bfg, but
+you will not be able to get both weapons from all the lines.  The idea
+was to level out the playing field, ie you get one weopon, I'll get the
+other.
+
+This is best played with -altdeath.
+
+________________________________________________________________________________
+
+* Construction *
+
+Base                    : New level from scratch.
+Build time              : Too long, don't ask (but it has been a lot of fun).
+Editor(s) used          : dck v2.0
+Known Bugs              : none
+________________________________________________________________________________
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels as long as
+you credited my name.
+
+(Be nice e-mail me if you do, and give credit where credit is due :)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+________________________________________________________________________________
+
+Where to get this WAD:
+
+FTP Sites: ftp.cdrom.com

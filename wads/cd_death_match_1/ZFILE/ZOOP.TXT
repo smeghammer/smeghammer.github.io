@@ -1,0 +1,61 @@
+================================================================
+                                 _
+Title                   : ZOOP .6  beta.  Full release will include
+                          a Doom2 WAD.  Should happen this week.
+Filename                : Doom1   - ZOOP.WAD 
+                        : Heretic - ZOOPH.WAD
+                        : Doom2   - <not yet, on its way>
+Author                  : Insanitor, DethHedd
+Email Address           : Hold tight, ones coming.
+Misc. Author Info       : Hardware Tech at Packard Bell.  I did
+                          this in my spare time on New Years Eve,
+                          so my buddies and I could deathmatch 
+                          for a while.
+Description             : Burnt out crater, with surrounding 
+                          hallway.  Deathmatch only, no monsters,
+                          but suitable weapons.  
+                   Doom : Early teleporter testing sight.
+                Heretic : Cool crater, no plot.
+                  Doom2 : This ones coming, sit tight.
+Additional Credits to   : ElcMan and Suicidal Dreams for beta
+                          testing with me...
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes, but why? For debugging only.
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes, 3 or 4 recommended, but 2 is still 
+                          a blast.
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Heavily modified TEST.WAD included in the
+                          psuedo Doom 1.6 patch.
+Editor(s) used          : DEU 5.2gcc, for both games.  Heretic was
+                          a pain, let me tell you.  I used a different 
+                          node builder, BSP12x I think...
+Known Bugs              : None.  If you find any, let me know on IRC
+                          or something.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, but 
+if it looks even remotely like the original, please give me some credit.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+ftp.cdrom.com

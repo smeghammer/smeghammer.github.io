@@ -1,0 +1,18 @@
+Hello,
+
+This wad was created with a (slightly customized) version of DEU 5.0/5.1,
+and the final level was compiled with BSP.  It features some nice looks and
+some moderately difficult secrets.  
+
+THis WAD replace E1M1 but you are free to use it as whatever level you like.
+It is fun as single player, not all THAT hard, and was designed with an eye
+for DEATHMATCH play.  As such, all weapons are present, as well as a lot of 
+"goodies".  It is comparable in size/difficulty to E2L3 I think, and
+I invite any reviewers to review this wad and post comments on it.
+
+Happy DOOMing!
+
+-----------------------------------------------------------------------------
+Jason Whittington
+jawhitti@mailhost.ecn.uoknor.edu
+-----------------------------------------------------------------------------

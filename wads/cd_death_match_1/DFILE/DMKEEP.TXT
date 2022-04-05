@@ -1,0 +1,58 @@
+Title                   : The Keep   
+Filename                : dmkeep.wad
+Author                  : James Wilson (aka Shade)
+Email Address           : Cserve: 73651,2312
+
+Description             : This is primarily a Deathmatch level, but it's kind
+                          of fun as a single player also.  Not much to say,
+                          got the idea from some other levels I saw, and the
+                          look from some of the Doom ][ pictures I've seen.
+                          Hope you like it.  This is my fourth released pwad.
+                          COMING SOON:  WOODY.WAD!!!
+
+NOTE                    : Unlike my previous Deathmatch level this one is a 
+                          little more straightforward.  It has monsters, 
+                          a good amount, and relies more on an interesting 
+                          design than lots of nasty tricks.  I don't play DM
+                          with monsters, but I realize that some of you do, so
+                          they're there if you want 'em.
+
+HELLO?                  : If you like this level, let me know.  If you hate
+                          it, let me know why.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2/4 Player  : No
+Deathmatch 2/4  Player  : Yes (Recommended)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Construction time       : 8 hours (gettin' better all the time)
+Editor(s) used          : DEU 5.2 and BSP 1.2
+Known Bugs              : None.
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  Authors (MAY) alter or play or do with this level pretty much
+anything they want, I only ask that you give me credit.  Authers (MAY NOT)
+alter this level and re-release it.
+
+You MAY distribute this WAD, provided you include this file, and the 
+original pwad with no modifications.  You may distribute this file in 
+any electronic format (BBS, Diskette, CD, etc) as long as you include this 
+file intact.
+
+* Where to get this WAD *
+
+Compuserve:  Gamer's Forum in the Action Game Aids section. 

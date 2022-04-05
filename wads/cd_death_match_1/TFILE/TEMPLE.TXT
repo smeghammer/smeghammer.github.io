@@ -1,0 +1,68 @@
+WAD Authoring Template V1.4   (Clip this line)
+================================================================
+Title                   :The Big Temple    
+Filename                : TEMPLE.WAD
+Author                  : Thierry VERMAT
+Email Address           : 
+Misc. Author Info       : Just call me Alefith...
+
+Description             : You are entering the big temple of DOOM.
+                          I have build a big temple room, and... other
+                          rooms to buils a DOOm level.
+                          I've tested it in 'Heart Me Plenty' diff. setting,
+                          but I know where are the monsters... so it's 
+                          difficult to see if the difficulty levels are
+                          correctly set. If not, I think the y are more
+                          difficult than the ID ones.
+                          I can't play via net, so I can't make a multi-player
+                          game. I have just put 4 deathmatch starts and 4 
+                          players starts, but I can't say if TEMPLE.WAD is
+                          a good multi-player level. I hope someone will try
+                          and tell me what to do to change it in a GREAT 
+                          net game.
+
+                          Please, test it and tell me if you liked it or not.
+                          I will end it (some little think to add...) and
+                          build one new, and would like to know where I did
+                          the good thinks and where I made some mistakes...
+               
+                          Thanx. (and excuse me for my bad english...)
+
+Additional Credits to   : Manu (he would recognize himself)
+                          The authors of DEU !!!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (incompatible with shareware version)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (Not tested !!)
+Deathmatch 2-4 Player   : Yes (Not tested !!)
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Builded de novo.
+Editor(s) used          : The great DEU 5.21
+Known Bugs              : None (the Devil was with me... (*8 )
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels except for the big temple room. Please mail me if
+you do...
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+infant2.sphs.indiana.edu

@@ -1,0 +1,1 @@
+doom -devparm -file dmzoo.wad -warp 2 1 -skill 4

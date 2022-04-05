@@ -1,0 +1,71 @@
+================================================================
+Title                   : ASNEW8
+Filename                : ASNEW8.WAD
+Author                  : Richard Cox & Alex Scott
+Email Address           : ascott@limestone.kosone.com
+
+Description             : Fast, tight deathmatch level, originally
+                          made for Doom 1 (Asnew7.wad), now altered
+                          for Doom 2.
+
+Additional Credits to   : Base level from MINE1.WAD by Geoff Allan
+================================================================
+
+* Play Information *
+
+Map#                    : Map 01 - DOOM ][
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes but why?
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : MINE1.WAD
+Editor(s) used          : DoomEd Ver 2.62 Beta & EDmap Ver. 1.23
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.idsoftware.com
+	   ftp.cdrom.com
+
+* Misc Notes *
+
+This level, in its eighth incarnation, is the product of many, many
+lunchtime deathmatches.  The subtle refinement  in  every stage  of
+development,  is  obvious  to  the  few who have seen each version.
+
+There are several methods we have used to play this level.  For 2 
+person deathmatches, we suggest the following:
+
+-skill 5 -altdeath -nomonsters  :recommended
+-skill 4 -altdeath -respawn     :go ahead, try and hide !
+
+For solo play, we suggest
+ 
+-skill 5 -altdeath , and try to get each weapon once before leaving
+                     level
+
+For 4 way play, we suggest
+ 
+-skill 5 -altdeath -nomonsters
+ 
+We are of the opinion, as are many who have seen this level, that 
+this is the best deathmatch level yet made in Kingston, Ont.
+(thats in Canada, for all you Geographically-Challanged Yankees.)

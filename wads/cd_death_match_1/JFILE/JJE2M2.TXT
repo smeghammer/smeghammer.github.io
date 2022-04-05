@@ -1,0 +1,61 @@
+================================================================
+Title                   : What ever you want to call it   
+Author                  : James Jarvis
+Email Address           : 
+
+Additional Credits      : Mike Swett, Jim Evatt for testing and suggestions
+
+Description             : This is my first level, folks, so be gentle with
+			  me. It was intended for Death Match Play but will play 
+			  on all levels.
+			  Enjoy.
+
+Instructions            : Put JJE2M2 in your DOOM directory,
+
+Disclaimer              : I assume no responsibility for anything of any sort
+			  in any way, shape, or form, now, then, henceforeward, 
+			  in this life (or the next several) for any screw-ups
+			  or even minor inconveniences this PWAD causes you,
+			  your family, your relatives, friends, ancestors,
+			  associates, employers, pets, neighbors, lovers,
+			  deities (major AND minor), nor any other person --
+			  living, dead, or undead -- that you have or will ever
+			  have any contact with in even the slightest form.
+			  This PWAD has been tested and tested ad infinitum, so
+			  it shouldn't mess with your computer or anything else
+			  remotely associated with it.  But if it DOES, then
+			  too damn bad.  Don't come cryin' to me.  It must be
+			  something YOU did.
+
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M2 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : For-friggin-ever       
+Editor(s) used          : DoomED & DoomCad
+Known Bugs              : A little slow on level 4
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+(This information form was provided as AUTH_WAD.TXT v1.2 with DEU 5.1.)

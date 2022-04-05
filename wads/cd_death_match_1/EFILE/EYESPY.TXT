@@ -1,0 +1,66 @@
+Title           :  Eye Spy (Deathmatch Episode)
+Filename        :  eyespy.wad
+
+Author          :  Dave Pfrommer 
+
+Email Address   :  pfrommer@scus1.ctstateu.edu
+Description     :  I called it Eye Spy because, well, it seemed appropriate.
+                   This level may seem large at the onset, but it has
+                   been found to be "just right" when playing in deathmatch.
+                   There are many, many sniper zones; a large catwalk sur-
+                   rounding a large courtyard; an altar room with a pit of 
+                   death :) ; a torture room with a crushing ceiling; a 
+                   lockable room for those occasions where you need to 
+                   "duck in quick"; a look-out tower; a upward spiral 
+                   staircase; ALOT of barrels; and ALL the weapons.. 
+                   (if you can find 'em...); and a bunch of secret rooms.
+
+Note             : Have fun.
+
+                    
+
+Additional Credits to   : Raphael Quinet for creating the great DEU
+                          Vin & Mike Serfillippi for helping me test the                                                      
+                          level
+
+* Play Information *
+
+Episode and Level #     : E2M2
+Single Player           : Yes (Sure, but it's kinda boring...)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not Implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+
+* Construction *
+
+Base                    : Brand New Level (took me a while....)
+Editor(s) used          : DEU 5.21 GCC
+Known Bugs              : I'm not aware of any...
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, 
+with
+no modifications.  You may distribute this file in any 
+electronic
+format (BBS, Diskette, CD, etc) as long as you include 
+this file
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+Let me know if you have any comments or find any (egad!) bugs...
+
+

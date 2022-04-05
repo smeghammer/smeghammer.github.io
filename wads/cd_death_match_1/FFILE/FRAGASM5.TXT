@@ -1,0 +1,70 @@
+================================================================
+Title			: Fragasm5
+Filename		: FRAGASM5.WAD
+Author			: Scott Coleman
+Email Address		: tmkk@uiuc.edu
+Misc. Author Info	: President, American Society of Reverse Engineers
+
+Description		: A five-level fast-paced DEATHMATCH 2.0 frag fest.
+
+These are the first five levels of the FRAGASM ALTDEATHMATCH episode.
+
+E1M1: The Corridors of Death. Multilevel hallways, multiply interconnected,
+interwoven with lifts. Do you dare to drop down to pick up that box of
+rockets...???
+
+E1M2: The Elevators from Hell. Ever have one of those dreams where you
+were stuck in an elevator and couldn't get out? Well, that dream just
+came true... only this time there are 3 Space Marines gunning for you!
+
+E1M3: The Arena. This might have been the level used for the 9/10/94 VGC
+DEATHMATCH tournament, except id told VGC it couldn't use PWADs. ;-)
+
+E1M4: FRAGASM. Have a fragasm!
+
+E1M5: OCTAFRAG. Lots of multilevel interconnecting claustrophobic
+passageways with 4 more Elevators from Hell in the middle. Give your
+opponents the shaft!
+
+(NOTE: E1M4 of this PWAD was previously released separately.)
+
+Additional Credits to	: The CES Marines for mucho playtesting.
+================================================================
+
+* Play Information *
+
+Episode and Level #	: E1M1-E1M4
+Single Player		: Not Recommended
+Cooperative 2-4 Player	: Not Recommended
+Deathmatch 2-4 Player	: Yes!
+Difficulty Settings	: Yes (Controls the appearance of some weapons)
+New Sounds		: No
+New Graphics		: No
+New Music		: No
+Demos Replaced		: None
+
+* Construction *
+
+Base			: New levels from scratch
+Editor(s) used		: DEU 5.21 augmented with IDBSP
+Known Bugs		: None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file with
+no modifications to either the WAD or this text file.  You may distribute
+this file in any electronic format (BBS, Diskette, CD, etc) as long as you
+include this file intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+infant2.sphs.indiana.edu:/pub/doom/incoming/fragasm4.zip
+(as soon as it's back up)
+
+mrcnext.cso.uiuc.edu:/asre/fragasm4.zip
+

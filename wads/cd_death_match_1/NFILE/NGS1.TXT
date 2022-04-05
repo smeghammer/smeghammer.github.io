@@ -1,0 +1,43 @@
+================================================================
+Title                   : NGS1.WAD
+Author                  : Erik Badger
+Email Address           : ebadger@u.washington.edu
+Misc. Author Info       :
+
+Description             : My first try, so please be jentle.  If you have
+			  any suggestions or comments please let me know.
+
+Additional Credits to   : Schaun Flaim (for being the sliced, diced, and
+			  thoroughly roasted guinea pig)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (Not in any way comprable in difficulty or 
+				size, but it is the easiest to find)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : who's counting
+Editor(s) used          : DEU 5.1 & BSP 1.1
+Known Bugs              : if I knew about them they wouldn't be there...
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  ( I would, however, appreciate credit and a copy )
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.

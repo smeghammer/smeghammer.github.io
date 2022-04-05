@@ -1,0 +1,54 @@
+================================================================
+Title                   : Command Control (COMCON.WAD)   
+Author                  : Patrick Hipps 
+Email Address           : CIS - 74212, 2075
+Misc. Author Info       : Student                    
+                          
+Description             : Command Control, normally where big decisions are made.  
+                          The only thing you'll need to decide is which target
+                          deserves your attention first.  Play starts out slow
+                          but quickly turns into a DOOM-fest with few parts that
+                          allow for breathing.
+
+Additional Credits      : Rich "Weeds" Nagel - MIDI music "Death March"
+                          and credit screens (CIS - 72672, 1450).
+                          id - Creators of DOOM!
+                          Rapha‰l Quinet and Brendon Wyber - DEU
+                          Colin Reed - BSP
+                          Bill Neisius - DMMUSIC
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M4
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Not implemented (This is DOOM afterall ;)
+New Sounds              : Yes (New music for E1M4 - "Death March")
+New Graphics            : Yes (Credit screens)
+Demos Replaced          : Demo1 replaced
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 50+ hours 
+Editor(s) used          : DEU 5.1, DEU 5.2, BSP 1.11x, DMMUSIC 
+Known Bugs              : None 
+                          
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels provide you credit me with creating the original level and 
+that you say the level you've made is a modified version of my 
+original level.
+Ditto for the music "Death March" by Rich "Weeds" Nagel.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+ Compuserve Gamers Forum

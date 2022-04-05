@@ -1,0 +1,17 @@
+EPI2BEST.WAD
+____________
+
+This is a collection of the finest, custom made DOOM levels
+found on the Internet and from various other places :)
+EPI2BEST.WAD replaces E2M1 to E2M8 in DOOM v1.2 REGISTERED!
+It will not work in the shareware version! To use this WAD, type
+
+DOOM -FILE EPI2BEST.WAD
+
+And doom will add the wad file to use at startup, using the levels
+contained in this wad file instead of the default levels in DOOM.WAD
+for episode 2 :)
+
+Have fun & enjoy :)
+
+Eugen_Woiwod@Mindlink.bc.ca

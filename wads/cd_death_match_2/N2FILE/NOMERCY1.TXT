@@ -1,0 +1,6 @@
+There's Nomercy when playing this New DMatch Level.
+It's strickly DMII using only DMII rules. There is 
+no exits on this level. It's do or die until the
+time runs out!!! This is my first attempt at creating
+a Deathmatch Level & Not the last! It's up to it if 
+your man enough!

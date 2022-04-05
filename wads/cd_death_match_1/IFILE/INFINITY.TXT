@@ -1,0 +1,64 @@
+================================================================
+Title                   : INFINITY.WAD
+Author                  : Lenny Hewitt
+Email Address           : lhewitt%core1@kssib.ksc.nasa.gov
+Misc. Author Info       : Special thanks go to Ed Boris for helping me
+			  design and test the level for an optimum 
+			  deathmatch. 
+
+Description             : This is a "ledges" type wad.  It was designed 
+			  entirely for Deathmatch but can be challenging 
+			  for single player.  All the weapons are available 
+			  plus BERSERK.  The basic layout is a figure eight 
+			  or the "infinity" symbol (thus the name).   
+			  Weapons and regeneration start points have been
+			  strategically located and fine tuned after a lot 
+			  of deathmatch play.  Health is limited as is ammo 
+			  and armor.  Everything has been set up such that 
+			  the players will have to visit the entire level 
+			  for one thing or another.  Reference hint.doc 
+			  for hints that may not seem obvious.
+
+Org Description         : This level replaces E1M1.  Skill levels 1 and 2
+			  have been designed for 2 player and skill level 
+			  3 for 3 or 4 player.  Using Deathmatch 2.0
+			  rules ensures a long battle.
+
+Additional Credits to   : Ed Boris and Mark Crafts
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+
+Cooperative 2-4 Player  : Implemented but not made for this.
+Deathmatch 2-4 Player   : Yes! (4-player not tested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Don't really know, couple of hours here and there.
+Editor(s) used          : Doomed 2.60 (Great editor) + BSP
+Known Bugs              : None, unless you're playing with 1.2, you will
+			  get some HOM effect.  :(
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+FTP sites: infant2.sphs.indiana.edu
+
+Other:
+
+

@@ -1,0 +1,63 @@
+
+
+
+================================================================
+Title                   : Destroyer of Life for Doom2
+Filename                : Destroy.wad
+Author                  : Scott Amore
+Email Address           : amore.6@osu.edu
+Misc. Author Info       : The best Deathmatch wad you've ever played!
+
+Description             : This is my first wad ever. Because I don't
+know enough tricks to make it an interesting single player wad, I made
+it a D-match. The level is not that pretty. Unaligned textures and the
+like. However, the level has been balanced out for great play. There
+are no dead ends in this level. Every room connects to another room
+for fast, furious fun. You won't want to miss this level! Make sure
+you use altdeath/respawn whatever the command is to make the goodies
+regenerate or you will run out of ammo fast. I really think you will
+enjoy the simplicity of this d-match level. Email me at
+amore.6@osu.edu with you comments/suggestions. I'm currently learning
+more about doom editing so look for a single-player wad from me soon.
+
+Additional Credits to   : Gene Simmons
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Level 01
+Single Player           : Yes -Not challenging, but I placed some
+monsters to make it interesting.
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes! Best for only 2
+Difficulty Settings     : no
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : Please make some demos and then upload them!
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used            Deu
+:
+Known Bugs              :  HOM in the moving guts room.
+
+
+* Copyright / Permissions *
+
+Authors (MAY use this level as a base to build additional levels.
+
+
+
+
+You may do whatever you want with this file. Just email me first at
+amore.6@osu.edu
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+
+ 

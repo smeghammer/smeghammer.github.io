@@ -1,0 +1,44 @@
+Title                   : Funk!   
+Filename                : d2funk.WAD
+Author                  : Derek Waters
+Email Address           : 100137,2547
+Misc. Author Info       : 
+
+Description             : funk : fungk,(colloq) n: a state of fear; panic
+                        
+Additional Credits to   : Iain and John for play-testing, id,
+                          Jeff Rabenhorst for EdMap, and Alison.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : 05
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From scratch.
+Editor(s) used          : EdMap 1.22
+Known Bugs              : Not known to me . . .
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Other: Compuserve Gamers

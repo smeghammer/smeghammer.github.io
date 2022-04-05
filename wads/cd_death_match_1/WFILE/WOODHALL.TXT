@@ -1,0 +1,58 @@
+================================================================
+Title                   : WOODHALL.WAD   
+Author                  : David Damerell
+Email Address           : djsd100@hermes.cam.ac.uk
+Misc. Author Info       : This is my first WAD uploaded. Comments via email
+please, but if you wanna complain please explain your point: "this sucks" is
+unhelpful. "This is great" is unhelpful, but sure feels good.
+
+Description             : This is a butt-kicking WAD rather than a puzzle WAD
+in playtesting it proved barely completeable on UV at first playing by someone 
+unfamiliar with the layout, which seems about right. It's set in a large 
+wooden building; I've tried not to use 2 million textures. It's low-tech: 
+you're using the shotgun throughout, on sarges, imps, troopers and the odd
+demon. It contains several unpleasant surprises. The use of excessive gamma 
+correction is not recommended: it ruins the looks of the level, and should
+prove unnecessary anyway, as the level is well-lit. It's most fun on first
+playing, as the surprises ain't so aftrwards. There is no HOM AFAIK, and 
+texture alignment seems to be fine, by and large. There is no attack in the
+room you start in.
+
+Additional Credits to   : The authors of DEU and BSP.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes: it is designed for single use.
+Cooperative 2-4 Player  : Yes, but I would advise sticking together.
+Deathmatch 2-4 Player   : Yes: several DM starts exist, but people may have
+                          to start by opening all the doors...
+Difficulty Settings     : Yes. The lower ones are *very* easy indeed.
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 12 hours ??? 
+Editor(s) used          : DEU, BSP
+Known Bugs              : None.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, provided this use is acknowleged.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications except to mark any new FTP sites, BBS numbers, 
+etc. it may be got from. You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+infant2.sphs.indiana.edu, and mirrors thereof.

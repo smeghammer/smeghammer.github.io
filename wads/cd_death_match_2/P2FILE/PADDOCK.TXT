@@ -1,0 +1,89 @@
+Title                   : Paddock (paddock.wad)   
+Author                  : Rand Smith
+Email Address           : CIS 75117,2173
+Credits                 : Testers:  Recomm Rogues
+			  Inspired by:  MIS at Recomm who wanted "a
+					big field and some shotguns..."
+
+* Play Information *
+
+Episode and Level #     : MAP 01 DOOM ][
+Single Player           : Yes
+Cooperative 2-4 Player  : Sorta
+Deathmatch 2-4 Player   : Most DEFINITELY! 
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From scratch
+Build Time              : 40 hours (Lots of refinement)
+Editor(s) used          : DEU2
+Known Bugs              : Two HOM effects, small (yes), annoying (yes),
+			  and virtually unnoticeable (thankfully!).
+			  (AUTHOR's NOTE:  Am I the only author who finds
+			   the limit on 2S linedefs troublesome???)
+
+* Copyright / Permissions *
+
+Authors may do whatever they want with this level, but it might be nice
+to give me some credit if they use it as a basis for a new level.
+
+DATELINE:  Tampa, FL, USA - November 23, 2194
+
+	US Marine forces were deployed to an unnamed island SE of Costa
+	Rica early today in an effort to "crackdown" on suspicious
+	activities there.  The island is currently under ownership of the 
+	Union Aerospace Corporation (UAC). In a press release just moments 
+	ago, General Manklow is quoted as saying, "...The UAC was recently 
+	found guilty of negligence in the assault on Earth by other-dimension 
+	forces and it now appears as if the UAC knew of the danger involved 
+	in such experimentation.  We have discovered a paddock on a remote 
+	island that was apparently established to provide a stable, secure
+	environment for creatures that were "retrieved" from the dimension
+	portals.  In this environment, UAC scientists had hoped to observe
+	the behavior of these beings and perhaps even communicate with them.
+	But something has happened there, something for which the UAC staff
+	didn't have the foresight to plan, and, as a result, my men are 
+	having to put their lives in jeapordy today."  More to follow as this
+	story unfolds.
+
+MISSION:
+
+	General Manklow has handpicked you as one of his "Elite Team Alpha."
+	The few of you chosen are each handed the following brief:
+
+	-The UAC base on Island "Omega" was constructed as a research
+	facility but designed with a natural facade so as to be aesthetically
+	pleasing to its inhabitants.  Several standard "containment fields" 
+	(i.e. invisible force fences using deployed force poles placed at
+	regular intervals) were installed to prevent roaming and/or
+	stampeding and possible injury to the new inhabitants as a result.
+	What was not standard for these fields was a new force science merging
+	energy fields and teleportation theory.  These "telefences" eliminated
+	the minor physiological and psychological injury that can result from
+	energy field impact - they merely teleported the "field offender" to
+	a safe location, never actually allowing them to come in contact with
+	the force field.
+	-This much we do know from the last communication out of the base.
+	There has been a massive power surge at Omega.  As a result, the
+	telefences are behaving erratically.  One section is down completely,
+	others seem to be intact but during a simultaneous entry allow 1
+	field offender to pass through, and still others have had their
+	destination frequencies disturbed.  As a result, some creatures have
+	escaped and are "on the prowl."  Fortunately, due to the holiday, UAC
+	staff was at a minimum although it is believed that of the 5 who were
+	on duty, 0 survived.
+	-There are unconfirmed reports that a rogue rebel group of Marines
+	were at fault for this catastrophe.
+	-Your mission is to get in and do one of two things:
+		1.  Restore power to the telefences and return stray
+		    creatures to their exhibits.
+		2.  Destroy all creatures for safe entry by civilians.
+		3.  If any humans are posing as Marines, shoot on site.
+	-Good luck and good shootin'!
+       
+You are led to the teleport pad and administered last rites.  You wonder if
+you should have stayed home and played Tetris today as you step on the pad...

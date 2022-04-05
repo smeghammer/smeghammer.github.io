@@ -1,0 +1,49 @@
+Title                   : Caverns of Hell   
+Filename                : CAVERN.WAD
+Author                  : Eric Aamodt a.k.a. Infinity
+Email Address           : None
+Misc. Author Info       : Member of the SHoGUN Doom Team
+
+Description             : Upon your return to earth, you think that you are finally done with 
+                          seeing creatures of Hell.  You were wrong.  The Caverns of Hell await  
+                          you.  No one knows what lurks in the darkness around the next corner.  
+                          Enter at your own risk.
+
+Additional Credits to   : SHoGUN p.a.c.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2... E1M9 (Full Mission)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU v.5.21
+Known Bugs              : No Special Credit given for secret doors.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers: The Onyx Dragon (810)-651-8105
+             Insanity Central (???)-???-????
+             Temple of Syrnix (???)-???-????
+             Centre of Eternity (???)-???-???

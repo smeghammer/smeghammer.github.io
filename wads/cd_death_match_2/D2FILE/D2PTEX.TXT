@@ -1,0 +1,12 @@
+
+        The D2PTEX.WAD file puts the missing textures/patches back into 
+Doom 2 that were available in Doom 1.  It also rebuilds the SWxSTONE 
+textures to look as they did in D1... in D2, the textures still exist 
+but were changed completely.  This PWAD is very helpful for using converted
+Doom 1 WADs with Doom2.  To use it with your converted WADs, just put the 
+file into your \doom2 directory, and then at the command prompt type:
+
+DOOM2 -FILE D2PTEX.WAD [the other wad(s) you want to add go here]  
+
+--Jason Mezzacca
+72510.3424@compuserve.com

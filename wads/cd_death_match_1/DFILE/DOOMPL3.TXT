@@ -1,0 +1,13 @@
+This is a "Compound Group" of wads.
+Just run "doom -file doompl3.wad"
+This will give you a ALL NEW,  full 8 map episode 1 Doom!
+This will ONLY WORK WITH REG. VERSION !!!
+I am more of a player than a builder so I put these together
+for the rest of us. I used DEU5 to "Group" these hits.
+Thanks to the DEU authors and to the authors of these great wads!!
+The NEW Episode in order of map and Complexity is .....
+I didn't build 'em I just wraped 'em up. Haven't finished them either
+so let's all have some fun and let the Coder/builders have some time.
+Great job to all of you!
+
+Paul-

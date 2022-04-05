@@ -1,0 +1,79 @@
+Title                   : Brundle's Revenge
+Author                  : Scott Harper
+Email Address           : COMPUSERVE : 74063,2507
+
+Description             : After the brilliant scientist was blown away 
+                          by his gorgeous squeeze he went to HELL 
+                          and set up shop in an area with a 
+                          fitting floor plan...Enter his realm if you dare...
+                          Brundle's Revenge is at hand !
+                          No, but seriously, this is a challenging level
+                          for all...  If you can make it through on UV 
+                          you are a real DOOMER.
+                          The map MAY reveal some clues...
+
+===========================================================================
+
+Episode and Level #     : E2M1 (for now - see below)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (6 starting points)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Totally from Scratch
+Build Time              : >200 hours
+Editor(s) used          : Doomcad by Matt Tagliaferri
+Nodebuilding            : BSP 1.2x by Colin Reed
+Known Bugs              : With early versions of this level, immediate 
+                          saves in UV difficulty resulted in a system halt -
+                          memory overflow error. This problem has been 
+                          corrected and as best I can tell, there are no 
+                          other bugs. Besides, would I waste your time and
+                          money with a level full of "bugs" ?!?!? 
+
+                          
+Additional Notes       :  There are 2 spots which produce visual anomalies. 
+                          This minor problem is due to the 128 line limit, 
+                          and produces something like the HOM effect.  
+                          I have re-worked these areas as best as I can, 
+                          and although you must be standing in exactly the 
+                          right spot, I do not think these anomolous areas 
+                          detract from the overall quality of the level...
+                          In fact, you may not even notice them unless you are
+                          in the precise spots where they occur.
+
+This was (and in fact, still is) intended to be E2M5 in my complete
+episode, if I ever finish the last 2 levels. REJECT data
+was NOT included in this level because many of the monsters would not
+'activate', even if they were looking right at you ! This is because
+they have to look through too many transparent lines in places 
+(so I was told); they would have to get shot to be activated. This, I felt, 
+lessened the quality of the level. If you want to try adding REJECT yourself, 
+please do, but I don't think you'll be overly pleased with the results...
+Also, if you decide to do a little editing of your own, BE WARNED, adding
+even a few more "things" will quite possibly cause this level to be 
+UNSAVEABLE in UV difficulty (unsaveable until you have killed at least as 
+many monsters as things you added).  This is because the level is right 
+around the limit of the savegame buffer size when you start in UV.
+
+
+REQUEST :
+
+I don't mind if you edit this level for YOURSELF, and I encourage
+you to distribute it under two conditions : 1) You do not modify it
+for distribution, and , 2) THIS README file accompanies it. PLEASE 
+don't upload a MODIFIED version of this level or this file ANYWHERE. 
+If it is to be offered on BBSs, I want it in it's original form. 
+Thank you for observing this request. 
+My Compuserve address is at the top of this document. If you have any
+comments or suggestions, I would like to hear them.  Enjoy !!
+                                        -Scott Harper
+
+Other uploaded levels :
+(Just one, for now)
+1) "Castle from Hell" (DMCAS.ZIP), available in the Gamers+ forum on
+        Compuserve (I'm not sure which library anymore).

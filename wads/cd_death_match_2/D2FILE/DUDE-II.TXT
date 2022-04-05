@@ -1,0 +1,45 @@
+================================================================
+Title                   : The Doom II Dude
+File Name               : DUDE-II.WAD
+Author                  : Felix T. Manlunas
+Email Address           : fmanlu01@solix.fiu.edu
+
+Description             : This is a deathmatch only WAD.
+                          I started it on DOOM 1 but when DOOM 2
+                          came out I converted it.  This is my
+                          first WAD so it's not that pretty.
+
+Additional Credits to   : id Software, the authors of DEU and
+                          WADED, and the guy who made HITMEINF.WAD
+
+================================================================
+* Play Information *
+Level #                 : Map 1
+Single Player           : Yes, but why should you?
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+
+Difficulty Settings     : No
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+Base                    : New level from scratch
+Build Time              : I don't know
+Editor(s) used          : DEU 5.21GCC, IDBSP, WADED
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels
+without including this unmodified text file and a list of the changes
+made to the level...You MAY distribute this WAD to any BBS or online
+service, provided youinclude this file, with no modifications.  You
+may mass distribute thisWAD in any *other* electronic format
+(Diskette, CD, etc) *only* with my approval (which will be quite easy
+to get, I imagine).
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu, in /pub/doom/NEWSTUFF

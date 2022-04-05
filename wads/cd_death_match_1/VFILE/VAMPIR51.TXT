@@ -1,0 +1,68 @@
+================================================================
+Title                   : Vampire 5 or Frodo 5
+Filename                : VAMPIRE5.WAD
+Author                  : Darrell Bircsak
+Email Address           : dbircsak@hertz.calpoly.edu
+Misc. Author Info       : This is my first PWAD, version 5.
+
+Description             : I named it VAMPIRE5 because...catchy name!
+                          Better than FRODO5, my handle.  Anyways.
+                          This was made w/ DeathMatch in mind.
+                          About half the time making this was spent
+                          playing it to make sure everything looked
+                          nice.  I wanted an artistic PWAD as well as
+                          a fun one.  Most of the rooms were done on
+                          paper first.  Much time has been spent
+                          thinking about how things will be placed
+                          and if they'll "work well" there.
+                          Story:  trapped in Count Frodo's castle,
+                          you must escape the evil vampire's traps
+                          and make it out alive.  His creatures will
+                          try and stop you from escaping.  Can you
+                          find Count Frodo's secret teleport room?
+                          Can you master the Plus Sign??  Can you
+                          find the hidden weapon in the Infinity room?
+                          Discover all the great snipe spots!
+
+Additional Credits to   : Blacky, JAFO, Lord Redder, and Eagle
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M9
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, heavily tested!
+Difficulty Settings     : Yes, heavily tested.....
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch/Modified E1M1/FRODO48.WAD
+Editor(s) used          : DEU and IDBSP
+Known Bugs              : Works w/ 1.666 only due to DOOM2 LineDef types.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: Blue Thunder 818-848-4101
+             Gandor 818-763-4762
+
+Please mail me and tell me what you think of the level!!  I'd REALLY
+appreciate it!  I've spent much time on this.

@@ -1,0 +1,54 @@
+================================================================
+Title                   : Deathpit
+Filename                : DEATHPIT.WAD
+Author                  : Ryan Caine
+Email Address           : caine@teleport.com
+Misc. Author Info       : Just a major doom addict
+Description             : This is a DOOM II pwad that was designed
+                          specifically with 2-player Deathmatch 2.0 in
+                          mind.  Works pretty well with 4 players too.
+                          It is very difficult to get to the exit in
+                          a one player game.  It took me a lot of times
+                          to finally pass it.  If you like this wad,
+                          LET ME KNOW! 
+
+Additional Credits to : id for making DOOM and DOOM II, Jeff
+                        Rabenhorst for Edmap, and some friends that
+                        helped test this wad
+                          
+================================================================
+
+* Play Information *
+Doom or Doom II?        : Doom II
+MAP #                   : MAP 1
+Single Player           : Yes (hard to get to exit)
+Cooperative 2-4 Player  : Yes (very boring)
+Deathmatch 2-4 Player   : Yes!!!!
+Difficulty Settings     : No 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+Release Date            : January 28, 1995 
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : EdMap 1.24
+Build Time              : About 3 hours
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. (please give me credit).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+* Where to get this WAD *
+
+FTP sites:  FTP.CDROM.COM

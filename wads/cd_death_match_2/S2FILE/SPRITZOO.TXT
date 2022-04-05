@@ -1,0 +1,46 @@
+================================================================
+Title                   : SPRITZOO.WAD   
+Author                  : Craig Paskett Heath
+Email Address           : craig@sco.com
+Misc. Author Info       : a.k.a Strobe
+
+Description             : Monsters in glass cages
+
+Additional Credits to   : Chris Badger: SPACE.WAD glass texture
+                          Martin Leo: NEWTECHN.WAD sector hack
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes (no exit)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 5 hours
+Editor(s) used          : DEU 5.21, DMGRAPH 1.1 and BSP 1.2x
+Known Bugs              : None (tested with reg. DOOM 1.2 and 1.666)
+
+* Copyright / Permissions *
+
+You may do whatever you want with this WAD file.
+
+* Notes *
+
+This WAD is intended as a tool for WAD authors, to give an easy way
+to examine animated sprites without getting killed by them!  The
+single room contains cages with all 9 different monsters, initially
+"asleep".  You can fire into or near the cages to wake up the monsters,
+but they can't fire out.  You can move all around the cages to get a
+360 degree view.  Try it with the Star Wars* and Aliens* WADs, e.g.:
+
+        doom -file aliens.wad spritzoo.wad -episode 1
+
+* doubtless trademarks of somebody.

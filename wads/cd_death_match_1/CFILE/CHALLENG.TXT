@@ -1,0 +1,25 @@
+CHALLENG.WAD
+
+Thanks for downloading this homemade WAD file.....
+
+To use this file, copy CHALLENG.WAD into your Doom (registered version) 
+directory and type the following command line:
+
+DOOM -FILE CHALLENG.WAD
+
+Then warp to Episode 2, Level 2. 
+(Do this by typing IDCLEV22 while in the game.)
+
+This is a pretty challenging WAD that I attempted to make tough for
+people who like to abuse the cheat codes. It has no doors that need keys so you are
+stuck with finding the correct switches to open doors.
+It is also great for playing multi-player and Deathmatch modes.
+I know that there are some Linedef problems which creates a "hall of mirror"
+effect at certain points, but I did the best I could at fixing them.
+Please e-mail with any comments or advice concerning this WAD.
+
+Enjoy!!!!
+
+-andy.scoggins@swcbbs.com
+
+P.S. Look up my first WAD, DMSEWER.WAD if you get a chance....

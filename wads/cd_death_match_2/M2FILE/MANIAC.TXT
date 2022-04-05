@@ -1,0 +1,21 @@
+To play this new level: "Maniac Operation" (E1M1).
+- Copy MANIAC.WAD into the DOOM directory.
+- Enter this line in DOS prompt: DOOM -file MANIAC.WAD
+- Choose "New Game" in the principal menu.
+- Select "Knee-Deep in the Dead" episode.
+
+Please note that the skill level doesn't 
+change anything, no pity!
+You must survive... like a real man (or woman)!
+
+You must have DOOM Version 1.2 Registered.
+
+******** W A R N I N G **********
+This level shows ultra-violence graphics and
+may not suitable for children.
+
+Not supported by id Software.
+
+Good luck
+Jean-Fran‡ois Brissette
+70564,1273

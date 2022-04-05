@@ -1,0 +1,110 @@
+Title                   : Perdition's Anteroom
+Filename                : ANTEROOM.WAD
+Author                  : Evan H. Bynum
+
+Email Address           : ebynum@cs.jhu.edu. This will change very
+			  soon, most likely to bynum@cs.colostate.edu
+
+Misc. Author Info       : Graduate of Johns Hopkins' CS Dept., soon
+			  to be CS grad at Colorado State (8/22/94).
+			  Finger my account (ebynum@server.cs.jhu.edu) for
+			  a wise and unambiguous Jack London quotation.
+
+Description :             This is a somewhat large level, so named for its
+			  central room with the large spiral staircase,
+			  replete with divers* weapons and sundry monsters.
+			  All secret doors have slight texture offsets, and
+			  there's a computer map behind one of them. I
+			  included every weapon at least once, and you'll
+			  find each kind of monster save the Cyberdemon and
+			  Spiderdemon somewhere in the level.
+
+			  One room is reminiscent of Raiders of the Lost Ark
+			  (hint: lite-amp visors aren't always a good thing
+			  to have!). Another has three pillars in it; your
+			  selected skill level determines which one is your
+			  teleport destination. I have not played every WAD
+			  out there, so I think this is the first one to
+			  implement such a feature. There are a few wide-open
+			  areas suited especially for deathmatch play, and
+			  a preponderance of plasma rifles strewn about the
+			  level for quick rearming. Every room has at least
+			  one exit, including the lava pit outside (i.e.,
+			  there are no "traps," per se).
+
+			  If you enjoy this WAD, please email me and let me
+			  know what you liked about it, and also where you
+			  found this file (I'm curious to see how far its
+			  range grows). If you don't like this WAD, don't
+			  bother telling me, as I daresay I shan't have much
+			  time in grad school to fool around with level
+			  creation and fix what you thought I should have
+			  done.  Finally, if you're a student at Colorado
+			  State, please look me up when I get there - I've
+			  never been to Colorado and I'd like some fellow
+			  Doomers to show me around! 
+
+Additional Credits to   : The knowledgeable chaps who frequent the Doom-
+			  editors' mailing list (doom-editing@nvg.unit.no);
+			  Matt Tagliaferri, who is both author of DoomCAD
+			  and is the (second) biggest Cleveland Indian fan
+			  around. Started that Jacob's Field WAD yet, Matt?
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : Fully implemented, including network objects
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+
+Editor(s) used          : DoomCAD 4.3 for all of the construction
+			  (that cut-and-paste template is invaluable).
+			  DoomED 2.60b for the texture previewer.
+			  BSP12x for node building.
+
+Development Time        : Three weeks, averaging about five hours per day.
+			  This included learning the editor and re-
+			  constructing sections that failed integrity
+			  checks. 
+
+Known Bugs              : Some of the monsters get "stuck" in doorways:
+			  they'll just walk into the doorjamb instead
+			  of coming after you. This is not all that
+			  common an occurrence, but it's darn annoying
+			  when it does happen.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels
+provided you include both my name and the name of this WAD in
+the description or credits section of your own WAD.
+
+You MAY distribute this WAD, provided you include this file with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+	   ftp.uwp.edu
+
+BBS numbers: None
+
+Other: None
+
+* This is not a misspelling of "diverse." Both divers and sundry are
+synonyms for "various." Jack London uses the former term a good deal in
+his works, so I have incorporated it into mine. My writing tends more
+towards the pedantic than the pedestrian, a trait neither common nor
+warranted in computer scientists.

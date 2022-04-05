@@ -1,0 +1,47 @@
+================================================================
+Filename                : CHRISK22.WAD (Version 1.2)
+Author                  : Christen David Klie
+Internet Address        : olivrsu336@aol.com
+Additional Credits to   : Gerrilynn Klie
+                          Mark Borczon
+                          Matt Borczon
+                          Mal Blackwell
+                          John W. Anderson
+                          Paracelsus
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M2        
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : DEU 5.2.1; BSP 1.0; REJECT 1.0
+Reject data re-built at : 704
+
+* Copyright / Permissions *
+
+Authors may NOT use this WAD as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+America On Line PC Games Forum.  
+CompuServe PC Gamers Forum.
+
+Check out EDEN and REDRUM by Mal Blackwell, as well as DANTE'S GATE and
+CROSSING ACHERON by John W. Anderson.  I draw much inspiration from the
+works of Mal and John.  :)

@@ -1,0 +1,64 @@
+================================================================
+Title                   : 2708 Ellsworth Street, Berkeley CA
+Filename                : TJM_HAUS.WAD
+Author                  : Tom J. McClure
+Email Address           : thermal@uclink.berkeley.edu
+Misc. Author Info       : Music/CS/Russian major at UC Berkeley
+                          We pay $2600/mo. to live in this sh*thole.
+
+Description             : Well, this is the house I've been living
+                          in for the past year or so, replete with
+                          secret passages and stuff that isn't honestly
+                          there (with the notable exception of the dead
+                          bodies in the basement, which we have to assume
+                          are there since that door is locked from the
+                          inside).  Each room has many exits, and there
+                          is a good mix of small rooms and wide-open
+                          spaces. Try it with -warp 01 -respawn for
+                          variety; just enough shotgun dudes to keep it
+                          interesting.
+
+Brief Description:        House, encircled w/yard/ledge, w/staircase
+                          teleports to basement.  Check out the twilight
+                          zone door-to-"nowhere" on the ledge!
+
+Additional Credits to   : Ben Morris, the rgcde group
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01 (contact me for DOOM I ver.)
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes Yes Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Time                    : Two months (my first attempt)
+Editor(s) used          : DCK 2.x
+Known Bugs              : None, finally.  Runs ok w/4megs, supersmooth w/8
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp://ftp.cdrom.com/pub/idgames/newstuff/tjm_haus.zip
+or hopefully
+ftp://ftp.cdrom.com/pub/idgames/levels/doom2/deathmatch/tjm_haus.zip

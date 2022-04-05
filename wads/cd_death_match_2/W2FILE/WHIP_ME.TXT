@@ -1,0 +1,60 @@
+================================================================
+Title                   : Whip me, whip me, whip me!!!   
+Filename                : WHIP_ME.WAD
+Author                  : Andrew Hulme
+Email Address           : andrew@metnov1.bham.ac.uk
+
+Description             : This is my fourth wad so far. It's a small deathmatch only wad, ideal for 2 players, very fast and furious. Another all time classic I'm sure.
+
+Additional Credits to   : Adam Gilchrist and Andy Banks for playtesting.
+
+Additional Info		: Weapons are situated to make you a sitting target so move fast. You can run but you can't hide ... or can you?
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Time taken		: 5 hours to build.
+Editor(s) used          : DEU v.521gc, bsp 2.1
+Known Bugs              : none known
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu and mirrors.
+================================================================
+Other wads I've created which you should have got by now;
+
+SPANKME.WAD/SPANKME2.WAD - small deathmatch level, single room with corridors off the sides. (both doom 1 and 2 versions)
+
+SLAPME.WAD/SLAPME2.WAD - deathmatch set around a kind of castle courtyard, its the tops. (both doom 1 and 2 versions)
+
+CHOPPAS.WAD - chainsaws a go-go. Silly but fun, single player or deathmatch.
+
+CHASEME.WAD - coming soon to a ftp site near you.
+
+These are all available from the above sites.
+================================================================

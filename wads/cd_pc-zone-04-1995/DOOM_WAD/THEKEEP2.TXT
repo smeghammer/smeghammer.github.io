@@ -1,0 +1,52 @@
+========================================================================
+Title                   : THEKEEP2.WAD   
+Author                  : Norman Scott
+Email Address           : norman.scott@flatland.com
+Misc. Author Info       : doomaholic
+
+Description             : TheKeep2 is the final update of The-Keep.Wad.
+                          The medieval castle has few secrets to give away
+                          but playing a deathmatch can be fun.  The chaingun
+                          appears to be the weapon of choice in this wad.
+                          There are two places now to pick it up.
+
+                          Thekeep2 is a castle with towers, dungeons,
+                          and a moat.  It has a good deathmatch or
+                          single-player layout.
+
+Additional Credits to   : Tim Scott (son) now a NON-resident beta tester!
+=========================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A long time 
+Editor(s) used          : Deu5.0/Deu5.1/BSP1.0
+Known Bugs              : None (I think)
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           

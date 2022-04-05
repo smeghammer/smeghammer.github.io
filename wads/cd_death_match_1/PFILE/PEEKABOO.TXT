@@ -1,0 +1,88 @@
+This is my second WAD and the second level in a strictly Deathmatch
+episode that Gil Morales and I (Lou Garcia) are creating. Have fun!!
+========================================================================
+Title			: "Peek-A-Boo"
+Filename		: PEEKABOO.WAD
+ZIP FILE		: PEEKABOO.ZIP
+Author			: Lou Garcia
+Email Address		: none at present (see bottom for contact)
+Misc. Author Info	: Doom Deathmatch addict and PC Demo freak.
+
+Description		: PEEKABOO is a deathmatch only level without
+			  any monsters except your friend-become-prey.
+			  It's stricktly move fast and kick ass from
+			  begining to end. The level consists of a
+			  few rooms connected to each other so the action
+			  will always be constant. There are a few false
+			  walls that make for good ambush sites.
+			  The players start in one of four hallways
+			  adjacent to a couple of rooms. They will each
+			  find a Health Supercharge, Blue Armor, Shotgun,
+			  and Chaingun. There's a Plasma Rifle and Rocket
+			  Launcher in each of the rooms. The BFG 9000 is
+			  located in a corner the big room. There's also
+			  Medikits, Invisibility Spheres and ammo for the
+			  small weapons scattered throughout.
+			  There are TWO Teleporters in the big room that
+			  will transport you to the North or South corners
+			  of the hidden hallway above the big room. This
+			  level is great in DEATHMATCH 2.0 as well as
+			  regular Deathmatch. There is plenty of opportunity
+			  for ambush. This is the second level in a new
+			  Deathmatch only episode Gil and I are developing,
+			  so keep an eye out for future levels.
+
+Note			: There are no lame traps in any of my Deathmatch
+			  levels (I believe the purpose of Deathmatch is to
+			  pit yourself against your opponent, not fall in
+			  some stupid acid pit without a way out.
+			  There's also a clearly marked exit in each of my
+			  levels in preparation for the episode or if you
+			  just want to continue playing on the next level.
+
+Additional Credits to	: Authors of DoomED, Deu, DoomCAD, BSP and of course
+			  id Software (Kick-Ass Game)...
+			  Thanks to Gil Morales Jr., Gilbert Morales III, and
+			  Gabriel (Gaby) Valenzuela for chasing each other
+			  around until the wee hours beta testing.
+==========================================================================
+
+* Play Information *
+
+Episode and Level #	: E2M2
+Single Player		: Yes, but only to test level (no fun without prey)
+Cooperative 2-4 Player	: No
+Deathmatch 2-4 Player	: Yes, absolutely the name of the game.
+Difficulty Settings	: There's only one speed here, and it's kick-ass.
+New Sounds		: No
+New Graphics		: No
+New Music		: No
+Demos Replaced		: None
+
+* Construction *
+
+Base			: New level from scratch
+Build Time		: Too long!!! But not as long as "INYOFACE.WAD"
+Editor(s) used		: DoomED 2.60 b2, Deu 5.21, DoomCAD 4.3 and BSP 1.2x
+Known Bugs		: None that we know of.
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this and other WADs or leave me a note *
+
+BBS numbers:
+
+	    Ivory Tower BBS (Miami, Fl) (305) 860-0307
+	    Home to one of the largest collections of PC SB/GUS Demos
+	    and Doom File Areas in South Florida.
+	    Sysop: Gabriel (Gaby) Valenzuela
+	    Leave private Email to Lou Garcia
+
+Enjoy it, have fun, kill your friends and keep on DOOMing!!
+

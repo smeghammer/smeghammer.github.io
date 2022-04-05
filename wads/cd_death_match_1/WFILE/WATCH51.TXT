@@ -1,0 +1,69 @@
+================================================================
+Title                   : WATCH OUT   
+Filename                : WATCH51.WAD
+Author                  : ANDREW GILL
+Email Address           : None Currently
+Misc. Author Info       : 
+
+Description             : This is my first DOOM level (but don't let
+			  you put that off) This level started off as a  
+			  small level but continued to grow as I got new 
+			  ideas for rooms.
+
+Additional Credits to   : The creator of DOOMED THE REAL THING 
+			  (PROBABLY THE BEST DOOM EDITOR IN THE WORLD)
+			  And to the creator of WADED and also thanks to 
+			  Jonathan Hastings for play testing and giving 
+			  me ideas for my level.
+Note                    : This level contains many traps monsters on pillars
+			  that come down behind you crushing ceilings etc.
+			  
+Coming soon             : Look out for Cybo#.wad and Myhouse#.wad                               
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (it makes it easier to get to)
+Single Player           : Yes
+Cooperative 2-4 Player  : Untested
+Deathmatch 2-4 Player   : Untested (but it looks like it could be a good
+			  deathmatch level)
+Difficulty Settings     : not really, but on UV instead of six pink daemons
+			  and some shotgun ammo there are two cybo daemons
+			  and the BFG9000 and some cells. The level is
+			  really at its best on the first three levels 
+New Sounds              : Not yet but I intented to (look for later versions)
+New Graphics            : As above
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : This level is based on mine1.wad (the level that 
+			  came with DOOMED) although it has alot more. the 
+			  file increased from 40,846 bytes to 192,961 bytes
+Editor(s) used          : DOOMED THE REAL THING and WADED
+Known Bugs              : When crossing some of the sectors to screen flickers
+			  for extremely minute ammount of time not really 
+			  important but just generally just irritating for me 
+			  as I do not know how to get rid of it
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers:
+
+Other:

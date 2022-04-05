@@ -1,0 +1,64 @@
+================================================================
+Title                   : My House and then some   
+Filename                : MARC1.WAD
+Author                  : Jean-Marc Lalouette
+Email Address           : LALOUE@ELAINE.ee.und.ac.za 
+Misc. Author Info       : M Sc Student in Telecommunications
+			  who is Procastinating too much :) *GRIN*
+
+Description             : This is basically my house with the pool (grin)
+			  and an extra bit, there are no fancy trimmings to 
+			  this level, just a shit load of bad guys in my
+			  house for those trigger happy maniacs. 
+			  Blow them away !!
+
+Additional Credits to   : ID for their great game. DEU team for a great	
+			  editor { Please hurry with DEU 6.0 :) }
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes (but don't try Ultra Violance unless you like to
+			       die Often !){ There are enough weapons and
+					     medical kits to survive the 
+					     ultra-violance level }	
+Cooperative 2-4 Player  : Yes (Ultra Violence is designed for multi-player mode
+			       The more the merrier)	
+Deathmatch 2-4 Player   : Yes (heh-heh yup this is a good death-match level
+			       not too many places to hide !!)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Time of Construction    : about 20 hrs
+Known Bugs              : I have played and finished the level on single 
+			  player mode on the Hurt-Me-Plenty difficulty level, 
+			  of course, I know where all the weapons and secrets 
+			  are so that definately helps. Bugs found are that the
+			  imps can shoot through the walls in the northwestern
+			  room on the 'top' floor. I think that I have fixed 
+			  this though.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: Infant2.sphs.indiana.edu
+NNTP     : I will try to post the Wad to ALT.BINARIES.DOOM
+MAIL     : If I'm in a good mood and I have the wad with me it will be posted.

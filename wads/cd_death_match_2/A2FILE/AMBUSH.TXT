@@ -1,0 +1,12 @@
+This is another homemade DOOM level, created using DEU 5.0. Enjoy!
+(I ran the PWAD through Colin Reed's node-builder 1.0, and it actually
+cleared out all ugly small "hall of mirrors" bugs... Nice!)
+
+        Creators: Mattias Widmark, f93-mwi@nada.kth.se
+                  Christian Wictorin, somewhere
+
+
+
+
+(Start with "doom -file ambush.wad", and your episode 1 mission 1 will
+be replaced! :-)
