@@ -1,0 +1,42 @@
+================================================================
+EPISODE 1 MISSION 1:
+================================================================
+Title                   : ALAIN.WAD
+Author                  : Alain ARRAULT
+Email Address           : 73612,442
+Misc. Author Info       : New level from a froggie
+
+Description             : New design, great space, full ammos
+			  and lot of monsters. Not so difficult
+			  to end but be carefull. Feedback should
+			  be appreciated.
+
+Additional Credits to   : Arnaud AMAR, beta tester.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, but not tested
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A lot of time, for my first attempt
+Editor(s) used          : DEU v5.21, BSP v1.2x
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.

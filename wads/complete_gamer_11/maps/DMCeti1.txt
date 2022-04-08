@@ -1,0 +1,57 @@
+================================================================
+
+Title                   : DMCeti1
+Filename                : DMCeti1.unr
+Author                  : Tom Haskins
+Email Address           : thaskins@home.com
+Description             : Deathmatch level for Unreal. This is my first
+			attempt at level design with UnrealEd. There's
+			some parts of the level I like, some I dislike.
+			Has some good architecture in it, but not fluid  
+			throughout the level. It was a good learning 
+			experience on how to use the editor. Includes
+			8 deathmatch start spots, all weapons, and
+			pathnodes for Botmatch.
+                                                      
+Additional Credits to   : Epic Megagames for an absolutely wonderful
+			game and level editor! It was worth the wait!
+================================================================
+
+* Play Information *
+
+Level Name              : DMCeti1
+Single Player           : Yes,only for walkthrough 
+			
+Deathmatch              : Yes,4+ players/bots.
+                          
+* Construction *
+
+Base            : 15-20 hours
+Build Time      : Less than a minute. Ahh....
+                  
+                  
+Editor(s) used  : UnrealEd
+Known Bugs      : Some "HOMING" in one area. This may be due to too much geometry in
+		  certain areas. This was my first level with UnrealEd, still learning
+		  how to do most things. Also bots seem to get stuck in one portal,
+		  I didn't want to spend any more time to fix this.	
+================================================================
+
+* Special Notes *
+	Level Editors, If you want your map to show up in Unreal when
+selecting a Deathmatch game, prefix the map name with DM, if it is a
+Darkmatch game then prefix it with DK.
+
+* Legal Stuff *
+
+        This file may be distributed freely over the Internet. If you wish
+this to be included on a CD compilation or any other form of electronic media
+other than the Internet or BBS you MUST contact me first and get my
+permission. This text file must accompany this level and may not be modified.
+
+        This file may not be used as a bases for any other levels without
+consent of the level author.
+
+* Where to get this Level *
+
+Wherever you found this description file.

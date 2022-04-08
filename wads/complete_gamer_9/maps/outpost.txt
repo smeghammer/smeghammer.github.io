@@ -1,0 +1,38 @@
+-------------------------------------------------
+Name:		  Outpost
+Author:		  Dean 'Bishop' Harding
+		  deanh@zip.com.au
+
+Thanks:		  Craig 'D3aTH' Leyshan for playtesting
+		  Andrew 'Jedi1138' Hope for playtesting,
+		    and for the name as well
+		  Valve for such a cool game :)
+-------------------------------------------------
+Base:		  Made from scratch
+Compile Time:	  about 1 hour 20 minutes
+Compile Machine:  P2 266, 64MB
+
+Multiplayer:	  yes
+Single player:	  to look around
+New textures:	  no
+New sounds:	  no
+-------------------------------------------------
+Outpost is my first attempt at a map for Half-Life,
+I did make a map for Team Fortress a while back, but
+this one is much better :)
+
+Outpost has a lot of open area for rocket fights, and
+snipering, but there is also some cool places to
+hide tripwires as well.
+
+I had originally wanted to make the open area even
+bigger, but because I'm running on a Voodoo 1, I
+didn't want it to run as slow as some of the other
+open-area maps (Bounce, for example)  This is the
+reason for the resonably low detail rocks, etc.
+-------------------------------------------------
+
+You cannot copy this map unless it is in the original
+archive.  This map cannot be included on a CD
+compilation without express written permission of the
+Author.

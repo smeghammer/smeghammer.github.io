@@ -1,0 +1,62 @@
+================================================================
+Title                   : NIGHTFALL!!!! 
+                                nightfal.wad
+Author                  : Josh Fallon  aka  "Phallus"
+Email Address           : Fallonjb95%cs14@cadetmail.usafa.af.mil
+Misc. Author Info       : This guy spends way too much time playing
+                          DOOM.  He needs to skydive a bit more, and                            
+                          graduate!
+
+Description             :   Night has finally fallen, and all Hell has broken 
+                          loose!  You wake up in a pool of blood watching
+                          your buddy get tortured... You'll put an end to
+                          that!  Watch out as you go outside, and collect
+                          everything needed to open the last door that leads
+                          to a safe place to wait for sunrise.
+                            Some doors are opened by a switches, test out 
+                          the machine near the end, and save often!  The 
+                          temple of demons is a good place to save as well.
+
+Additional Credits to   : Tom Davis for his help in designing the temple
+                          Rhet Turnbull for giving suggestions about the
+                          alter, and for doing all the pre-alpha testing.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (Its labeled  ;) )
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, but not tested
+Difficulty Settings     : Yes (for UV and HMP. No one really plays easy!?!?)
+New Sounds              : No
+New Graphics            : YES  (The nightsky, some tripwires, and ....:)
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Way, way, way, way too long. About a month of work
+                          actually.
+Editor(s) used          : DEU 5.22, BSP10
+Known Bugs              : There is the FOB (flash of black) effect in a few 
+                          spots.  If you look just right, you can see the
+                          HOM from the 128+ linedef limit.
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+If this .wad is included in a pack of wads, or anything like that,
+Please contact me first, so I can have an idea of whats happening
+to my wad. :)
+
+* Where to get this WAD *
+
+infant2.sphs.indiana.edu
+
+

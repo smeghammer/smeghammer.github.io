@@ -1,0 +1,47 @@
+ADY1.WAD
+--------
+DOOM! PWAD Created by Adrian Speight in the Summer of 94
+I hope this is fun for you to play. I enjoyed making it
+
+Please do NOT use it as a basis for other levels - I design
+my levels as complete ideas and not building blocks
+
+Replaces E1M1 - registered version only due to weapons
+
+Skill levels ARE implemented
+Works well in single player
+Works well in Cooperative play
+Not an ideal deathmatch level, but there ARE deathmatch starts
+
+Ady1.wad - This is my first go at a WAD. You have been sentenced
+to death by firing squad (even in 4 player coop - there are 2
+execution chambers). There is no apparent way out and lots of
+soldiers to kills you. If you DO get out, there are monsters and
+a maze. All you have is your beretta hidden down your Y-Fronts.
+This is a hell of a difficult start situation for Ultra Violence,
+but if you get out you'll thirst for revenge, and the rest of the WAD
+is for that. Eventually you may be able to storm the fortress of the
+creeps who decided to off you and give them what they deserve.
+There is some pretty scenery too, and a few sneaky traps.
+
+------------------------------------------------------------------------
+Author:
+        Adrian Speight
+        5, Summerville Road
+        Pudsey, LS28 6EL
+        U.K.
+
+Please do get in touch if you want to - I don't bite
+------------------------------------------------------------------------
+
+If you haven't already - Phone >>>INSIGHT BBS<<< on 0942 517097
+
+Convert all your WADs to ARJ and save half the space and still run
+them using DOOMRUN by Lawrence Staveley - Shareware from Insight BBS
+
+------------------------------------------------------------------------
+
+
+
+
+

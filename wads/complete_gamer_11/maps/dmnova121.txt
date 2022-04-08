@@ -1,0 +1,90 @@
+================================================================
+Title                   : Nova 12 - Prison Transport
+Version                 : 1.1
+Release Date            : 7-22-98
+Filename                : DMNova12.zip
+Author                  : Stuart Presley ' Vovin '
+Email Address           : vovin@vnet.net
+Web Page                : http://www.cybercarolina.com/trilogy
+			  http://users.vnet.net/vovin
+Description             : Nova 12 and it's crew were overthrown during
+			  a prison riot when one of the prison crew
+			  managed to short the force containment
+			  fields. The remaining crew members were able
+			  to escape from the separating control pod, leaving
+			  the prisoners on board the ship to run amok
+			  until another security vessel could
+			  rendezvous and take back the transport hull. 
+
+Where to get this map   : ftp.cdrom.com/pub/unreal and other great Unreal Sites
+Other levels by author  : DMNakesh - Deathmatch Level
+			  Lower Shrine of Nakesh - Single Player Level
+Additional Credits to   : Epic for Unreal and Unrealed, The crew at #Unreal
+			  on irc.gameslink.net. 
+			  
+================================================================
+--- Play Information ---
+Game                    : Unreal 
+Level Name              : Nova 12 - Prison Transport
+Single Player           : Yes - Like we could stop ya!
+Cooperative             : No
+Deathmatch              : Yes
+Dark Match              : No
+Difficulty Settings     : Not Really
+New Sounds              : No
+New Graphics            : No
+Known bugs              : Not really a bug... If you play with bots you'll go blind. Oh
+			  that wasn't it. Oh yeah, there are several lifts on this level.
+			  The bots can traverse most of them because Lift Exits and
+			  Lift Centers have been added, however they have a hard time
+			  getting on the lifts that come up from the engine rooms because
+			  they are raised slightly and are also push button controlled.
+			  Although they do like to play with those buttons a lot. Maybe
+			  they go blind and can't get on!
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : 3 weeks off and on...mostly off as I've been working on 2 other
+			  Unreal related projects.
+
+Installation
+------------
+   Unzip the files and place them into your maps directory under the unreal
+   directory. Start a DeathMatch or BotMatch and choose the map from the list of
+   Playable DeathMatch Maps.
+
+
+Author's Notes
+--------------
+Thanks for taking a look at Nova 12, if you have any comments or complaints about this map,
+feel free to email me and let me know. If you like this map don't hesitate to let me know
+what I did right about it and also anything that you may not quite like. I like to know
+what the community likes in a map. Thanks!
+
+Version 1.1 was created due to requests for more weapons and more ammo. Thanks for the constructive criticism :)
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Stuart B. Presley 1998
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+If you are an affiliate of Actura Software then you can already assume that
+my answer is going to be a resounding NO, and you need not contact me. 
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.
+

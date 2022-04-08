@@ -1,0 +1,92 @@
+================================================================
+Title                   : Secrets...
+Filename                : E2M1FC1.WAD
+Author                  : Floyd Clark
+Email Address           : fc4145@cmsuvmb.cmsu.edu
+Misc. Author Info       : Doom fanatic, just getting into building.
+
+Description             : It's dangerous out there... Four areas of a large
+                          base, each with it's own special 'feel'.  Some
+                          monsters are to be destroyed, others might best
+                          be avoided. (The Cyber-Demon Lord comes to 
+                          mind... ;)  This is a difficult level, especially
+                          the first time through. It IS possible to beat
+                          it though. All weapons are provided, here and
+                          there, and there is plenty of ammo lying around.
+                          You don't HAVE to find all the keys as there are
+                          secret (and not so secret, if you can get past
+                          the cyber lord) doors that will let you get from
+                          section to section without going through the
+                          'key' doors. There are lots of secret rooms and
+                          many of the doors are not obvious. Nose around.
+                          Play time averages around 20 minutes for me. 
+                          (If you know where the secret's are and don't
+                          bother to hunt for 'things' or kill stuff you
+                          can get from start to finish in three minutes)
+                          Probably be closer to 40+ for someone who 
+                          doesn't know the way around. (You should 
+                          especially enjoy the 'maze'... I still get lost
+                          in there and I BUILT the damned thing!:)
+
+Additional Credits to   : Mark Lanio, for getting me hooked on DOOM
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 (More to come, especially if I get
+                          a good response from this one)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (Not tested)
+Deathmatch 2-4 Player   : Yes (Not tested)
+Difficulty Settings     : Yes  (More Monsters...)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+
+Editor(s) used          : DoomCAD (Tried resaving it with DEU to see if
+                          that would resolve the 'bugs' listed below but
+                          got an unusable mess. I'll try again after 
+                          I've figured out DEU.)
+
+Known Bugs              : Some walls appear transparent when viewed at
+                          a certain angle.  If anyone knows what I did 
+                          wrong PLEASE drop me some email. It's driving 
+                          me batty!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. (Some email and a copy of the new level would be polite :) 
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu : wuarchive.wustl.edu
+
+BBS numbers:  N/A
+
+Other: email me, I'll send it to you. (Though, if you're reading this you've
+       most likely already got it.)
+
+*****************************************************************
+NOTE:
+There are two BMP files included with this level.  The file
+E2M1FC1.BMP shows what you would see if you had the computer map
+power-up.  There are two secret doors + accompanying rooms that 
+DO NOT show on the computer map.  The file SECRETS.BMP shows
+these rooms. Therefore, if you want to find all the secrets on
+your own, don't look at secrets.bmp.
+*****************************************************************

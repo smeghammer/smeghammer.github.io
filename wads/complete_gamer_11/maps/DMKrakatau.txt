@@ -1,0 +1,65 @@
+29. June 1998
+_______________________________________________________________________
+
+Title                   : Krakatau
+Filename                : DMKrakatau.zip
+Mapname                 : DMKrakatau
+Author                 : Christian T. De Meco
+Email                   : ctdemeco@paranet.com
+
+Description             : Some time ago, I designed a quake level called "RIM." It 
+			turned out to be very popular, distributed on several gamer disks,
+			and was one of my favorite concept levels. You'll see why it's so 
+			different when you play this new version for Unrea.
+
+                          
+
+        		 
+Thanks to         	: No one but me. I did all the work. But, I do give credit
+			to the creators of Unreal.
+______________________________________________________________________
+
+- Playing Info -
+
+Level Name              :  DMKrakatau
+Single Player           :  No
+Cooperative 2-4 Player  :  No
+Deathmatch 1-8 Player   :  Yes
+Difficulty Settings     :  none implemented
+
+- Construction -
+
+Base                    : Original
+Editor(s)               : UnrealEd Beta (worst Vertex editing I ever saw, ugh)
+Known Bugs              : The pots in the temple are shootable, but I got them to stay. 
+			Unfortunately, you can keep shooting it and create a billion
+			shards, and really mess up your frame rate. Don't do it. Not
+			even for shits and grins. If you know of a solution, please
+			email me and I'll implement it. I just didn't know how to make
+			the damn things unbreakable.
+
+Build Time              : A week
+Build Comp            	: P2 233/128
+
+_______________________________________________________________________
+
+- Info -
+Unreal Ed is tough, guys. No shit, and no shinola. Given the chance, I'd never have gotten
+started designing these levels. But, I suppose it's worth it in the end if you guys like
+the level.
+Enjoy.
+_______________________________________________________________________
+
+- Copyright / Permissions -
+Copyright 1998, CTD Ltd. Productions.
+
+Do not use this level as a base for your own levels and as a source
+for ideas. You are *not* allowed to make money out of it - meaning 
+you're not allowed to put it on a CD-ROM and sell it.
+I will give permission to gamer magazines that would like to include it on their CD's for
+free distribution. This is my donation back to the gaming community.
+
+I warn you now that getting the sphere of water to work correctly is a BITCH. I don't know
+how to re-compile this map and get them to work again. I'd love to know if you figure out
+how, though.
+

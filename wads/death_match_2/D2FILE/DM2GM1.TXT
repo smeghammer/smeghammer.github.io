@@ -1,0 +1,60 @@
+================================================================Title				: DM2GM1.ZIP (dm2gm1.wad + .txt) 
+Author				: Eric C. Reuter 
+Email Address			: reuter@merck.com
+				  (All comments, suggestions and criticisms greatly 						   appreciated; its way to quiet around here)
+
+Misc. Author Info		: I'm Sysadmin for  supercomputing with no time on my 	                				  hands, but am totally controlled by demonic forces and 
+				  have devoted myself to DOOM.
+				 
+Description			: A DOOM II combo deathmatch / single player wad, 					  designed (deathmatch) to allow for mad dashes into the
+			              open under threat of sniper fire, as well as dark ambush 					  sites. Small enough to allow for all-out slugfests as well.     
+				  Requires 2 switches be thrown to exit (not cooperatively) 
+			              There are no nasty tricks or unsolvable traps.  
+				  This wad designed for use with DOOM II and replaces
+				  map01 (level 1).  
+				  	
+				  Hope you like it, if not please tell me why, so I can 					  improve my pwad designs. 				  ================================================================
+*  Play Information  *
+
+Episode and Level #		: Episode 1 (map01) of DOOM II 
+Single Player			: Yes
+Cooperative 2-4 Player	: Yes (Untested)
+Deathmatch 2-4 Player	: Yes
+Difficulty Settings		: Yes
+New Sounds			: No
+New Graphics			: No
+New Demos			: No
+
+*  Construction  *
+
+Base				: New level from scratch 
+				  (Small area is coverted from one of 
+				    my original DOOM pwads) 
+Build Time			: Rediculously long, but who cares.
+Editor(s) Used			: Doom Editor - The Real Thing (for windows)
+				  by Geoff Allan V 2.60b2 and  3.0 alpha.
+				  Edmap 1.21 (I have had NO problems with this pgm)
+				  Doom Construction Kit 1.1 (DCK11)
+				  idbsp 1.02
+Known Bugs			: None Known or Discovered. 
+				  Please e-mail if you have any trouble.
+	
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+Authors/ Users MAY add or remove weapons, monsters and ammo
+to suit taste for playability.
+
+You MAY distribute this WAD provided you include this file with no 
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette CD, etc.) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites : 	infant2.sphs.indiana.edu
+		ftp.uwp.edu
+		
+
+
+  
+

@@ -1,0 +1,36 @@
+Doom External Wad Files:  Megalab.wad and Megawatt.wad
+
+Author:  Casey Miller
+E-mail:  98782359@wsuvm1.csc.wsu.edu  (valid address till 5/6/94)
+Organization:  Washington State University
+
+After too many hours I have finally completed my second complete external wad
+file for use with the registered version of Doom.  As promised, the zip file
+also contains a re-release of my first wad megawatt.wad.  This new version of
+megawatt has the bugs fixed and now has difficulty levels implemented.  For
+those easily offened by satanic overtones, neither level uses any satanic
+textures.  Megawatt replaces level one of episode one and Megalab replaces
+level two of episode one.  Both levels contain multi-player and deathmatch
+starting points, and skill level options.
+
+To load the levels enter:  Doom -file megawatt.wad megalab.wad
+        (Make sure both wads are in the Doom directory)
+                                                       
+Megawatt was built with the Deu 4 beta editor, and Megalab was completed with
+Deu 4 beta, then the new Deu 5, and nodes built with BSP v1.1 beta.  I can
+almost garuntee there will be no clipping.  I must give credit to the new
+Deu 5 for its auto texture align feature as Megalab would not have been
+released this soon.
+
+For those who enjoyed Megawatt, my new Megalab level should be equally
+enjoyable if not more.  Neither level abuses the player by adding too many
+monsters so you should find both reasonable to play.  I hope you enjoy and
+would appreciate any feedback at the above internet e-mail address.  I will
+graduate after the 6th so my e-mail address will no longer be valid, so don't
+bother sending me mail after that date.  I will hopefully get a new account
+in my home town within a few weeks afterwards.
+
+                               Good luck on your kills,
+
+                                        C. Miller
+                                        Babylon 5 Rules!

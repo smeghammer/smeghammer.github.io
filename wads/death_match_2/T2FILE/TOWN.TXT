@@ -1,0 +1,91 @@
+                                   TOWN.WAD
+                        THE WHOLE CITY'S GONE TO HELL!
+
+Introduction...
+
+After returning from your latest mission, you and your buddies looked forward 
+to some R&R.  Lately, it seems as though you've been plastering so many
+demons, you count them in your sleep!
+
+There's little time for rest, though.  Soon, you and your buddies are called
+into the briefing room.  Something has happened at Cydonia-130: a small 
+settlement and research station on Phobos.
+
+The peaceful settlement has been turned upside down by a hideous invasion.
+You listen to the last reports from Cydonia-130:
+
+"Our security force is trying to hold back the invasion... things are
+looking grim... they're breaking through everywhere!  My God!  Oh,
+what carnage!  Oh, the humanity!  We need help fast!  We need... oh no!
+Argh!... <slurp>... <burp>"
+
+Your commander follows with your orders:
+
+"Well, the city's gone to hell.  We need to get it back.  Your group is
+ordered to drop down to Cydonia-130 and destroy those fraggin' evil
+monsters.  The settlement is divided into 3 sections, all united by a
+central access hub.  Eradicate all enemy forces, so we can return to the
+settlement.  Chances are those evil beasts have massacred all the
+inhabitants... or maybe they've been mutated.  Whatever the case, kill
+EVERYTHING that looks mean and nasty."
+
+"Expect heavy resistance.  You will have to liberate the settlement
+building-by-building.  The settlement had an armory which might still
+have a stash of weapons that will be of great benefit.  Don't forget
+to find and destroy the enemy in the granite pits, which should be
+accessible from inside the settlement."
+
+"Also, try to find out what happened to the commander of Cydonia.  His
+headquarters is in a small palace in the northern section.  Hopefully,
+those evil monsters haven't gotten to him yet... good luck."
+
+You are transported from headquarters to Phobos.  You land, and are supplied
+with "adequate" ammunition to accomplish the task.  You move through a
+cavern, and to an opening.  Cydonia-130 lies in the distance.
+
+As you approach, you notice something in the fortifications guarding the
+entrance.  It's definitely not human.  Suddenly, you realize that this
+ammo isn't going to be enough.  This ain't gonna be a pretty sight.
+
+
+You can find TOWN.WAD via anonymous FTP at infant2.sphs.indiana.edu
+
+================================================================
+Title                   : TOWN.WAD   
+Authors                 : Kevin Haley
+                          Bill Courneya
+Email Address           : khaley@nova.gmi.edu
+
+Description             : Destroy the minions of Hell who have overrun
+                          a town.  Intense house-to-house fighting,
+                          with a few puzzles and obstacles.
+                          "Professionally designed"
+Additional Credits to   : Makers of DEU and BSP
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M6
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (designed for multi-player)
+Deathmatch 2-4 Player   : Yes!  Lots of hiding/sniping positions!
+Difficulty Settings     : Slight differences between multi/single player
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 40+ hours (approx. 2 months of development)
+Editor(s) used          : DEU 5.0/BSP 1.1
+Known Bugs              : None found 
+
+* Copyright / Permissions *
+
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (FTP site, BBS, Diskette, etc) as long as you include this file 
+intact.  Please distribute everywhere!
+
+

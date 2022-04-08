@@ -1,0 +1,76 @@
+December 4, 1998
+
+================================================================
+
+Title                   : Sweet Farewell
+Filename                : farewell.bsp
+Author                  : Cho Yan Wong
+Address           	: pwong@pobox.leidenuniv.nl
+Description             : Halflife DM level for 4-8 players. This
+                          is a conversion of my Quake2 map that
+                          appeared in Level Infinity's Red Rover
+                          mod. A couple of stuff has been added, but
+                          basically it's the same architecture. 
+                          There's a PA announcer in there that adds
+                          a little flavor.
+Special Thanks to       : Autolycus for comments, Valve for creating 
+                          Halflife, #3drealms Undernet for being a
+                          pain in the butt.
+Webpage                 : http://www.wi.leidenuniv.nl/~cwong/games
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : Occassionaly the doors will mess up.
+                          I'm afraid it's an engine bug.
+Build Time              : Unknown.
+
+================================================================
+
+
+Installation
+
+To play this level, extract the file "farewell.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map farewell" or "changelevel
+farewell" in the console. To test it out in single player mode
+start Halflife with hl.exe -console -toconsole -dev. This enables
+you to try some stuff using the cheat codes.
+
+================================================================
+
+Copyright and Permissions
+
+If you enjoy playing this level, please send me an e-mail :-)
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name FAREWELL.BSP and is supplied in a zip file called 
+FAREWELL.ZIP that also contains this text document and no other 
+files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 1998 Cho Yan Wong

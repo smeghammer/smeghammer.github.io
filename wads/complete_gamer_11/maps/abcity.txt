@@ -1,0 +1,33 @@
+------------------------------------------------------------------
+Title                   : The Abandonned City
+Filename                : abcity.bsp
+Author                  : EraserX
+Email Address           : EraserX@mindless.com
+Website                 : http://studwww.rug.ac.be/~sdelrue/
+			  http://www.planetquake.com/wireframe/
+Description             : Single Player level for Quake2
+Additional Credits to   : id Software and Lithium Software for QOOLE
+------------------------------------------------------------------
+
+
+* Play Information *
+
+ Game                    : Quake 2
+ Single player           : no 
+ Deathmatch 1on1         : nope, 
+
+* Construction *
+
+ Build Time      : 4 weeks
+ Compile Time    : 10 hours
+ Editor(s) used  : GlideQOOLE v2.5 
+ Known Bugs      : None, may run choppy in software on slow machines
+
+* Copyright / Permissions *
+
+ Authors MAY NOT use this level as a base to build additional levels.
+
+ You are NOT authorized to put  this BSP on any CD or distribute it in any way without 
+ my permission. 
+
+*Don't forget to visit my site to play my other levels and lemme know if you likes this level.

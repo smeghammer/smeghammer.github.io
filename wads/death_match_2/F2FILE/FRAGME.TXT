@@ -1,0 +1,61 @@
+================================================================
+Title                   : Frag Me
+Filename                : FRAGME.WAD
+Author                  : Alan J. Post
+Email Address           : alan@chem.purdue.edu
+Misc. Author Info       : Just another chemistry graduate student
+                          that loves to play doom.
+Description             : This DOOM II pwad was designed specifically 
+                          with 2-player Deathmatch 2.0 in mind.
+                          It features MANY different sector heights,
+                          good sniper spots, and some dark corners to
+                          hide in.  All weapons are present except the
+                          BFG (I don't like it in deathmatch).
+                          There are just enough monsters to keep
+                          things interesting.  If you don't like
+                          the number of weapons available (or the
+                          number/type of monsters) try a different
+                          difficulty setting.  Plays great with
+                          -respawn!!  This level has a cooperative 
+                          exit.
+
+Additional Credits to   : Chris Kuhl (sp?)  He gave his life many
+                          times while beta testing.  :)
+================================================================
+
+* Play Information *
+
+MAP #                   : MAP 1
+Single Player           : Yes (should take about 5 minutes)
+Cooperative 2-4 Player  : Yes (2 minutes)
+Deathmatch 2-4 Player   : Yes!! (suggest -altdeath -respawn)
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : EdMap 1.20 and 1.22
+Build Time              : Approximately 20 hours.
+Known Bugs              : Absolutely none!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. (please give me credit).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+* Where to get this WAD *
+
+FTP sites:  FTP.ORST.EDU
+            WUARCHIVE.WUSTL.EDU
+
+ 

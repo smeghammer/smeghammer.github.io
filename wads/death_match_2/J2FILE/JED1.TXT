@@ -1,0 +1,36 @@
+===============================================================
+Title                   : JED1.WAD   
+Author                  : John E. Davis
+Email Address           : N/A
+
+Description             : This is a neat little Deathmatch WAD. It's really a
+                          different level every time you play it.                                
+
+Misc Game Info          : DOOM II WAD. This WAD is error free. It's been play
+                          tested for over 20 hours. It should run fine on a
+                          386 or a 486. It's been played on both.
+
+Additional Credits to   : Chris Rock for his input and play testing.
+================================================================
+
+* Play Information *
+
+Mape Level #            : Map 01            
+Single Player           : Yes - but very difficult.
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes <- specifically designed for this.
+Difficulty Settings     : Partially implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : Unknown, been a while though.
+Editor(s) used          : DEU 5.21, BSP 1.0
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.

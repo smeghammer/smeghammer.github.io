@@ -1,0 +1,76 @@
+========================================================================
+
+Title                   :	The Vondarar Exception
+Filename                :	vondarex.bsp
+Date                    :	6-30-98
+
+Author                  : Jeff Ashley, Jr.
+Email Address           : ashtray@qx.net
+
+========================================================================
+
+The Vondarar were an old and very rich race.   Very peculiar too, you thought as you read over the mission dossier.   They had invented the SRT(short range teleport) aeons ago, and had reaped the financial benefits from every race they could for thousands of years.  Hell,  they had even sold them to the Strogg whenever the opportunity presented itself.   The capitalistic bastards believed in non-violence(of the hand-to-hand kind),  but had guns on their ships.  Very strange.  They practiced deep meditation, communal living, and avoided any sort of work like the plague.   Hmmm.  Must've been the SRTs.  They had made them very rich,  but also very lazy.  Probably the real reason why they avoided  any sort of combat of the up close and personal type.  Ask a Vondararan and they would say they didn't fight because of their religous beliefs, but that sounded kinda hollow at the moment.  The Vondarar Exception, mercenaries called it.  Well, their loss,  your gain.  
+
+Anyway,  Your mission revolves around retreiving a Vondararan ship from a band of rogue Strogg.  They had stormed it several days ago, but fortunately several Vondarars had escaped via SRTs to a passing freighter.  The ship and its cargo are of extreme importance to the Vondarar and they desperately wish its safe return.  They had also disabled the engines and the SRTs before escaping. The dossier states that the Strogg and the ship will be in a stable location for at least another twelve hours within the Carmargo asteroid belt. It is projected that it will take at least that much longer before the Strogg can gain control of the ship's systems. You are to teleport in from a safe distance and kill most(if not all) of the Strogg on board.  Unfortunately,  the long teleport will prevent taking any weapons(besides your blaster) with you.  The Vondarar have also provided a mission update computer which should(you shudder at that word) lead you through a path of least resistance.  
+
+Your ship computer squawks.  Time for the teleport.  You strap on your blaster and head for the SRT, thinking about least resistance and what that means to the Strogg......
+
+  
+========================================================================
+
+
+* Play Information *
+
+Game                    : Quake2
+Single Player           : Yes
+Coop			: Yes
+Deathmatch              : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Colored Lighting        : Yes
+
+********* Construction *
+
+Base                    : new map
+Build Time              : 1.75 hours to compile 			    
+Design Time		: Don't ask and I won't lie.
+Editor(s) used          : Qoole version 2.50. 
+ 
+********Known Bugs/Issues       : i) On start,  you will see a msg,  mangle is not a field.  Think it is a product of the info_intermission as implemented in Qoole(not sure on this).  Does not affect gameplay at all!!!!  just bugs me ;)		
+			  
+****Comments*      	 
+i)   I tried to make this one alot harder in medium skill than my last map, sandr.bsp.  
+ii) I made this level for SP, DM, and COOP.   I don't know which i like better,  the SP or DM play.
+iii) You don't need to noclip to get the blue key. 
+iv) The secrets are there and very helpful.  Look for them.
+v) please excuse any typos, runon sentences, or grammar mistakes in this readme(like you'll read it).  just getting tarred(read-tired), and want to get done with this mini-project.
+
+*** How to use this level *****
+
+1)Place vondarex.bsp into your ..\quake2\baseq2\maps\ directory.(if it don't exist-make one)
+2)then either launch quake 2 like so:   <path>\quake2 +map vondarex
+Or in Q2,  hit the ~ key(upper left hand corner)
+	 at the prompt, type:   map vondarex
+			follow this with <enter>
+			then hit ~ key again.
+
+NOTE:  You need to set the skill setting before starting the map.  The easiest way(not the only) is to start a Hard game through the Q2 main menu,  then do the ~ thing to bring up the map.
+
+
+
+***Hints****(u might want to skip)
+
+Secrets have visual clues. Watch out for spawning monsters.
+
+***Copyright / Permissions ***
+   You MAY distribute this BSP through any electronic network provided you include this file and leave the archive intact.
+   You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any other electronic format that is sold for money without my explicit written permission! 
+
+
+***Special thanks***  
+
+This map is dedicated to my nephew, Alex.  He's wanting to learn how to make maps and he fired me up to finish it. Also,   Matt(aka solusoul),  DAT, xenophobia, weaver, killbilly,  JAY,  dan the man, nealer, benjamin and johnathan @qx.net(killer lexington, ky -isp), clay, ralph, rob o, and whitefang at lithium.      
+And of course, id.  Hats off.
+
+8^L

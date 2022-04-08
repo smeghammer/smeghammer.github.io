@@ -1,0 +1,99 @@
+    TIMEBASE.TXT *********** 19 May 1998
+
+Title                : Timebase Alpha
+
+Filename             : timebase.bsp 
+                                     
+Author               : Fred Hite,Jr , a.k.a."DEVIANT"     
+
+Email Address        : fhite@ctc.net
+
+Description          : Timebase Alpha is my second Quake 2 map. Designed for
+                       single play (skill levels included) only.
+                          
+  The Story:  The Strogg are currently working on a device that could end life
+             on Earth as we know it. A Time Portal Generator is their latest,
+             and perhaps deadliest, means of attacking Earth. Your mission is
+             simple,(hehe),shut the damn thing down ! Oh yeah, casualties have 
+             been heavy lately, so you'll be going in alone. Saddle up, soldier,
+             your pod leaves at 0400 ! Stop the Strogg before they stop you.....
+             from being born !!!!!
+             
+    
+                                 
+Additional Credits to : Id Software for creating the coolest,baddest,
+                       most ass-kickin' games ever !!!!!
+                         http://www.idsoftware.com/
+                    
+                      : Ben Morris for Worldcraft, ditto , ditto, ditto,
+                       Quake and Quake 2 editor ever !!!!!
+                         http://www.gamecraft.com/
+                         
+                       : All the prefab authors who posted their excellent
+                        work on :
+                             qED Prefab Park
+                          http://www.planetquake.com/prefab/
+                             Quake Prefab Park 2
+                          http://www.planetquake.com/qpp/qpp2/
+                             Bad Monkey Prefabs
+                          http://www.rcip.com/badmnky/prefab/
+
+                        Sorry I didn't include a full list of author names,
+                        would've been quite long ! Visit the above sites to
+                        view their work and spice up your levels too !
+                       
+                       : The guys at the following sites who provide killer
+                        info and tutorials on Quake 2 editing ! 
+                             RUST
+                         http://www.planetquake.com/rust/
+                             Quake2 Workshop
+                         http://www.quake2.com/qworkshop/
+  
+          * Play Information *
+
+Level Name           : Timebase Alpha
+Single Player        : YES
+Cooperative          : NO
+Deathmatch           : NO
+Difficulty Settings  : YES
+
+
+
+          * Construction *
+Base                 : New level from scratch
+Build Time           : Couple weeks - built in spare time ; gotta work :(
+Editor(s) Used       : Worldcraft 1.6a
+Compile info         : 22 hours total- qbsp3, qvis3 -level 4, qrad3 -extra
+                        (couple fairly large and detailed areas; doh !)
+Compile machine      : PII-266, 128 MB SDRAM, ASUS P2L97 mainboard 
+
+
+          * Legal Stuff *
+        You may freely distribute this level in any non-commercial fashion 
+     ( free of charge, that is :-). If you would like to include it in a compilation
+     or other type of fee-based release, please contact me first.
+
+
+          * Other Notes *
+      
+               Send any comments or questions to :
+                 
+                            fhite@ctc.net
+
+          * Archive Info *
+Archive filename     : timebase.zip
+          Including:
+                       timebase.bsp 
+                     
+                       timebase.txt (this file)
+
+________________________________________________________________________________  
+CHECK OUT MY HOME PAGE AND OTHER LEVELS AT:
+                       
+         http://www.geocities.com/TimesSquare/Lair/1307/index.htm
+
+________________________________________________________________________________
+
+      " I love the smell of gibs in the morning !!!!!!!!! "
+                
+                      :)

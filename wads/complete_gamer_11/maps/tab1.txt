@@ -1,0 +1,93 @@
+Feb 17, 1998
+================================================================
+Title                   : Tab1: The Rebirth
+Filename                : tab1.bsp
+Author                  : Michael Contorno
+Email Address           : MBrande315@AOL.com
+Other Levels by Author  : Tab1-Tab30 - Doom2 Levels
+                          Tabmovie - Tab-VI - Doom2 multi level wads
+
+Description             : A small Strogg military installation level.
+
+                                  This is my first Quake2 level. Mind you, I
+				have created many other levels and threw them away
+				as learning experiences, so this is my first level
+				I felt was half-way decent. Hope you like it!
+
+					 
+Additional Credits to   : id for the game and the QuArk Editor
+                          
+                   Jeff (Death) Cunningham & Michael (L.M.) Gilbert
+                                   Beta Testers
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes!!!
+Cooperative             : No
+Deathmatch              : Yes (8 starts)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+===============================================================
+
+* Instructions to Run *
+
+To run the level, create a directory off of your
+baseq2 directory called MAPS (c:\quake2\baseq2\maps\)
+and put Tab1.BSP there
+
+When Quake2 is running use the console (~) and type...
+
+skill 0,1, or 2
+map tab1
+
+===============================================================
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : QuArk
+
+Known Bugs              : None that I know of.
+
+Build Time              : 1-2 weeks, on and off.
+
+Texture Wad used        : QUAKE2 textures
+
+Compile machine         : P166 with 32 Meg
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+Do whatever you want with this level, just give me credit for the base ...
+that's all I ask - and send me a copy of what you do!
+
+You CAN distribute this on a CD if you want, but not for profit (unless you
+ask me and give me a cut! ).
+
+
+
+
+
+
+Disclaimer: 
+This file is provided by the author "as is", and any express or implied
+warranties, including, but not limited to, the implied warranties of
+merchantability and fitness for a particular purpose are disclaimed.  In
+absolutely no event shall the authors be liable for any direct, indirect,
+incidental, special, exemplary, or consequential damages (including, but
+not limited to, procurement of substitute goods or services; loss of
+use, data, or profits; or business interruption) however caused and on
+any theory of liability, whether in contract, strict liability, or tort
+(including negligence or otherwise) arising in any way out of the use of
+the information herein contained, even if advised of the possibility of
+such damage.

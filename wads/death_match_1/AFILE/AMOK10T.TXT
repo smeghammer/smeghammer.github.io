@@ -1,0 +1,67 @@
+============================================================================
+Title                  : DOOMED to Run Amok v1.0 
+Filename               : AMOK10t.WAD (t=Total Build, with Sound, Music, etc.)
+Author                 : David L. Davis
+Email Address          : (None)
+Misc. Author Info      : In late 30's, SR. PC Programmer / Analyst, and
+                         bitten with "DOOM" madness!
+
+Description            : Waste the "BAD GUYS", what else?.
+
+Additional Credits to  : id Software Team 
+                         (DOOM "The Game" / "The Graphic Engine")
+                         Brendon Wyber  (DEU v5.21 / Map & Thing Editor)
+                         Raphael Quinet (DEU v5.21 /  "  "   "      "  )
+                         Colin Reed (BSP v1.2x / DOOM Node Builder)
+                         Bill Neisius (DMMUSIC v1.0a / Music Util)
+                         Bill Neisius (DMGRAPH v1.0  / Graph Util)
+                         Bill Neisius (DMAUD   v1.1  / Audio Util)
+                         Matt Fell (The "OFFICIAL" DOOM FAQ v5.6 / Info)
+                         Matt Fell (The "UNOFFICIAL" DOOM SPEC v1.3 / Docs)
+                         MDC Development (TEXTREF v1.0 / Docs)
+                         Brain Marshall (DOOM 3D Engine Techniques / Info)
+============================================================================
+
+* Play Information *
+Episode and Level #    : E2M1
+Single Player          : Yes
+Cooperative 2-4 Player : Yes *Not Tested*
+Deathmatch  2-4 Player : No
+Difficulty Settings    : Yes
+Exit Level             : Yes (That's if you can get by the Cyber-Demon!) 
+New Sounds             : Yes, Replacement Sounds for Plamsa Gun, 
+                         Rocket Launcher, and a few others.
+New Graphics           : Yes (Status Bar now has a Marble Face), 
+                         a new TekDoom Door, and TekCude (Wall Textures)
+Special Graphics       : a Preview of a few Villains from DOOM II within 
+                         a hidden secret room. (Wall Textures)
+                         ("DOOM II ...its going to be HELL on EARTH!!") 
+New Music              : Yes, (New Age - Title Unknown)
+Demos Replaced         : None
+
+* Construction *
+Base                   : Brand-Spanking New level from scratch
+Build Time             : 180+ hours (Every free moment for a month, course 
+                         rebuilds can take a little while on a 386DX/25 Mhz
+                         machine with a Big WAD like this one!!.) Plus
+                         the time to learn how to use DEU, BSP, DOOM Utils, 
+                         and reading all the DOOM information out-there!
+Editor(s) used         : DEU v5.21, BSP v1.2me (a Recompiled version of 
+                         BSP v1.2x with Math Emulation Support)
+                         DMMUSIC v1.0a, DMGRAPH v1.0, & DMAUD v1.1  
+Known Bugs             : Some Texture Alignment Problems.
+
+* Copyright / Permissions *
+Authors may NOT use this level as a base to build additional levels, but 
+portions of this level may be "cut and pasted" into your own base levels if
+original authorship is placed within the "Additional Credits" section.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+FTP sites: (None)
+BBS numbers: Software Creations BBS (508) 368-7036
+Other: (None)

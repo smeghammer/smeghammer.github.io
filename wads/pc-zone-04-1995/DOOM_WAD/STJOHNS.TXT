@@ -1,0 +1,49 @@
+STJOHNS.WAD
+===========
+
+This is a (fairly) topologically accurate map of St John's College,Cambridge.
+Architecturally speaking its fairly reasonable too (at least I think so).
+Contains no altered bitmaps,textures, sprites or sounds.
+Extensively play tested, designed primarily for deathmatch but single player
+is ok. A co-operative ending is required (2 players in co-operation) for a
+net game.
+
+Secret passages are (mostly) relevant to St John's College and to the author,
+a graduate of St Johns . A working knowledge of St John's will help you find
+your way around.
+
+INFO
+====
+Patch level - E2M1, could be changed if wished.Contains a cyberdemon, so maybe
+not E2M8.
+Difficulty levels allowed for.
+Editors  - doomcad,deu,dmapedit.
+Node builders - BSP,IDBSP10
+Writing time - about 3 weeks, on and off.
+
+BUGS
+====
+When compiled under IDBSP10, there is a Hall of mirrors effect visible at the
+top of the "chapel tower" when viewed from the "main gate".This bug disappears
+when compiled under BSP.However the IDBSP version is a fair sight faster
+(due to having the reject resource) so is more suited to a net game.Both
+versions are included.
+
+DISTRIBUTION
+============
+STJOHNS.WAD - IDBSP compiled, recommended for net.
+STJNOHOM.WAD - BSP compiled, slower, no reject, no HOM.
+STJOHNS.TXT - this file
+
+This wad file should not be incorporated/altered without the authors permission.
+A Cambridge mission may be put together at some point in the future, time
+allowing (the Cavendish physics labs have already been done by somebody else).
+
+AUTHOR
+======
+Ian Calderbank (itc@eng.cam.ac.uk)
+Donations to the author's May week beer fund gratefully received,
+ c/o St Johns College
+        Cambridge
+        UK
+

@@ -1,0 +1,82 @@
+
+
+3/2/98
+==============================================
+Title:			: Terran Torture
+Description:		: Single Player/Deathmatch Map For Quake 2
+Filename:		: homers7.bsp
+Author			: "Homer[CK]" -Dave Waters, Long Beach, CA
+E-mail Address		: baseman@msn.com
+Author's Other levels	: Homers 1 thru Homers 51 for Classic Quake
+			  Homersq2-1 thru -6 for Quake 2.
+
+Credits :Special thanks to Worldcraft, and Id Software.	Quake 2 rules !
+         Thanks to Dome, Talons Strike, Spawns Lair, The Quake2 Deathmatch 
+         Map Depository, and the rest of the web sites who gave me decent 
+         reviews. Homer appreciates your comments and criticisms.   
+			 
+
+Welcome to Terran Torture ! This is homers first attempt at making a
+Single player level, and deathmatch too ! I must warn you that this
+level is a pretty tough one. No wussies will make it to the end on
+their first try here. Homer also tailored this map to play extremely
+well for deathmatch also. The monsters will give you plenty of ammo
+along with the stuff already placed by homer. There's one secret in
+this map, and it will really help you if you find it(hint-crouch).
+The computer helper will guide you through the level so you don't
+wander around aimlessly. Watch for monsters in places you already
+covered! This level is designed for use with medium to high power PC's
+with ample RAM and 3DFX cards. Good luck and enjoy Terran torture.
+Unzip the bsp file to your Quake2/baseq2/maps folder.
+Type map homers7 at the console, and frag away !
+All of Homers Quake 2 maps are available at ftp.cdrom.com,
+and many Quake 2 review sites. If you want a DM level for
+classic Quake, contact me by E-mail. I have some excellent ones. 
+
+==============================================
+
+* Play Information *
+
+Single Player          :Yes
+Cooperative            :No
+Deathmatch             :Yes
+Recommended DM players :4-10
+DM Starts              :8
+CTF                    :No
+New WAV files          :No
+New graphics           :No
+Explosions             :Yes
+Weapons-Ammo           :Plenty
+Powerups               :Yes
+Difficulty Settings    :No
+Exit                   :Yes/SP only
+Demos Replaced         :None
+Recommended Hardware   :200mhz. CPU or better; 32 megs. RAM; 64 bit
+                        graphics and 3DFX accelerator or equivalent
+  
+* Construction *
+
+Base                   :Scratch
+Build time             :50 hrs.
+qbsp3 time             :3 min.
+qVis3                  :70 min.
+qrad3                  :15 min.
+Compiler               :AMD-200 with 64 megs-o-ram/3DFX 
+
+Please forward any comments to Homer about this map, 
+and report any bugs to the E-mail address above.
+
+==============================================
+
+* Permissions *
+
+This level may be used and distributed freely, so long as the text 
+is included with the bsp file unaltered. Level authors may not use
+this map as a base to build on. Please give credit where it 
+is due. You must get my permission to put this map on a CD or any
+other electronic media if you intend to sell it.
+Homer is a proud member of clan Kevorkian, where our motto is " Let us put you out
+of your misery ". Check out our website at http://home1.gte.net/alaniz1/index.htm
+If you live in the greater Los Angeles area, You might be able
+to join in on one of our Death Tour LAN parties.
+Thanks and happy fragging.......Homer

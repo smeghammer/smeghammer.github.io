@@ -1,0 +1,77 @@
+Title                   : Body Bag
+Filename                : bodybagg.wad
+Author                  : Mark Neale
+Email Address           : markneale@aol.com
+
+Author Notes            : This hideous creation is my first attempt at 
+                          making a doom level.  I hope you find that it
+                          tests all of your doom skills.  I am very proud
+                          of the first room (has been called "the court-
+                          yard" by my playtesters), you will grow to hate
+                          that room.  Good luck to all!
+
+Description             : Teleported into a frenzy of violence your
+                          mission, should you choose to accept it, is to
+                          waste as many mutants that you can and escape
+                          alive!
+
+Level notes             : This is a small to medium sized level with lots
+                          of grunts and lots of action.  Start moving
+                          as soon as the game begins you will need to. If
+                          you are good enough you can end this level with
+                          all of the weapons and loads of ammo (if you
+                          don't get a shotgun you are not playing right).  
+
+Misc.                   : Making this level was a good learning experience.
+                          I now know what it is like to have an obssession.
+                          I urge anyone, that hasn't already done so, to
+                          get involved in editing doom wads.  It is very
+                          very addicting.  It is also very gratifing to
+                          have your friends become horrified by the
+                          violence you unleash.
+                          Don't forget em oh oh en spells tool.
+
+Special Thanks to       : ID for this great game.
+                          Mike for getting me hooked on it.
+                          Chris, Andy, Kyle for letting me watch their
+                           reactions as they played my wad.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2/4 Player  : No (not really big enough)
+Deathmatch 2/4  Player  : No (same thing)
+Difficulty Settings     : Yes (but should be played in
+                                ultra-violence the way life should be)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Construction time       : 40 to 50 hours
+Editor(s) used          : DOOM CAD
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  Authors may alter or play or do with this level pretty much
+anything they want, I only ask that you give me credit.
+
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+America Online: DOOM area nuff said
+
+P.S. The extra 'g' is for extra GORE.

@@ -1,0 +1,47 @@
+Title           :       Under The City
+Author          :       Mark Matheson
+Email           :       100067,1304
+
+Description     :       You've wiped clean the city, but you realise
+			there's more awaiting down below. You climb down
+			the nearest drain and find the door into the
+			sewers. Carefully you open the door and go through.
+			They haven't noticed you yet. Time to kick ass...
+
+Credits to      :       id Software for the obvious
+			The guys who made DEU
+			The guys who made Doomed - The Real Thing
+			The guys who made DoomCAD
+			The guys who made Doom Construction Kit
+			The guys who made BSP and BSPW
+			Finally thanks to Nigel Rowand and
+			my brother Liam for testing it for me.
+
+-- PLAY INFO --
+
+Level           :       E2M1
+Single Player   :       Yes
+Cooperative     :       Yes (2-4 Players Untested)
+Deathmatch      :       Yes (2-4 Players Untested)
+Difficulty      :       All Options Available
+
+-- OTHER INFO --
+
+Loading         :       Put UNDER.WAD in your DOOM directory and type
+			DOOM -FILE UNDER.WAD
+			Select THE SHORES OF HELL and your preferred level
+			to play
+
+Distribution    :       Doomers / Publishers and anyone else may distribute
+			or modify this level as much as they want. I did this
+			level for fun, and you can too.
+
+Bugs Fixed      :       I fixed a couple of hall of mirrors, I dont think 
+			there are any more errors...Tell me if there are.
+
+
+Items altered   :       I have replaced one set of stairs with a lift, 
+			altered some textures and put in a wall at the top of 
+			the NUKAGE stairs.
+
+MDM

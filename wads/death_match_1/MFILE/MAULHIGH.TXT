@@ -1,0 +1,98 @@
+Hi all, This is an entirely new pwad for doom. I did most of the 
+work for this level last summer, but only recently put on the
+finishing touches. I spent A LOT of time on this wad, working on the
+textures and perfecting the lighting. I think you will also find
+another surprise all over the level that took a long time to do. I
+hope that all my work has produced a fine pwad that you will like.
+Also, I must say, bitchin music!
+
+Enjoy!
+
+MAULHIGH.WAD is for registered DOOM.
+
+I've also released MAULHI2.WAD for DOOM II. 
+
+================================================================
+Filename                : MAULHIGH.ZIP
+Author                  : Jason Franklin
+Email Address           : jayson@cs.tamu.edu
+Short Description       : In MAULHIGH, the creatures of the pit have
+			  created their own version of a highschool.
+			  This seems reasonable enough, I always
+			  thought highschool was close to hell. But
+			  there is the slight possibility they might
+			  actually learn something and the idea of
+			  barons of hell with mass produced plasma
+			  rifles and combat armor is quite unsettling.
+			  You must end this before it can get started.	
+		
+Description		: Take on hell spawn in a highschool setting
+			  you could only find in DOOM. The level is
+			  fully equiped with lockers (with strange
+			  contents), teachers (Ha! take THIS Mrs.
+			  Bolton! BOOM!), students (poor saps, put
+			  them out of their misery), a floating
+			  principal and a detention must worse than
+			  any that's ever been seen before! Then, in
+			  the final areas you must pass the tests to
+			  get out alive. By the way, remember to
+			  always flush!! and don't eat the food.
+		
+Additional Credits to   : Id, the authors of DEU, IDBSP, WAD_DWD, 
+			  and all my playtesters and
+			  Herve.Benvel@inria.fr for the great music.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : YES
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU (5.21 GCC version), WAD_DWD/IDBSP,
+
+Known Bugs              : Bugs? Bugs? We don't need no stinking bugs. 
+ 			  But if you find any please e-mail me so I
+			  can fix it!
+
+Other			: Nothing else, I just hope that you like it!
+			  It's very very large.		  
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, I don't know why you would, it's too damn big already.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this work in any electronic
+format as long as you include this file intact. However, this WAD may 
+only be commercially distributed (on CD, magazine cover disk, via a 
+shareware vendor etc) if I am sent a copy of the distributed material. 
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com and mirrors. Currently in the 
+           pub/doom/incoming dir.
+
+Other: will be posted to UseNet newsgroup alt.binaries.doom
+
+Also: WANTON.WAD for DOOM and  WANTON2.WAD for DOOM II!
+
+and try MAULHI2.WAD, which is maulhigh for use with the registered
+DOOM II.
+
+Please tell me what you think of MAULHIGH. 
+Email me at jayson@cs.tamu.edu.
+
+
+
+

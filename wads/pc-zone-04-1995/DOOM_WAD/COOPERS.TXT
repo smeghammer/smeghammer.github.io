@@ -1,0 +1,112 @@
+Title                   : Cooper's Creosote
+Filename                : COOPERS.WAD
+Author                  : Stephen Wassell
+Email Address           : SWassell@sound.demon.co.uk
+Misc. author info:      : If anyone would be kind enough to
+                            a) Review this wad
+                            b) Upload it to infant2
+                          then please EMail me.
+
+How to play it          : (insert obvious stuff here)
+                          If you have version 1.4 shareware and
+                          1.2 registered (as I have), then use
+                          the 1.4 .exe with the 1.2 .wad, and
+                          add the bitmaps WIMINUS and STTMINUS,
+                          as done by this level. It'll quit if 
+                          you let it run a demo, so be quick!
+
+Description             : This is a very large wad (about 230k),
+                          mainly because of all the detail I
+                          put in. I would have released it a lot
+                          earlier, but I had to wait for the GCC
+                          version of DEU when it got too big. 
+                          Then, I had to wait for Doom 1.4 when
+                          it got too complex. But now I have got
+                          everthing finished, and if you run it
+                          as described should be no HOMs, etc.,
+                          unlike some... It will probably run
+                          slow in places on less than a DX2, but
+                          I had to comprimise for quality. I hope
+                          that I have made this level fun to play
+                          as well as good to look at, but only
+                          you can decide that.
+
+Features:               : 39 imps    
+                          38 sargeants
+                          33 troopers
+                          26 lost souls
+                          23 spectres
+                          13 cacodemons
+                          11 demons
+                          5 barons
+                          1 cyberdemon
+                          Independant paths that cross
+                          Non-orthagonal crates, doors & paths
+                          Fairly sensible textures
+                          Several secret areas (none too obscure I hope)
+                          Bits that go up and down
+                          Color-coded doors
+                          Surprises & ambushes
+                          Giant pyramid - watch cyber fall down it!
+                          Proper windows (idea from HELIPAD.WAD
+                                          by Sean R. Malloy)
+                          
+Background story        : The Cooper's Creosote factory has been
+                          taken over by the Cyberdemon with his
+                          evil hordes of hellspawn, and everyone
+                          working there has been violently killed
+                          or enslaved. It is up to you to stop
+                          them. Cooper's Creosote is a toxic,
+                          orange-brown liquid made by boiling
+                          water, nuclear waste, and blood under
+                          pressure - not wood tar, as many people
+                          think.
+                          
+Additional Credits to   : The writers of DEU, BSP, IDBSP,
+                          Doom, and anything else I used.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (untested)
+Deathmatch 2-4 Player   : Yes (also untested)
+Difficulty Settings     : Yes (the cyberdemon got away on HNTR and ITYTD)
+New Sounds              : No
+New Graphics            : No
+New Music               : No - I couldn't find MID2MUS
+Demos Replaced          : None
+Completion time         : 30-40 minutes on UV
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 GCC
+Known Bugs              : It only works properly on 1.4 or over.
+                          The lift up from the nukeage bit with lost
+                          souls you teleport to (you'll see it) goes
+                          green when it is activated. Also, it very
+                          occasionally goes down, not up. I tried
+                          all the linedef types, but no luck.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. (unless they ask nicely)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites               : infant2.sphs.indiana.edu (soon)
+
+BBS numbers             : Sound & Vision on 0932 252323
+                          Ask & Recieve on 0923 460213
+
+Other                   : My hard disk

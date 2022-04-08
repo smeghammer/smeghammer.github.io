@@ -1,0 +1,71 @@
+================================================================
+Filename                : CHRIS_E1.WAD (Version 1.6)*
+Author                  : Christen David Klie
+AOL Screen Name         : OlivrSuttn
+Additional Credits to   : Gerrilynn Klie
+                          Mark Borczon
+                          Matt Borczon
+                          Mal Blackwell (esp. for the bathrooms)
+                          John W. Anderson
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1; E1M2; E1M3; E1M4; E1M5; E1M6;                      
+                          E1M7; E1M8; E1M9.
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch, except E1M8,
+                          for which I used id Software's "Phobos
+                          Anomaly" as a base.
+Editor(s) used          : DEU 5.2.1; BSP 1.0; REJECT 1.0
+Thanks                  : I would like to thank everyone listed in 
+                          the "Additional Credits" section.  With-
+                          out their input and support, I would have
+                          stopped building after E1M3.  I would also
+                          like to thank PCC Jon and PC Sylva at AOL.
+                          Their kindness and patience have been a
+                          blessing, to say the least.  And, most
+                          importantly, I'd like to thank all the 
+                          members of on line services who downloaded
+                          these maps individually.  I hope you'll
+                          enjoy playing these as a coherent episode.
+
+* Copyright / Permissions *
+
+Authors may NOT use this WAD as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+America On Line PC Games Forum.  
+
+* Version 1.1: endgame changes made.  
+  Version 1.2: minor mapping problems corrected (map 7).
+  Version 1.3: secret level added; levels 3 and 4 switched (corrects a
+  transition problem).
+  Version 1.4: texture mismatch problem corrected (map 9); E1M4 & E1M5
+  switched.
+  Version 1.5: reject data re-built at a consistent setting (1280);
+  map order restored to Version 1.0 condition; secret-level access
+  switch changed; minor mapping problem fixed (map 1); wavering wall 
+  repaired (map 3); ceiling texture fixed (map 9).
+  Version 1.6: corrected secret-level (E1M9) design flaw which trapped
+  players in the green marble room.
+
+Check out EDEN and REDRUM by Mal Blackwell, as well as DANTE'S GATE and
+CROSSING ACHERON by John W. Anderson.  I drew much inspiration from the
+works of Mal and John.  :)

@@ -1,0 +1,120 @@
+=======================================================================
+VERY Important - You will need at least 32meg of ram to play this level
+Due to the Large Filesize this level takes quite a few secs to load.
+Dont worry q2 hasnt crashed.
+=======================================================================
+May 4, 1998
+=======================================================================
+
+Title         : Chemical Plant
+		(Sorry, I forgot to change it to somthing more interesting
+		before the final compile, and i AM NOT COMPILING IT AGAIN)
+
+Filename(s)   : chemp.bsp(5.5meg ouch) chemp.txt(this file)
+
+Author        : gIbBeR[insert spoof clan here] aka Matt Barnett
+
+Email         : mbarnett@dial.pipex.com
+		feel free, i dont get enough
+
+Homepage      : (Bad) http://ds.dial.pipex.com/town/terrace/qg20/matt
+
+Description   : Very big SPQ2 level. Coop starts included. No DM support
+
+Story         : (please excuse my shit spelling)
+		Rumours are rife of a secret strogg chemical plant on one
+		of stroggos small moons. Recent recon expeditions have confermed
+		its exsistance and that the strogg may well be developing some
+		sort of product for use in chemical weapons. This must not
+		be allowed to happen. A squad of paratroopers will be dropped
+		on the outskirts of the plant. You will be ocompanying them.
+		You mission is to destroy the reaction vessel deep within the
+		chemical plant, It may even be underground, and then rendez vous
+		with surviours at the surface and await the rescue party.
+                
+Bugs/Problems : The area with the brain just past the green lit pipes probably
+		would be completely flooded in real life :)
+                
+Installation  : 1) Unzip the file into \quake2\baseq2\maps\
+                2) run quake2 like this
+			quake2.exe +set skill x +map chemp
+			where x is a skill number from 0(easy) through 2(hard)
+
+Credits	      :In no particular order
+
+	       Id software (www.idsoftware.com)
+	       Justin Kimber (Kimber@bigpond.com) 
+		(I used a modifed version of his DrawBase) 
+	       Autolycus (autolycus@planetquake.com) 
+		(For the Pipes Prefab that comes with worldcraft)
+	       Ben Morris and Valve (http://www.worldcraft.com)
+		(For Worldcraft)
+               GrandMaMa(granny@planetquake.com) and Fishman(fishman@planetquake.com)
+		(For Rust)
+	       Michael Meadows(mmeadows@iwaynet.net)
+		(Massive Thanks for beta testing)
+	       Tim Wright (argh@ntplx.net)
+		(ArghRad, say no more)
+
+	       Anyone Who plays this level and/or gives me feedback
+================================================================
+
+Play Information
+----------------
+
+Single Player      : Yes
+Difficulty Settings: Yes, (Hard is quite hard)
+Cooperative        : Yes, (4 starts)
+Deathmatch         : No , (Noone would play it even if i put starts in)
+
+
+Construction
+------------
+
+Base           : Nadda
+Editor(s) used : Worldcraft...1.5SW    hacked to support Q2 
+		 Worldcraft...1.5b reg hacked to support Q2 
+		 Worldcraft...1.6
+Map Info       : 3656 Solids
+		 22371 Faces
+		 482 Point Entities
+		 138 Solid Entities
+Build Time     : 5th amendment
+Compile Times  : in seconds,
+		 Qbsp3 0..1..2..3..4..5..6..7..8..9 (55)
+		       0..1..2..3..4..5..6..7..8..9 (55)
+		       Total 4307 seconds
+		 Qvis3 0..1..2..3..4..5..6..7..8..9 (468)
+		       0..1..2..3..4..5..6..7..8..9 (11837)
+		       Total 12622 seconds
+		 Qrad3 -extra -bounce 40
+		       0..1..2..3..4..5..6..7..8..9 (3391)
+		       0..1..2..3..4..5..6..7..8..9 (1976)
+		       0..1..2..3..4..5..6..7..8..9 (1034)
+		       Total 9753 seconds
+
+Notes
+-----
+Feel free to mail me any feedback youve got.
+
+Known Bugs
+----------
+One small area of HOM and one quite large one(bottom of lift shaft)
+Both of these are caused by the bug in vis, so its not my fault:)
+If anyone has got any advice as to how to get rid of it please mail me.
+I really hope it doesnt spoil your enjoyment of this level.
+
+
+Copyright / Permissions
+-----------------------
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+You may distribute this .bsp freely, provided you include this .txt file
+and leave the archive intact. If you'd like to use this level in any other
+way, please contact me. 
+If these files adversely affect your, or anyone else's system,
+I do not accept liability either in negligence or any other type.
+You have voluntarily accepted any risks of damage that may result from their use.
+Any loss you suffer from these efects is non-recoverable from me, and this includes
+financial, economic, or consequential loss.

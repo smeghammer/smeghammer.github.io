@@ -1,0 +1,66 @@
+================================================================
+Title                   : 'Not For Cowards' 
+Filename                : COWARD.WAD
+Author                  : Matt Fox
+Email Address           : Compuserve 74354,226
+Misc. Author Info       : Doom Fanatic; Semi-Educated .WAD Author;
+			  Video Game Freak; Budding Film Maker;
+			  Cat Lover. ;)
+
+Description             : You have been abandoned at the entrance of
+			  what seems to be a quiet deserted base.
+			  Quickly, you discover an odd-shaped, four
+			  cornered room with four separate teleporters.
+			  You must now decide which one to take, and only
+			  ONE way leads out!
+
+Additional Credits to   : id for the greatest game this past year, and the
+			  greatest this year, Doom II!
+			  Also Geoff Allan, author of DoomEd, The 'Real Thing'
+			  Colin Reed for the BSP
+			  Mike Odom for the 'Concept' 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No, Sorry!
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No, Maybe next Time!
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd -The Real Thing-, DCK and DEU for error 
+			  checking. Reject Map Builder ( It Works! )
+Known Bugs              : None this time, I hope!
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: Compuserve, Gamers+ forum!
+
+
+I would love a response, but I'm not holding my breath!  Next one may
+  be a Doom II level!

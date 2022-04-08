@@ -1,0 +1,50 @@
+06/29/1998
+================================================================
+Title                   : Saving Private Bitterman
+Filename                : spb1.bsp
+Author                  : Michael Shand
+Email Address           : shand@pangea.ca
+Description             : Quake II Single Player Level
+================================================================
+
+* Play Information *
+
+You are a Marine on a secret mission before the initial attack on Stroggos. However your priorities change when you learn that the strike is in jeapardy. A transmission from Private Lovejoy reveals the actual radar computer that threatens to  detect and totally destroy the entire strike force. Coordinating together you and Private Lovejoy plan an early morning infiltration of Base1. His mission is to open the rear gate with a stolen passcard and escape as a decoy while you slip in undetected. Once inside you will have to destroy the computer and plant an airstrike target to guide any approaching Marine Pods to the location. Now under radio silence in an unchecked cargo container you wait to be delivered to the rear depo of Base1 where you will begin your mission...  
+
+Single Player           : yes
+Cooperative             : No (I would hate to see two Quake Marines                                      stuffed in one Cargo container)
+Deathmatch              : NO
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+
+Base                    : none
+Editor(s) used          : Virtus 
+Build Time              : 2weeks
+
+* Other Maps*
+ -The Cistern 2 
+ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/d-f/dm5-2.zip
+
+ -The Rocket Lab
+ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/m-o/msdm4.zip
+
+
+* Credits *
+
+-Virtus and Id Software
+-Xine
+
+* Author *
+
+Name  : Michael Shand
+E-mail: shand@pangea.ca
+Alias : Asscrisps
+
+
+* Copyright / Permissions *
+
+You may include this level in any type of non-commercial release so long as you include my text file and give me proper credit. 

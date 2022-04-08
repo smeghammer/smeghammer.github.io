@@ -1,0 +1,35 @@
+================================================================
+Title                   : Bite_it.wad
+Author                  : Larry Farr, Toronto Canada
+
+Additional Credits to   : the maker of DoomEdit for Windows
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Many many hours
+Editor(s) used          : DoomEdit for Windows
+Known Bugs              : Some door textures out of alignment...oh well. 
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.
+
+Note : This level has no exit

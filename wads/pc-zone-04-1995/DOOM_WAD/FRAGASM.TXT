@@ -1,0 +1,51 @@
+================================================================
+Title			: Fragasm
+Filename		: FRAGASM.WAD
+Author			: Scott Coleman
+Email Address		: tmkk@uiuc.edu
+Misc. Author Info	: President, American Society of Reverse Engineers
+
+Description		: A two-level fast-paced DEATHMATCH 2.0 frag fest.
+			: E1M2 of this PWAD was previously released
+			: separately under the name OCTAFRAG.WAD
+
+Additional Credits to	: The CES Marines for mucho playtesting.
+================================================================
+
+* Play Information *
+
+Episode and Level #	: E1M1,E1M2
+Single Player		: Not Recommended
+Cooperative 2-4 Player	: Not Recommended
+Deathmatch 2-4 Player	: Yes!
+Difficulty Settings	: Yes (Plasma gun in E1M1 appears only on HMP or above)
+New Sounds		: Yes
+New Graphics		: No
+New Music		: No
+Demos Replaced		: Yes
+
+* Construction *
+
+Base			: One new level from scratch, one minor redesign of
+			: exising OCTAFRAG
+Editor(s) used		: DEU 5.21
+Known Bugs		: None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+infant2.sphs.indiana.edu:/pub/doom/incoming/fragasm.zip (temporarily)
+
+mrcnext.cso.uiuc.edu:/asre/fragasm.zip
+

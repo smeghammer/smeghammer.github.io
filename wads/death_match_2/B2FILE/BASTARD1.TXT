@@ -1,0 +1,59 @@
+This is our first offering.  It's the first substantial level we've written,
+and we did a LOT of learning about DEU while building it.  All in all, we
+spent scores of man-hours on it (please don't tell our advisors!), which
+might not have happened if we hadn't kept changing everything.  We'd
+appreciate any feedback you'd like to offer us.
+
+We're already well under way designing levels 2-9, and hope to have them
+done soon.  Hope you like it!
+
+================================================================
+Title                   : BASTARD1.WAD
+Author                  : Ben Lagow and Mike Arnett
+Email Addresses         : gambit@uxa.cso.uiuc.edu (Ben)
+                          marnett@uxa.cso.uiuc.edu (Mike)
+Misc. Author Info       : Materials Science grad students.
+
+Description: 
+
+First in a series of nine maps which together will comprise the "It's a
+Bastardly Day in the Neighborhood" episode.
+
+Level 1:  Well, you made it out of Hell all right, but the second you get
+home, you hear teleport sizzles all around you...those bastards have
+followed you!  Looking out the window, you can see they've got the
+building surrounded...and you can hear the grunts of mutant soldiers coming
+from inside your door...
+
+You've fought those bastards on their own turf and won.  Now they're back to
+even the score.  Fortunately, you've got a few tricks up your sleeve...
+not to mention your general issue pistol...
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes (although we haven't tested it)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Easy, Medium, Hard
+New Sounds              : None
+New Graphics            : None
+
+* Construction *
+ 
+Base                    : New level from scratch
+Build Time              : I can't count this high...
+Editor(s) used          : DEU 5.0 & 5.1, BSP 1.0
+Known Bugs              : None 
+
+* Copyright / Permissions *
+ 
+Authors may NOT use this level as a base to build additional
+levels, nor may it be included in an episode package, without permission
+of the authors.
+
+* Where to get this WAD *
+ 
+FTP sites:      ocf.unt.edu
+
+

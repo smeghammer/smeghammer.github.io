@@ -1,0 +1,58 @@
+================================================================
+Title                   : JUMP.WAD   
+Author                  : Tom Smith (Xanth1 or SkyXanth1)
+Email Address           : 
+Misc. Author Info       : Deathmatch finatic !!! ;)
+
+Description             : This file is a modified version of episode 3
+			  level 6.  I modified it for deathmatch play
+			  and basically kept the same map, but re-colored
+			  it,and raised and lowered some of the floors.
+			  This level also contains an overkill of weapons
+			  and health. (the name comes from the big JUMP in
+			  the northern section of the map, 500 to -511)
+			  
+
+Additional Credits to   : Ken Knight @ Edwards, AFB CA.....You DAWG !!!
+
+================================================================
+
+
+* Play Information *
+
+Episode and Level #     : E1M1 (,ExMx,...)
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes (Van Halens Jump, specially modified for 
+			       Sound Blaster Pro)
+Demos Replaced          : No
+
+
+* Construction *
+
+Base                    : Modified E3M6
+Build Time              : I'd say about 50 or 60 frags worth to get it right 
+Editor(s) used          : DEU 5.1, BSP 1.0, DEUH 5.1
+Known Bugs              : None that I'm aware of (there is no exit, I planned
+			  it that way)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+
+America Online
+infant2.sphs.indian.edu
+

@@ -1,0 +1,91 @@
+1998-04-23
+
+================================================================
+
+Title                   : Angron Installation
+Filename                : angron1a.bsp / angron1b.bsp
+Author                  : Jonas N.P. Lindstrom
+Address           	: j.n.p.lindstrom@pitea.mail.telia.com
+Description             : Quake2 map. Strict single player.
+			   
+Story			: Makron is dead, in the enternal struggle
+                          for power in the strogg society leads us to
+                          believe that an ancient installation
+                          has been retrofitted and made operational.
+                          Doing so the Warlord Angron hopes to
+                          gain power and command. The installation 
+                          is a great threat to future operations
+                          and should be destroyed. An advanced
+                          search and destroy team is missing.
+                          Your mission is to destroy the installation.
+                           
+================================================================
+
+Other maps:
+
+Quake
+ Sadlark series:
+  sadlark2 sadlark3 sadlark4 sadlark5 sadlark6 sadlark7 sadlark8 sadlark9
+ Download from:
+  http://www.cdrom.com/pub/quake/levels/s-u/
+
+================================================================
+
+Play Information
+
+Single Player           : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                     : New level from scratch
+Editor used              : Worldcraft 1.6a
+Known Bugs               : Mail me! 
+Build Time               : About 4 weeks
+
+Prefabs used             : Floor hatch by EutecTic (jfgrol@cam.org)
+                           Q2breaker   by EutecTic (jfgrol@cam.org)
+
+Texture Wal used         : Quake2 standard
+			  
+Compile machine          : P133 48mb
+
+QBSP3 Time               : (50s)        / (1m 15s)
+QVIS3 Time               : (3h 44m 31s) / (16h 39m 52s) !!
+QRAD3 Time               : (29m 44s)    /  (2h 7m 24s)
+
+Brushes                  : 6497 / 7189
+Point entities           : 204  / 231
+Models                   : 33   / 53
+Portalleafs              : 1049 / 1513
+Numportals               : 3327 / 5059
+Average clusters visible : 164  / 224
+
+================================================================
+
+Installation
+
+To play this level, extract the file "angron1a/b.bsp" into
+your Quake2/baseq2/maps directory and then start the game.
+Choose which skill setting you wish to play on by typing
+"SKILL <0-2>" (0 for easy, 1 for normal, 2 for hard)
+then type "MAP angron1a" to begin.
+
+================================================================
+
+Copyright and Permissions
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name angron1a/b.bsp and is supplied in a zip file called
+angron1.zip that also contains this text document and no
+other files.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.

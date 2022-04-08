@@ -1,0 +1,49 @@
+=============================================================================== 
+Title                   : NAPALM.WAD for DOOM ][
+   
+Author                  : Robert Thompson and Dainel Farley
+Games Net BBS handle    : (Overkill)          (MrX)
+
+Description             : This is a small deathmatch level based upon 
+                          the theme of level 1, Doom 2. It is best played 
+                          using deathmatch rules 1.
+                          
+Additional Credits to   : Thanx to Chris Parkin for help with playtesting! 
+                          (or target practice :-)
+===============================================================================
+
+* Play Information *
+***These levels will only work with DOOM 2 the commercial version!***
+Level #s                : Level 01
+Single Player           : No (only for a preview)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20 hours (more or less) 
+Editor(s) used          : DEU2, BSP1.1w, DOOMED - The Real Thing
+Known Bugs              : Not that I know of...
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Games Net BBS - 01222 326321  
+
+---------------------------------------------------------------------------
+--------------------------- *** DOOM RULES *** ----------------------------

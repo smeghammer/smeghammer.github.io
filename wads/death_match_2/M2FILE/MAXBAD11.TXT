@@ -1,0 +1,67 @@
+================================================================
+Title                   : Maximum Baddies Mission 1-1
+Filename                : MAXbad11.WAD
+Author                  : Jeff Kendall
+Email Address           : kendallj@iia.org
+Misc. Author Info       : First "from scratch" wad, but experienced in 3d CAD
+                          Made some pretty awesome Wolfenstien levels.
+
+Description             : LARGE wad with several MEAN battlefields
+                          one of which is appropriately coffin shaped.
+                          Even on skill 1 you won't get lonely for baddies!
+
+Additional Credits to   : Thanks to beta testers Chris, Ivan and Sam.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU5.21
+Known Bugs              : Some textures not aligned, so many
+                          monsters the game may slow slightly.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  Provided: 
+
+   1) DO NOT remove the room with my initials from the necessary 
+      route to the exit. (You may add such rooms of your own.)
+
+   2) List this wad and my name in their credits.  
+
+   NOTE:  This one almost maxed out DEU's memory on a machine with 
+          621k free, unless you use gcc, GCC'll have to Delete to Add!
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS: Channel One 617-354-2505
+
+Other: email the author for a uuencoded copy, along with NEW
+       wads in the MAXbad series!
+		_     _
+|\    /|  /|\ /| }  /| \                /---\__--/         _____ _ _
+| \  / | /-| / |-  /-| |=================    __       ====|_____|_|_)  
+|  \/  |/  |/ \|_}/  |_/ \ [  \         \---/  --\
+                          \____\
+American Institute of Virtual Architects

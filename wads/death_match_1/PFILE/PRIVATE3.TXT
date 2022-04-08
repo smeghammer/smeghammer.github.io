@@ -1,0 +1,79 @@
+Flagg presents:
+
+PPPPPPP  RRRRRRR  IIIIIIII   VV     VV      AA     TTTTTTTT    EEEEEEEE
+PP   PP  RR   RR     II       VV   VV     AA  AA      TT       EE
+PPPPPPP  RRRRRRR     ii        VV VV     AAAAAAAA     TT       EEEEEE
+PP       RRRR        II         VVV     AA      AA    TT       EE
+PP       RR  RR   IIIIIIII       V     AA        AA   TT       EEEEEEEE
+
+H * E * L * L
+
+Title                   : Private Hell, Part III   
+Filename                : private3.WAD
+Author                  : Flagg aka Matrix
+Email Address           : 74407,623
+Misc. Author Info       : 
+
+Description             : You made it through the spider demon in Part I. You
+made it through the infestation of CacoDemons in Part II. Now, enter Baron 
+Hell. This is the level your mother warned ya 'bout. You regain consciousness. 
+Darklord appears before you yet again, laughing with a cackle that sends 
+a shiver down your spine. Two down, 7 to go. Hahahahaha!!!!!!
+"Piss off!" you growl and head for the nearest door. The dimness of the room
+you are in echo's the dimness in your heart. Death is before you. Them or you.
+
+Note: If you have not played Private Hell Part 1 & 2 don't worry. I have
+revamped Part I, and have yet to release Part II on compuserve.(Too big) 
+I am currently working quite diligently on an entire Private Hell series 
+that should be ready for upload by September 15. This will encompass the 
+entire Episode 1 and maybe if yer nice, the secret level too. Make sure ya 
+got a BFG if ya wanna go through that. <G>
+
+Enjoy and I will be floating along on the boards. C-ya!
+
+-Flagg
+
+
+
+Additional Credits to   : ID software (Oh! What's this I got in the mail?
+                                       an order form for DOOM II?)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Just a smidgen
+New Sounds              : Not
+New Graphics            : Not
+New Music               : Not
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomED and BSP (Amen to those blessed souls!)
+Known Bugs              : One tiny instance of very very very very minor HOM.
+                          A funny thing happened to me in the teleporter room
+                          but I found the error to be neat, so I left it in.
+                          <G>
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, but don't, use yer imagination instead, Bub. 
+
+You may do whatever you want with this file. I don't care as long
+as you enjoy whatever it is you do with it.
+
+
+FTP sites: 
+
+BBS numbers: It would have been on The Exchange if they hadn't cancelled
+my membership early! Their loss, I'm jest gettin started.
+
+Other:  Compuserve Gamers Forum (Yeeha!)
+

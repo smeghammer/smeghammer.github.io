@@ -1,0 +1,96 @@
+================================================================
+
+Title                   : Gore Chasm
+Filename                : gorchasm.bsp
+Author                  : Kevin "Fragmaster" Bowen
+Address                 : fragmaster@classicgaming.com
+Description             : A recently abandoned government
+			  facility hidden deep within a rocky
+			  canyon now serves as a battleground
+			  for two to ten players.
+
+			  There's some things in this map that
+			  I'm 99% sure haven't been done in
+		          a user-made DM map yet. :) This map
+		          doesn't suck ass!
+
+Special Thanks to       : Thanks again to Reid "Brushboy" Kimball
+			  for his infinite wisdom, along with 
+			  tracking down a nasty 11th hour bug 
+			  that probably would of prevented the 
+			  map from being released on time. I 
+			  honestly believe you can compare him
+			  to Jesus Christ.
+
+			  Thanks to Brushboy, Apache, Mix and 
+			  warped for playtesting, and of course 
+			  Valve for creating the best FPS ever.
+			
+Webpage                 : http://www.planethalflife.com
+			  http://www.classicgaming.com
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : There's a little quirk with the 
+			  elevator, but you probably won't
+			  notice it.
+
+			  You might experience slowdown
+			  in some areas, usually when you are 
+			  facing the building when outside. 
+			  Sorry.
+Build Time              : Over a week of on and off work (hey,
+			  I'm busy!)
+
+================================================================
+
+Installation
+
+To play this level, extract this file "gorchasm.bsp" into
+your sierra\half-life\valve\maps directory and then start the 
+game.
+
+Start a deathmatch server and type "map gorchasm" or "changelevel
+gorchasm" in the console. To test it out in single player mode
+start Half-Life with hl.exe -console, hit the console button and
+type "map gorchasm". If you put this on a DM server, let me know 
+por favor.
+
+================================================================
+
+Copyright and Permissions
+
+Keep this file intact, don't stick it on your shovelware, and
+don't sell it to support your drug habit. Thanks a bunch!
+
+================================================================
+
+Other 
+
+This is my second released map. My first was "After Hours," a 
+fun little Half-Life DM level for two to six players. And visit
+Planet Half-Life (http://www.planethalflife.com), dammit!
+
+Let me know what you think of this map. Feedback, good or bad
+would rock. 
+
+- Fragmaster
+  fragmaster@classicgaming.com
+  December 25, 1998 (yeah, that's Christmas... I'm insane)

@@ -1,0 +1,62 @@
+
+================================================================
+Title                   : Epic (for Doom ][ Only!)  
+Filename                : epic.wad
+Author                  : Matt Williams
+Email Address           : idig@utxvms.cc.utexas.edu
+Misc. Author Info       : First level from scratch, but don't let that keep 
+			  you from trying it.
+
+Comments?               : Please email me if you like this...let me know
+                          what you think...suggestions, complaints,etc.                          and carnage are on their way!
+
+Description             : This level was designed with single player in mind, 
+			  but it has proven to be a decent deathmatch wad as 
+			  well.  It has mucho carnage even at "Hurt me wimpy."
+			  All weapons, keys, and enemies are used.  This wad
+			  is set up to replace map01, but it would actually
+			  make a good replacement for "Tricks and Traps,"
+			  if you know what I mean.  
+                          
+Additional Credits to   : Matthew Ayres, the author of WADED, and of course,
+			  the id guys.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map01    
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : 1-3 are the same, 4-5 are a little tougher.
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : WADED 1.42
+Known Bugs              : None that I know of
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  Just make sure to credit me and show that you used
+my wad to build yours. 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+        ftp.orst.edu
+        ftp.cdrom.com
+

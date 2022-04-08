@@ -1,0 +1,194 @@
+June 10, 1994
+
+THE STORY:
+
+Your wandering around the martian moon landscape when you stumble 
+across an odd structure built into the side of a mountain.  A closer
+look reveals the entrance of a castle with two watch towers.  
+
+"What in Hell is this?"  you ask yourself.  It would appear as if 
+some architect had too much time on his hands.  Anyway, it seemed
+quiet now, maybe too quiet.  BETTER CHECK IT OUT!
+
+
+
+To Play enter:
+
+     doom -file cphobos.wad
+
+     Then choose episode 2 (The Shores of Hell)
+================================================================
+Title                   : Castle Phobos    
+Filename                : CPHOBOS.WAD
+Author                  : David G. Shrock
+Email Address           : davids4057@aol.com  
+
+Misc. Author Info       : 21 yrs old.  Hobbies include: Astronomy,
+                             bicycling, chess, programming.
+
+Build Time              : 160+ hours for 4 levels
+Description             : This is the first four levels of my episode
+                          where the theme is set in a castle environment
+                          that is meant to be a challenge.  
+                          There are 3 Demos to watch.
+                          ** Load Episode 2 to play **
+
+Additional Credits to   : Sean Fugate for helpful ideas and testing 
+
+General Rules I followed: If it looks liquid, it is dangerous
+                          All rooms are setup logically
+                          All items are placed logically, not scattered
+                          Each level exit is a smooth transition to the
+                            next level.  (the maps can be pieced together)
+                          Secret doors only give credit to actual secret
+                            rooms.  Otherwise it may just be another route.
+                          Some secret doors can be spotted with a good
+                            eye, some are next to impossible.
+
+* Copyright / Permissions *
+
+Authors may NOT use any of these levels as a base to build additional
+levels.  Authors MAY borow ideas from this episode provided that   
+the author improves on the idea.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute CHPOBOS.WAD in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Play Information *
+
+Filename                : CPHOBOS.WAD
+Episode and Level #     : E2 M1-4 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : All
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.0, DEU 5.2, BSP 1.1x
+Known Bugs              : None
+
+
+ * Where to get this WAD *
+
+America Online, myself, and others
+
+
+================================================================
+LEVEL 1:  Castle Entry
+
+        The main entrance to this castle seems to lead inside a
+        mountain.  What could lay inside the mountain?
+
+Date Completed          : May 10, 1994
+
+* Notes *
+
+I had a good time creating this one.  The idea behind it is to challenge
+the player by forcing a method of regulating ammo for proper use.
+
+Only two secret doors are necessary to find for completion.
+If you have trouble getting into the castle gates, then watch the demo.
+
+If your playing on a 386, you may experience a huge slow down in a few
+rooms containing large amounts of detail.  For best results, don't
+load an EMM driver.
+
+This is the first time I have ever seen this type of level ending
+just watch the scenery as you hit the exit.  You can view the
+transition between levels.  (Yes you can connect the maps too!)
+
+=====================================================================
+LEVEL 2:  Storage 
+
+       Looks like someone built a wharehouse inside the mountain probably
+       trying to keep it hiddin.  Perhaps something truly odd is happening
+       within this castle?
+
+Date Completed          : May 18, 1994
+
+
+* Notes *
+
+I was not too happy with the results of this level, but it isn't bad.
+Someday, I may edit this one or replace this level entirely.
+
+It is easy to exit without completing much, but who wants to anyway.
+I tried to improve on using crates and putting a twist on the storyline.
+
+There is only one puzzle wich turned out to be easy once you learn 
+the buttons.
+
+===================================================================
+LEVEL 3:  ARENA!
+
+       Back to that mideivel crap again!
+       On the other side of the mountain lies an arena built within a
+       canyon.  This could be someones twisted idea of entertainment.
+
+
+Date Completed          : May 27, 1994
+
+* Notes *
+
+This one is my favorite level and it is a big one!  Many Secrets!
+Many Monsters!  The size of this level will cause slower PCs to 
+produce a slower than normal game, but it will speed up half way
+through the level.
+
+You should have trouble finding 100% secrets even if you cheat! 
+
+However, cheating should not be necesary since this level is not that hard  
+if you found the necessary weopons on the earlier levels.  There's plenty
+of ammo and health here because the main idea is to have fun kicking butt
+and finding those secrets!  Enjoy!
+
+* Serial link/Modem users:  You better be playing with an updated 
+   sersetup.exe and not with the one that came with version 1.2
+   Otherwise you will experience slow down and possible lock ups.
+   The best results are with 19200 baud communications and both 
+   PCs being 486.  If you need a new sersetup try downloading
+   DSFER27.ZIP.  You should try higher baud rates to see if they work.
+   Also, do not load an EMM driver.
+
+========================================================================
+LEVEL 4:   Cathedral
+
+        This level looks dark and creepy!  Better becareful!
+        Where are these monsters coming from?
+
+Date Completed  : June 7, 1994
+* Notes *
+
+I must give credit to my freind, Sean,  for the starting position of 
+   players 2 and 3.  (You really should experience this one in 
+   multiplayer, if you don't have a network near you, then find one!)
+   If you can't play on a network and want to know where players 2 and 3
+   start:  Just look behind you when you start, you'll figure it out ;)
+
+I hope you found your weapons, 'cause you are not going to find any here!
+
+There is a room  that you can not enter in a one player game.  Don't 
+   worry though, there is nothing in there during a single player game, 
+   but you better get in there if your playing multiplayer!  
+
+This is the smoothest transition between levels, you can even veiw the
+final room in level 3, just turn around when you start.
+=====================================================================
+
+Other reccomended levels to download:
+
+        Megapack       by Casey Miller 
+        Dante's Gate   by John W. Anderson
+        Fortress       by Curtis M. Turner II
+  
+
+Thanks to the folks at id for a nice game and thanks to those who 
+brought us DEU.  

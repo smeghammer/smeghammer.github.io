@@ -1,0 +1,70 @@
+
+5/8/98
+==============================================
+Title:			: Covert Operation
+Description:		: Single Player Mini-Unit For Quake 2
+Filenames:		: Covert1.bsp  " Space Transport "
+                        : Covert2.bsp  " Moon Alpha3 "
+                        : Covert3.bsp  " Main Installation "
+                        : Covert4.bsp  " The Testing Facility "
+Author			: Dave Waters - Long Beach, California, USA
+Alias                   : Homer[CK]
+E-mail Address		: baseman@msn.com
+Author's Other levels	: Homers 1 thru Homers 51 for Classic Quake, and
+			  Homersq2-1 thru -6 and homers7 & 9 for Quake 2.
+
+Credits :Special thanks to Worldcraft, Rust, and Id Software. Quake 2 rules !
+         Thanks to all the fine websites who review Quake 2 levels.  
+         Thanks to " Kat " who put up with me living in my computer to make this !
+  
+==============================================
+
+* Play Information *
+
+Single Player          :Yes
+Cooperative            :2 Player starts each map + SP start
+Deathmatch             :No
+CTF                    :No
+New WAV files          :No
+New textures           :No
+Difficulty Settings    :No
+Demos Replaced         :None
+Recommended Hardware   :200mhz. CPU or better; 32 megs. RAM; 64 bit
+                        graphics or better, and 3DFX accelerator.
+
+===============================================
+  
+* Construction *
+
+Base                   :Scratch
+Build time             :2 months on and off (mostly on )
+Compiler               :Pent.233 with 64 megs.SDRAM/Viper330/3DFX 
+
+Please forward any comments to Dave Waters / Homer[CK] about this map, 
+and report any bugs to the E-mail address above.
+
+==============================================
+
+* Permissions *
+
+These levels may be used and distributed freely, so long as the text 
+is included with the bsp files unaltered. Level authors may not use
+these maps as a foundation to build on. Please give credit where it 
+is due. You must get my permission to put these maps on a CD or any
+other electronic media if you intend to sell them. All textures and
+entities are the sole property of ID software. Quake and Quake 2 are
+copyrights of ID software.
+
+==============================================
+
+* Homepages *
+ 
+Homer is a proud member of Clan Kevorkian-[CK], where our motto is:
+" Let us put you out of your misery ". Check out our websites at:
+http://home1.gte.net/mortus/ (Check Homer's Maps section)
+http://home1.gte.net/ralaniz/ 
+If you live in the greater Los Angeles/Southbay area, You are welcome
+to join in on one of our Death Tour LAN parties.
+Thanks and happy fragging.......Homer[CK]
+
+

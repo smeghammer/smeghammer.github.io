@@ -1,0 +1,70 @@
+WAD Authoring Template V1.4   (Clip this line)
+================================================================
+Title                   : DMBEST
+Filename                : DMBEST.WAD
+Editor                  : Jose Mont
+Email Address           : JMONT@PRO-ENTROPY.CTS.COM
+Misc. Author Info       :
+
+Description             : The best Deathmatch wads I've found yet.
+
+Additional Credits to   : The original designers of these wads
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 - E1M8
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Some of them are implemented
+New Sounds              : Yes
+New Graphics            : No
+New Music               : Yes for first level
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : All wads from scratch
+Editor(s) used          : UNKNOWN
+Known Bugs              : A few HOMs but little else
+
+
+* Copyright / Permissions *
+
+Authors (MAY NOT) use this level as a base to build additional
+levels as I do not know the original intent of the designers.
+
+(One of the following)
+
+
+You MAY distribute this WAD file in any format.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: Ivory Tower  305-860-0307		
+
+
+Other: 	THESE FILES WERE GIVEN TO ME AS IS WITH NO TEXT FILES. i HAVE COMPILED THEM TO ONE 
+	WAD THAT CAN BE USED IN ORDER. sOME LEVELS DO NOT HAVE EXITS, SO I RECOMENED THE 
+	USE OF THE TIMER FEATURE TO ADVANCE TO THE NEXT LEVEL. tHE LEVELS IN ORDER ARE:
+	
+	SHADOWS2
+	CASTLE
+	TRIMATCH
+	WARRIOR!
+	LIFT2
+	DUO_1
+	SHOWDOWN
+	YODA2
+
+	I ALSO RECOMEND YOU CHOOSE NO MONSTERS FOR SOME OF THESE LEVELS HAVE THEM.
+	IF YOU LIKE THIS COMPILATION, DROP ME A NOTE. I WILL TRY TO DO MORE AS I 
+	FIND GOOD DM WADS.(BUT NEXT TIME I'LL INSIST ON THE TEXT FILES & 
+	INCLUDE THEM, TOO.)
+
+
+

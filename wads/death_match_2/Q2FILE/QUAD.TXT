@@ -1,0 +1,63 @@
+================================================================
+Title                   : QUAD
+Filename                : QUAD.ZIP ----->> QUAD.WAD
+Author                  : Scott Harper
+Email Address           : Compuserve, 75041,1460
+Misc. Author Info       : 
+
+Description             : Every College campus has a "Quad". It's a  
+			  central place where people go to relax, read,
+			  you know... Don't think youre gonna' get much
+			  relaxation in THIS quad, though. It IS a central
+			  place, but it only leads to HELL... 
+
+Notes                   : As stated in the Library description, a 486DX or                          
+			  better is highly recommended to avoid slow play
+			  in places. DOOM Registered version 1.4 or higher 
+			  is REQUIRED to be able to save in UltraViolence at 
+			  the beginning. Using 1.4+ will also eliminate HOMs
+			  in some areas due to > 128 lines in view.
+
+
+Additional Credits to   : Jim F. Flynn and John Keary for playtesting, Jim
+			  especially for many good ideas.
+			: Matt Tag. for DOOMCAD
+			: Colin Reed for BSP 1.2x
+			: id Software, for DOOM !
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 (for now...) 
+Single Player           : Yup
+Cooperative 2-4 Player  : Yup
+Deathmatch 2-4 Player   : Yup (6 starting points)
+Difficulty Settings     : Yup
+New Sounds              : Nope
+New Graphics            : Nope
+New Music               : Nope
+Demos Replaced          : Nope
+
+* Construction *
+
+Base                    : Scratch
+Editor(s) used          : DOOMCAD
+Known Bugs              : Think I'd spend this kinda time on a PWAD and give
+			  it to you with BUGS in it  ???
+
+* Copyright / Permissions *
+
+PLEASE distribute this WAD, provided you INCLUDE THIS FILE, with
+absolutely NO modifications.  You may distribute this file in any 
+electronic format (BBS, Diskette, CD, etc) as long as you include 
+this file intact.
+
+* Where to get this WAD *
+
+Compuserve Gamers+ Forum, Action Aids, filename: DMQUAD.ZIP
+
+Other Levels I've done :
+	- Castle from Hell (available as DMCAS.ZIP)
+	- Brundle's Revenge (available as DMBRND.ZIP)
+Both are available in Compuserve Gamers+ Forum.
+

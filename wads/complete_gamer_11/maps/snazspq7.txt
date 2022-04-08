@@ -1,0 +1,96 @@
+   *THIS LEVEL IS NOT MADE OR SUPPORTED BY ID SOFTWARE*
+       *REGISTERED VERSION OF QUAKE 2 REQUIRED*
+
+Date - 23 August, 1998
+===================
+
+Title           	: Airstrike Central
+Filename        	: snazspq7.bsp
+Author          	: Ian 'SnAzBaZ' Packer
+Email           	: snazbaz@quake2.co.uk
+ICQ             	: 5469261
+EGN                     : 23998
+Description             : My 7th SPQ2 level
+
+Iball                	: http://snaz.quake2.co.uk
+
+Other Credits           : Q2Workshop Mailing List
+	 		: Rust - for great tutorials.
+                        : And of course ID software for a kick ass game.
+==================
+Airstrike Central       : ftp://ftp.quake2.co.uk/snaz/snazspq7.zip
+Deadly Defences         : ftp://ftp.quake2.co.uk/snaz/snazspq6.zip
+Gateway to Death        : ftp://ftp.quake2.co.uk/snaz/snazdm1.zip
+WDF                     : ftp://ftp.quake2.co.uk/snaz/wdf.zip
+Operation: Gather-Info  : http://snaz.quake2.co.uk/files/opinfo.zip
+Annihilator             : http://snaz.quake2.co.uk/files/annihilator.zip
+Destructive Powers      : http://snaz.quake2.co.uk/files/dpowers.zip
+Deserted                : http://snaz.quake2.co.uk/files/deserted.zip
+===================
+Previous and Current work:
+
+Quake
+-----
+
+Pure Evil (SPQ)
+Emolt Quanta (SPQ)
+Fuzz (DM)
+Ovumbra (DM)
+Earthquake (TC)
+
+Quake II
+--------
+
+Deserted (SPQ2)
+Destructive Powers (SPQ2)
+Annihilator (SPQ2)
+Operation: Info-Gather (SPQ2)
+Weapons Distribution Facility (SPQ2)
+Gateway to Death (DM)
+Deadly Defences (SPQ2)
+Airstrike Central (SPQ2)
+
+=====================
+
+Game                      : Quake 2
+Single Player             : Sure
+Co-op                     : No, sorry
+Deathmatch                : No
+Difficulty Settings       : Yes
+CD Track                  : 9
+
+======================
+
+Base                      : Scratch
+Build Time                : 2 days
+Compile Machine           : P120, 32MB RAM
+	QBSP3             : 30 secs
+	QVIS3 (level 4)   : To long
+	QRAD3 (extra)     : about 45 mins
+Known Bugs                : There's a lighting bug just after the security pass door...also, the last area is a bit dark.
+
+=========================
+Story:
+------
+
+We have found a vital strogg outpost, we must destroy it however the exact location is still unknown. You must infiltrate 
+the base and place an airstrike marker in the control room. We have teleported the marker into the base however we do not 
+know the exact location as the teleportation was inturupted by heavy interfirence. Good luck marine.
+
+=========================
+Installation:
+-------------
+
+Put snazspq7.bsp into your quake2/baseq2/maps directory and
+on the console type 'map snazspq7'
+
+=========================
+
+All the architecture in this level is made by me, so I have
+the rights to do anything I want with it. 
+
+CD-ROM publishers and other commercial people need my permission before
+they can distribute this level. 
+
+Public distribution via Internet/BBS's without charging money is accepted,
+of course.

@@ -1,0 +1,45 @@
+                                 Master Levels
+                                 -------------
+
+        Well, here it is, the completed sequal to my first level.  Everyone
+complained about it being to easy so here is my response.  This level is 
+five times the size of my first level.  It has multiple secret rooms that
+you will almost have to cheat to find.  It is set up perfectly for the best
+deathmatch level yet.  Plus, you will not be able to play this game one
+player and make it on the first couple of tries.  This is one of the best
+levels I have seen yet (as far as design), it has many, many secret rooms,
+lots of monsters and every weapon except the bfg.  Play it, you will see 
+for your self.  The level also is specifically designed to produce a even,
+action packed, deathmatch duel.  What I have done is color-coded the ceil-
+ings (let me explain).  There are blue, green, red, and normal.  I have
+found that when you end up playing a sniping opponent (snipers suck) you
+have a lull in your action packed deathmatch.  The sniper guy sits and waits
+for you to find him (ofcourse) and sometimes on big levels that may take up
+to 15 mins or so.  To eliminate this problem you can now anounce your 
+presence by saying "I am in the Blue, Come and get me" or whatever.  This
+way the other guy knows generally your whereabouts and the "blue" part of 
+the map is big enough that you can hide and snipe (if you must).  I have
+tested it many, many times and it works.  You are not giving away your 
+exact location (each color spans almost 1/4 of the map) but you are letting
+your opponent know the general whereabouts so he will seek you out.  It 
+makes the game much more action packed and eliminates most of the lulls
+that so many of us advanced players dread (aaaaahhhhh!).  If you did not 
+have my first level you do now.  The levels are combined into one external
+wad file that you may play consecutively and then proceed to the normal 
+episode 2 levels after that (makes for a kick-but episode).  Well, if
+you don't like the color coding idea then DON'T USE IT!  Also, just 
+remember...There can only be one DOOM MASTER...(unfortunately I hold the 
+title) (hahaha)...PLAY IT, for the level of all levels...
+ 
+                                          William "the kid" Cochran
+
+*Rules*
+
+We generally have played that you must frag at least three times before
+exiting.  This way, if you are the player that has been fragged you know
+exactly where the other guy is going and have a slim chance at an ambush
+to save (your pride) the level.  On a level this big though you can easily
+go for 10+ frags.  I have included enough ammo, health, and power ups to 
+make it very interesting.  But, heck, do what you want...Just have fun!
+
+

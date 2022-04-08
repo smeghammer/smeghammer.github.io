@@ -1,0 +1,47 @@
+================================================================
+Title                   : Elementary Forms Of Religious Life
+Filename                : EFORL.WAD
+Authors                 : Mikko Jakonen & Pekka Tolonen
+Email Addresses         : mijakola@sara.utu.fi & petolo@sara.utu.fi
+Description             : Pure deathmatch level
+
+Additional Credits to   : êmile Durkheim (the author of...)
+================================================================
+
+* Play Information *
+
+Map#                    : Map 01 - DOOM ][
+Single Player           : Yes box pallinaama (that's finnish for:
+					      this is a DEATHMATCH .wad)
+Cooperative 2-4 Player  : It's possible, yes, but boring, and co-op sucks
+Deathmatch 2-4 Player   : Yes!, butt ? (USE DEATHMATCH 2.0 RULES: -altdeath)
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+Secrets                 : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : DOOMCAD 5.0 & its utils
+Known Bugs              : None; if you find any please report them
+											by the killer, not the killed.
+
+* Rights *
+
+You can distribute this level as long as you keep this text file with it.
+
+* Misc info *
+
+This .wad tries to combine all those elements of Deathmatching that we find 
+most pleasing; for example not too powerful weapons available, lots of 
+lurking-places, relatively small area, weapons available at all DM starting
+positions etc. There are some monsters, but if you don't want them in your 
+deathmatch, use the -nomonsters switch. There are no teleports, but so what ?
+They are confusing anyway (at least to us). 
+This is designed for the Deathmatch 2.0 rules, so use them.
+
+Please let us know if you (dis)liked the level... we like getting mail!
+

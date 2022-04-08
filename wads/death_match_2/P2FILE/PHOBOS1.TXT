@@ -1,0 +1,64 @@
+
+                         "DOOM TOURNAMENT WAD PACK"
+
+        These WAD files were used for the first DOOM tournament in
+      the ARK-LA-TEX erea held on 27th of Aug 1994 in Bossier city La.
+      This pack consists of six WAD files, the files named PHOBOS 1-5
+      were used for game play and TIE.WAD was used for any ties. All of
+      the PHOBOS files are basicly the same with monsters and wepons moved
+      around, TIE.WAD is a small room with only shotguns.
+       We used a double elimination format so that every one got to play
+      at least twice. There were two PCs hooked together via null modem
+      useing DOOMMASTER to help speed up the loading of the WADs. The
+      contributrs were (in no certian order) SMUG BBS, FASTTRACK BBS.
+      X-TRONIC BBS, WAL-MART, BABBAGES SOFTWARE, AND ME AND TED WHITE
+      (out of our own pocket).
+
+
+           TITLE                     : TOURWADS.ZIP
+
+           LEVEL DESIGN              : TONY ENGLE
+
+           THINGS EDIT & PLAY TEST   : TONY ENGLE & TED WHITE
+
+           DESCRIPTION               : DEATH MATCH ONLY
+
+           ADDITIONAL CREDITS        : id SOFTWARE FOR DOOM
+                                     : SIMPLY SILLY SOFTWARE FOR DOOMMASTER
+                                     : THE MAKER OF DOOM CAD
+                                     : GEOFF ALLEN FOR DOOM ED
+                                     : RAY MICELI FOR WYBACK10.ZIP
+                                     : RICHARD CHEUNG FOR SDGUNS11.ZIP
+
+    *PLAY INFORMATION*
+
+           EPISODE AND LEVEL         : E2L1  (ALL SIX WADS)
+
+           SINGLE PLAYER             : NOT! (NO EXIT!)
+
+           COOP                      : NO
+
+           DEATHMATCH 2-4 PLAYERS    : YES  (NOT TESTED FOR MORE THAN 2)
+           
+           DIFFICULTY SETTINGS       : NOT IMPLEMENTED
+
+           NEW SOUND                 : NO
+
+           NEW GRAPHICS              : NO
+
+    *CONSTRUCTION*
+
+           BASE                      : NEW LEVEL FROM SCRATCH
+
+           BUILD TIME                : 20 HOURS
+
+           EDITORS USED              : DOOM CAD & DOOM ED
+
+           KNOWN BUGS                : I CAN'T FIND ANY
+
+
+     You may do as you please with these files, if you have any questions
+                  drop me a line at SOFTWARE CREATIONS
+
+
+                                                 MANANA, Tony Engle

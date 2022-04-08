@@ -1,0 +1,149 @@
+
+               
+               
+               !  ATTENTION : THIS LEVEL is a 'BIG ONE'  !
+                                                         
+                        
+                        -  More of 600 hours of work  -
+                           -------------------------
+
+
+
+      \
+ ===== >     !  ATTENTION : THIS LEVEL is ONLY FOR PROFESSIONALS of DOOM !
+      /                                   ------------------------------
+
+             (Difficult level for people who play smartly, looking around,
+              playing slowly, acting as if it was a real world, taking no risk).
+
+      \
+ ===== >     ! IMPORTANT : PLEASE, READ RECOMMANDATIONS !
+      /
+============================================================================
+Title                   : My first level : it's a long and difficult one.   
+Filename                : DMLAMOU1.WAD
+Author                  : Fran‡ois LAMOUREUX.
+Email Address           : You can contact me by 2 ways :
+
+                          By my address :    Fran‡ois LAMOUREUX
+                                             24-34, rue de l'Oasis
+                                             92800 PUTEAUX - FRANCE.
+
+                          By a friend on COMPUSERVE : Alban LIGER
+                                                      100126.1227
+
+============================================================================
+
+RECOMMANDATIONS :         1ø) - This level is made ONLY FOR PROFESSIONALS of
+===============                 DOOM. If you're not playing 'scientific' and
+                                as if your were really in this world, taking
+                                no risk, you'll never end this level without
+                                cheating.
+                          2ø) - DON'T SAVE !!! : it will erase the level.
+                                ==========
+                                              -> Make a copy of the level.
+                                                 ========================
+                          3ø) - You'll need a 486DX2-50, DX2-66, DX3, DX4 or 
+                                a PENTIUM computer for run this level
+                                confortably.
+                                -> An accelerated graphic card is recommended.
+                          4ø) - Play in complete screen mode : it is imperative
+                                to do this to see sometimes monsters, ammo and
+                                vital informations. You can provide this with 
+                                the [+] key. The status bar deseapear from the
+                                screen but it is now avaible with the automap :
+                                use the [TAB] key to see it.
+                          5ø) - Adjust your gamma correction to 'LEVEL 2' :
+                                this level has been specialy designed for it.
+                                You can provide this with the [F11] key.
+                          6ø) - You don't have to cheat : ALL SECRET PASSAGES
+                                ARE INDICATED by SOMETHING : be smart !
+                          7ø) - Watch carefully your health and restore it as
+                                soon as possible : don't take a risk !!!! Even
+                                if the health potions are far, don't be a lazzy
+                                boy : go and restore your health.
+                          8ø) - When you are on a high wall, DON'T JUMP : act
+                                exactly as if you were in this world. You're
+                                propably nerver jumping from a 10 or 40 meters 
+                                wall, aren't you ?
+                          9ø) - REMEMBER : play as if you were REALLY in this
+                                world : don't take a risk of diying BECAUSE
+                                YOU CAN'T SAVE !
+
+============================================================================
+
+Description             : It's my first level. It's a long and difficult one.
+                          It's plenty of new ideas as you'll see by yourself.
+                          I specialy made it for you : enjoy !
+
+============================================================================
+
+Additional Credits to   : Thanks to Rapha‰l Quinet for his fabulous DEU, 
+                          to Colin Reed for his fast and good BSP and to 
+                          Per Allansson for his good GO32 witch provides
+                          a very speedy DEU and increase memory.
+
+============================================================================
+
+
+
+
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented : this level is difficult if you
+                                            don't think and if you're taking
+                                            risks. REMEMBER : play as if you
+                                            were REALLY in this world !
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+============================================================================
+* Construction *
+
+Base                    : New level from scratch
+
+Time of work            : More of 600 hours. (I made it very carefully and i
+                                              was constantly looking to built 
+                                              an exiting adventure).
+
+Editor(s) used          : DEU 5,DEU 5.1, DEU 5.2 with GO32 to increase speed 
+                          rebuilting and memory size, BSP 1.1x (a good one).
+
+Known Bugs              : Yes there are some bugs but i don't know where they
+                          come from. I had to add stone walls to prevent the
+                          'no more visplane' error. Rapha‰l QUINET and his team
+                          are authorized to modify this level to debug it. 
+                          I'am sure they will appreciate a lot this level !
+
+============================================================================
+* Copyright / Permissions *
+
+Authors can debug this level if they can : Rapha‰l QUINET and his team are 
+                                           authorized to modify this level to
+                                           debug it, if this possible.
+
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+- [ but this level can be one of the levels of an new episode : contact me. ] -
+           
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+============================================================================
+* Where to get this WAD *
+
+
+     I gave this level to a friend, Alban LIGER (100126.1227) to put it 
+     on COMPUSERVE.

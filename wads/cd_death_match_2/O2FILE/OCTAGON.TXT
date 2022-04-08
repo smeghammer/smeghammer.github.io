@@ -1,7 +1,0 @@
-This is an E1M1 replacement pwad.  It's texture protected against shareware
-play.  Written with DEU 5.0 and run past BSP11x.EXE, it supports 4 players.
-This level contains only the enemies you might expect to find in an E1M1 -
-Sargeants and Imps.  Your only weapons are shotguns and a chaingun.
-Good hunting!
-Comments to Samneric@connected.com.
-

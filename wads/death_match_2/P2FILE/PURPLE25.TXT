@@ -1,0 +1,85 @@
+********************  D E E P  -  P U R P L E  ******************************        
+        
+        The reports had just come in, those bastards had wiped out 
+all of Bravo Company.  Reports of sacrafices, marines impaled, their hearts
+ripped out while the poor souls where still alive.  Most of Bravo company 
+was young, young all right, eighteen, nineteen.  Hardly out of boot camp,
+and well, I guess it showed.  Now its time for the veterans to go in and take
+some names, time for OPERATION - DEEP PURPLE.  
+
+Gentleman, here is what we are up against.  Bravo company had mostly
+the standard marine issue shotguns and chainguns.  But, one of Bravo's combat
+engineer squads managed to break through the obstacles and store weapons
+caches everywhere.  Gentleman, every weapon we have will be made available,
+so find them and use them with EXTREME PREJUDICE.  
+
+Two last things to remember.
+First: Most of Bravo didn't make it past the first door, I don't know what
+happened, all I know is that they are sacrifcial bait now.  So keep your
+head up! 
+Second: The engineers reported many sacrifice sites, or pentagrams, beware, 
+the're a quick trip to hell.  I know the gates can easily be raised 
+or broken, it'll be up to your team to find out how.
+
+Well, that's it, we're all suited up, lets lock and load....
+
+
+
+================================================================
+Title                   : Deep Purple   
+Filename                : PURPLE25.WAD
+Author                  : Karl J. Solie
+Email Address           : A090134%DVSS.DECNET@LBGWY.MDC.COM
+Misc. Author Info       : I started life as a child, born in a....
+                          
+Additional Credits to   : ID Softare, the DEU and BSP teams, Tom, Jim
+                          Kraig and Andrew (our DOOM gang).
+                          And to all WAD authors who took the
+                          time to make the game live on...Thanks
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M5 
+Single Player           : Yes (May be too much ammo and health?)
+Cooperative 2-4 Player  : Yes (Designed with this in mind!)
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Medium & Hard only, this is brawling land!
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Seemed like 40 man years
+Editor(s) used          : DEU 5.1x, 5.2x, and BSP1.1X
+Known Bugs              : I'm sure someone will find one as soon as             
+                          send this out...
+
+* Copyright / Permissions *
+
+YOU MAY NOT USE ANY THEME, WEAPON OR PLAYER OR IDEA OR REMOTE IDEA, FANTASY 
+AND WORDS THAT CAN BE SPELLED BACKWARDS, OR RECORDINGS PLAYED IN REVERSE THAT
+RESEMBLE DEEP PURPLE OR ANY THING LIKE THAT!  NOW GO AWAY!  
+
+OK, ok, ok
+Please feel free to have at, if you do modify it please give me credit, and 
+if you can, write me, because I would love to play it with a twist.  
+And if you play this and enjoy it, drop me a note, I would allways like to
+chat with fellow space marines.  And by all means feel free to distribute
+this to anyone you want.
+
+PS. Can you actually believe the guys who edit the shareware version and don't 
+allow anyone to touch THEIR level????
+
+
+* Where to get this WAD *
+
+
+FTP sites: FTP.UWP.EDU, INFANT2.SPHS.INDIANA.EDU and others.
+
+BBS numbers:
+
+Other:

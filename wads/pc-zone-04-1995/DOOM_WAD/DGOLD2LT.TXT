@@ -1,0 +1,74 @@
+
+================================================================
+Title                   : Doom Gold II Lite                
+Filename                : DGOLD2LT.WAD
+Author                  : Enigma-13  
+Email Address           : N/A                             
+Misc. Author Info       : Creator, ENIGMA'S NIGHTMARE I, II, III
+                          replacement episodes for Wolfenstein 3D
+                          (shareware version).  Also DOOM GOLD I,
+                          DOOM GOLD II, & DOOM GOLD II BRIGHT as
+                          well as E-13SND1,2.
+
+Description             : Sound and (some) graphics replacement
+                          PWAD for commercial DOOM.           
+                          
+
+Additional Credits to   : Ix, for additional graphics & testing.
+                          Creators of all editors mentioned below.
+
+Notes                   : Previous versions changed sound music and
+                          lighting.  This version leaves the lights
+                          and music alone and changes only the sound.
+                          This makes for a smaller PWAD.
+                          For those users interested in loading new
+                          music and/or lighting along with DOOM GOLD
+                          sounds, get DGOLD2.ZIP or DGOLD2BT.ZIP
+================================================================
+
+* Play Information *
+
+Episode and Level #     : N/A (incorporates changes throughout entire game)
+Single Player           : Yes
+Cooperative 2-4 Player  : Not Tested, should work.
+Deathmatch 2-4 Player   : Not Tested, should work.
+Difficulty Settings     : N/A
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : None
+
+* Play Hints *          : You may use this wad with other PWADs.
+                          However to get the complete DOOM GOLD
+                          effect, it is suggested that you load
+                          this WAD after any other PWAD.
+
+               EXAMPLE:  doom -file this.wad that.wad dgold2lt.wad
+
+
+* Construction *
+
+Base                    : DGOLD2.WAD 
+Editor(s) used          : DMGRAPH, WADTOOLS
+Known Bugs              : None found in testing.
+                          
+
+* Copyright / Permissions *
+
+Authors may use DGOLD2LT.WAD as a base to build additional WADs, of this
+type, but please mention that it was built from a DGOLD2LT base.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu DGOLD2LT.ZIP
+
+    *** Plus other sites as mirrored. ***
+I invite users to upload this wad to every BBS and ftp you can.
+BLANKET THE WORLD!  E-13, 1994
+
+

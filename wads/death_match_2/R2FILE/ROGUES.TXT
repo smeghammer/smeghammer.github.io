@@ -1,0 +1,70 @@
+================================================================
+Title                   : ROGUES, version 1.70 (former Small70.wad)
+
+Author                  : Michael K. Karneim, in September 1994
+
+Email Address           : INTERNET: karneim@informatik.uni-muenchen.de
+			
+Additional Credits	: of course to
+			  - Rapha‰l Quinet and Brendon J. Wyber for DEU 5.21.
+			    ( when we'll have the next version ? )
+			  - QuadWord for his PC net ( it's fun to shoot him )
+                          - Falcon for his great hints 
+			    ("there should be a cyberdemon...")
+			  - Hardy ( next time I'll get u! ) 
+			  - Rogue ( he always smiles while playing, eheh!)
+		   	  - Tolot ("Don't forget, that's me behind y.. argh!")
+			  - FOX, for his neverending mood to play
+                            ("Come on, let's play a while...") 
+			  - Akira, Smile, Petty, Atlan, Jan, Heiko, and 
+                            all the other players for testing this version.
+                          - my girlfriend for lonly nights while I was 
+                            constructing doom levels
+			  - my brother !!!
+                            
+Description             : I started this level with a small room and it
+                          grew and grew. I always kept in mind that this
+                          level should be nice for every skill and for
+                          multiplayer also. Especially deathmatch player
+                          like it because of its places to shoot somebody
+                          from behind and the big duel zone.
+
+Instructions		: just unzip rogues.zip in your doom dir and 
+			  type in: doom -file rogues.wad 
+			  For further options start README.EXE from id.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : YES! (especially ultra violence!!!)
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : during 4 Months ( about 60 hours )
+Editors/Utilities used  : 5.21 by Rapha‰l Quinet
+			  & Brendon J. Wyber
+Known Bugs              : none (there were some, but I think I fixed them)
+Unknown Bugs		: please tell me...
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Internet FTP: infant2.sphs.indiana.edu pub/doom/incoming or /wads

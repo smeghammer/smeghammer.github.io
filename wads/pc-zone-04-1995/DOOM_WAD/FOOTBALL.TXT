@@ -1,0 +1,68 @@
+================================================================
+Title                   :
+Filename                : Football.WAD
+Author                  : Andrew Fritz
+Email Address           : 73741,1042  (Internet: 73741.1042@compuserve.com)
+Misc. Author Info       :
+
+Description             : The gridiron is all set up for what appears to be 
+the game from Hell, and it is.  There are no stands.  There isn't anyone 
+cheering for you.  All you have to do is survive.
+
+Additional Credits to   :
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, (2-4 players, not tested)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : Deu 5.2, and BSP 1.2.
+Known Bugs              : I had to finagle the uprights somewhat.  From
+certain angles the posts will look 2D.  This is because DOOM doesn't have 
+"floating" sectors.
+
+* Copyright / Permissions *
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc.) as long as you include this file
+intact.  This may be used as a base for a larger WAD, or for part
+of a new WAD, so long as my name, and credit to this WAD appears 
+in the additional credits part of you info file.
+
+* Where to get this WAD *
+
+FTP sites: <none, see above>
+
+BBS numbers: <none, see above>
+
+Other: CompuServe, The Gamers Forum+
+
+* The big setup *
+
+I looks like an ordinary football game, but it isn't.  You aren't watching
+it on TV at home. You look around and realize that it is you standing in the 
+field.  It's you against the very worst from hell.  
+   You are the defense (What did you expect, to be on the offense!? Ha! Get 
+real!). Their front line is the biggest one ever assembled.  Fast and wryly 
+wide receivers are ready for the aerial assault.  One look at the quarterback 
+and you know he will be throwing everything at you.  You look over to your 
+bench and see what happened to the rest of your team.  You look at their 
+bench and see they still have plenty of reserves to pound the living krap out 
+of you.  Fortunately, they let you start the game, giving you time to gather 
+your defense for their all out assault.  Are you up for it?
+
+* Other *
+   If you liked this WAD, send some e-mail to tell me about it.  Maybe offer 
+some other suggestions, or whatever.  If it wasn't worth the cost of
+downloading it, I would like to know.

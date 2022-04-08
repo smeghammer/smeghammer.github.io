@@ -1,0 +1,16 @@
+New DOOM level, Registered Version Episode 3, Level 5.
+
+Not too complex in architecture, but lots of ammo and tons of
+badboys to kill!!
+
+I created this in DOOMCad without too many problems.  At the
+prompt, type
+
+DOOM -FILE BADBOY35.WAD
+
+then start a new game, any episode, any skill level..  Type the
+following:
+
+IDCLEV35
+
+Have fun!

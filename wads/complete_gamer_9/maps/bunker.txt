@@ -1,0 +1,43 @@
+*** this map designed for the Half-Life ***
+
+30th of November 1998
+================================================================
+Title                   : Undeground Bunker
+Filename                : bunker.bsp
+Author                  : xKinetiCx
+Email Address           : xkineticx@diamondage.org
+Description             : This map is supposed to look like an underground military bunker.
+
+Additional Credits to   : Thanx to Slasher, Shmoov, and jeisAi for helping me with all my
+			  questions about WorldCraft ;)
+
+Where to get it         : http://www.diamondage.org/xkineticx/bunker.zip
+================================================================
+* Play Information *
+
+Single Player           : To explore the map
+Cooperative             : No
+Deathmatch		: Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : Boredom
+Editor(s) used          : WorldCraft
+Known Bugs              : Maybe
+Construction time	: About 3 days
+Build Time              : 5 hours
+Texture Wad used        : halflife.wad, xeno.wad
+
+=================================================================
+*Installation*
+
+bunker.txt - Map info
+wargame.bsp - the map goes in X:\Sierra\Half-life\valve\maps
+=================================================================
+
+
+© Copyright 1998 xKinetiCx *aCk*

@@ -1,0 +1,20 @@
+PWad Name: Sewerv10.wad
+Version: 1.0
+Exit: None yet
+Players: 1-4
+Game: Coop Only
+Editor: Deu 5.21
+Author: Jay 74064,1403
+Level: E1 M1
+Note:    This is the first version of my Sewer series. It'll be a long time 
+before I finish the whole sewer series of 3 levels. I will have new music, if
+not, my favorite music from one of the levels. This one is not done yet, but
+I'm expecting some ideas from different people who try out this wad, so I 
+can finish it faster. The monsters differ from skill level. At the beginning,
+I placed a few other green guys to greet you off into the dark sewer. I tried
+to make the light effects as interesting as possible in this level. I expect
+this level to be over 250 K when finished. 
+Questions: How do I make a sidedef so that it is "bullet proof"?
+           Do you see any bugs that I missed so far?
+
+           please mail the answer to 74064,1403. Thanks

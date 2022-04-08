@@ -1,0 +1,64 @@
+Title                   : Deathmatch 1   
+Filename                : Death1.wad
+Author                  : James Wilson (aka Shade)
+Email Address           : Cserve: 73651,2312
+
+Description             : Lots of level ideas I had incorporated into a
+                          Deathmatch level.  It differs from most Deathmatch
+                          levels that I've seen in that it has multiple
+                          weapon locations (somewhat preventing a player from
+                          hanging out near one), a few traps that allow for 
+                          alternate killing methods, and a means to
+                          permanently cut off the route to the BFG if it 
+                          becomes too annoying (be careful of what switch
+                          you hit).  It also has a few really good hiding
+                          places (if you can find them) and lots and lots of
+                          ammo.  IT IS NOT PLAYABLE AS A SINGLE PLAYER LEVEL!
+                          It has a coop exit and no monsters, but there
+                          is a player one start point so you can look at it.
+                          This is my second level.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes (but no fun at all, and you can never leave!)
+Cooperative 2/4 Player  : No
+Deathmatch 2/4  Player  : Yes (preferred)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Construction time       : 20 hours
+Editor(s) used          : DEU 5.2
+Known Bugs              : Slight HOM in large open acid room if standing in 
+                          just the right place.  (I had to painfully simplify
+                          this room just to get it down to this, and I didn't
+                          even notice it until after several, several hours
+                          of playtesting.)  Anyway, its the distant doorway, 
+                          and it slightly reflects the walls on either side
+                          of it, no actual texture mirrors, though.  I maybe
+                          could have fixed it, but didn't really feel inclined
+                          to, already working on a new level.
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  Authors (MAY) alter or play or do with this level pretty much
+anything they want, I only ask that you give me credit.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Compuserve:  Gamer's Forum in the Action Game Aids section. 

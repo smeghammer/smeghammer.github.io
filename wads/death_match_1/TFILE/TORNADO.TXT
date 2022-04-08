@@ -1,0 +1,82 @@
+
+================================================================
+Title                   : The Texas Tornado Deathmatch Wad   
+Author                  : David & Kathy Bruni
+Email Address           : 74353,357
+Misc. Author Info       : Voted SuperGamer's of the Month by the SysOps of
+                          the Gamer's Forum for the month of August 1994.
+                          If you'd like to know more about us, download our
+                          bio in Lib 15 of the Gamer's Forum. It's called
+                          BRUNI.BIO.
+
+Description             : Well, I picked the name because a tornado just
+                          missed our house the other day. Seemed fitting for 
+                          a wad file. This is a medium sized level. Pretty
+                          tough in the hard setting. No Cyberdemon or Spider-
+                          demon. There are a few Barons, though :-). You'll
+                          need all 3 keys to exit, one of the keys is in a
+                          hidden room.
+
+Additional Credits to   :id Software for DOOM, Brendon Wyber & Raphael Quinet
+                         for DEU, Per Allansson for porting DEU to DJGPP/GO32
+                         and Colin Reed for BSP 1.2
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M5 (I like the music) 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (as requested, there's an easy and hard setting)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 50-60 hours 
+Editor(s) used          : DEU 5.20 Dos Extended version. BSP v1.2 to build 
+                          the nodes.
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: CompuServe, Action Games Aids Library (Lib 8)
+
+
+=====================================================================
+
+To play this wad file, put the wad file and the BAT files into your Doom
+directory. At the Dos prompt, type either "easy" or "hard" depending on which 
+version you want to play. That's it!
+
+======================================================================
+Any and all comments welcome. If you like it, great! If you hate it, tell
+me why. Thanks.
+======================================================================
+I'd like to say one final word. I planned on this being my last level for 
+Doom 1, but then I got to thinking that probably a lot of people don't have
+Doom 2. So, if there's anyone out there who would still like new Doom 1 wad
+files, let me know and I'll keep making them.
+======================================================================

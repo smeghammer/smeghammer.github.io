@@ -1,0 +1,61 @@
+===============================
+Shadow Valley
+Version 0.6 beta
+Written By: Adam "ApocX" Cooper
+===============================
+An Unreal DeathMatch Map
+===============================
+
+Author: Adam Cooper
+
+Deathmatch: YUP! Oh yeah!
+Single: Um...no.
+
+New skins: No
+New textures: None
+New models: Nil
+New code: Nata
+
+Editor Used: UnrealED, Rhino3d
+
+===============================
+General Info
+===============================
+Hidey ho and welcome to my first deathmatch map (actually first Unreal
+map). 
+
+I used Rhino3d for the hills and mountains because UnrealEDs vertex
+manipulation SUCKS! That way I had way more control over my mountains
+and my sanity.
+
+Please play this level. Please play with 8+ bots! Please run it with
+at least a Pentium 200 MMX! I know the system reqs. are to high but
+isn't it time everyone moved away from 133s and 166s?
+
+Oh, and please email me with comments: adamc@axionet.com
+
+===============================
+Instructions
+===============================
+1.) Stick it in your Unreal\maps directory. 
+2.) Select deathmatch, select my map, have fun.
+
+===============================
+Bugs / Goof-ups
+===============================
+
+2.) One wall gets bright marks 'stuck' to it. Don't ask why...
+
+That's about it!
+
+===============================
+Legal stuff
+===============================
+Okay, you CAN play my map and send it to friends with all the files intact.
+You CANNOT edit my map without my permission. This will piss me off to
+no end if you decide to alter my map and claim it your own. DON'T BE
+A F*CKING LOOSER PLEASE!
+
+If you use my map for any project, expansion pack then you must first
+ask my permission, then give me appropriate credit
+===============================

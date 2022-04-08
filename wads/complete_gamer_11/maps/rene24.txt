@@ -1,0 +1,58 @@
+* THIS LEVEL IS NOT MADE BY OR SUPPORTED BY id Software *
+ * REQUIRES REGISTERED VERSION OF QUAKE2 3.14 or higher *
+			
+Released:08/10/98
+==================================================
+Title                   : Forever rolling my eyes
+Filename                : rene24.bsp
+
+Author                  : Renegade 
+Email Address           : renegade@c4.net 
+
+Description             : Deathmatch
+
+Additional Credits to   : id software 
+===================================================
+* Play Information *
+
+Game                    : Quake2 REG 3.14 or higher
+Map Name                : rene24.bsp
+Single Player           : Yes
+Co-op                   : no
+Deathmatch 2-6          : 5 starts
+Difficulty Settings     : no
+
+==================================================
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : WorldCraft
+Construction time       : A few days.
+Build Time              : 32min
+Known bugs              : None.
+
+
+==================================================
+
+* Other *
+
+Quake:recon01, recon02, recon03, recon04, recon05, recon06
+
+Quake2: rene03, rene04, rene05, rene06, rene07, rene08 , rene09 ,
+ rene10 , rene11 , rene12 , rene13 , rene14 , rene15 , rene16 , rene17 ,
+rene18 , rene19 , rene20 , rene21 , rene22 , rene23
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this BSP (for free), provided you include this
+file, with no modifications.  You may distribute this file in any
+electronic format (BBS, Diskette, CD, etc) as long as you include
+this file intact. Unless for Profit then I MUST be contacted and 
+Asked permission.
+
+* Where to get this BSP *
+
+Renegade's homepage www.c4.net/renegade/

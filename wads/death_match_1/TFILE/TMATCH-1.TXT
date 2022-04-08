@@ -1,0 +1,60 @@
+================================================================
+Title                   : Tom's Deathmatch wad #1
+Filename                : TMATCH-1.WAD
+Author                  : Tom Chamberlain (no suprise)
+Email Addresses         : uck@netcom.com
+Misc. Author Info       : programmer at Vortex Media Arts, North Hollywood,CA
+                          - home of Madeline.
+Description             : This is a tight little wad with lots of narrow
+                          cooridors and a couple secrets. All of the weapons
+                          are available, although the rocket launcher and the
+                          BFG are a bit of a *pain* to get. There's a couple
+                          little goodies thrown in, like the micro-maze room.
+================================================================
+* Play Information *
+
+Version of DOOM for     : DOOM v1.666
+Episode and Level #     : E1M1 
+Single Player           : With the monsters, its pretty hard, but possible+fun.
+Cooperative 2-4 Player  : Ya know, I think I forgot to put player 2+ starts in.
+Deathmatch 2-4 Player   : Thats whats its made for, but take out the monsters
+                          (trust me - they just get in the way).
+Difficulty Settings     : With the monsters, Ultra-violence.
+New Sounds              : Nope
+New Graphics            : Uh uh. [no]
+New Music               : Nada
+Demos Replaced          : Nope
+
+* Construction *
+
+Base                    : from scratch
+Editor(s) used          : DOOMED 2.60 beta 4  (by Geoff Allan) - nice ed.
+Known Bugs              : Well, the exit door looks kinda ugly, but thats about
+                          it.   Please report any found ones to me.
+
+=================================================================
+Author's Notes:
+
+ Not much, just that this is a pretty high action wad. Single player on UV
+ proves to be rather tough, but rather playable (no CyberDemons or Spideys)
+ I'd much appreciate any insults, jeers, threats, suggestions or compliments
+ that you have about this level.        
+        Hope you like it.
+        -Tom.
+
+=================================================================
+* Copyright / Permissions *
+   I'd like to thank the author of VATORS_1.WAD (Joe McElmeel) for the use of 
+   this description format,as it looks like a good format to use (I don't know
+   if this is the standard format, but it seems close enough).
+
+Authors MAY use this level as a base to build additional levels.
+
+However, if you use this as a basis of another WAD, I would like some
+credit in your text file, and please do NOT use the same naming convention
+that I will be using ("TMATCH-x.WAD").
+
+
+* Where to get this WAD *
+FTP sites: infant2.sphs.indiana.edu:/pub/doom/NEWSTUFF
+

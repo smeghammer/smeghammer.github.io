@@ -1,0 +1,45 @@
+================================================================
+Title                   : Smashedophobia
+Filename                : Q2DM7.bsp
+Author                  : Anthony Pitt (SmasheD)
+Email Address           : Anthony.Pitt@nottingham.ac.uk
+Website:                : http://www.SmashedUK.ml.org
+Description             : Based on the "lost level of id" 
+                          DM7 - "Acrophobia". This is a Quake 2 
+	                  version of DM7 and not strictly a straight 
+                          conversion.
+Additional Credits to   : id who else. Special thanks to Phil Whaley 
+			  (Shrike) for testing, ideas and bugging the 
+			  hell out of me to get it done. 
+================================================================
+
+* Instructions *
+
+Stick Q2Dm7.bsp in ..\quake2\baseq2\maps\
+If you want to try it out goto the Q2 console and enter map q2dm7
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No.
+Deathmatch              : Yes.
+CD Track		: Er dunno.
+
+* Construction *
+
+Base                    : Built completely from scratch
+Editor(s) used          : GLQoole 2.31
+Modifications made      : Quake 2'd it, made a few structural changes 
+			  from the original to extend playability (I 
+			  hope).
+Known Bugs              : Theres a visual glitch that only shows up
+ 			  when running Quake2 in software mode, it doesn't
+			  appear if you are running GL. It appears to be a
+			  problem with the Quake software renderer as I've 
+			  seen the same problem in other peoples levels.
+Build Time              : Too long due to intervening bouts of excessive 
+			  drinking.
+
+* Copyright / Permissions *
+
+Distribute it how the hell you want so long as you keep this text file with it, and don't charge money for it in anyway shape or form or else I'll give you a good slappin'. Jobs a good'n.

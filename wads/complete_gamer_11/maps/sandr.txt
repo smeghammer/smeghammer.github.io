@@ -1,0 +1,93 @@
+========================================================================
+
+Title                   :	Shipping  & Receiving
+Filename                :	sandr.bsp
+Date                    :	4-27-98
+
+Author                  : Jeff Ashley, Jr.
+Email Address           : ashtray@iglou.com
+
+========================================================================
+
+Well momma was right.  I remember her words out in the cornfields of east tennessee when I was a littlun'.  "Zeke",she said," You are an idgit, and  I bet you'll never amount to nothin."  
+
+I up and joined the marines and graduated in the bottom ten percent.  Shit,  I was about to be discharged when the Strogg attacked, but the sudden loss of population made my position in the marines somewhat better. Sure, I was a lazy and sullen loser but my training and my four appendages made up for alot.
+
+I found myself on the last ship in the fleet.  The "Kovorkian" was an old ship; and the crew, including us marines, was as salty as the crews of the Wooden ships. 
+
+Fortunately, Our target was low priority.  It was on the opposite side of the planet from the real action.  My sargeant,  Sandy,  debriefed us.  The mood of the slackers and cowards that represented our squad suddenly picked up. It became obvious that our mission was to be an easy one.  The target,  code named "Shipping and Receiving" was a high speed hub for the Stroggos forces.  The brass believed that shutting down the hub could create a huge bottleneck for the Strogg.  Our job was to take the warehouse, shut down the hub, then reprogam the controllers to prevent bringing the hub back on-line.  It was expected to be lightly guarded.
+
+  Our mood was high as we entered into our MarkIII attack pods and prepared for assault.  Everyone locked down and we were off.  The squad coasted down the gravity slope in a relatively tight formation until we came into range of the Stroggos crude directional jammers.  Suddenly,  our first-generation Czech-made MarkIII pods veered into wild directions.  The squad was immediately seperated.  When I landed,  I called in the Sand.  She reported her position  and filled me in on the squad.  Five hadn't made it and the rest where over 30 klicks away.  Damn cowards probly wouldn't even show I thought.  
+
+I grabbed my double barrel and hiked down the hill towards Shipping and Receiving. 
+Wasn't supposed to be a hotspot, but you know how them things turn out......  
+
+
+========================================================================
+Alright then.   Its basically a shootfest...
+
+
+* Play Information *
+
+Game                    : Quake2
+Single Player           : Yes
+Coop			: Yes
+Deathmatch              : Yes
+Difficulty Settings     : Yes(easy-really easy;medium=pretty hard;hard=hard)
+New Sounds              : No
+New Graphics            : No
+Colored Lighting        : Yes
+Nose Picking		: Tolerated with a begrudging stare.......
+
+********* Construction *
+
+Base                    : new map
+Build Time              : .75 hours to compile 			    
+Design Time		: more than 20 less than 100.
+Editor(s) used          : Qoole version 2.41(very solid and nice program). 
+ 
+********Known Bugs/Issues       : i)  the way i had to use a trigger once for the end scene(save that BFG til the end),  gives a  TRIGGER at (0 0 0) with a Fixed Trigger error upon starting Q2. This does not affect gameplay AT ALL but it bugs me.  If anyone knows the reason or a way to do the same thing w/o the error msg  please mail me. thanks.
+
+ii)  The Automated Guided Vehicles will sometimes stack up if they are blocked.  Its not really a bug but it looks kinda weird.  Its how the func_train work as near as i can figure. 			  
+		
+			  
+****Comments*      	 :  Hope you enjoy.  If you think it sux then  delete it. 
+
+ii)  I made this level for SP, COOP, and DM.   Both have been playtested extensively, although we never had more than 4 people in DM.  In DM,  there are a bunch of ladders which don't appear in SP, start a server,  load the map and check it out. 
+
+iii) Easy is really easy.   Made it for one of my lil' friends, Silas.  It got the Silas seal of approval.
+
+*** How to use this level *****
+
+1)Place sandr.bsp into your ..\quake2\baseq2\maps\ directory.(if it don't exist-make one)
+2)then either launch quake 2 like so:   <path>\quake2 +map sandr 
+Or in Q2,  hit the ~ key(upper left hand corner)
+	 at the prompt, type:   map sandr
+			follow this with <enter>
+			then hit ~ key again.
+
+NOTE:  You need to set the skill setting before starting the map.  The easiest way(not the only) is to start a Hard game through the Q2 main menu,  then do the ~ thing to bring up the map.
+
+
+
+***Hints****(u might want to skip)
+
+i  - The secrets really help.  Look for buttons hanging around of the shootable type(plus 2 others).  
+ii-  The boxes squish you and your enemies quickly so BEWARE!!  Kinda like the crates in the Warehouse DM of id's.
+iii- There is a huge grand finale.   Beware at the end.  And remember that the first door you entered is toggle-able.  Save some ammo.  I got through without using secrets, but just barely......
+iv-At the end,  go back to the original room to exit.
+
+***Copyright / Permissions ***
+   You MAY distribute this BSP through any electronic network provided you include this file and leave the archive intact.
+   You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any other electronic format that is sold for money without my explicit written permission! 
+
+
+***Special thanks***  
+To momma, skeeter joe, Yah Tippy, silas and the rest.   Special thanks to killbilly, dat, and weaver for being  best friends and   non-virtual rad dudes. Especially Neal S(beatch)  for playtesting the crap out of it. Whitefang for making qoole so cool. 
+
+Oh yeah,  thanks to Matt(aka solosoul), Akuma, Roma and  Dakila for being fellow Q2 bros' on the net. These guys told me where my previous maps sucked and where they didn't.  Hey, its all a learning process and the pay is poor. 
+   
+  
+And of course, id.  Hats off.
+
+8^L

@@ -1,0 +1,56 @@
+================================================================
+Title                   :Spaz! (Custom Deathmatch wad)   
+Filename                :SPAZ.WAD 
+Author                  :Motop, Armitage
+Email Address           :Ekschult@vela.acs.oakland.edu
+Misc. Author Info       : 
+
+Description             :2 large rooms, platforms, perches.... 
+                        :Deathmatch!
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Not really
+Cooperative 2-4 Player  : Not really
+Deathmatch 2-4 Player   : Ohhhh Yes..
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    :New level from scratch
+Editor(s) used          :DEU 5.1,idbsp,Reject
+Known Bugs              : 
+
+
+
+Creators                : Motop (ekschult (see below)
+                        : Armitage 
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+This Wad was built with as much play testing as creation. This is 
+Basicly deathmatch only (no exit LOTSA ammo). This was NOT built to 
+be fancy just built for massive ammounts of multiplayer fun.
+
+Any comments send them to...
+Ekschult@vela.acs.oakland.edu (constructive comments!) :)
+
+SPECIAL THANKS GO TO:
+
+ID software
+Phallus   (IRC Nick)
+Johndoe   (IRC Nick)
+

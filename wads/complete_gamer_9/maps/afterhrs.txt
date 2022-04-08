@@ -1,0 +1,87 @@
+================================================================
+
+Title                   : After Hours
+Filename                : afterhrs.bsp
+Author                  : Kevin "Fragmaster" Bowen
+Address                 : fragmaster@classicgaming.com
+Description             : Darkness descends upon an amorphous 
+			  office building hidden deep within a 
+			  secret government facility. Not a 
+                          single creature remains in the 
+                          building after hours. 
+ 
+			  Now's your chance to engage in bloody 
+                          battle amongst yourselves, coating the 
+			  freshly waxed tile floors with sweet 
+			  red blood.
+
+			  How cheesy. In reality, this is 2-6 
+		          player DM map for Half-Life. It's 
+			  kind of "Doomish." 
+
+Special Thanks to       : Huge thanks to Reid "Brushboy" Kimball
+			  for teaching me how to use WC (oh, so 
+			  you've got to hit return to create 
+			  stuff? Doh!) and advice. He also 
+			  found a leak in the map, which I 
+			  just couldn't track down. He rules.
+
+			  Thanks to WhiteNoiz, Brushboy, tin and
+			  warped for playtesting, and of course 
+                          Valve for creating the best FPS ever.
+Webpage                 : http://www.planethalflife.com
+			  http://www.classicgaming.com
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : Some testers complained that the 
+		          level was too dark, so I brightened
+                          it up a bit. If it's still too dark
+                          for you, up the gamma a notch
+                          or two.
+Build Time              : ~4 days of on and off work.
+
+================================================================
+
+Installation
+
+To play this level, extract this file "afterhrs.bsp" into
+your sierra\half-life\valve\maps directory and then start the 
+game.
+
+Start a deathmatch server and type "map afterhrs" or "changelevel
+afterhrs" in the console. To test it out in single player mode
+start Half-Life with hl.exe -console, hit the console button and
+type "map afterhrs". If you put this on a DM server, let me know 
+por favor.
+
+================================================================
+
+Copyright and Permissions
+
+Keep this file intact, don't stick it on your shovelware, and
+don't sell it to support your drug habit. Thanks a bunch!
+
+Let me know what you think of this map. Feedback, good or bad
+would rock. 
+
+- Fragmaster
+  fragmaster@classicgaming.com
+  December 9, 1998

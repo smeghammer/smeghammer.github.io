@@ -1,0 +1,55 @@
+================================================================
+Title                   : CHURCH.WAD
+Author                  : Peter Naus
+Email Address           : petern@hparc8.aus.hp.com
+Description             : You've found the unknown altar to the CyberLord.
+                          It looks just like a church... I wonder why?
+                          The level is pretty easy, I just created it to
+                          stir up trouble! Then I added some bad dudes...
+Feedback                  Yeah, I know, you'll get the occasional HOM when
+                          you're inside the church looking towards the door...
+                          ...bad luck, it's a limitation of the engine :-)
+                          Don't try to "fix" the untextured walls... it's
+                          the only way I can get the DooM engine to give me
+                          a "low" exterior and a "high" interior and still
+                          get the SKY texture from within the building...
+                          Please let me know if this level bugs out on any
+                          particular revision of DooM... So far, it works
+                          fine on 1.1/1.2/1.4/1.5.
+Additional Credits to   : Brendon Wyber and Raphael Quinet for DEU
+                          And id. Of course.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M7
+Single Player           : Yes
+Cooperative 2-4 Player  : No - it's a bit pointless...
+Deathmatch 2-4 Player   : See note above
+Difficulty Settings     : Yes, 1/2,3,4/5
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 5 hours
+Editor(s) used          : DEU 5.21,BSP 1.0x
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites:
+           infant2.sphs.indiana.edu
+
+                              CHURCH.ZIP
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_

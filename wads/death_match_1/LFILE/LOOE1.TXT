@@ -1,0 +1,38 @@
+================================================================
+Title                   : LOOE's First Level   
+Filename                : LOOE1.WAD
+Author                  : Looe
+Email Address           : c/o CompuServe 100330,2700
+Misc. Author Info       : E. Steele AKA LOOE AKA BEEPER
+
+Description             : This is my first attempt at a level.
+                          Greetings to all my m8s.  Created with
+                          DoomEd The Real Thing - hurry up and 
+                          send me that registered version man...
+
+                          cul8r Beefer.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd - The Real Thing, DEU 5.2
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file.

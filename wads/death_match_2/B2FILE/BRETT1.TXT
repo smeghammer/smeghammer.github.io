@@ -1,0 +1,60 @@
+================================================================
+Title                   : Brett's Hell   
+Filename                : BRETT1.WAD
+Author                  : Brett E. Russell
+Email Address           : B Evan R (America-On-Line)
+Misc. Author Info       : Started creating patch files in July, 1994
+
+Description             : My first set of four patch files (more levels in
+                          the works). I really love the action packed levels
+                          on Doom, so I have tried to really take my favorite
+                          monster moods and put them into a full action series
+                          of increasingly more complex levels.
+
+Additional Credits to   : Eric Hunsader and Michael Phillips for their testing
+                          and feedback on my levels.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1, E2M2, E3M3, E4M4
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2
+Known Bugs              : NONE
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+BBS numbers: 216-645-0804. I am the SYOP for this board. Sign on as:
+                                First Name: DOOM
+                                Last  Name: Player
+                                   Passord: AOL
+Then, leave a mesage to the SYSOP (me) when you sign off with your real
+first name, last name, and a password along with where you got this .WAD  
+file, and I will give you full access to any .WAD files I encounter as 
+well as any new WAD files I am working on (including those in the testing
+phase, if you wish). Any positive or polite negative feedback would be
+appreciated.
+
+

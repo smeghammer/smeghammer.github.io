@@ -1,0 +1,10 @@
+Title:Al'Shar Temple
+Filename: DMRam05.unr
+Version:1.2
+Date: 05-31-98
+Author:|R.A.M.page|
+
+This is the first level I ever created using UnrealED. I used everything I learned at this point to make a map that 
+has an egyptian/ancient style to it. I used Lens Flare effects, Fog, Water section, portals and a lift.
+Hope it helps in any way. I want to thank the people in #UnrealED on EfNet, especially Zorkwiz, |Speed|, JonR, MindBomb, Cableless, TheEngine and
+|Pegasus|.

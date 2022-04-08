@@ -1,0 +1,75 @@
+================================================================
+Title                   : JPZOO21.WAD 1.0
+Author                  : Jean-Philippe Gsell
+Email Address           : JeanPhilippe_Gsell@email.francenet.fr
+Compuserve              : 100413,1227
+
+Misc. Author Info       : Windows developper - Fan of Doom.  
+                          486DX2 - VLB - WD90C33 - 8Mg Ram   
+
+Description             : Welcome to the Zoo.
+                          In the "Too Young" skill, I finished the level
+                          in 25 minutes (no die, one save). 
+                          The most difficult thing is to found my face 
+                          in a texture and the word written on it (Windows
+                          Wingdings font coded). 
+                          Every next level will contains a new word. 
+                          Putting all the words together makes a sentence  
+                          about hope ;-)
+                          You can exit this level without founding 
+                          the face (!)
+                          Warning: A second face (beta tester) is present,   
+                          but no word on it. 
+                          
+                          E-mail me the word you founded and how (not 
+                          with an editor!). 
+                          I'll E-mail to the first five players the next   
+                          level (today under construction). 
+                          
+                          E-mail bugs and suggestions. 
+                          
+                          I hope you'll enjoy...
+
+                          
+Additional Credits to   : Doom + Deu + Bsp Authors (the greatest creation 
+                          pack of the year!)
+                          Malik for English.
+                          Nicolas (1 hour) and Manu (iddad) for test. 
+
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New demos               : Yes (DEMO1)
+New Sounds              : No
+New Graphics            : Yes (2)
+
+* Construction *
+
+Base                    : Original level
+Build Time              : 35 hours
+Editor(s) used          : DEU 5.21 and BSP 1.1x
+Bugs                    : Teleport texture alignement
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:                   FTP.FRANCENET.FR
+
+     Dir: incoming    File : JPZOO21.ZIP  Original size : 230374
+================================================================

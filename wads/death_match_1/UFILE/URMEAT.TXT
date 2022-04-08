@@ -1,0 +1,63 @@
+================================================================
+Title                   : YOU ARE MEAT!
+Filename                : URMEAT.WAD
+Author                  : Charles Michel
+Email Address           : Compuserve 74471,3254
+                          (Please let me know what you thought)
+Misc. Author Info       : Just your average Doom fanatic
+
+Description             : This level is designed for a single player,  
+                          although cooperative play is also good.  
+                          I've tried to throw a little bit
+                          of everything in here.  You may have to die quite
+                          a few times before you can make it all the way
+                          through.  ** Hint ** I believe it is sometimes 
+                          better to run than fight. I've also included
+                          a demo of yours truly completing the entire
+                          level on skill 4. 
+
+To Play                 : doom -file urmeat.wad -warp 2 1 -skill 4
+
+To View Demo            : doom -file urmeat.wad -playdemo urmeat
+                          
+Additional Credits to   : Bill Lappe, Tester and longtime deathmatch victim
+ 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes (Very challenging)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch  
+Editor(s) used          : DEU 5.21
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

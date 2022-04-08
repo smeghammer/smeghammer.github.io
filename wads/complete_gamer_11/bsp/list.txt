@@ -1,0 +1,14 @@
+
+ Volume in drive F has no label
+ Volume Serial Number is 17E7-0F4F
+ Directory of F:\bsp
+
+[.]           	[..]          	COVERT3.BSP 	ARKAN1.BSP  	ARKAN2.BSP  
+COVERT2.BSP 	ANGRON1B.BSP	COVERT4.BSP 	DEJA_2.BSP  	DRILL2.BSP  
+DYV2.BSP    	EOF.BSP     	GRINSP1B.BSP	GRINSP1C.BSP	IAO2.BSP    
+NOVA2.BSP   	OP2.BSP     	OP3.BSP     	PHARM2.BSP  	PHARM3.BSP  
+PHARM4.BSP  	SACRED2.BSP 	SACRED3.BSP 	SODY1.BSP   	SODY2.BSP   
+SODY3.BSP   	SODY4.BSP   	ZEBO2.BSP   	ZEBO3.BSP   	ZEBO4.BSP   
+LIST.TXT    
+        29 file(s)     43,908,812 bytes
+         2 dir(s)      54,351,872 bytes free

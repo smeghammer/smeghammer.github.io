@@ -1,0 +1,67 @@
+================================================================
+Title                   : Ring of Death
+Filename                : RINGDETH.WAD
+Author                  : Bruce H. Graw
+Email Address           : GEnie B.GRAW1; Internet B.GRAW1@genie.geis.com
+Misc. Author Info       : 
+
+Description             : An arena-style, wide-open level.
+                          A real challenge alone, easier in cooperative
+                          mode, and an excellent deathmatch level.
+
+Additional Credits to   : The wonderful DEUers who made DEU so I could
+                          create this level. Those who don't, DEU!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 GCC
+Known Bugs              : None...There used to be a Hall of Mirrors
+                          in the center area, but setting DEU's
+                          splitfactor to 16 fixed this. Users modifying
+                          this level should use "-sf 16" on the command
+                          line before using the Node Builder.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. I would consider it the sincerest form of flattery....
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+I uploaded it to the GEnie network. If it's anywhere else,
+don't blame me.  |+)
+
+* Additional Comments / Hints *
+
+With monsters: KEEP MOVING. Use the invulnerability spheres WISELY.
+Don't enter the outer square until after you've dealt with everything
+in the inner ones, and save the center room for last. Watch your ammo!
+
+As Deathmatch: It's an arena with no cubbyholes or dead-ends, and all
+the weapons are present except the BFG-9000. You also get to start with
+a good weapon, ammo, and armor and can jump in when ready!
+
+Multiplayer: In multiplayer mode (cooperative or deathmatch) at least
+two people will have to work together to exit the level. (This means,
+in a deathmatch, that no one person can spoil everyone else's fun by
+throwing the exit switch - at least not without help.)
+

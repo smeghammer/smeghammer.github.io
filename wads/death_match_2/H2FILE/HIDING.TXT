@@ -1,0 +1,51 @@
+================================================================
+Title                   : Hiding to Nothing
+Author                  : Stuart Greig
+Email Address           : Compuserve 100137,2177 (Mark Craven)
+Misc. Author Info       : DOOM Addict, Trainee DOOM Former &
+                          Frustrated Space Marine.
+Description             : My second published WAD, much much
+                          bigger than the last and far more
+                          difficult.
+Additional Credits to   : My wife, for not actually divorcing me
+                          eventhough I spend all my time at the
+                          PC.
+                          My 6 year old son, for play testing.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, recommended
+Deathmatch 2-4 Player   : Yes, definetely recommended
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 80 hours
+Editor(s) used          : DEU v 5.2 (Superb Prog)
+                          BSP (Gets rid of see thru walls)
+Known Bugs              : None (I think). 
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+* Where to get this WAD *
+
+Sound & Vision (UK BBS) 0932 252323 - Good work Rob !
+Compuserve (Gamers Forum) - The home of DOOM formers.
+
+
+
+
+

@@ -1,0 +1,13 @@
+README
+
+DmSewer.unr
+
+Author:  Stephen
+Email: tokazawa@cal.cybersurf.net
+
+Death match map for Unreal.  A fairly claustrophobic map cluttered with pipes and some
+ bright green sewage.  Be careful about swimming down around the big pillars, it's a
+ little tight and sometimes hard to resurface.
+
+Number of brushes: 198
+

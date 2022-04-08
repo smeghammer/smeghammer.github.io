@@ -1,0 +1,18 @@
+           The DOOM .LMP Film Collection: Collector's Edition
+
+Title      :  I thought this was impossible
+Category   :  PWAD                         DOOM Editor:  ?
+Recorded by:  Michael Houston                    Date :  March 10, 1994
+Skill      :  Ultra Violent
+
+Summary:
+
+This was originally intended to be a 30 second test to see if ALFRED's new
+PWAD record feature worked, but as with most of my tests I just kept on 
+playing to see how far I could go. It turned out I went further than I 
+thought...
+
+I don't know who created the pwad file for this .LMP (let me know), but 
+thanks for the exciting level!
+
+- Michael.

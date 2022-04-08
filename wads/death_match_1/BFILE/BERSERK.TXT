@@ -1,0 +1,36 @@
+WAD Authoring Template V1.2   (Clip this line)
+================================================================
+Title                   : BERSERK.WAD   
+Author                  : Jon Landis
+Email Address           : alandis@delphi.com
+Misc. Author Info       : 
+
+Description             : Total Chaos, Lots of weapons hidden everywhere!
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : ExMx (E2M1)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Approx 7 hrs. 
+Editor(s) used          : Deu v5.1
+Known Bugs              : -devparm causes problems, some mirror effects
+
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file.
+
+

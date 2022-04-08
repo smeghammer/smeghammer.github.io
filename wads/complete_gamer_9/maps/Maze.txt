@@ -1,0 +1,44 @@
+================================================================
+Title                   : Maze - for Half-Life
+Date                    : 23th December 1998 
+Filename                : maze.bsp
+Author                  : Frank F P aka "Tulkas"
+Email Address           : frank.fp@get2net.dk
+Home Page               : hjem.get2net.dk/frank_fristed_pedersen
+
+Description             : This is my first try at making a level (have you heard this before?) for any
+                          3D-shooter. It has been great fun, and it took me about ten hours including all
+                          the time it took me to figure out how to use Worldcraft. 
+                          I wanted something simple to start off with, and this is it. Not much, but hey, 
+                          I learned alot. The level is based on my memory of a paintball-track I have 
+                          run around in a time or two. 
+                          It is a very small level with very narrow halls and it is built like a maze. I
+                          wanted something other than, "biggest guns win" and therefore this is only the 
+                          357 gun to all the players. It is my hope that superior tactics and stealth 
+                          would determine the winner here....
+                          As I have said, this is my first try and I made a lot of beginners errors. So now
+                          there is a lot of small things that I could improve in this level if I spend the 
+                          doing it. But I wanted to start on a single player map , and declared this level 
+                          to be finished. I hope you like it, and that you do not expect to much of it.
+
+================================================================
+
+* Play Information *
+
+Single Player           : No (one start)
+Deathmatch              : Yes, 2-4 players would be ideal, any more and it would be to crowded
+Difficulty Settings     : No
+
+================================================================
+
+Make sure you put the .bsp file into the following directory:
+
+... \Sierra\Half-Life\valve\maps
+
+================================================================
+
+
+You MAY NOT sell this map for money!
+
+
+Frank F P 

@@ -1,0 +1,61 @@
+* Play Information *
+Title 			: Stack
+Date                    : 12/22/98
+Filename		: STACK.bsp
+Author			: Captain Gram
+Other lvls by author	: N/A (my first level)
+Email address 		: gramster@mediaone.net
+Home page		: http://bz2.com
+Description		: Conversion of "Stack" from Goldeneye 64
+Additional Credits to   : Crazyben
+                          Rare
+                          Valve/Sierra
+Single Player           : Yes (to explore the map)
+Cooperative Player      : No
+Deathmatch Player       : Yes
+Number of Players       : I suggest 2-10
+Difficulty Settings     : No
+New Textures            : No
+CD Track                : N/A
+
+
+* Construction *
+Base			: Conversion of Stack, from the game Goldeneye 64
+Build Time              : 5 days
+Playtesting Time        : about 4 hours
+Editor(s) used          : Worldcraft
+Compile Machine		: P200mhz, 96mb RAM
+Compile time		: 3 minutes
+Known Bugs              : none!
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+Let me start by saying that this is an exact conversion of the Stack level from Goldeneye on
+the Nintendo 64. The only things that you will find changed is some of the item placement,
+some of the deathmatch start locations, and in the main room there is a small raised
+platform that keeps the room from looking too dull. This map is not supposed to look
+pretty. It uses the grey/green textures throughout the map because I wanted to keep it 
+faithfull to the original version. I think I should also mention that this is my very first
+level I've ever made for a first person shooter. My previous map creations were in
+Interstate 76, Battlezone, Red Alert, and Starcraft. I find that I pick up on map editors 
+pretty quickly though, so you should not find this level to be substandard in quality. I 
+hope that this map brings back some good memories of fragging your friends on the N64, and
+for you people who never played Goldeneye, I think your in for a treat. This level has an 
+excellent layout that makes for great fights! Enjoy, and please send me feedback, I'm eager
+to hear your opinions on my map!
+
+
+================================================================
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

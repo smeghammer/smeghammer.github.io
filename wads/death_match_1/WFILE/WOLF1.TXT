@@ -1,0 +1,50 @@
+* General Information *
+==============================================================================
+
+Title                   : WOLF1.WAD (Wolf Series)
+Description             : Original Deathmatch PWAD for Heretic (Registered)
+
+Author                  : Greg Herrick
+Email Address           : gregh@ais.net
+Comments                : Any comments please mail me about anything
+                          concerning this level.
+
+Points of Interest      : This level is designed for Deathmatch only.
+                          Playing anything else on this level would be 
+                          pointless.  This level contains a new element
+                          which I call the Chicken Coop.  This Chicken Coop
+                          is an area only chickens can teleport to and wait
+                          out their chickeness.  Inside the Chicken Coop is
+                          the exit so if you wish to end the level become a
+                          chicken!
+
+* Play Information *
+==============================================================================
+
+Episode and Level #     : E1M1
+Single Player           : Yes (But Why?) 
+Cooperative 2-4 Player  : Yes (But Why?)
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : Around 24 hours
+Editor(s) used          : HEU 5.21 and BSP 1.2x
+Known Bugs              : None
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.
+
+Where to get this wad:
+
+FTP Sites:  ftp.cdrom.com

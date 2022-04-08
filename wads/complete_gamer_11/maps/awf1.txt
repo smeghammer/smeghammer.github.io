@@ -1,0 +1,127 @@
+===================================================================================
+February 16, 1998
+===================================================================================
+
+Title                   : Advanced Weapons Facility 1 - Infiltration 
+Filename                : awf1.bsp   
+Author                  : James Parkman aka "gloom" 
+Email Address           : stdjhp@unx1.shsu.edu
+WWW Homepage:		: http://www.shsu.edu/~stdjhp
+Date of release		: February 16, 1998
+Description		: Single Player Quake II map. First in a 3-part unit.		
+					
+				
+Additional Credits to:	id - the best of the best.
+			Robert A. Duffy for QERadiant
+				http://www.planetquake.com/qeradiant/
+			RUST, the guys with the best Q2 entity ref on the net so far:
+				http://www.planetquake.com/rust/
+			Felicia, my wife, for putting up with hours of non-stop 
+				editing oblivion.
+
+=========================================================================================
+
+* Play Information *
+
+Game			: Quake II v.3.10 
+Level Name       	: AWF1 - Infiltration
+File name		: awf1.bsp
+Single Player           : Yes.
+Cooperative 		: Yes. (4 coop starts)
+Deathmatch 2-8 Players  : No. 
+Difficulty Settings     : Yes (easy, medium, hard)
+New graphics		: No.
+Anything else new:	: No.
+
+* Construction *
+
+Base            : new level
+Build Time      : ~3 weeks/150 hours
+Editors used    : QERadiant 1.0b (build 041).
+		  Compiling utilities released by id software. 	  
+
+Compilation:	Qbsp3 	      build time:    secs
+		Qvis3 (full)  build time:   secs
+		Qrad3 -extra  build time:   secs
+============================================================================================
+Platform used   : P-200 64MB RAM, Matrox mill. 4mb and 3dFX 4mb
+Known Bugs      : None (brush 647 give qbsp error "microbrush", but it seems perfectly normal)
+
+
+--------------------------------------------------------------
+The Story:
+--------------------------------------------------------------
+Incoming Comm - USMC Command:
+
+Soldier, we've located strong fussion signatures on long range scans of
+the Acheron planetoid in wide orbit around Strogos. Satellite probes have
+obtained images of a Strog reactor built into the rock, and we have reason to 
+believe that this facility is a new arms manufacturing plant. We suspect the 
+Strog have developed a new technique for production of fussion based weapons.
+If we don't discover their plans and disable the facility, we may soon
+be facing hordes of BFG10k wielding infantry. 
+
+We're pressed hard on the front lines, so we're sending you back in. You've
+got to destroy the reactor and if possible get the data on the fussion 
+reactor. 
+
+Phase one of the mission requires you to infiltrate the main lab through
+a maintenance tunnel we've located. This tunnel is 
+little-used, and should lead you through the upper security station, where you'll be
+able to take out the sentries, hopefully before they alert the entire
+base guard. It's going to be hairy soldier, so stay on your toes. We wish you luck. 
+
+USMC Command out.
+---------------------------------------------------------------
+
+
+* Loading information *
+
+To load this Q2 map:
+- Put the "awf1.bsp" in the /quake2/baseq2/maps/ directory.
+- Start Quake2 as you usually would do.
+- Pull down console, type "skill 2" (or "skill 1" or "skill 0"). Press enter.
+- Then type: "map awf1" to begin.
+(Do not type the quotation marks)
+		 
+
+* Copyright / Permissions *
+
+This level is (c) by J. Parkman, 1998.
+Don't put this level on any sort of commercial product please. That would be
+uncool. If you want to pay me alot of money, feel free to drop me a line :)
+
+You MAY distribute this BSP through any electronic network , provided you include this file 
+and leave the level in it's original form.
+You MAY use this map as a base for additional levels, if you want to, just give me
+credit and let me know what you're using it for so I can check it out :)
+
+*Archive info*
+Archive filename: awf1.zip
+
+* Where to get this archive *
+ftp.cdrom.com and mirror sites
+
+
+* Other levels by JHP *
+None
+
+*background of this map*
+This is the first map I've actually released. I learned alot from it, as it basically started
+out as an exercise in Q2 entities. There are some speed issues, but my system is fairly 
+powerful, so it may be slower on your PC. If so, sorry about that. I've done as much as I can
+with the map to optimize it, but the truth is that I never envisioned the map actually
+being released; I had to force alot of the optimization, so it's less than perfect. 
+The second map in the series will be much quicker, I promise! Other issues: I run 3dFX GL so
+I have absolutely no idea what the map looks like without colored lighting... sorry about that, 
+software guys... Also, the exit is set to send you to the map "awf2". This isn't out yet,
+but when it comes out I want the maps to link together.
+This is the first of a 3-level unit, so look for the other two levels in the coming months. 
+I'll release the entire unit in a pack file when it's 100% complete. Have fun, and
+drop me an email if you want to comment/praise/curse my foul map :)
+
+JHP aka "gloom"
+ 
+---------
+
+

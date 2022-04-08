@@ -1,0 +1,66 @@
+Title                   : Stalker
+Filename                : STALKER.WAD
+Author                  : Chuck Jordan
+Email Address           : CHUCKRJ@DELPHI.COM
+Misc. Author Info       : 
+
+Description             : Designed specifically for
+                          deathmatches, with lots of hiding
+                          places and a few good sniper positions
+
+Additional Credits to   : Id software, naturally
+                          Brendon Wyber and Raphael Quinet --
+                             DEU was already impressive and it
+                             keeps getting better!
+                          Doug Mulkey -- for playtesting and
+                             suggestions
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1,M1
+Single Player           : Not really (see below*)
+Cooperative 2-4 Player  : Not really (see below*)
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (see below*)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* All difficulty settings from "Hurt me plenty" down have no
+  monsters.  "Ultra-Violence" and "Nightmare" have lots of 
+  monsters.  So, it's possible to play in single-player and
+  cooperative modes, but I can't imagine that it's any fun.
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.1 and 5.2, BSP
+Known Bugs              : If you find any bugs, please let me know!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Comments *
+
+As the name suggests, the idea was to have to stalk your opponent,
+instead of just being dropped into a big pit with guns a-blazing.
+I'm still trying to hit on what the right mixture is for a 
+deathmatch level, and I'd like to hear any suggestions.  Should
+the level be bigger or smaller?  More or less monsters?  More
+wide open spaces or more crawl spaces?
+
+By the way, the niches with the danger symbol inside DO have a
+purpose, in case you don't notice at first.
+

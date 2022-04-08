@@ -1,0 +1,99 @@
+Title                   : Purgatory   
+Filename                : dmpurge.wad
+Author                  : James Wilson (aka Shade)
+Email Address           : Cserve: 73651,2312
+
+Description             : Your trapped on that infernal moon base as usual.
+                          You've gotten to the point where you take out most
+                          everything that comes at you without blinking.  
+                          You've become careless.  You round a corner and
+                          meet a hail of fire and gunshot, and you're dead.
+                          You wake in a dark hole, awaiting the time
+                          when the denizens of hell will come and take you
+                          away for a permanent more-than-luke-warm bath of
+                          fire.  BUT HEY!  Just because you're dead doesn't
+                          mean that you can't still kick butt!  After all, 
+                          going to hell for real didn't take away your
+                          shotgun (and they say you can't take it with you).
+                          You scrounge your way out of the dark hole and see
+                          a fortress in the distance.  If you can reach it,
+                          then you can reclaim your lost soul from it's round
+                          blue container and free yourself from Purgatory.
+
+
+Level notes             : This is my sixth Doom level created from scratch.
+                          It was primarily developed on registered DOOM
+                          version 1.666.  There ARE two levels in the wad, 
+                          but the first one is short, and more of an intro
+                          to the second level.  The main level is large!  I
+                          kept the number of decorative objects (lamps, trees,
+                          and such) to a minimum to facilitate a fast wad, but
+                          those of you with slower computers may have
+                          problems with it slowing down.  YOU MAY NOT BE ABLE
+                          TO SAVE YOUR GAME IF YOU ARE USING DOOM VERSION 1.2,
+                          but you can save it with 1.666.
+
+How do I play the damn
+thing?                  : To those of you who have never played a Doom 
+                          add-on level congratulations for entering a
+                          group so cryptic that it borders on a secret
+                          society.  I've had many people e-mail me and ask
+                          the very question I pose above.  Simply move the
+                          new level (the .wad file) to your Doom directory
+                          and type the following:
+
+                          "doom -file dmpurge.wad" (or whatever the level's 
+                          name is)
+                            
+                          This tells Doom to seek out the .wad file indicated
+                          for new and nifty information to update the
+                          original Doom.wad with.  You will receive a warning
+                          that you are playing on a modified version of Doom,
+                          but ignore this message as the .wad files do not
+                          permanently alter Doom, and everything will go
+                          back to normal once you quit (but it is always a
+                          good idea to back stuff up just in case).  I have
+                          included a .bat file to expediate this whole process.
+                          
+HELLO?                  : If you like this level, let me know.  If you hate
+                          it, let me know why.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1, E2M2 
+Single Player           : Yes
+Cooperative 2/4 Player  : No
+Deathmatch 2/4  Player  : Yes
+Difficulty Settings     : Yes (UV is very hard.  I can't finish it.  This
+                          level was made to be played at 'hurt me plenty', I
+                          made UV exceptionally hard for the psycho-doom
+                          players.  'too young' and 'not too rough' are also
+                          supported.)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Construction time       : 50-60 hrs
+Editor(s) used          : DOS EXTENDER VERSION OF DEU and BSP 1.2
+Known Bugs              : None.
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  Authors (MAY) alter or play or do with this level pretty much
+anything they want, I only ask that you give me credit.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Compuserve:  Gamer's Forum in the Action Game Aids section. 

@@ -1,0 +1,12 @@
+Level: The Court of Izn-Nali
+
+Type: Single Player, Designed as the first of a series, submitted to Myscha's
+Level Charette.
+
+Author: Claycle (clay@selsius.com)
+
+Date: 7/31/98
+
+This level was designed on a Windows NT4 workstation, 266MHz Pentium II,
+Diamond Monster 3D II, 96MB.
+

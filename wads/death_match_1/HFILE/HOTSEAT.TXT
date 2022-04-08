@@ -1,0 +1,68 @@
+
+================================================================
+Title                   : Hotseat - deathmatch level
+                          ( a resubmission of tower.wad because
+                            another author used the same name 
+                            for his wad )
+Filename                : hotseat.wad
+Version info            : 1.2
+Author                  : Matt Keller, Anton Groom
+Email Address           : mk273727@longs.lance.colostate.edu
+                          (send me a letter if you like it)
+
+Misc. Author Info       : Parents wanted me to become an architect
+
+Description             : An alteration of doom episode
+                          one, mission one.  Rooms have been
+                          added and joined to make for an excellent
+                          deathmatch game.  Friends and I have spent
+                          two hours straight on this one floor.
+                          A tower has been added to the courtyard.
+                          How do you get in and out of this thing?
+
+                          This floor is not too big so the frag and
+                          excitement level is high.
+
+                          caution : do not play if you have a heart
+                                    condition
+
+Other wads by same author : Antlion.wad, stadium.wad
+
+Additional Credits to   : My plant, who gave me fresh oxygen next 
+                          to the computer.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes - excellent
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : E1M1
+Editor(s) used          : Edmap v1.12
+Known Bugs              : None
+
+Notes                   :  secret areas not marked
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+

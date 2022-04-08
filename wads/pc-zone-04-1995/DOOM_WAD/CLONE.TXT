@@ -1,0 +1,24 @@
+                      CLONED MARINE PATCH
+
+This Dehacked file will patch your doom.exe file so the Imp's are replaced 
+with cloned marines equipped with plasma rifles.
+
+To patch your doom.exe file you will need DeHackEd v. 1.3 by Greg Lewis. 
+
+Make sure to back up your original doom.exe file!!!!
+
+Example command line:
+
+	dehacked c:\doom\doom.exe -load clone.deh
+
+  This will start DeHackEd, using the doom.exe file in c:\doom, and update
+it with the clone.deh patch file.
+
+Special thanks to Greg Lewis for DeHackEd and to id for DOOM!
+
+Any questions or comments welcomed.
+
+George Hamlin 
+CIS ID 76500,557
+
+

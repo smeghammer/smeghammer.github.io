@@ -1,0 +1,45 @@
+================================================================
+Title                   : "Supply Station 2"
+Filename                : dnspq1.zip
+Author                  : Dan Naoumov aka Jago
+Email Address           : jago@telefragged.com,
+                          dan_naoumov@hotmail.com
+Description             : This is a single-player level for Quake2                                                                               made in the "warehouse" theme. It took me                                                     some pretty long weeks to do and I hope you                                                                               will enjoy it. If you have something to say                                                    about this level, email me. But if you want
+                          to flame me, explain, what exactly is bad                                                                                                                                   in this level so that I could improve my                                                                                                         level editing skills next time.
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : No
+Deathmatch              : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+QuakeC Patches          : No
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : WorldCraft 1.5 for brush building, Quark                                                     4.07 for compiling.
+Known Bugs              : None.
+
+Build Info              :
+Construction time       : Probably about 1 month.
+Brushes                 : 1203
+Faces                   : 7208
+Entities:               : 248
+
+QBSP: 43 seconds.
+QVIS: 2148 seconds (36 minutes).
+QRAD: 1764 seconds (29 minutes).
+Compile Machine: P166, 96 mb Ram.
+
+* Disclaimer *
+You are NOT allowed to you this level as a base for another levels. The map file included with this archive is for your learning purposes only!
+You are NOT allowed to distribute this level for commercial purposes.
+You ARE allowed to distribute this level on freeware basis as long as this text file is included.
+If you would like to put this level on CDROM, always contact me first.

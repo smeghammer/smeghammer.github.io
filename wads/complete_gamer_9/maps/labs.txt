@@ -1,0 +1,92 @@
+December 21, 1998
+Half-Life deathmatch level
+
+================================================================
+
+Title                   : The labs
+Filename                : labs.bsp
+Author                  : Chris Byrne AKA Adaptation
+Address           	: adapt@ihug.co.nz
+Description             : Halflife DM level for 4-12 players, tested
+			  at the recent Quake Stock LAN held in Rotorua,
+			  New Zealand.
+Special Thanks to       : Valve for creating Halflife, 
+			  and for providing Worldcraft 2.0,
+			  also thanks to all those people at the LAN who 
+			  got zapped :]
+Webpage                 : http://fly.to/adapt
+
+================================================================
+
+Play Information
+
+Single Player           : Only good for looking at weapon placements
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : Scientist in Single player doesn't gib :(
+			  Death messages for laser, slime, 'zap' room
+Build Time              : 115651 seconds to make (I'm guessing)
+			  1116 seconds to compile on a P2-233
+
+================================================================
+
+Installation
+
+To play this level, extract the file "labs.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map labs" or "changelevel
+lab" in the console. To test it out in single player mode
+start Halflife with hl.exe -console -toconsole -dev. This enables
+you to try some stuff using the cheat codes.
+
+================================================================
+
+Site Seeing
+
+The 'ZAP' room is one of two labs featured in the level. A little
+ajoining control room allows you to activate the emergency defence
+system incase an experiment gets out of hand. The defence system
+will destroy all organic matter in the room, except for the Scientist
+in Single player because he's immune or something.
+
+The second lab has a huge Class V laser which is set up to fire a
+beam around the room via mirrors. Whatever you do, DO NOT put limbs
+in the path of the beam.
+
+The plasma cells uses slime to cool down the plasma reaction. It is
+recommended not to fall in as the possibility of you getting out again
+is very small.
+
+================================================================
+
+Copyright and Permissions
+
+If you enjoy playing this level, please send me an e-mail :-)
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name FAREWELL.BSP and is supplied in a zip file called 
+FAREWELL.ZIP that also contains this text document and no other 
+files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 1998 Chris Byrne

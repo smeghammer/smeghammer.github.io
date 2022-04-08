@@ -1,0 +1,44 @@
+================================================================
+Title               : Tallon.WAD   
+Author              : Ken Sumner
+Email Address       : ksumner@phoenix.cs.uga.edu
+Misc. Author Info   : I am a student at uga.  I have 
+		      been playing doom for about 3
+		      months and figured I'd try
+		      to author a little wad. 
+
+Description           I included a sad little demo 
+		      to warm things up.  This wad, 
+		      I hope, is decent for dm, coop 
+		      or alone.  
+
+Additional Credits   : Travis Stracker, Reed Cartwright   
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : med and hard 
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : 1 
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : several hours 
+Editor(s) used          : deu 5.1
+Known Bugs              : ceiling texture bleeds at exit door. 
+
+Authors may not use this level as a base to build additional 
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distrubute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

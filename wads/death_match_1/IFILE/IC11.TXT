@@ -1,0 +1,44 @@
+                    ********************************************* 
+                    *                                           *
+                    *           "Imp's Challenge 1"             *
+                    *              (a DOOM level)               *
+                    *              Version 1.0                  *
+                    *********************************************
+
+
+CREDITS:
+
+        Programmer    : Todd Prince
+        Beta Testers  : TK and "Hacker"
+        Filename      : IC11.WAD
+        Creation date : August 1994
+        Command line  : doom -devaparm -warp 1 1 -file ic11.wad        
+        Cooperative   : No
+        Deathmatch    : No
+        Episode       : One (1)
+        Mission       : One (1)
+
+
+ABOUT THE FILE:
+
+             This is a DOOM level created using DoomEd - The Real Thing by
+             Geoff Allan. It is a SINGLE player level. This is one of the 
+             toughest levels that I have created. It is the first in a
+             series of Imp's challenges. It took myself and the Beta testers
+             quite a few hours to complete this level. Now, we can complete
+             the level in about six minutes. Comments on this level are welcome
+             and I can be reached via Compuserve at address 73131,1037.
+             I hope you enjoy this one. It is a real challenge.
+
+
+
+SPECIAL THANKS:
+
+                I would like to thank the following:
+
+                 1. ID Software for creating a great game called DOOM.
+                 2. Geoff Allan --- Excellent editor, easy to use.
+                 3. Tim Kisker --- The best DOOM player I know.
+                 4. John Hacker --- The biggest critic of DOOM levels I know.
+                 5. YOU -- for the taking the time to check out this level.
+

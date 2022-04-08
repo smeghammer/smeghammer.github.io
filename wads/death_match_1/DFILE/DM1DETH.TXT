@@ -1,0 +1,58 @@
+================================================================
+Title                   : 9DMDETH  
+Filename                : DM1DETH.WAD DM2DETH.WAD
+Author                  : David Davidson
+Email Address           : Leave me a message on Software Creations 
+Misc. Author Info       : Doom Junkie.
+
+Description             : 9 Great deathmatch wads for Doom 1 & 2,
+                          V. 1.666
+                          Designed primarily for two player deathmatchs
+                          (but the more opponents, the more FUN)!
+=================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1,2,3,4,5,6,7,8,9 MAP01,02,03,04,05,06,07,08,09
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : Yes 
+New Graphics            : Yes 
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Map 1 based on cross.wad, Map 5 based on last 
+                          room from E1M5, Map 6 based on 1st room from
+                          Doom 2 Map 06
+Editor(s) used          : 1DEU-II,DEU521GC,IDBSP 1.01
+Known Bugs              : MAP08,E1M9: HOM can be seen if your are on 
+                          the edge of the map looking toward the center
+                          (due to limitations of the doom engine) not a 
+                          map bug.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

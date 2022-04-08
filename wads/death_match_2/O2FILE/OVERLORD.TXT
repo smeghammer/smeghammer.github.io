@@ -1,0 +1,6 @@
+[ note from swhiting@cix.compulink.co.uk on posting this to CIX ].
+
+This zip file, on download from CIS, was originally called DMOVL.ZIP and 
+contained two identical WAD files, called CHUMP and FILTH.  I've renamed
+FILTH as OVERLORD, as appears to have been the original author's
+intentions, and repackaged as OVERLORD.ZIP

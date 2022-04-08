@@ -1,0 +1,42 @@
+E1L1KP.WAD is a brand new level for all you doom addicts
+who are tired of looking at the same old ones, or seeing the same
+maps with only different objects, wall textures, etc.
+
+It can be used in both normal play mode an in DEATHMATCH mode.
+
+It's a 'small' level - about 100 vertexes, and a similar number of
+linedefs, but only 9 sectors.  It isn't very complicated,
+but it should be fun to play, and it provides a good example
+of what can be created using deu5.0
+
+to use:
+        doom -devparm -file e1l1kp.wad -wart 1 1
+which will teleport you right to the new level, or use
+        doom -file e1l1kp.wad
+and enter 'Knee Deep in the Dead' normally.
+
+BTW - you need the registered version of DOOM to run this,
+unless your shareware version is able to show an energy cell. :-) 
+
+E1L1KP.WAD was created with DEU5.0 and DEU4.3 
+by Karl R. Peters on 4/1/94.
+
+(krpeters@athena.mit.edu)
+
+
+- DOOM editor notes -
+
+DEU 4.3 was used to edit the errors that DEU 5.0 causes
+when it creates nodes.  When DEU 5.0 creates nodes, it inserts
+additional vertexes along a linedef.  However, it does not break
+the linedef up into several linedefs.  As a result, it will often
+allow a linedef to cross the boundary of a node - a big no-no,
+apparently.
+
+To correct this, you must use deu4.3 with the '-debug' parameter
+to delete the faulty linedefs and insert new ones.  (The vertexes
+created by DEU 5.0 are not visible or usable in DEU5.0 edit mode nor
+DEU 4.3 normal edit mode, but are visible in DEU 4.3 debug mode.)
+
+I hope this helps everyone who has been frustrated by DEU 5.0 - 
+hopefully a 5.1 will come out soon.

@@ -1,0 +1,55 @@
+================================================================
+Title                   : DMShadowMansion
+Version                 : v.1.00 (beta)
+Release Date            : 07/07/98 
+Author(s)               : DaiKatana~SS~
+Email Address           : Jaer2@glasscity.net	
+Web Page                : http://members.xoom.com/level01
+                          http://www.inficad.com/~shadow/
+
+
+
+
+================================================================
+--- Play Information ---
+Game                    : Unreal
+Level Name              : DMShadowMansion
+Single Player           : no
+Cooperative             : no
+Deathmatch              : yes
+Dark Match              : no
+
+
+
+
+Installation
+------------
+copy .unr file and paste into unreal/maps folder
+
+
+
+
+Author's Notes
+--------------
+As you noticed this is a beta, in other words, since this is my first real DM map, 
+I will "upgrade" it often with more stuff and better gameplay elements. I would like you  to play this, and then email suggestions to me to improve the level.
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by DaiKatana~SS~ 1998.
+
+Authors may  NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Interactive Software, Inc. under license.  UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

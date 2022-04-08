@@ -1,0 +1,34 @@
+DOOM 2
+
+Part five of the RAVEN SERIES Map 5
+
+This is part five in the premier Doom 2 RAVEN series.  This .wad will 
+challenge all Doom players regardless of skill level.
+
+Features:
+- support for all 5 skill levels
+- superb DEATHMATCH level
+- well placed monsters
+- use of all three keys
+- can be completed with out cheating
+- excellent texture alignment
+- great windows for sniping
+
+ 
+Use doom2 -file raven5.wad -warp 5    to play.
+
+If you  liked this level or any of the RAVEN levels
+please drop me an E-mail note.  Any suggestions or comments
+will be greatly appreciated.
+
+** Please contact me if you wish to include this level (or any RAVEN levels) in a
+commercial package. (i.e. MEGA-WAD pack, etc)
+
+Level creator:          Tim Willits (will0057@mermaid.itlabs.umn.edu)
+			63 N. Ruth St.
+			St. Paul MN 55119
+			
+
+Technical Advisor:      Indigo Design & Theresa Chasar
+Level Tester:	        Robert J. Cody
+

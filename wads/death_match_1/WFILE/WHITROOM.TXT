@@ -1,0 +1,54 @@
+================================================================
+Title                   : WHITROOM.WAD (White Room)   
+Author                  : Doug Ryerson
+Email Address           : dryerson@botany.utoronto.ca    
+Misc. Author Info       : This is my 2nd PWAD, hope you enjoy
+                          it. I have learned more about texture size
+                          and placement since the last one.
+
+Description             : E1M1 replacement PWAD. Named for the colour
+                          of the exit room.
+
+Additional Credits to   : Authors of DEU and BSP, MIDI2MUS, and
+                          WDMSTR05.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Yes
+New Sounds              : Yes (new Music)
+New Graphics            : Yes
+
+* Construction *
+
+Base                    : From Scratch
+Build Time              : Did not count, too many
+Editor(s) used          : DEU 5.1, BSP 1.1x, WDMSTR05, MIDI2MUS 
+Known Bugs              : One room rendered the HOM effect for no reason
+                          and so had to be deleted. Still gives some
+                          residual problems (such as lowering the
+                          ceiling in another sector). I could not seem to
+                          get rid of the problem, however, if your avoid
+                          opening the door involved (this door doesn't
+                          lead anywhere anyway) then the level runs fine.
+
+                          NOTE: This NOTE not by author.
+                          I fixxed the major HOM.  Five sidefs didn't have
+                          lower texture defined.  If I shouldn't have added
+                          this note...mail me at cjr8559@tamsun.tamu.edu
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+---------------------------
+STORY...                   
+===========================
+
+    Another facility needs clearing of badguys. Don't you get tired when
+they keep asking you to do it. P.S. I liked the pictures.

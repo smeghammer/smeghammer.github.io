@@ -1,0 +1,48 @@
+this is a Quake 2 single player level
+=========================================================================================================
+Title 			: Starseed 2
+Map Name 		: starspq2.bsp
+Author			: Jeff Turner
+E-mail Address  	: turner@mb.sympatico.ca
+Date			: March 22, 1998
+Description		My second Quake 2 level, made with QERadient ver. .48, 
+			its a single player level, no co-op or dm starts, also no skill setting.
+Credits			id, obviously
+			Robert A. Duffy for QERadient
+			RUST for their tutorials (www.planetquake.com/rust)
+			Ravages of Radient for their tutorials
+			Lt. Dan (www.planetquake.com/ltdan) and Talons Strike (www.planetquake.com/talon)
+		       for reviewing my first map 
+=========================================================================================================
+
+-Play information-
+
+Game			: Quake 2 
+Level Name		: Starseed 2
+Map Name		: starspq2.bsp	
+Single Player		: Yes
+Cooperation		: No
+Deathmatch		: No
+Difficulty Settings	: No
+
+=========================================================================================================
+
+-Loading Information-
+
+Unzip starspq2.bsp into your Quake2\Baseq2\Maps directory, start up Quake 2, go to the console " ~ "
+and type in " map starspq2 " (without the quotation marks.).
+
+
+=========================================================================================================
+
+-Copyright Information-
+
+This level is (c) by Jeff Turner, March 22 1998.
+Do not put this level in any sort of commercial product.
+
+You may distribute this level for free over any electronical / network environment, as long as it is free, 
+and this text file is included and the files are not modified in any way.
+
+=========================================================================================================
+
+Any comments, suggestions or questions can be sent to me at turner@mb.sympatico.ca

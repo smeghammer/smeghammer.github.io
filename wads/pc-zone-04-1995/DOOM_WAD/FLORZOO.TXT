@@ -1,0 +1,79 @@
+    
+    === FLORZOO1.WAD === for E1M1 ===
+
+    This level started out as a way to view all the textures in situ, as it
+were. The east side of the map has all the floor/ceiling textures (they're
+both the same), in ten rows of ten, plus an 11th row of a few stragglers. The
+rugs, as I like to call 'em, are in alphabetical order as listed in the DEU
+select box, left to right, top to bottom. Some of the rugs look the same, like
+the Blood, Water, and Lava textures. All texture samples are 256 X 256 units.
+
+    After I made the floor textures, I decided what we needed was a Zoo, so
+as to be able to view the monsters in a relaxed fashion. The Zoo is in the 
+upper west side of the map. Please observe the Zoo Visitors rules that follow.
+
+    Next, we needed a Weapons Display gallery, so as to admire all the fun 
+toys. Down at the bottom of the Rug Room, a door will lead you to the display. 
+Please do not touch the displays. Thank you.
+
+    Also down that hall is the Thing Room, with all the non-bonus Things on
+display. They are lined up by category, in the same order as in DEU:
+        
+        Decorations
+        Decorations -- light sources
+        Decorations -- dead bodies
+        Decorations -- hanging bodies
+
+    Lastly, the Wall Textures. Sorry, no wall textures. I count about 280
+separate wall textures in this game -- I don't know when I will be able to
+make (a) room for them all. I'm uploading this file now, or you might never 
+see any of it. Eventually I'll get it done. That's why I numbered this file 
+FLORZOO1. #2 is under construction.
+
+    By now, you're probably thinking "Gee, it'd be nice to kill all those 
+monsters". Naturally. Please read the following...
+
+  ==========================================================================
+                            ZOO VISITATION RULES
+  ==========================================================================
+
+    If you want to look at the rugs and admire the monkeys, fine. Just observe
+    a few of the Zoo Rules:
+
+    1) Do not feed the beasts.
+
+    2) Do not approach the cages.
+
+    3) Remember to duck.
+
+    4) Loud noises upset the beasts. Please be quiet.
+
+    5) Please do not touch the Weapons display.
+
+    6) Please do not climb on the furniture.
+
+    7) Discharge of Energy weapons anywhere inside the Facility is strictly
+       prohibited.
+    
+    8) Above all, do NOT enter the restricted areas. Restricted areas are not
+       to be entered except by authorized Zoo personnel. The Zoo will not be
+       responsible for any injury to a Visitor if this rule is not observed.
+
+                                                            Mgt.
+    
+  ==========================================================================  
+
+    However, if you want to have some fun and kick some butt, all you have to
+do is break ALL of the above rules.<G> I put a couple extra rooms and traps in
+just for fun/experimentation. Light levels, funky doors, animated walls, that
+sort of thing. It's fun to figure it out the first time, but after that it's
+easy. This is not a real level, just a lark.
+
+    There is no Exit installed as of yet. There are a few Mirror spots, dang.
+
+    I think this level is suffering from "banana" syndrome -- like the little
+kid said, "I know how to spell it, I just don't know when to stop".
+
+Enjoy
+
+John L.

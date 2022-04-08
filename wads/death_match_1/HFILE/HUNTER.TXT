@@ -1,0 +1,153 @@
+WAD Authoring Template V1.2   (Clip this line)  Naw.. I'll leave it... Give
+credit where credit is due.....
+================================================================
+Title                   : HUNTER.WAD, release 2 
+Author                  : Jin H. Kim  "Time Traveler"
+Email Address           : xjinkim@fullerton.edu
+Misc. Author Info       : Mein gott in Himmel, I actually worked on this thing
+                          during finals week!
+                          circa 5/14/94 - circa 6/2/94
+                          *** II ***
+                          circa 7/4/94
+
+Description             : A wham-bam, bippity-boppin' good Time wreakin' havoc
+                          among them Satanic civies and mutated meatheads.
+                          Watch your step and ALWAYS watch your back.  It's 
+                          not an impossible level and is quite solvable within
+                          a couple of tries.  Well, maybe.  Swap some lead.
+                          *** II ***
+                          There are no mechanical differences between my first
+                          release and this release.  In this release I improved
+                          Y alignment, changed some textures, and added a few
+                          more dead bodies here and there.  If you happen to 
+                          have the first release, you probably got it from one
+                          of my friends.
+                          This wad is the first of a pseudo episode 4 series.
+                          Play difficulty is at least as difficult as the 
+                          mid-episode 3 levels when set to ultra-violence.
+
+Additional Credits to   : Absolutely nobody.  Why should I.  I'm a greedy 
+                          bastard.  (Now go read the first line of this text.)
+                          I thank the Cohan brothers for their ideas and Jer
+                          for being the network deathmatch "guinea pig."
+================================================================
+
+* Play Info' *
+
+Episode and Level #     : E1M1 
+Single Player           : Yep.
+Cooperative 2-4 Player  : Yep.
+Deathmatch 2-4 Player   : Yep.  (see description below)
+Difficulty Settings     : Yep.  (what the hell for, though.  No Doom'er worth
+                          his salt even CONSIDERS playing anything less than
+                          Ultra Violence)
+New Sounds              : Yep.  Shotgun from Terminator 2.
+New Graphics            : Nope. (so what.  at least I avoided wholesale usage 
+                                 of STARTAN3!)
+Demos Replaced          : None. (so what.)
+
+* Construction *
+
+Base                    : Again, no Doom'er worth his salt even CONSIDERS 
+                          pirating someone else's level, regardless of whatever
+                          permission the author grants.  Be unique.  Be
+                          creative.  Spend your life making levels.
+Build Time              : Hmmm......60+ hours?  Took a while to do, but that's 
+                          ok.  I've never made a level before.  And just when
+                          you THINK you're done, there's more to add.
+Editor(s) used          : DEU5.1, (DEU5.2 locks up my system..)
+                          BSP1.1x, graph paper.
+Known Bugs              : For the longest Time I didn't know why some of the
+                          graphics would appear see-through after building the
+                          nodes.  Eventually BSP 1.1x showed me the error of 
+                          my ways..  Ommm.......
+                          There is still one persistent and inexplicable
+                          problem... in the very lower right hand corner of
+                          the map, there is an area that you cannot walk 
+                          through.  It's not crucial at all to the game, but
+                          even under the closest DEU scrutiny, no human error
+                          could be detected.... weird.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  And why should they?  Be original.  Let me be more specific.  I've  
+seen far too many levels based on the original Doom levels.  Some of those
+levels can be quite unique and impressive, but that's still not a good 
+enough reason (IMHO) to use them.  Bah.. I'm babbling.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.uwp.edu (originally)
+
+BBS numbers: The Wine Cooler (310)860-9171
+             and wherever else I can put this up.
+
+Other:
+
+The story thus far:
+
+        "All right, meat heads, listen up!  You've made it this far, which 
+means you're either insane or lucky as hell.  This will be your first true
+test in a hostile environment.  A wide range of bandits will attack you from
+every side, front, back, topside, bottom side, inside and out.  
+        "SomeTimes the man standing next to you will be your bed buddy.  You
+will fight with him and knock out the bad guys.  Other Times you're gonna be 
+staring at the business end of his plasma rifle!  Either way, you better keep 
+sharp or you're dog food!
+        "Just remember, to keep you punks from getting out of line, I have the
+right to substitute in any one of you fairies with a real marine, fully 
+knowledgeable of all the nooks and crannies of this place.  You'll never know
+what hit you unless you PAY ATTENTION and learn for the next Time you cross  
+that area!
+        Ok, boys, lock and load.  The chief's given us the go ahead.  Time to
+separate the men from the children we ship back to earth on the first mineral
+scout junker!"
+        You nervously eye your fellow marine recruits.  Most of them are
+equally preoccupied, but you swear that one or two are actually smiling.
+
+
+                 ********  AN IMPORTANT NOTICE  ******** (yeah right)
+        In order to MAXIMIZE your enjoyment of this particular wad, I highly
+recommend that you play with at least 3 people on a net.  Have one person 
+(usually the best player) study the level thoroughly using whatever means to
+discover all of the secrets.  The rest of the group should have just whatever
+familiarity they can gain by playing once or twice WITHOUT the IDDT map cheat!
+The level has been designed so that one person can be the "hunter" and the 
+rest of the group must try and track him down, in the process learning the
+hidden nooks and crannies of this level.  Don't spoil your own enjoyment.  You
+have been warned.  Obviously I'm saying that Deathmatch is just as interesting
+without simply being a "shootout at the ok corral" where people try to nail
+each other at long range with plasma and rockets.  Cooperative is also fine.
+There are plenty of monsters to slag.  Try "close-in" fighting in the maze.
+The maze and "pillars" tends to be slow when there's lots of monsters.  Start
+hosing!  If it slows down too much, try a lower difficulty setting.
+
+        If you CAN'T play over a network (or even over a modem) there is no
+reason why you can't enjoy this level as it is.  It's not easy and many-a-Time
+you will wish for someone to cover your six (in particular, there is a maze in
+my level that I fondly call the "meatgrinder.")
+
+        There are some areas (namely the "hunter" areas) that you cannot get
+to unless you're playing multi-player.  Call someone or hijack a networked 
+office building if you dare.
+
+        And if you have trouble accessing some of the items, drop me a note..
+I may even respond after having a good hearty laugh.
+ 
+        Lately that EXIT sign in my CS building has been looking mighty 
+tempting.........      
+
+        You know.....  dead bodies and body parts aren't there because they
+were in perfect health and then suddenly collapsed........
+
+        One final note.  Read only the alphabetic capital letters....        
+q=Yf\,d@Oy#uiUo49a Cf^aAf#af'h6Nhr?*Ngo,O>T.t Gf0aE0%o|Talg 
+TioHxb=2kE3[wj qB`q%w>Fa8-^uG!3[
+
+No, what you just read isn't text garbage.. sheesh.

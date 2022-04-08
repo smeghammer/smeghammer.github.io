@@ -1,0 +1,50 @@
+++==============================================================
+Title                   : CAVE COMPLEX  
+Filename                : CAVE.WAD
+Author                  : Dominic Anello
+Email Address           : 
+Misc. Author Info       : 
+
+Description             : Under ground complex with a few interesting puzzles
+                          and great lighting effects
+
+Additional Credits to   : DEU authors Andrew Anello
+================================================================
+
+* Play Information *
+
+Episode and Level #     : e1m2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : none
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU ver 5.21 
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels provided they credit the author of this WAD.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: SWC> (508) 365-2359
+
+Other:

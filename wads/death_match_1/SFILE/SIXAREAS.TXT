@@ -1,0 +1,49 @@
+================================================================
+Title                   : Sixareas.wad (six areas wad)   
+Author                  : Doug Ryerson
+Email Address           : dryerson@botany.utoronto.ca (comments greatly
+                          appreciated)
+Misc. Author Info       : Spends too much time hacking and chopping
+                          doom.
+
+Description             : A wad based on six separate areas that
+                          lead from a central room. The
+                          entrance to each area is marked by a
+                          number on the door. The level can be
+                          best solved by following the doors in
+                          order. In addition, there are 34 new
+                          graphic elements (most in the status
+                          bar). See if you can find them all.
+
+Additional Credits to   : Everyone and anyone involed in the
+                          creation of the editors I used. DEU,
+                          DOOMED, BSP and WDMSTR.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (untested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From nothingness...
+Editor(s) used          : DEU, BSP, Doomed, Wdmstr05
+Known Bugs              : None that I know of.
+
+
+* Copyright / Permissions *
+
+Recipients may use this level as a base to build additional
+levels.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu

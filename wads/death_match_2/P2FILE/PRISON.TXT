@@ -1,0 +1,132 @@
+T R A C K E R  A R C A D E  S E R I E S © 1994 by Albert C. Ashton
+PRISON GUARD TOWER TRACKER V1.5  [GA]
+
+Thank you for trying out Prison Guard Tower Tracker! by Albert C. Ashton
+
+Prison Guard Tower Tracker offers continuous multimedia wave sound effects
+playing in the background, even when you use your mouse tool. In this case
+your mouse will turn into a infrared nightscope or spotlight. When you
+click on the mouse button trigger, your mouse will turn into the your
+hand/finger when you catch the prisoner.
+
+This game is also larger, using the entire screen on standard VGA at
+640x480. Previous games were smaller in size, but still fun to play.
+
+We are now rating our games just like they do on the home video game
+market .
+
+GA    = GENERAL AUDIENCES  (Appropriated for all audiences)
+MA-13 = MATURE AUDIENCES   (Parental Discretion Advised)
+
+These are the two ratings I'll be using in my upcoming games titles.
+
+PRISON GUARD TOWER TRACKER is rated at GA
+
+I hope you enjoy playing this new format, and there will be more brand
+new titles in the works for future releases within the year.  You may have
+already downloaded or been trying out the new Thy Dragon v1.0
+(THYDRG10.ZIP), and now you have the Prison Guard Tower Tracker
+which is the 4th member of the Tracker Arcade Series to be released.
+Of course more games will be out by the time you read this letter in
+the months ahead. Like the all new Baby Brats - Super Play Room v3.0
+(BBBRAT30.ZIP) which is also using this new format.
+
+If you interested in checking out any of these games, take a look at menu
+item ? for more info. By the way all your help info about the game you're
+going to play is now accessed through this question mark ?.
+
+**********************************************************************
+Don't forget this version of Prison Guard Tower Tracker is an
+Unregistered User Version. This is not the full blown version. You're
+required to registered this game if you continue to keep it on your HD
+and play it.
+
+Registration fee is only $7.87 US,
+In Canada, registration fee is $7.97 US funds only
+In other countries, $12.10 US funds only!
+
+Make checks payable to: ALBERT C. ASHTON
+
+Mail your checks to: ALBERT C. ASHTON
+                     19395 LIBERTY RD
+                     BOCA RATON, FL 33434-2644
+
+US FUNDS ONLY PAYABLE IN CHECKS OR MONEY ORDERS ONLY!!!
+
+***********************************************************************
+
+UPDATE INFO
+
+Program files now  included;
+
+BWCC.DLL
+PGTTK.EXE
+PGTTK.HLP
+PRISON.TXT
+PRISON.WRI
+ORDRM_93.TXT
+ORDRM_94.TXT
+ORDRM_94.WRI
+
+Wave Files now  included;
+
+Theme2.wav
+Breakout.wav
+Sirendog.wav
+Hault2.wav
+Clear.wav
+Reset.wav
+Pressent.wav
+Thanku.wav
+
+All files above are required for Prison Guard Tower Tracker and must be
+included within PGTTK15.ZIP
+
+About the Continuous Multimedia Wave Sound Effects in the Background
+=====================================================================
+After the main introduction screen, one of the above wave files will begin
+playing continuously. If you want the sound to stop, just click on the left
+mouse button or whichever button you use the most for accessing menus, etc.
+But the left mouse button is the one most widely used.
+
+Prison Guard Tower Tracker and all new games, even Baby Brats and Thy Dragon,
+will offer this added feature!
+
+Note: Some Shareware Versions of Thy Dragon will not offer an intro
+      continuous sound.
+
+* This special version also features a new THE BRIEFING ROOM which will
+popup automatically when you first run this shareware game. Under the full
+registered version, you can bring up this room anytime you want to see
+yourself and your captain dressed in Prison Guard uniforms etc.
+
+          (AVAILABLE IN TRACKER ARCADE SERIES VERSIONS ONLY)
+
+Installation:
+
+Using the FileManager.
+1. Now that you have decompressed PGTTK15.ZIP
+a. Create a new subdirectory in your Windows main directory called
+   C:\WINDOWS\GAMES
+
+b. Copy PRISON15.EXE to C:\WINDOWS\GAMES
+c. Double click on PRISON15.EXE  wait for the file to automatically
+   decompress.
+
+d. Remove PRISON15.EXE from this directory.
+
+Using the  Program Manager.
+
+2. Select a group or create a new group and call it games
+3. Add a new program item which will be your PGTTK.EXE
+4. Now the PGTTK Icon should appear in front of you.
+5. Double click on this icon and your ready to run the game.
+
+For more help see ? on the main menu line inside Prison Guard Tower Tracker
+ Simulator.
+
+PRISON GUARD TOWER TRACKER V1.5
+T R A C K E R  A R C A D E  S E R I E S © 1994 by Albert C. Ashton
+5:47PM  4/16/94
+
+COPYRIGHT © 1994 ALL RIGHT RESERVED

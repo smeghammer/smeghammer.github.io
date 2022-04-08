@@ -1,0 +1,86 @@
+===============================================================================
+Date: Dec. 14 1998
+===============================================================================
+
+Title                           : Dead Simple for Half Life
+Filename                        : DEAD_HL.BSP
+Author                          : Melvin Gatchell
+Email Address                   : gatchell@attcanada.net
+CD Track                        : 12
+
+Description                     : Remake of the classic Doom deathmatch level Dead Simple
+				  (Original author unknown. If you know, let me know so 
+				  I can assign credit where due.)
+
+				  Small tight level designed for 1 on 1 combat.
+				  It's basically an arena style map with a bit of a 
+				  walk in freezer style appearance to it but with the
+				  same layout as the original Dead Simple. 
+				  Plenty of weapons and ammo should make for lots of action.
+				  There's a small recharge and supply station off in one
+				  corner but using it will give your position away so 
+				  look out for enemy grenades and satchels when 
+				  you're inside.
+
+				  Why remake Dead Simple? Well, I always liked it. It's
+				  fast and action packed and it's an easy map to make.
+				  I often use it as a warm up level for about 15 - 20 mins
+				  to sharpen up my reflexes before going into a larger level.
+				  It's my first Half Life map and the first time I ever
+				  used Worldcraft so it was good map to get the hang of
+				  the interface.
+
+				
+===============================================================================
+
+* Gameplay Information *
+
+Game Version                    : 1.0
+Single Player                   : No (just to look around)
+Cooperative                     : No
+Deathmatch                      : Yes (8 player starts)
+Difficulty Settings             : NA
+New Sounds                      : No
+New Textures                    : No
+New Graphics (LMPs)             : No
+New MDLs                        : No
+Demos Replaced                  : No
+
+===============================================================================
+
+* Game Construction *
+Base                            : Started from scratch. 
+Editor(s) used                  : Worldcraft 2.0.
+Known Bugs/Leaks                : Not so much a bug but a quirk of Half Life.
+				  Some textures are part of random set that are applied
+				  randomly when the game starts to make things look nore
+				  natural. In this case the wall texture set has a vent
+				  texture in the series. As result the number of wall
+				  vents changes each time you start the game. I've
+				  seen it vary from 2 vents to over 16 (which is too many).
+ 
+Build Time                      : 3 days.
+
+Machine Used for Compile        : PII 333 - 96Megs Ram
+
+Compile Time                    : QBSP3 - 	3 secs.
+				: QVIS (full) 	1 mins. 3 secs.
+				: QRAD -extra	9 mins. 12 secs.
+                                  
+
+* How to use this level *
+Unzip circ.bsp into your Half-Life\valve\maps directory, and start a multiplayer game and
+select the map from the multiplayer menu or type 'map dead_hl' at the console.
+
+* Any Other Comments? *
+If you like the level or found it usefull, feel free to e-mail me. 
+If you hated it, tell me how to make it a better one. I can take it.
+
+===============================================================================
+
+* Copyright and Permission Information *
+
+This level may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this level on any CD or distribute it in
+any way without my permission. In other words, TELL ME FIRST!
+

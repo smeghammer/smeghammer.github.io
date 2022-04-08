@@ -1,0 +1,38 @@
+========================================================================
+Title                   : bad3.WAD 
+Date Finished           : sometime before Doom ][ was released.
+Author                  : Jack Linn, Eric Kloss
+Email Address           : machinshin@aol.com, redfive@ix.netcom.com
+Description             : our favorite deathmatch wad yet (out of all 
+			that we've come accross).  It was originally 
+			made from Doom's E1M1 and then converted to work 
+			with Doom ][.  This level has many surprises and 
+			it's really easy to ambush and backtrack on your 
+			opponent! :)
+
+========================================================================
+* Type of DOOM or DOOM II file*
+Edited level WAD           
+
+* Play Information *
+Map #                   : Map 1 (For DOOM II only)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+
+* Construction *
+Base                    : Modified E1M1
+Editor(s) used          : most that were out before Doom ][ was released
+Known Bugs              : One mirrored wall in tunnel (just don't look 	
+		  	at...will slow down game temporarilly)
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file.
+
+
+

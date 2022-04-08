@@ -1,0 +1,47 @@
+================================================================
+Title                   : Sampras
+Filename                : SAMPRAS.WAD
+Author                  : Paul Ramster
+Email Address           : righthand@cix.compulink.co.uk
+Description             : This WAD is designed for single-player
+                          and to be similar in atmosphere and difficulty
+                          to the supplied levels.  Multi-player and
+                          Deathmatch starts are included however.#
+                          Named after the remakable resemblance
+                          between Spectres and Pete Sampras which
+                          I only just noticed. (Don't ya just lurve
+                          Wimbledon?)
+Additional Credits to   : Jac Ramster (initial play-testing and
+                          miscellaneous improving ideas)
+                          Authors of DEU and BSP
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (but not ideal)
+Difficulty Settings     : Yes (but its not that hard)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : None at this time
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

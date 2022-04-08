@@ -1,0 +1,76 @@
+================================================================
+Title                   : Xenomorph 'The complex'
+Filename                : xeno11.WAD
+Author                  : Daniel Griffiths
+Email Address           : alphatek@yoyo.cc.monash.edu.au
+Misc. Author Info       : Engineering student Monash Uni.
+
+Description             : Specially designed for D/Match or Co-op.  Fight
+                          in and around a huge complex building, finding
+                          the secret transporters and weapon caches to 
+                          outsmart your enemy.  In single player mode, 
+                          Fire up Ultra violence, get outside with god mode
+                          on and watch the light show!! 
+
+Notes                   : - All transporters are hidden behind secret doors, 
+                            so you'll have to look to find them.  
+                          - All weapons are included in this level for 
+                            ultimate carnage.
+                          
+Additional Credits to   : Deu V5.0, Deu V5.1 and all people associated
+                          with its development.   
+                          Damien Frawley for his ideas and beta-testing
+                          of the Death match / Co-op version.
+ 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes (Try it on Ultra Violence, hehehe)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes, (single GIF to set the mood outside,
+                                need DMGRAPH to insert it)
+                        
+                          SKY1.GIF      - Night-time add on
+                                          (insertion pt. 127, 123)
+
+New Music               : No
+Demos Replaced          : None
+
+
+* Construction *
+
+Base                    : New level from scratch
+Time Taken              : Approx 24 hours over a week
+Editor(s) used          : Deu V5.0, V5.1, Dpaint and Alchemy workshop
+Known Bugs              : None, except a few textures might not be perfectly
+                          aligned.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as inspiration to build additional
+levels (if you'd want to). 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites:    infant2.sphs.indiana.edu 
+
+BBS numbers:  061-03-591-0005 Binary 2 BBs,    2400-14.4K 24hrs
+
+
+Please feel free to Email me with suggestions, comments, (anything you like)
+about this WAD on the above mentioned address.
+
+

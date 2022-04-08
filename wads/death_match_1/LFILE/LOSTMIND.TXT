@@ -1,0 +1,55 @@
+================================================================
+Title                   : Lostmind.Wad   
+Author                  : David J. Hill   
+Email Address           : Mentzer@aol.com
+Misc. Author Info       : None
+
+Description             : This Wad was made to challange the Doom player in 
+		          skill aspects along with Killings (of course).
+ 		          Warning! Not everything is what it appears to be.  Get that 
+			  (you'll see what I mean).  The level can be 
+			  completed without cheats, a little thought and 
+			  effort is all that is needed. Get the Rocket
+			  launcher when you see it, you'll need it.
+			  	 
+
+Additional Credits to   : The authors of DoomCad, Deu and ID software.
+			  Oh yeah, and my wife who put up with my long hours
+			  of staring at the computer screen.   
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : no
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Around 30 hours.
+Editor(s) used          : DoomCad 4.3 and Deu 5.21
+Known Bugs              : None
+
+===============================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, just give me credit for my effort.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you find any bugs or have question or comments, write to Mentzer@aol.com.
+
+* Where to get this WAD *
+
+Other: America On-Line

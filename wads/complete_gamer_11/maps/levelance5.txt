@@ -1,0 +1,55 @@
+Title                   : levelance5
+Date                    : December somthing
+Filename                : levelance5.bsp (levelance5.map)
+Author                  : Phillip T. Wheeler
+Email Address           : freddret@ix.netcom.com
+Home Page               : none
+Other levels            : thisiste, fredz9, fredhub pack .. more stuff
+
+Description             : single player and deathmatch level
+                          
+                          
+
+Additional Credits to   : id and uh... id
+			      
+
+
+* Play Information *
+
+Single Player           : 100%
+Cooperative             : 0%
+Deathmatch              : 100%
+Difficulty Settings     : 0%
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Qe4b, qbsp3, qvis3, qrad3
+Known Bugs              : None 
+Build Time              : uh about 20 minutes to compile ... couple a days to make
+
+Compile machine         : PentiumPr0 233 w/128 Mb 
+
+* Other Info *
+
+To run:
+Unzip to \Quake2\baseq2\maps\
+Start Quake 2.
+At the console, type:
+map <whatever map>
+
+
+* Notes *
+Tested on slower machines
+
+* Copyright / Permissions *
+
+This level may be distributed freely around the Internet/bbs providing
+this file remains attached. This level can be included in a 
+cd/diskette compilation or any commercial product intended for public
+sale without written permission from the author as long as this file 
+remains attached . 

@@ -1,0 +1,73 @@
+Filename : STARSHP.ZIP
+Wad File : Starshp1.wad
+Replaces : E1M4
+
+Notes : Part 1 of 2
+
+Author : Doug Jacoby 70703,3074
+Created w/: DEU / BSP (MANY THANKS!)
+
+
+Single player :yes
+Coop Multi - :yes
+Deathmatch :  yes
+Difficulty settings : not implemented
+
+Creation time: 30 hours
+
+-------------------------------------------------------------------
+
+The Story:
+
+After a routine period of diplomatic negotiations, you beam back
+aboard your starship only to find a body in the transporter room,
+and shotguns and shells all over the place!!!
+
+A quick scan of the console reveals your ship is 
+under control of some wicked monstrosities from the south side of hell!
+Their course : straight to earth, with all weapons locked on!
+
+Can you make it to the bridge and stop the ship from its 
+destructive mission?
+
+====================================================================
+
+Notes :
+
+A lot of work went into this WAD. I decided to split it into two
+oarts since I was already past 1500 vertices and 2000 segments, and
+DEU was begininig to bheave funny (It reported only 60k free memory
+at times). Part 1  ends as you make it to the second level
+of the saucer section of the ship. Part two will take it up from
+there.
+
+Let me know of any comments/suggestions, please.
+
+Thanks, and enjoy!
+
+
+
+SPOILERS:
+___________________________________________________________________
+
+ONLY READ AHEAD IF YOU ARE HAVING TROUBLE FINDING THE KEYS!!!!!!
+
+
+RED KEY - Found on level 2 (first transporter pod) in the WARP
+NACELLE section (furthermost rear of the level)
+
+
+YELLOW KEY -  Found on level 3, in the TEK room (back of level, on
+the southern half of the corridors). To get to the Tek room, two levers
+need to be pushed, The first in the Catwalk/computer section,
+the second at the ultimate end of the southern corridor.
+
+Once in the TEK room, there is a lift in the southern/western
+corner that leads to the second floor with the key.
+
+
+Blue Key - Two levers need to be flipped to find it at corridors end
+1st one is in the RED Jefferies tube section; the second is in
+the warp nacelles at the very end
+
+

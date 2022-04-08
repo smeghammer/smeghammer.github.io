@@ -1,0 +1,80 @@
+================================================================
+Title                   : DMlastpyramid
+Version                 : 1.0
+Release Date            : 6/24/98
+Filename                : DMlastpyramid.zip
+Author                  : hazeus
+Email Address           : surfer@thirdwave.net
+Web Page                : http://members.primary.net/~grindd/
+Description             : This is my first attempt at making
+                          a Map. The Doom map Stargate and the
+                          movie is what inspired me on this map.
+                          That and i wanted to have something huge
+                          that many players could play on.
+
+Where to get this map   : ftp://ftp.cdrom.com/pub/unreal/maps
+Other levels by author  : More to come.
+Additional Credits to   : Epic Megagames (http://unreal.epicgames.com/)
+                          Friends, clan31337/#clan31337.
+
+================================================================
+--- Play Information ---
+Game                    : Unreal 
+Level Name              : DMlastpyramid
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes (2-10 Players)
+Dark Match              : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : Bots like to camp in my Portals :)
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : 3 weeks after work everyday, too many hours to be honest. 
+
+Unreal Design Competition
+-------------------------
+Entered in the UDC under the DM catergory.
+Date submitted: 6/24/98
+
+
+Installation
+------------
+   Unzip the the files and place them into your maps directory under the unreal
+   directory. Type in "open <mapname>" to run the map. Alternatively, double-click
+   the map.
+
+Author's Notes
+--------------
+Grindking and I have worked on both of our maps at mostly the same time and did alot of reading
+at www.unrealed.com on thier Tutorials, which has helped alot. Now i see more Tutorials that i would have
+liked to apply to my map, but the deadline is tomorrow so enjoy what i have done so far, email me and tell 
+me i can quit my day job and play video games for a living. Thats what im talking about!
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by hazeus/clan31337.
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+You may send me lots of money if you wish, and come over and repair my broken
+car for free if you like, or you could just join #clan31337 on EFnet and idle/chat.
+Possibly take on one of our members in a Deathmatch Beating.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

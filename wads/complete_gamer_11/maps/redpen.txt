@@ -1,0 +1,141 @@
+===================================================================================
+February 8, 1998
+===================================================================================
+
+Title                   : Red Penitentiary 
+Filename                : redpen.bsp   
+Author                  : T. H. Johansen 
+Email Address           : thajohan@online.no
+WWW Homepage:		: http://www.cris.com/~torjoh
+Date of release		: February 9, 1998
+Description		: Full single player Quake II map. Also supports DM play. 		
+					
+				
+Additional Credits to:	Id Software, for Quake II. Nothing even comes close. 
+			  		 
+			Robert A. Duffy for his excellent work on QERadiant 1.0b
+			(Version 1.0 Beta; Originally based on QE4 4.0b,
+			 Mr. Duffy's e-mail is: raduffy@gte.net)
+			Check out http://www.planetquake.com/qeradiant/ for more info.
+
+=========================================================================================
+
+* Play Information *
+
+Game			: Quake II 
+Level Name       	: Red Penitentiary
+File name		: redpen.bsp
+Single Player           : Yes.
+Cooperative 		: No.
+Deathmatch 2-8 Players  : Yes. 
+Difficulty Settings     : Yes, all of them.
+New graphics		: No.
+Anything else new:	: No.
+
+* Construction *
+
+Base            : New level from scratch. 
+Build Time      : About 5 weeks
+Editors used    : QE4b and QERadiant 1.0b (build 036-041).
+		  Compiling utilities released by id software. 	  
+
+Compilation:	Qbsp3 	      build time:  217  secs
+		Qvis3 (full)  build time: 5810  secs
+		Qrad3 -extra  build time: 1586  secs
+		Average clusters visible:  139
+============================================================================================
+Platform used   : PII-266 w/64 MB RAM running WinNT 4.0 SP3
+Known Bugs      : None known.
+
+
+--------------------------------------------------------------
+The plotline for this map is the following:
+--------------------------------------------------------------
+
+The USMC command central has got reports of captives held in imprisonment in a heavily fortified
+Strogg installation called the "Red Penitentiary". Unfortunately, getting into this prison 
+will be quite a challenge, as it's guarded also by several laser grids which must
+be shut off before attempting to get inside.
+
+You take on the responsibility to wipe out this secret penitentiary, relieve the imprisoned
+inhabitants from their pain, and also find a way to shut the place down. Permanently.
+
+Good luck!
+---------------------------------------------------------------
+
+
+* Loading information *
+
+To load this Q2 map:
+- Put the "redpen.bsp" in the /quake2/baseq2/maps/ directory.
+- Start Quake2 as you usually would do.
+- Pull down console, type "skill 2" (or "skill 1" or "skill 0"). Press enter.
+- Then type: "map redpen" to begin.
+
+(Do not type the quotation marks)
+		 
+
+* Copyright / Permissions *
+
+This level is (c) by T. H. Johansen (Tef) 1998.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission.
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact. You may not use this map as a base for additional levels.
+
+*Archive info*
+Archive filename: redpen.zip
+
+* Where to get this archive *
+ftp.cdrom.com and mirror sites
+
+
+* Other levels by Tef *
+
+For Quake 1:
+
+1. "Altar of Pain" (tef_aop.zip, v.2 Nov. 1996)
+2. "Slime Ground" (tef_sg.zip, Oct. 1996)
+3. "Spawn City" (tefdbl.zip, Dec. 1996)
+4. "Water World" (tefdbl.zip, Dec. 1996)
+5. "Into Oblivion" (tefdbl2a.zip, June 1997)
+6. "Elemental" (tefdbl2a.zip, June 1997)
+7. "Nostalgia" (tefdbl2a.zip, June 1997)
+8. "Halls of Artemis" (tefdbl3.zip, October 1997)
+9. "Apollo's Domain" (tefdbl3.zip, October 1997).
+
+All these maps may be found on ftp.cdrom.com and mirror sites.
+Read about my maps on my homepage: http:\\www.cris.com\~torjoh\quake1.htm
+		  
+
+*More background on making this map*
+
+It's my very first try at a Q2 map. Although it may not be as 
+"professional looking" as I would have liked, I think I've learned a lot.
+I also had to learn two new editors in the process (QE4b and QERadiant).
+Luckily these editors are truly great, so they were not too hard to learn, after
+having used QuMa for classic Quake all my editing life. 
+
+Actually, I remember I was very surprised and pleased when I first loaded up the 
+original QE4 (from id) and found that it was remarkably similar to QuMa. IMO, the 
+"Z-checker" system found in these editors is far more intuitive and productive 
+than having all these cluttered 2D-views (as represented by, for instance, Worldcraft 
+and Qoole). Nothing wrong said about those other editors, though :).
+
+One last note about the map: I don't have a 3dfx card, so I really can't judge
+the colored lighting used in this map. I'm sorry about this, so if the colored 
+lighting sucks, I have a very strong reason. I guess this shouldn't matter too
+much.
+
+OK, enjoy and give me a comment if you like. Always nice getting some
+feedback (thajohan@online.no).
+
+
+T. H. Johansen, 
+February 1998.
+---------
+
+

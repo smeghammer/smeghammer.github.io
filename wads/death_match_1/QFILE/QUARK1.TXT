@@ -1,0 +1,51 @@
+================================================================
+Title                   : Outpost Quark -- version 1
+Filename                : QUARK1.WAD
+Author                  : Steve Rice
+Email Address           : sarice@edaca.ingr.com
+
+Description             : Your hands shake as you unplug the virtual
+                          reality system.  Sure, your eyes had been
+                          fooled, but your brain knew that DOOM
+                          was just a game ...
+
+                          Thank God this is reality.  Thank God this is
+
+                                  O u t p o s t    Q u a r k
+
+Credits to              : id Software
+                          The makers of DEU and BSP
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Not tested
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes (easy, regular)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build time              : A couple months, on and off
+Editor(s) used          : DEU 5.21, DEU 5.21gcc, BSP 1.1x
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indians.edu

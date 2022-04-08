@@ -1,0 +1,48 @@
+================================================================
+Title                   : Over_lrd 01 Deathmatch    
+Filename                : o_lrd01.WAD
+Author                  : over_lrd (Chris Elly)
+Email Address           : elly@gate.net
+Misc. Author Info       : 
+
+Description             : Deathmatch
+
+Additional Credits to   : The maker(s) of edmap and ID for making doom2.
+================================================================
+
+* Play Information *
+
+Map #                   : map01
+Single Player           : Yes (just to look around)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes (of course!!!)
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Edmap v1.30 and IDBSP beta for dos
+Known Bugs              : on the WORD Pantera theres very small bugs
+
+
+* Copyright / Permissions *
+
+Authors (MAY NOT) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers:
+
+Other:

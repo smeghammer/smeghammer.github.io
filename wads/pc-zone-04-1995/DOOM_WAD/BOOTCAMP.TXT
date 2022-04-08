@@ -1,0 +1,61 @@
+                    BootCamp:
+                 Combat Training
+                    by "Weeds"
+                  E1M1-9,E2M1-9
+                 ===============
+
+Skill 1: Target Range
+LOTS of exploding barrels, ammo and weapons for your pleasure!
+
+Skill 3: Deathmatch Arena
+A bare-bones fighting area to fight your opponent with your pistol
+or just plain "Duke It Out"! Plenty of cover.
+
+Skill 4: Death Dominos
+TONS of exploding barrels. Just aim at one, shoot it, and haul ass!
+
+ x y
+E1M1: Troopers
+E1M2: Sargeants
+E1M3: Imps
+E1M4: Demons
+E1M5: Spectors
+E1M9: ALL the mean DOOM boogers!
+
+ x y
+E2M1: Barons
+E2M2: Lost Souls
+E2M3: Cacodemon
+E2M4: Cyber Demon
+E2M5: Spider Demon
+
+This PWAD was designed for basic combat training in DOOM. It covers
+all the essentials. Marksmanship, hand to hand combat and agility.
+PLUS blowing up the barrels is a BLAST! There is NO exit.
+Push any of the walls for a fresh supply of barrels, ammo and weapons
+(You advance to the next level but the map is the same as the previous
+level [E1M1-8, E2M1-9]).
+
+Copy all of the files into your DOOM directory.
+
+To run, type:
+"DOOM -DEVPARM -FILE BOOTCAMP.WAD -NOMONSTERS"
+Leave out the "-NOMONSTERS" switch if you want to try monster killin'.
+Select "New Game", "Episode" and "Skill level" (See above chart).
+
+Some helpful cheats (Type while playing DOOM (They don't work in MP mode!)):
+IDCLEVxy : warp to episode "x", level "y".
+IDKFA    : all weapons, health and armor.
+IDDQD    : god mode.
+
+For MP play be sure to add "-DEVPARM", "-FILE BOOTCAMP.WAD"
+and "-SKILL (1, 3, or 4)" (See above chart).
+Add "-WARP x y" if you want to battle DOOM boogers (Without "-NOMONSTERS")
+(See above chart for "x y")).
+Add "-WARP 1 9" if you want to battle ALL the DOOM boogers (This is the only
+way to access E1M9 in MP mode!).
+
+Included are several small demos: type "BC-DEMO" for a short movie.
+
+                   Have a "BLAST"!
+             Rich "Weeds" Nagel [72672,1450]

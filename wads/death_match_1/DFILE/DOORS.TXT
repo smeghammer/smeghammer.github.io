@@ -1,0 +1,56 @@
+Title                   : Doors   
+Filename                : DOORS.WAD
+Author                  : Phillip S. Pittz
+Email Address           : PPITTZ@EIS.CALSTATE.EDU
+Misc. Author Info       : 29 - Single White Male
+
+Description             : I learned how to make doors finally and so
+                          decided to go a little crazy with it. I'm still
+                          learning how to use many of the powerful features
+                          that are found in DEU and enjoying playing my own
+                          creations. There are LOTS of doors to open, and 
+                          are secret. As I was creating the game, I found
+                          some idiosyncracies in the game that were unexpected
+                          and so incorporated them into game play. This
+                          is a tough level to play due to the large number
+                          of creatures, so be ready!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : A few odd textures in weird places.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+        The Freedom Forum   (209) 224-5856
+
+Other:
+        America On-Line, GEnie

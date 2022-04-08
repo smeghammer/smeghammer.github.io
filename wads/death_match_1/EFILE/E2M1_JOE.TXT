@@ -1,0 +1,34 @@
+E2M1_JOE.WAD Version 1.0
+------------------------
+
+E2M1_JOE.WAD is a brand-new DOOM multi-player WAD file made from scratch
+featuring moving floors (emulating large elevated platforms) with corridors
+leading off to weapons and various items.
+
+There are also tons of barrels, all weapons except for the plasma gun and
+BFG 9000, and plenty of rockets for the rocket launcher! The light level also
+varies from  sectors to sector in order to make it even more realistic.
+
+This WAD file is *excellent* for multi-player DeathMatch mode. It was made
+with DEU v5.0 and re-compiled with BSP v1.0 to ensure that it is "bug-free".
+
+If it's NOT bug free, or you have any other suggestions, comments, or ideas
+for a future version of E2M1_JOE, please E-Mail me at bsc@tiamat.umd.umich.edu.
+
+No suggestions will go un-noticed. This is my first WAD that I've created, so
+there MAY be a few bugs/oversights, although I've been testing it with two
+friends (who love it) in Modem DOOM for a couple weeks now.
+
+ * Any future versions of this PWAD will probably be names E2M1JOEx.WAD.
+   For instance, Version 2.0 will be E2M1JOE2.WAD.
+
+PS: To get the platforms moving, walk across the center of one of them, then
+    they move constantly from there.
+
+PPS: Note that there is no exit in the PWAD just yet. I've been trying to
+     fiddle with exit signs, etc but I can't seem to get a good exit sign
+     made (I don't really want to throw just a plain switch in there --
+     someone's bound to hit it by accident). There WILL be an exit in the
+     next version [hopefully].
+
+                                                    -Joe

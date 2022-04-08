@@ -1,0 +1,50 @@
+===================================================================================
+Title                 : SPACED  
+Author                : Whade Tweady
+Email Address         : RandalT951@aol
+
+Additional Credits    : Authors of Deu 5.21, Authors of BSP, GrandSlammr, 
+			and the other members of "The List" for Utilities 
+			updates and info. 
+
+Description           : Your Space Frigate is attacked and disabled and you 
+			are the only survivor of your crew (unless your 
+			playing coop). The bad guys are teleporting aboard 
+			whats left of your ship and your only chance is to 
+			grab your weapons and teleport down the nearest planet 
+			(which happens to also be infested with baddies).
+
+Instructions          : To play type:        Doom -file spaced.wad
+
+====================================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes  (Makes very good Deathmatch Level)
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Forever and a day      
+Editor(s) used          : DEU 5.21 and BSP 1.1
+Known Bugs              : None that I know of
+Unknown Bugs            : You tell me.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels as Spaced.wad and the Author are credited as being the base.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+

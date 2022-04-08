@@ -1,0 +1,42 @@
+Hotelcal.wad Info
+-----------------
+I hope you enjoy this wad file.  It is my first real effort at constructing 
+a level.  It may not be as good as some that you have seen, but I think it 
+is half decent.  Have at it.  Enjoy the maiming and killing.
+
+Revision completed on August 3, 1994.  
+Several glitches have been fixed.  Also, keycards are required to open some
+doors now.
+
+If you are not using a front end launcher such as dfe.exe or dm.exe, it will
+be necessary to enter idclev16 to reach the level.
+
+* Play Information *
+
+Episode and Level #     : E1M6
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : No idea
+Editor(s) used          : DoomEd260, DMMUSIC
+Known Bugs              : none that I know of
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+Comments are welcomed.
+
+Bobby Griggs
+631 Kirksville Road
+Richmond, KY  40475

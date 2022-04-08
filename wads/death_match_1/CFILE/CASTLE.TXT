@@ -1,0 +1,33 @@
+------------------------------------------------------------------------
+DOOM(c) Add-on Level,
+                        CASTLE.WAD
+------------------------------------------------------------------------
+
+DESCRIPTION:  Set in and around a Castle, you must battle to gain
+              entrance to the castle grounds then take on the keep.
+              Watch out for those Barons, and Sargeants on the castle 
+              walls.
+                   
+
+FEATURES:     Deathmatch, Single and Co-operative modes.
+
+              - Huge outside grounds, circle the whole castle
+              - Secret weapons cache
+              - like a real castle, well maybe!!!              
+
+              [X] Deatmatch   [X] Co-op   [X] Single player
+
+STATISTICS:   Built with DEU4.3-5.21gcc, node built with BSP1.1.
+              Took over 10 Hours to desgin and build.
+
+
+This level can be used in any electronic medium (eg. Disk, CD-ROM) 
+as long as this text file is included and the Author contacted about
+such uses.  This level can also be used as a base for other levels.
+
+AUTHOR'S 
+ADDRESS:           alphatek@yoyo.cc.monash.edu.au  {Prefered address}
+                   dgri4@mfs01.cc.monash.edu.au
+                   dgri4@eng3.cc.monash.edu.au
+
+------------------------------------------------------------------------

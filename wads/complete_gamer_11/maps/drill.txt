@@ -1,0 +1,116 @@
+Monday 12th OCtober, 1998
+===========================
+
+Title                   : Final Drill 
+Filename                : drill.bsp, drill2.bsp
+Author                  : Marty Howe
+Email Address           : marty@sympac.com.au
+			   
+
+
+Description             : Single Player Quake2 map
+		  
+
+Additional Credits to   : id software 
+			  Remedy Entertainment
+                          Jonn Gordon and Zero Gravity Entertainment
+                          My friends on da Internet (you know who u are)
+
+
+Other Levels by Author	: Bullet Ballet (Quake2 - Single player)
+                          Full Contact (Quake2 - Single player)
+                          Waiting to Die (Quake2 - Single player)
+                          Heroic Bloodshed (Quake2 - Single player)
+                          Prelude (Quake2 DM)
+                          Exterior Infiltration (Quake2 Single player)
+                          Dm Sinfonia (Unreal DM)
+                          Dm Experiment (Unreal DM)
+                          The Once Great Temple (Unreal Single player)
+                          End of Time (Quake - single player)
+			  Prey2 (Quake - single player)
+			  The Disturbed (Quake - single player)
+			  Horror Erotique (Quake - single player)
+
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes 
+Cooperative             : No
+Deathmatch              : No 
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+
+
+Base                    : New level from scratch
+Editor(s) used          : WorldCraft 
+Known Bugs              : None		  
+Build Time              : About 4 days
+Texture Wad used        : Q2 Textures
+Compile machine         : Pentium 133
+			  72mb RAM 
+			  
+
+*Mission*
+
+Search for your missing comrades and kick some ass along the way.
+
+My farewell Q2 map before i move to Finland to work on Max Payne with
+Remedy Entertainment. This took about 4 days to make, its a little short
+but hopefully brutal enough :o) Its a little rushed, arghhhhhhh ;]
+ 
+
+Just stick it on your quake2/baseq2/maps directory and at the console
+type map drill 
+
+
+* Copyright / Permissions *
+
+
+Copyright Notice: 
+
+THIS LEVEL MAY NOT BE DISTRIBUTED FOR COMMERCIAL PURPOSES. 
+IF YOU PAID IN ANY WAY TO GET THIS LEVEL, YOU ARE BEING RIPPED OFF
+AND SO AM I - REPORT THIS TO marty@sympac.com.au
+
+This file (drill.zip containing drill.bsp, drill2.bsp and drill.txt), 
+or any derivative works thereof, may not be sold or redistributed for profit 
+in any way without express written permission of the author. This includes, 
+but is not limited to, mass archival as on a cd-rom and inclusion in commercially 
+published compilations (books and/or magazines). 
+
+You are free to copy this file for personal use, or to make it available for 
+redistribution in its electronic format, provided that: 
+
+(1) it remains wholly unedited and unmodified, 
+
+(2) no fee or compensation is charged for copies of or access to this
+    file, and
+
+(3) this copyright notice and the following disclaimer remain attached.
+
+Disclaimer: 
+This file is provided by the author "as is", and any express or implied
+warranties, including, but not limited to, the implied warranties of
+merchantability and fitness for a particular purpose are disclaimed.  In
+absolutely no event shall the authors be liable for any direct, indirect,
+incidental, special, exemplary, or consequential damages (including, but
+not limited to, procurement of substitute goods or services; loss of
+use, data, or profits; or business interruption) however caused and on
+any theory of liability, whether in contract, strict liability, or tort
+(including negligence or otherwise) arising in any way out of the use of
+the information herein contained, even if advised of the possibility of
+such damage. 
+
+Please respect my position as to not allowing distribution on a cd-rom
+of any and all type. Certain companies (Actura and Head Games) tend to
+'net scrape' and then profit from the work of others without obtaining
+permission.
+
+Copyright  ©1998 Marty Howe
+All rights reserved. 
+

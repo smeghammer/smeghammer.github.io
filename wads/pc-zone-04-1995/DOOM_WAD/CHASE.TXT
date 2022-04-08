@@ -1,0 +1,56 @@
+Title                   : chase.wad
+Author                  : Alex Siegel
+Email Address           : scimitar@netcom.com
+
+Description             : I designed this level specifically for deathmatch.
+			  It is small enough so that won't have trouble
+			  finding your opponent, but it is complex enough
+			  to provide some variety. There are no easy 
+			  suicides, and the weapons are spread around
+			  so a player can't monopolize them. I
+			  had a blast playtesting this one. There's
+			  nowhere to hide, so get ready to run!
+     
+Additional Credits to   : Authors of DEU and BSP.  May their programs grow and
+			  multiply!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1 M1 (registered version of Doom only)
+Single Player           : Yes (but not much fun)
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (very well tested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20 hours, not including playtesting
+Editor(s) used          : DEU 5.2, BSP 1.1x recompiled
+Known Bugs              : none
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, as long as
+credit is given.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+	infant2.sphs.indiana.edu and mirror site(s)
+
+
+* Note from the author *
+
+I was inspired by the ledges series, but I thought I could do better.
+I think I succeeded.

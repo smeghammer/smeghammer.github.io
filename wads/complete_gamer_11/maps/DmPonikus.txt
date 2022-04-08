@@ -1,0 +1,52 @@
+Comment for Unreal.org's map area: Sniper's first Unreal DM map. Latest version can be found at http://www.geocities.com/TimesSquare/Fortress/1065/DmPonikus.zip
+
+DmPonikus
+
+6/14/98                  version 1.3
+================================================================
+
+Title                   : DmPonikus.unr
+Author                  : Mike Ponicki (Sniper)
+Email Address           : sniper@citilink.com
+Web site                : http://www.citilink.com/~sniper/domicile
+Description             : Deathmatch Unreal map for 4-6 players
+Other Works             : Nothin' in Unreal
+
+Thanks to               : Epic for the koo game and Coca-cola for making Surge
+================================================================
+
+My first Unreal map, this actually started out as just a toy to figure out the nuances of UnrealEd. But, alas, it didn't stay that way long when I realized it might be fun in DM. Tried it, it was fun, touched it up a little, and here it is! I noticed a couple small clipping errors and one large one (looking into a certain pool, u can see thru the wall), fortunately they only show up in software mode, and I noticed similar errors in the single-player maps, which tells me it's caused by bugs in the engine and not in my head. No bot pathnodes yet, but they still go for the weapons and are quite a lot of fun. I've also played against a few friends over the 'net and they all told me afterwards how much fun it was, I hope it's fun for you too! :)
+
+*New in v1.3!* Added weapons, further improved botnodes, bots now get armor and eightball using catwalks in large water room
+
+*New in v1.2!* Greatly improved Bot nodes, bots are mobile throughout entire map now. Watch out! :)
+
+*New in v1.1!* Fixed clipping errors in software mode and all texture misalignments I noticed. I also added Botnodes, they jump off ledges and take lifts to pursue you now. I also made a few minor enhancements, including the addition of two more player starts.
+
+* Play Information *
+
+Single Player           : Be pretty boring
+Deathmatch              : Yes(7 starts)
+Bot pathnodes           : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Source Included         : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Ued version .9
+Known Bugs              : none
+Brushes/polys           : 106/561
+Build time              : 10:37:16.66618769 (actually, I don't know)
+
+* Running DmPonikus.unr *
+
+place DmPonikus in your unreal/maps directory
+and start a DM or bot game, the level will show
+up in the level selection area.
+
+
+DmPonikus.unr may only be distributed and/or edited with signed
+written consent from the author.

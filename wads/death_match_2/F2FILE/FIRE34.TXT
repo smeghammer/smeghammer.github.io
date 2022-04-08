@@ -1,0 +1,39 @@
+       -= INTO THE FIRE =-
+  Replaces second level of DOOM
+    FOR ADVANCED PLAYERS ONLY
+              [1/1]
+=============================================================================
+       INTO THE FIRE: A REPLACEMENT DOOM EPISODE FOR ADVANCED PLAYERS
+                         Written By Scott Adams
+=============================================================================
+        Here is the sequel to Hell's Bells, the nearly impossible version 
+  of the first episode.  Now that you've graduated to this episode, be
+  ready for a no-holds-barred battle!
+
+        Due to several requests, I have added more ammo, but only at points
+  where it is ABSOLUTELY necessary!  You are likely to still have to use the
+  chainsaw a many points.  I also have added a few stimpacks preceeding or
+  proceeding a large fight.  But, along with these aids, I have added some
+  traps and surprises.  Hopefully, this should make this episode more 
+  exciting that the last!
+
+        The files included will patch over the levels in the second episode
+  (The Shores Of Hell).  This change is NOT permanent, nor will it change
+  your files.  As soon as you exit the game, the changes are removed.  I have
+  tested it on my system with no problem.   
+  
+        Note: I did NOT edit the second to last level.  After playing it        
+        a few times, I decided it was tough enough.
+
+        To run, do the following:
+
+        1. Unzip the program, or copy the files, into you doom directory. 
+        
+        2. Run the file FIRE.BAT
+
+        3. Select New Game, then The Shores Of Hell, then Ultra-Violence.
+
+        4. Enjoy! 
+
+                More is on the way...keep your shotgun loaded!
+

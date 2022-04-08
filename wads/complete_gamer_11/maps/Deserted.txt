@@ -1,0 +1,74 @@
+* THIS LEVEL IS NOT MADE BY OR SUPPORTED BY id Software *
+     * REQUIRES REGISTERED VERSION OF QUAKE2 *
+
+Date - 22nd February 1998
+========================================================================
+
+Title                   : Deserted
+Filename                : deserted.bsp
+Author                  : [SnAzBaZ]
+Email Address           : snazbaz@gjp.globalnet.co.uk
+Description             : Small SPQ2 Level
+
+SnAz SPQ2               : http://www.users.globalnet.co.uk/~gjp/snaz/
+
+========================================================================
+Previous and current work:
+
+Quake:
+
+Pure Evil, Emolt Quanta, Ovumbra and Fuzz, Earthquake TC.
+
+Quake 2:
+
+Earthquake II TC, Massacre PC, Deserted
+
+========================================================================
+
+
+* Play Information *
+
+Game			: Quake II reg.
+Single Player           : Yes
+Cooperative             : No
+Deathmatch              : No
+Difficulty Settings     : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New Map
+Editor(s) used          : Qoole 2.31, Quark 4.07 and QERadiant
+Construction Time       : erm, not that long.
+Known Bugs              : Yes.....
+Compile Machine         : P120, 32MB RAM.
+Brushes                 : 612
+Entities                : 231
+Build Time         
+       QBSP3            : 38 secs
+       QVIS3 -level 4   : 1087 secs
+       QRAD3 -extra     : 1560 secs
+
+=========================================================================
+Installation:
+-------------
+Unzip the file into your quake2\baseq2\maps directory and 
+then on the console type MAP DESERTED
+
+=========================================================================
+* Copyright / Permissions *
+
+This level must be distributed freely. The contents of the original 
+.zip file must not be modified. Do not use this as a base for building new maps.
+You are *not* allowed to distribute this for your own profit by
+electronic means (like putting it on a CD-ROM and selling it) 
+without my permission...! 
+
+-----
+
+QUAKE II c1997 Id Software, Inc.  All Rights Reserved.  Distributed by 
+Activision, Inc. under license.  QUAKE is a registered trademark of Id 
+Software, Inc.  QUAKE II, the Id Software name, the Q II logo and the id 
+logo are trademarks of Id Software, Inc.  Activision is a registered 
+trademark of Activision, Inc.  All other trademarks and trade names are 
+properties of their respective owners.

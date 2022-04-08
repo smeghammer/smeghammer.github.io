@@ -1,0 +1,164 @@
+================================================================
+Title                   : Station Zebo
+Filename                : zebo.zip 
+Author                  : Travis Almand
+Email Address           : talmand@mindspring.com
+Description             : Four level unit for Quake2
+Additional Credits to   : id Software
+				www.idsoftware.com
+			  Yahn Brenier for BSP
+                          	bsphq.telefragged.com
+			  Shane 'Fishman' Sherman for rust
+				www.planetquake.com/rust/
+			  Zero Gravity Entertainment
+				www.zerogravity.com.au
+================================================================
+Level Name              : Station Zebo
+				-Storage	(zebo1.bsp)
+				-Water		(zebo2.bsp)
+				-Waste		(zebo3.bsp)
+				-Control	(zebo4.bsp)
+
+Single Player           : Yes
+Cooperative 		: No
+Deathmatch 		: No
+Difficulty Settings     : Yes
+
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+Editor(s) used  : BSP .90b
+
+Installation
+   Unzip the the files and place them into your maps directory
+under the quake2 directory. Select your skill by typing in 
+skill x (x being 0,1,2) in the console. Then type in
+"map zebo1" which will start the unit. You exit the unit
+into base1, the starting map for quake2.
+
+
+Story so far... (this is long by the way ;)
+
+   The war on the Strogg homeworld has gone well. We have established
+a foothold on the outskirts of the main battleline and construction
+of bases have begun. These buildings are built using Strogg material
+and/or the old buildings themselves.
+   Station Zebo is an example of this. We "borrowed" four buildings
+from the Strogg and converted them to house a fission reactor. Why
+use fission instead of the safer fusion reactors you ask? Simple, if
+need be we could destroy it and radiate the Strogg if they happen
+to retake the site.
+   Well, unfortunately the enemy have retaken the site and the staff
+were unable to set the self-destruct sequence. But they were able to
+set some security protocols into place and the enemy does not have
+complete control of the station. Also, the self-destruct option is
+no longer available.
+   Here is your mission, the Strogg have started using the reactor for
+their own needs. This is bad, the reactor must be taken offline at all
+costs. This means if necessary some marine must enter the reactor room
+and destroy the main node to bring the whole thing down. This in turn
+would radiate the room and everything in it, a blast door would shut to
+keep the rest of the station safe from radiation. This is the last
+option.
+   Fortunately our experts think that the computer system is still
+online and the shut down sequence would still work. But this also means
+fighting your way into the heart of the station to start the sequence.
+Once the sequence is started the computer system will allow you access
+to the next point to complete the process. Once the whole system is
+shut down your mission will be completed and you can return.
+   You will enter the station through the storage section which also
+contains the transportation system which will also allow you to leave.
+The storage section has access points to both the water and waste
+sections. These two sections have access to the control section. This
+means that Station Zebo makes a circle with all the sections connected
+with hallways. We at this time do not how the Strogg gained entry,
+although they do seem to have the ability to appear in the most
+uncomfortable locations.
+   Here is the sequence to shut down the system. Inside the control
+section are two locations that turn off the main water and waste
+circulation systems. Then you are free to return to either the water or
+waste section to disable the primary and secondary backup systems. This
+then must be repeated for the other section. Once a section is shut
+down one of two electromagnetic generators can be brought online. Once
+both of these generators are online the reactor is taken offline. The
+two generators will supply enough energy to keep the station 
+operational but not enough for any outside use. This in turn will
+render the station useless to the Strogg.
+   But be warned, the reactor may be offline but it is still active
+and can be destroyed. Be careful of gunfire within the reactor room!
+   This is your mission, completion is necessary for success!
+
+
+Known Bugs (this happens on my machine, your mileage may vary)
+   It seems that for some reason restoring your game with the
+automatic save function doesn't always quite work right.
+Might want to make your own saves instead of relying on the auto one.
+   If you leave one level with a door open and later return to
+that level the door will be not be closed all the way. It
+doesn't screw up the game it just looks weird, once the door
+opens it goes back to normal.
+
+
+Author's Notes
+   This unit began as a little experiment of mine in multi-level
+missions. The idea was to create levels that entailed one mission
+that required the player to go back and forth between the different
+levels a number of times.
+  It is possible to play out these levels in different ways so that
+each game will play a tad bit different. But the only real difference
+will be how many monsters you encounter as you run through the levels.
+But it does add a bit of replay value to the unit.
+  I was originally going to have dm play with the levels but after a
+playtest on zebo1 I decided that it wasn't worth it. The way the
+levels are designed they make decent single player levels but suck
+at dm play. Maybe I'll paste all four levels into one big dm only
+level, we'll see.
+   In my opinion these levels get a little boring on the lower
+difficulty settings because you do a lot of running around and only
+on hard difficulty do you fight most of the time throughout all four
+levels. But I had to put the difficulty settings in don't you know :)
+   You'll notice that each level is pretty much totally different
+than the others. This is intentional, I wanted to try to give each
+level it's own feel to make it easier for the player to realize where
+they were without having to check the help computer. Plus the water
+and waste sections was another experiment to see if one could alter
+the mood of a level by simply retexturing and relighting to make
+it feel like a totally different level. I believe it worked but the
+machinery gives it away since I didn't design unique machinery for
+each level.
+   I learned a lot from this little experiment of mine. Some things
+I'd do different but it turned out pretty good. 
+   Thank God for graph paper!
+
+
+* Legal Stuff *
+   Well, this is easy, if you want to do something with it
+other than play it or distribute it (for free of course), 
+then you have to ask.
+   Otherwise don't do it unless you ask.
+   If you have to think about it before doing it, then you probably
+should ask :)
+
+
+
+Hints
+   These levels make a circle, so there are several different
+ways to go about completing the tasks necessary to complete
+the mission. If you have problems getting through a certain
+point, you might try going ALL the way around and attack it
+from the other side.
+   You won't find stuff lying around quite as much in the quake2
+levels. You must make decisions whether to pick up that health
+pack because you might need it on your way back. The same with
+ammo which the monsters drop for you instead of just finding
+them laying about. Conserve your ammo, if you only need 10 bullets
+to fill up then don't take a bullet box since it holds 50 bullets.
+   There are lots of doors, use them to hide in gunfights.
+   Sometimes you can make a monster in its own stupidity kill
+itself either from friendly fire or walking into the lasers
+(which you'll see what I mean). It's kinda funny to see them
+walk into the lasers in a sick sorta way.
+   On the hard difficulty you might want to clear out the water
+and waste sections before you complete the sequences to make
+things easier when getting out.

@@ -1,0 +1,78 @@
+================================================================
+Title                   : GET1.WAD - previously released as JAD.WAD (weak). 
+                          This one has stronger nodes, better play, and a
+                          helluva lot more action.
+
+Author                  : J Davis (JAD)
+
+Voice-Mail              : (817) 286-3197 (Killeen, TX)
+
+Misc. Author Info       : A brand new (cherry) author of WAD files,
+                          I would appreciate some feedback. Although this
+                          is my only level out, it will be a part of my              
+                          Episode 2 replacement wad (9 levels).
+
+Description             : Few stairs, many lifts, some doors...Secrets
+                          are the 'key' to making it outa this one...
+                          The Shores have been quite calm since you 
+                          blasted your way through... But now a challenge 
+                          awaits even the most experienced Marine - 
+                          TAKE BACK THE SHORES!!
+
+Additional Credits to   : All hard-core DOOMers and Mauthe.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Demos               : Yes
+
+* Construction *
+
+Base                    : New level from flashbacks
+Build Time              : Two WHOLE Days 
+Editor(s) used          : DEU
+Known Bugs              : I caught and at least made an effort to 
+                          correct 2 texture problems. This does not 
+                          interfere with game play, it just 'bugs'
+                          the heck outa us authors. 
+
+
+* Copyright / Permissions *
+
+You MAY NOT use this level as a base to build additional
+levels without permission from the author.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.        JADWADSJADWADSJADWADS
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

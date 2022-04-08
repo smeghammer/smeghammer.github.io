@@ -1,0 +1,12 @@
+
+Tired of the Dark Passages and Flashing Mazes of DOOM?
+
+Try DOOM-Lite and fear the Dark no more!
+
+
+To use:  DOOM -file DMLITE.WAD
+
+---------
+
+Bill Neisius
+bill@solaria.hac.com

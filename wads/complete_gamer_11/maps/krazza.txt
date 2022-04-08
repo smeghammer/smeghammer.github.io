@@ -1,0 +1,134 @@
+================================================================
+Title                   : Kraze of Zahara
+Filename                : krazza.bsp
+				  ---single player (Quake2)
+                          ---deathmatch (Quake2)	
+				  ---co-op (Quake2)
+Author                  : Russell Hayward
+Email Address           : russell@vision.net.au
+URL                     : http://www.vision.net.au/~russell/quake/
+Description             : Your planet has defeated the Strogg
+				  and an uneasy peace has returned to
+				  the galaxy. However your leaders have
+				  many reservations about the Strogg.
+				  The genetic re-engineering of fallen
+				  marines had shocked the public deeply.
+				  And now they appeared to be building
+				  secret weapon plants to manufacture all
+				  kinds of monstrous tools of death. 
+
+				  Being a biological scientist as well as
+				  a veteran marine , you are the natural
+			 	  choice for a reconnaissance mission. 
+
+				  The Strogg are wary of the constant
+				  attention, and when your team near
+				  the Zahara weapon's plant they
+				  attack.
+
+				  In the skirmish that follows you
+				  are separated from your squadron 
+				  You scrambled over unfamiliar and
+				  rugged terrain for several hours.
+				  
+				  Your only chance of survival is to
+				  get into the plant find some weapons
+				  and use them to commandeer a spacecraft
+				  to aid your escape.
+				  	  
+Additional Credits to   : id software , After The Fall TC  , 
+			     	  worldcraft , qoole, adunpack,
+			   	  rmdsoftware
+
+				: This level is dedicated to my girlfriend
+				  who has tolerated my obsession, and 
+				  has given me Quake1, Quake2, Worldcraft,
+				  and Qoole to play with (how cool is that?) 
+================================================================
+
+* Play Information *
+
+Level Name              : Kraze of Zahara
+Single Player           : Yes!
+Cooperative 2-4 Player  : Yes!
+Deathmatch 1-8 Player   : Yes! 
+		          6 DM start positions
+Difficulty Settings     : Yes
+* Construction *
+
+Base            : New level from scratch
+			Ok, I did use a pipe prefab.
+Build Time      : Two weeks,  compile time 6 hrs
+Editor(s) used  : Worldcraft, Qoole
+Known Bugs      : There might be a soldier stuck in
+			the wall somewhere. This level was
+			released before testing on v3.12
+			but hopefully the co-op should work.
+			The plot makes no sense if you are 
+			playing co-op.
+			The main mission is missing the last
+			word "planet" in all the computer
+			updates.
+
+Performance     : Should be ok				  
+
+================================================================
+
+This is my sixth level for Quake2, my second
+single player level
+
+The first one was krustydm (Underworld Outpost)   dm
+The second one was krakendm (Pathways to Peril)   dm
+The third one was krooldm (Underworld Vertigo)    dm
+The fourth one was kronic (Kronic Karnage)        sp
+The fifth one was krunch (Kranslik the Uncharted) dm
+This one is krazza.zip (Kraze of Zahara)          sp
+
+
+
+http://www.vision.net.au/~russell/quake/
+
+http://www.planetquake.com/atf
+
+http://www.quake2.com/rmd
+
+///////////////REVIEW SITES 
+
+http://www.planetquake.com/talon
+
+http://www.quake2.com/awoq2
+
+http://www.btinternet.com/~akuma/index1.htm
+
+http://www.planetquake.com/mpq/
+
+http://www.planetquake.com/spq2/
+
+http://www.bangg.org/q2/dmreview/
+
+http://www.quake2.com/crash/
+
+http://www.planetquake.com/ramshackle/
+
+http://www.planetquake.com/lotus/
+
+http://www.planetquake.com/ltdan/
+
+http://members.aol.com/jhuskey387/index.html
+
+http://www.OntheNet.com.au/~murfet/maps.htm
+
+
+///////////////NEWS SITES
+
+http://www.bluesnews.com
+
+http://www.planetquake.com
+
+http://www.quake2.com
+
+http://www.hipnotic.com/news.shtml
+
+http://redwood.stomped.com/
+
+http://www.slipgatecentral.com/

@@ -1,0 +1,74 @@
+================================================================
+Title                   : Nuclear Waste Facility   
+Filename                : SEWER.WAD
+Author                  : Jon Oden
+Email Address           : CIS 74577,2114
+Misc. Author Info       : 
+
+Description             : The year is 2083. Ever since the discovery of
+                          Tachyon Converters in the early 2030's there
+                          has not been much use for the old nuclear waste
+                          recycling plants. The government turned most
+                          of them into low cost housing developments. 
+                          Except for Facility 103. It was converted into
+                          a prison, an Alcatraz of sorts. A strange mutated
+                          version of the flu strain has developed in this
+                          prison. The government has sent you and your
+                          team to get a sample of the virus. They have
+                          given you each a vaccine which should provide
+                          immunity to the disease. Yeah, right.. Your team
+                          transports to the facility and catches the disease
+                          within minutes, making you go berzerk. It then 
+                          becomes a free for all, every man for himself.. 
+                          a DEATHMATCH!
+
+                          This level is built for deathmatch play, but it 
+                          will allow Cooperative & Single Player (would be 
+                          boring). Has all the weapons and plenty of ammo 
+                          and other goodies, if you can figure out how to 
+                          get em...hehehe... Try not to crank up your gamma 
+                          correction, it takes away from the suspense of 
+                          entering the sewer tunnel. This is my first attempt 
+                          at making a WAD, so lemme know if you like it
+                          or if you think it stinks...
+
+
+Additional Credits to   : Guy Hoovler for his help with some stuff..
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes (BORING!)
+Cooperative 2-4 Player  : Yes (BORING!)
+Deathmatch 2-4 Player   : Yes (YES! YES! HE HEH HE HE EH)
+                          Hey Beavis, I heard when you hit someone with a
+                          Rocket, and they only got 2% health and no armor
+                          Cool stuff happens...YEAH!! HE EHE It's like
+                          They Spill their guts... Its Cool.. HE EHEHE
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 and BSP 1.1x 
+Known Bugs              : HOM in one spot out in the courtyard.. I'll doubt
+                          you will see it in the heat of battle, its hard 
+                          to find the right spot to stand to see it.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+Other: CIS Games Forum

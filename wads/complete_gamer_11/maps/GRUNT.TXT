@@ -1,0 +1,76 @@
+Listen up, grunt!  You mission is simple...infiltrate the Strogg complex and
+destroy every last alien SOB on the premisses.  Expect heavy resistance.  FAILURE
+IS NOT AN OPTION.
+GENERAL X
+--END TRANSMISSION--
+
+===================================================================================
+DATE 3/26/98
+===================================================================================
+
+Title                   : GruntWork
+Filename                : grunt.bsp
+Author                  : Jack Davis (aka 13bongtokes)
+Email Address           : jackd104@primenet.com
+Date of release		: 3/26/98
+				
+Additional Credit/Thanks to:	
+     id
+     Robert Duffy for QERadiant www.planetquake.com/qeradiant
+     RUST www.planetquake.com/rust
+     Prefabs
+        Used: Breaker switch (breaker.map) by EutecTic (jfgrol@cam.org)
+              Cable Car (cablecar.map) by J. Girard aka AzrKnight (azrknight@planetquake.com)
+              Available at Quake Prefab Park 2 www.planetquake.com/qpp/qpp2 
+                     
+=========================================================================================
+
+Play Information
+
+Game			: Quake 2 
+Level Name       	: GruntWork
+File name		: grunt.bsp
+Single Player           : Yes	
+Cooperative 		: No
+Deathmatch              : No 
+Difficulty Settings     : Yes (same # of monsters, goodies vary)
+
+* Construction *
+
+Base            : New
+Build Time      : ~100 hours
+Editors used    : QERadiant build 048
+		   	  
+
+Compilation time: 50 min
+		
+============================================================================================
+Platform used   : Pentium 200, 32mb, Voodoo 3dfx 2mb
+Known Bugs      : There is one place in the level where an error message
+                  may pop up, though it rarely happens. It happens when some func 
+                  explosives go off "sz_getspace: overflow".  It does not affect
+                  any mechanics of the level or gameplay, just pops up.  If you 
+                  know what this is please let me know!  If you find any let me know.
+
+
+Loading information
+Copy grunt.bsp to you quake2\baseq2\maps directory.  If the \maps directory doesn't
+exist just create it.
+In the console select your skill by typing:
+'skill 0' = easy
+'skill 1' = medium
+'skill 2' = hard
+Then type 'map grunt'
+
+Comments from author: This is my first attempt at a Quake 2 level so nothing fancy, but
+I tried to make it fun.  Let me know what you think.  I'm currently working on my next
+project, a 2 or maybe 3 level (separate levels) mini-series called BIOTECHNICAL WARFARE.
+Watch out for it and grab that enviro suit . . .
+
+This Quake 2 level is (c) 1998 Jack Davis
+Don't put this level on any sort of commercial product.
+You MAY distribute this BSP through any electronic network, provided you include this 
+.txt file.
+Do not modify this BSP without my permission. 
+
+

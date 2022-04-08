@@ -1,0 +1,70 @@
+===============================================================================
+Title                   : The Flooded Halls
+Filename                : flood.bsp
+Version                 : 11/02/98
+
+Author                  : Daniel Warsén and Fredrik Holmar
+Email Address           : qnami@hotmail.com
+
+Description             : A Single-player only level. Your troops has flooded the halls of
+			  a strogg control-centre! It's now up to you shutting down the 
+			  console, so that they can't remove the water using their pumps. 
+
+			
+
+	
+Other q2 levels by author  : Power Plant Nuke!, nuke.bsp (Only Daniel)
+			     The Piranah Pool, piranah.bsp				
+
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake 2
+Single Player           : Yes, of course!
+Cooperative             : Nope 
+Deathmatch              : No, sorry...
+Difficulty Settings     : Yes, Easy, Normal and Hard (0, 1 and 2)
+New Sounds              : Nope
+New Graphics            : Nope
+Demos Replaced          : Nope
+
+* Construction *
+
+Base                    : From scratch
+Build Time              : 6 hours
+Compile Time            : 
+			  QBsp3: 5 sec
+			  QVis3: 1 sec
+		          QRad3: 95 sec
+
+Compile Machine		: Pentium 120MhZ, 22MB RAM, Orchid 3dfx Voodoo 
+Editor(s) used          : Qoole shareware v. 2.31
+Known Bugs              : The elevator isn't really an elevator...and the three Gunners
+			  on the end of the level doesen't notice you...
+
+
+* How to use this level *
+
+
+Make a "maps" directory in ../quake2/baseq2 and copy the level into it.
+I suggest you type "skill 2" first, that makes it a little harder.
+Then type in "map flood" and the level will load.
+
+
+* Copyright / Permissions *
+
+This level is (c) by Daniel Warsén and Fredrik Holmar 1998.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+* Where to get this map *
+
+http://hem1.passagen.se/olkorv
+ftp.cdrom.com and mirror sites.
+

@@ -1,0 +1,63 @@
+================================================================
+Title                   : "DOOM PORTAL" DMPRTL.ZIP
+Author                  : Nicholas Bell
+Email Address           : CIS 72162,1667
+Misc. Author Info       : Other DOOM levels: "Pits" (DMPITS.ZIP) 
+                          "Portal" (DMPRTL.ZIP) "Infestation" (DMIFST.ZIP)
+                          and "Der Turm" (DMTURM.ZIP)
+                          Aces Over Europe - AOEREAL.ZIP, AOEFIX.ZIP,
+                          AOEFLT.ZIP, etc. Aces over the Pacific - APFMD.ZIP, 
+                          APDMG.ZIP, etc.
+
+Description             : A Portal is an opening... a gate.  In this case it's 
+                          not difficult to figure where this gate opens to <g>.
+                          This research facility is loaded with heavy armed
+                          guards who don't seem to appreciate your presence.
+                          They care for your pushing buttons and pulling levers
+                          even less.  Maybe they've got the right idea.
+
+                          If you survive you will eventually see the portal - 
+                          watch for a change of sorts in an obviously odd
+                          structure.  If you dare to - touch the portal.  Run
+                          your hands along its surface.  Search its pulsating
+                          surface for a hole and stick your arm in....
+
+
+
+Special Thanks to     : BRENDON WYBER AND RAPHAEL QUINET for DEU.
+                        COLIN REED for BSP
+
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2
+Start-up Instructions   : If you're not using a front-end batch file creator,
+                          while in your DOOM directory, type: 
+                          doom -devparm -warp 1 2 -file dmprtl.wad 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : 60 hours. 
+Editor(s) used          : DEU 5.0, BSP 1.1x
+Known Bugs              : A few minor texture offsets.  Temporary frame rate
+                          drop when major sectors are in motion on slower 
+                          computers.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  Why would anyone want to when they could create their own anyway?
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

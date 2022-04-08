@@ -1,0 +1,59 @@
+Title                   : Untitled (eq2_sp2)
+Date                    : 2/10/98
+Filename                : eq2_sp2.bsp
+Author                  : Erik Robson
+Email Address           : erik@fiction.pair.com
+Home Page               : http://fiction.pair.com
+Other levels            : Waterworks, Lighthouse Assault, Doormat, Electric Company,
+
+Description             : Single-Player Quake 2 Map.
+                          Killing more Strogg.  There's a hint of oddity when you
+			  reach the Stogg research wing :)
+			  It's a little short, but I just don't have the time to
+			  do any more work on it - I'm off to do level design for
+			  a new 3d shooter at Cyclone Studios/3do.
+
+Additional Credits to   : The good folks at ID
+			      Armin Rigo and Derrick McKay of Quark [editor]
+
+
+* Play Information *
+
+Single Player           : 100%
+Cooperative             : 0%
+Deathmatch              : 0%
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Quark, qbsp3, qvis3, qrad3
+Known Bugs              : None known
+Build Time              : 2 weeks
+
+Compile machine         : Pent 233 w/80 mb ram
+Qbsp3 Time              : Approx 3 min
+Qrad3 Time              : Approx 10 min
+Qvis3 Time              : Approx 5 min
+
+* Other Info *
+
+To run:
+Unzip to \Quake2\baseq2\maps\
+Start Quake 2.
+At the console, type:
+map eq2_sp2
+
+->Best played with an OpenGL-accelerated video card and high-quality sound
+
+
+* Copyright / Permissions *
+
+This level may be distributed freely around the Internet providing
+this file remains attached. This level can not be included in a 
+cd/diskette compilation or any commercial product intended for public
+sale without written permission from the author.

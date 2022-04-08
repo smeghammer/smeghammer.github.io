@@ -1,0 +1,84 @@
+================================================================
+Title                   : DmTown1	
+Version                 : 1
+Release Date            : 7/7/98
+Filename                : DmTown1.zip
+Author(s)               : bill spratt
+Email Address           : bspratt@cybersol.com
+Web Page                :
+Description             : Deathmatch map for Unreal with mainly
+			  a large open area that has some two story	
+                          buildings and some cool levitational platforms
+			  used for transport between some buildings.
+
+Where to get this map   : heh
+Other levels by author  : DmDwan48, DmDoom2
+Additional Credits to   : Epic, DE, 
+
+================================================================
+--- Play Information ---
+Game                    : Unreal
+Level Name              : DmTown1
+Single Player           : No (just to look around)
+Cooperative             : No	
+Deathmatch              : Yes
+Dark Match              : No
+Difficulty Settings     : N/A
+New Sounds              : No
+New Graphics            : No
+NewUnrealScript         : No
+External DLLs           : No
+Known bugs              : Only strange thing i noticed is that out
+                          of eight playerstarts, only one seems to
+                          be used. Hopefully nobody will camp there.
+                          Maybe someone could figure out why the other
+                          playerstarts are'nt used. But then i only tested
+                          this map with bots.
+
+--- Construction ---
+Editor(s) used          : UnrealEd (man it shure crashes alot!)
+Base                    : None
+Construction Time       : Long time 
+
+
+Installation:             Just unzip the DmTown1.unr file to your 
+                          Unreal\Maps dir. Then start a multiplayer game
+                          and select the map from the list of dm maps.
+                          Another way to load the map is to start a multi
+                          game on another map, then press the ~ key to open
+                          the console (or tab key) and enter the following:
+                          open DmTown1    I noticed that some usermaps crash
+                          If i start the game with them, but it will load 
+                          if you first start with another map (like dmtundra)
+                          or whatever, and use the open command. So if any
+                          problem running this map, just use the open command.
+
+
+Extended description: Spent alot of time alighning textures and ect on this
+--------------------  map. Also, i found the levitational platforms to be 
+                      fun to jump on. They are fast hehe. I did some pathnodes
+                      for bots too. Some of the lifts are kinda hidden, but
+                      can be found if you look all around the buildings outside
+                      ledges and ect.
+                    
+
+Author's Notes        Hope ya find this map to be fun!
+--------------
+
+
+Copyright / Permissions
+-----------------------
+
+
+Authors may use this level as a base to build additional levels.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Interactive Software, Inc. under license.  UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

@@ -1,0 +1,68 @@
+================================================================
+Title                   : Doom Deathmatch Pack 1
+Filename                : DMATCH1.WAD
+Author                  : Erling Ellingsen
+Email Address           : erling@circus.bbs.no
+
+Description             : Just a bunch of Deathmatch levels.
+
+Additional Credits to   : Some friends.. Morten Krogh, Lars Erik
+                          Andersen & Noen Andre.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : e1m1-m9
+Single Player           : No (well, it works, but..)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yep!
+Difficulty Settings     : Little (almost no monsters anyway)
+New Sounds              : Nah
+New Graphics            : Nah
+New Music               : Nah
+Demos Replaced          : 1 (shows off the exit from the warptrap)
+
+* Construction *
+
+Base                    : All levels from scratch
+Editor(s) used          : DEU (beta, 5.2) + BSP
+Known Bugs              : On the first two levels, some bonuses don't
+                          disappear when you pick 'em up..
+
+* Copyright / Permissions *
+
+You may use these levels as a base to build additional levels, as long
+as you send me the result.
+
+"You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact." Drop me a note first, though.
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+This archive contains 9 completely new levels for deathmatch .. they are
+small, mostly quick fraggers.
+
+To run this you need 2-4 machines, linked up (either by network or cable
+(or a modem if you can get it to work)).
+
+To load the maps, you must add the "-file deathpak.wad" parameter to the
+command you use to start Doom. E.g., for playing with a cable in com2:
+
+   sersetup -com2 -file deathpak.wad -deathmatch
+
+This will start you off on the first map and you can try out the various
+levels from there. To play one level, just add "-devparm dem -wart 1 #",
+where # is the number of the map.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+    Let me know what you think.. send comments to erling@circus.bbs.no.
+                      (should I upload the second pack?)
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

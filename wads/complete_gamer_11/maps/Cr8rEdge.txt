@@ -1,0 +1,77 @@
+================================================================
+Title                   : Crater's Edge
+Date                    : April 6th, 1998
+Filename                : Cr8rEdge.bsp
+Author                  : Alex "Mad Rex" Richardson                        
+Email Address           : alexR@uq.net.au
+Home Page               : N/A
+
+Description             : Single Player Quake 2 Map.
+                           This follows the Q2 theme of thin plot and
+                           storyline quite nicely ;)
+
+Notes                   : Although this is the first Q2 map I have ever
+                           released, it is by no means the first Quake
+                           map I've ever made.  I have been designing
+                           levels for quite some time now, (since Quake)
+                           and decided that it was time to release one.
+                           I hope you enjoy the map, and please, drop me
+                           an email if you have any comments.
+                            
+
+Additional Credits to   : id Software;
+                        : Dale "Empyrean" Freya - for beta testing, 
+                           long time support and lending me hardware 
+                           when I needed it;
+                        : GibFactory - beta testing and compiling my 
+                           map when it got too big for my computer;
+                        : And to Dethon, Chris Gardner, Machette, 
+                           Punisher and my brother Mark, for beta testing.
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch              : Yes, 4-6 players 
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Finish Date             : April 6th, 1998
+Editor(s) used          : Worldcraft
+Known Bugs              : None
+Build Time              : Too long...
+
+Build Computer          : P200MMX, 32MB
+
+Compile Computer        : PII 300, 128MB, using Zashin's 
+                           PII/Ppro optimised tools
+QBSP Time               : 72
+QVIS Time (Level 4)     : 6734
+QRAD Time (Extra)       : 2568
+Brushes                 : 2627
+Entities                : 617
+
+
+* Other Info *
+
+It is recommended that you play this map on HARD. Although this map
+fully supports all three difficulty settings, my aim in creating this
+map was to produce a challenging level. But, by all means, if you find
+it too much of a challenge, MEDIUM setting would be your next bet.
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

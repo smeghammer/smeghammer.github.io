@@ -1,0 +1,48 @@
+================================================================
+Title                   : IHRKE1.WAD
+Author                  : Jim Ihrke
+Email Address           : jihrke@execpc.com
+Misc. Author Info       : This is my first attempt at creating
+                          a Wad file so its kinda small.
+
+Description             : This PWAD is for E1M1.  It was designed primarily
+                          for deathmatch, which is only way to play DOOM!!
+
+Additional Notes        : This is a small area.  The frags add up fast.
+                          It's fun if you just want to kick everyones ass
+                          and do it quickly.
+
+                          Please send me any comments or suggestions for 
+                          improvement.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No 
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : ~ 25 hrs (including playtesting) 
+Editor(s) used          : DEU 5.21, BSP 1.1
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+Although I don't Know why anyone would... It is only my first 
+level.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+EMAIL:  If you don't have FTP access, email me a message and I'll send a 
+        message reply with the WAD included.  Email address included above.

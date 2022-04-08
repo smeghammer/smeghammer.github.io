@@ -1,0 +1,64 @@
+
+================================================================
+Title                 : The Tiger Den   
+Filename              : DM2TIGER.WAD
+Author                : Jim Young
+Email Addres          : jyoung@tiger.lsu.edu
+Misc. Author Info     : L.S.U Student
+
+Description           : You are trapped in enemy land, a den of tigers.
+                        The only way to escape is to combat the enemies
+                        and steal their keys. Good Luck!
+
+Additional Credits to : Kelly for her patience with the long nights at the
+                        computer; Richard for the ideas and modem testing.
+
+Notes                 : This wad progresses in stages. You have to acquire
+                        the keys and hit the right switches to move on. 
+                        The keys aren't hidden. The one thing I hate most 
+                        about some pwads is that you have to solve a puzzle 
+                        to complete it. I like to kill and thats what 
+                        motivated me to build this pwad. The keys are well 
+                        protected, the red especially. Look for secrets 
+                        to better yourself and condition, not to exit the 
+                        wad. Also don't get to comfortable in rooms you may
+                        have been in before and cleared of enemies. Trap 
+                        doors and booby traFps abound. Also, this level is 
+                        cheat code proof. You have to visit the every room
+                        to complete the level. Giving yourself the keys by 
+                        typing will not work. You have to earn them.
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes  (The Best Way To Play!!!)
+Deathmatch 2-4 Player   : Yes  
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : None. It is Perfect.
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels. 
+You don't even have to credit me, I have no ego like some people
+who write these things.
+
+You MAY distribute this WAD, provided you include this file.You 
+may distribute this file in any electronic format (BBS, Diskette, CD, etc) 
+as long as you include this file intact.
+
+* Where to get this WAD *
+
+You've got it already, don't you.

@@ -1,0 +1,83 @@
+================================================================
+Title                   : DETHTRAP.WAD   
+Author                  : Tony Donno
+Email Address           : tony@cerecam.uct.ac.za
+
+Description             : TRAPPED!! - how? where? It doesn't look so
+			: bad! Nice clean room. Oh look somebody left 
+			: me 2 boxes of ammo. Well better take it, you
+			: never know when some ammo might come in handy.
+			:
+			: Look a door! What's behind it? Oh, a bridge 
+			: leading to another door. Lets go!! ..... Aargh,
+			: a trap, lots of IMPS!!!!
+			:
+			: Well that describes about 1% of this level. It's
+			: big, it's mean. There are many traps, puzzles and
+			: effects.
+			:
+			: Anybody who finishes this level on NIGHTMARE is 
+			: definitely a DOOM GOD and should mail me 
+			: immediately.
+			:
+			: My best time for Ultra Violence is 31:36, 
+			: 100/100/100 no saving. Let me know how you do.
+
+Other info		: It might be a bit slow on anything less than 
+			: a 486. A good graphics card will help as well.
+
+Credits to              : Who else but the makers of DEU.
+                        : The authors of BSP.
+                        : ID, for a truely awesome game.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No (Working on this right now)
+Difficulty Settings     : Implemented - not sure how well, I never play on
+			:               anything less than Ultra Violence
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A long, long time
+Editor(s) used          : DEU 5.1, DEU 5.2, DEUGCC 5.2, BSP11X, IDBSP 
+			: (modified to allow things on a 8 grid, mail me if 
+			: you need this) 
+Known Bugs              : A strange "No more visplanes" error from DOOM
+			: in the Green Hex room. I don't know what it is, 
+			: and nobody I have spoken to knows either. Half 
+			: fixed by forcing a few doors to close.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, with the 
+following condition:
+
+          They must send a uuencoded copy of the level(s) to me
+          at the above e-mail address before distributing.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications. You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you want to use this WAD to build an episode, please contact me first.
+There won't be a problem, I would just like to know about.
+
+* Where to get this WAD *
+
+FTP sites   : infant2.sphs.indiana.edu
+
+NetNews     : alt.doom.binaries
+
+BBS numbers : none
+
+Other       : uuencoded e-mail. Just send a request to tony@cerecam.uct.ac.za

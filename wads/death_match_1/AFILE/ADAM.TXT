@@ -1,0 +1,34 @@
+===============================================================
+Filename:                Adam.wad
+Author:                  Adam Brill
+CompuServe Address: 73773, 233
+Description:             This is a replacement wad for Episode 1, level 2.  It has a few     
+						 secret areas and only the shotgun to find.  This makes the floor    
+						 much more difficult, but I didn't want to pack a whole episode  
+						 into one floor. :)  The texturing is all lined up so you may have   
+						 to use a cheat to find the secret areas.  <G>
+Notes:                   Only one thing, beware of the final room.  <EG>
+===============================================================
+Play Inf..
+
+Single Player:           Yes
+Cooperative 2-4 Player:  NO
+Deathmatch 2-4 Player:   NO
+Difficulty Settings:     NO
+New Sounds:              NO
+New Graphics:            NO
+New Music:               NO
+Demos Replaced:          NO, but maybe in next one I make. :)
+
+Construction:
+
+Base:                    Started from scratch.
+Editor used:             DEU V5.21, and BSP that comes with DEU v5.1
+Known Bugs:              Absolutely none.  I haven't found the "HOM" effect in any   room.
+
+Copyrights/Permission:
+
+	You may use this as a base for additional levels, or distribute it providing 
+	you include this file with NO modifications.  I would appreciate you letting 
+	me know if you decide to use any part of the file. :)
+

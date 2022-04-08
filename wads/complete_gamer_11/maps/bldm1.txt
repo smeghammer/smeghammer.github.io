@@ -1,0 +1,66 @@
+A small deathmatch map.
+For 2-5 players.
+Please download and enjoy.
+Thursday 26 Febuary, 1998
+================================================================
+
+Title                   : Brandon Lotts' Deathmatch 1
+Filename                : bldm1.bsp
+Author                  : Brandon Lott
+Email Address           : eleceel@cpuinc.net
+
+Description             : A Quake 2 map for deathmatch Play.
+
+                          This is my first Quake 2 map and it's a kind of
+                          'practice' level.  So I understand if you think
+                          it sucks.
+
+                          *Please* send me a E-mail about the good points
+                           and the bad points of this map. Or just tell me
+                           "I played it!".
+            
+Additional Credits to   : id Software for their GREATEST game of all time
+                          You for playing this BSP
+                          David, Joey and Scott for play testing this map
+================================================================
+
+* Play Information *
+
+Single Player           : If you like walking around doing nothing. 
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : QuArK
+Known Bugs              : None
+Compile machine         : P200, 32M RAM
+QBSP3 Time              : 9 secs
+QVIS3 (-level 4) Time   : 114 secs
+QRAD3 (-extra) Time     : 629 secs
+
+* How to play this BSP *
+    1. Put bldm1.bsp in 'baseq2\maps' directory under your Quake2 directory
+       (without quotes, create one if it doesn't exist.)
+    2. Start Quake2 with "Quake2 +map bldm1". Or just enter 'map bldm1'
+       in your Quake2 console.
+
+
+* Other Stuff *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+This map is  by Brandon Lott, 1998.
+You may distribute this .bsp freely through internet, provided you include this .txt file
+and leave the archive intact. If you'd like to use this BSP file in any other way, 
+please contact me via E-Mail. If you let me know and give me a credit, I'll probably 
+give you the permission to use.
+
+
+* Now enjoy this BSP and thanx! *

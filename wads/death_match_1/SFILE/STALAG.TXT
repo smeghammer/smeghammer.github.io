@@ -1,0 +1,31 @@
+STALAG.WAD E1M1
+---------------
+
+This is my third WAD file and I think my last one too. The idea came 
+from my friend Jose Bono who wanted a large place to run in. Well 
+I think I over did it. It is thought as a perfect Deathmatch site to
+play in. But creating it was ticket out of the game with my friends.
+There is one small problem. I have not placed as many THINGS as I would
+have like to. After spending around 20 hours building it, I was not
+in the mood to put things all over the place. I don't mind building sectors  
+and triggers, but placing things is my worst nightmare. If you like it just 
+drop me a line with any sugestion or comment.   
+
+
+I wish to thank:
+
+Jose Bono (70630,121) for the idea of creating a large killing zone
+and beta testing it.
+
+Tomas Chan (tchan@b107.eunet.es) for beta testing it and setting the record
+par time (8 Min).
+
+Sebastian Kirke in letting me know how to solve some mirroring problems.
+
+
+I hope you enjoy it.
+
+Gabriel Basco Guimaraens
+CIS: 74437,3551
+Internet: colega@b107.eunet.es
+

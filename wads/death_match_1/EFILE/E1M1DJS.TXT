@@ -1,0 +1,11 @@
+===========
+E1M1DJS.WAD
+===========
+
+This is a totally new level.  It replaces E1M1.  It is intended for single player or 2 person cooperative mode only.  THERE ARE NO DEATHMATCH STARTS AND THERE ARE ONLY 2 PLAYER STARTS!  I apologize to you deathmatch degenerates, but this is my first level and I designed it with single play in mind.  My next effort will be deathmatch compatible.  You're welcome to edit it for deathmatch but there are some oneway sections which may cause problems.  It's small but pretty tough in UV.  Takes me about 10 minutes to complete.  To run this file, copy it to your DOOM directory and type DOOM -FILE E1M1DJS.WAD.  Enjoy.
+
+Please send comments/problems/suggestions to coolschule@aol.com.
+
+Credits:  Doom Editor - The Real Thing v2.50b3 (BETA VERSION 3) by Geoff Allen.
+	  Testers:  Mike Salvatore
+		    Dan McGuire

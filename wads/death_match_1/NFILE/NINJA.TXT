@@ -1,0 +1,65 @@
+Greetings, fellow doomsters, and welcome to my first ever Doom level, 
+created with DEU, that little wonder of a program...
+(Now if they could only fix that Hall of Mirrors trouble...^_^ {sigh)
+
+ANYway, I hope you like this first effort, because I'm already working
+on the second one, and I just can't deal with rejection...;-)
+
+Oh, by the way, the Email address' is not mine, cuz I ain't got no
+internet axis, know wut I mean? It's my roomate, and he's been kind
+enough to let me use it to post this, so I give him a big mental hug.
+
+There.
+
+================================================================
+Title                   : NINJA.WAD
+Author                  : Elie Charest
+Email Addresses         : mats@binkley.cs.mcgill.ca
+Misc. Author Info       : Currently writing EarthBound, a RPG.
+
+Description: 
+
+Chinese folklore has it that Hell is a maze, where one is given a final
+choice: Red, or Black?
+(Taken from a french comic book called: The Mad Monk)
+
+Beign a sucker for mazes, I really wanted to create a 3d one for my 
+favourite PC game. While this is still a far cry from a real 3d one
+(Doom engine forbid), being really a two-level maze (3-level in one part),
+it is the closest I came to my original vision, which was similar to the 
+vision of Hell presented in Hellraiser II (a badly acted film that had
+amazing art direction), that of a maze of narrow galleries surrounded
+by deep, deadly pits full of atrocities.
+
+The name Ninja refers to what state of mind you need to complete this
+level: silent, deadly, lurking in shadows high above, crossing tightropes
+without a sweat, etc., etc. If you can do this level with a joystick, then
+you know you've got a good, precise one!
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Easy, Medium, Hard
+New Sounds              : None
+New Graphics            : None
+
+* Construction *
+ 
+Base                    : New levels from scratch
+Build Time              : Roughly 20 hours (when I should have been
+                          writing my RPG instead!)
+Editor(s) used          : DEU 5.2
+Known Bugs              : None 
+
+* Copyright / Permissions *
+ 
+You can do what you want with this level.
+
+* Where to get this WAD *
+ 
+FTP sites:      infant2.sphs.indiana.edu
+
+

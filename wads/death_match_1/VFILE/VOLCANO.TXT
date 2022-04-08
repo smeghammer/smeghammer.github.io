@@ -1,0 +1,52 @@
+================================================================
+Title                   : VOLCANO.WAD   
+Author                  : Robert S. Whitaker
+Email Address           : rswhitaker@ucdavis.edu
+Misc. Author Info       : 
+
+Description             : An abandon project for harnessing the 
+                          geothermal energy within an active
+                          volcano is now the lair of hordes of
+                          your favorite Doom creatures.
+
+Additional Credits to   : Jeff Price for testing it.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes/Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : No clue!
+Editor(s) used          : DEU 5.1, BSP
+Known Bugs              : Weird flashes when passing between
+                          a few sectors.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file except receive
+any form of payment in exchange for it & please, at least me
+credit where applicable.
+
+
+* Where to get this WAD *
+
+FTP sites: ?
+
+BBS numbers: ?
+
+Other: CIS
+

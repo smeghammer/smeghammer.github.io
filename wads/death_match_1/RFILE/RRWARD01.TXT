@@ -1,0 +1,85 @@
+================================================================
+Title                   : RRWARD01.WAD (all the cool names were taken)
+Author                  : Richard R. Ward
+Email Address           : rrward@netcom.com
+Misc. Author Info       : You don't want to know...
+Description             : This is a _very_ large file, owing to the 
+                          detail given to the level (lots of linedefs)
+                          and the shear size of the map.  This map is
+                          designed primarily for single player games,
+                          but has multi-player starts, and an interesting 
+                          consession for DeathMatch, though the map was not
+                          designed for DeathMatch.  This map took over
+                          150 "man-hours" to create, and outgrew both
+                          DEU 5.0 and DEU 5.1's memory allocation schemes.
+                          There are no "step wrong and die" traps - If you can
+                          get into an area (without cheating) you can get out.
+                          There are secrets, hidden doors and switches galore
+                          in this map.
+
+                          This is a re-release with two minor fixes (linedef
+                          changes and one texture change).  This file replaces
+                          the older RRWARD01.WAD and RRWARD01.ZIP.
+                                            
+Additional Credits to   : My wife, Kathy, for her input, and sugestions.
+                          To my playtesters:
+                              avmartin@netcom.com,
+                              dkrowlan@vela.acs.oakland.edu
+                                  and
+                              mik@netcom.com,
+                              as well as a few people out there with
+                              constructive critisizm and ideas.
+
+================================================================
+
+* Play Information *
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (but not really designed as such)
+Deathmatch 2-4 Player   : Yes (but not really designed as such)
+Difficulty Settings     : Yes 
+New Sounds              : Yes (music reasigned)
+New Graphics            : No
+Own Demo                : Yes, all three, the third actually pertains
+                          to this map. ;)
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 150+ hours 
+Editor(s) used          : DEU 5.0, DEU 5.1, DEU 52gcc, BSP10, BSP11x,
+                          & IDBSP1.0
+Known Bugs              : Blackout blinks at the "Tower of Power"
+
+
+* Copyright / Permissions *
+
+This map (RRWARD01.WAD and ALL supprting files in the ZIP file are
+Copyright 1994 by Richard R. Ward (rrward@netcom.com), all rights
+reserved.
+
+Authors may NOT use this level as a base to build additional
+levels, but if something in here gives you insperation, I won't
+hunt you down if you interpolate my ideas (just don't copy
+verbatim, looks cheap).
+
+You MAY distribute this WAD by any medium (wire, diskette, ftp site,
+etc...) provided that is disributed in it's original unmodified ZIPped
+format (ie: the map is not changed, this discription file is not changed,
+ANSI signatures are NOT added to the ZIP (a-la "Rusty and Eddies BBS"))
+and no fee is charged for this map file over and above the normal
+subscription dues for on-line services.  This map file may NOT be included
+in ANY compilations, or sold on diskette or CD-ROM without prior WRITTEN
+agreement with the author (Richard R. Ward (rrward@netcom.com)).
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           ftp.uwp.edu
+           wuarchive.wustl.edu
+
+BBS numbers: none
+
+Other: none
+
+

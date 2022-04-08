@@ -1,0 +1,47 @@
+Title                   : Rocky VII   
+Author                  : Ken Linback
+Address                 : Leave Message At Radio Daze BBS 219-256-2255
+Misc. Author Info       : Suffering college student in EE
+
+Description
+-----------
+        You find yourself in the middle of a animal testing
+building. If your fast you can watch the spider and rocket man go
+at it.
+
+Additional Credits to   : The makers of BSP and DEU. Everyone at
+                          ID software.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 10 + hrs? 
+Editor(s) used          : DEU5.1 and DOOMCAD
+Known Bugs              : To watch fight, must be in at least, hurt me plenty
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+Give me credit though! :)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.
+
+* Where to get this WAD *
+
+Radio Daze and Slowpoke BBS  219-256-2255   616-695-7437
+
+Comments and suggestions are welcome

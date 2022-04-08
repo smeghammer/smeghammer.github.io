@@ -1,0 +1,13 @@
+DMMadness Version 1.0
+Produced 2nd July 1998 by Bullet
+
+Not much of a readme for this one! Just start it up!!
+You'll like this one only if you like a fast and furious deathmatch with tons of kills.
+Try playing it with 15 bots : Its INSANE!!! But watch out; nowhere is safe...
+
+Special Thanks go to all of you out there who wrote all the UnrealEd tutorials.
+Without you, DMMadness would never have been born!
+
+Have fun
+
+Bullet

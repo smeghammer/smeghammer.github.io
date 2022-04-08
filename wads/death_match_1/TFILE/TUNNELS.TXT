@@ -1,0 +1,67 @@
+WAD Authoring Template V1.2   (Clip this line)
+================================================================
+Title                   : TUNNELS.WAD
+Author                  : Joey Ruskin
+Email Address           : jruskin@edge.ercnet.com
+Misc. Author Info       : This is just a simple Deathmatch level.
+
+Description :             Simple little level with no where to hide! One
+                          center chamber with three exits that all
+                          connect at one point or another! A teleport in
+                          the center of the room moves you to the exit.
+                          I've also included some barrels (he he) and
+                          two Lava pits where you can commit suicide.
+                          BUT: Be warned! Once in the pit, you can't get
+                          out until you're dead!
+
+                          I made this because I was sort of tired of the
+                          big levels where you had a million hiding
+                          places, and I wanted to have something where
+                          you would have a quick and exciting deathmatch
+                          game!
+
+Additional Credits to   : ID Software for making DOOM in the first place
+                          Authors of: Dmapedit and BSP (Truely the
+                                      best!)
+                          Kevin Smith, who told me about doors :)
+                          Jeff Muehlhauser, who taught Kevin :)
+                          You, for downloading this level!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2 (Music Is A LOT Cooler!)
+Single Player           : Yes (Not many monsters to fight)
+Cooperative 2-4 Player  : Yes (See above)
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 2« hours
+Editor(s) used          : DMapEdit v3.0, BSP v1.2x
+Known Bugs              : None So Far. Tell me if you find any
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: Black Panther BBS
+
+Other:

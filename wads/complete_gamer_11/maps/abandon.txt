@@ -1,0 +1,125 @@
+===================================================================================
+March 2, 1998
+===================================================================================
+
+Title                   : Abandon all Hope
+Filename                : abandon.bsp   
+Author                  : James Parkman aka "gloom" 
+Email Address           : stdjhp@unx1.shsu.edu
+WWW Homepage:		: http://www.shsu.edu/~stdjhp/Quake2/
+Date of release		: March 2, 1998
+Description		: Single Player Quake II map with Coop and full DM capabilities.		
+			  This map was designed for the QERadiant level contest of
+			  March '98.	
+				
+Additional Credits to:	id - the best of the best.
+			WildFire of Quality Control Central
+				http://www.planetquake.com/qccentral/index.html
+				for his help in playtesting
+			Robert A. Duffy for QERadiant
+				http://www.planetquake.com/qeradiant/
+				and for sponsoring this contest.
+			RUST, the guys with the best Q2 entity ref on the net so far:
+				http://www.planetquake.com/rust/
+			Felicia, my wife, for putting up with hours of non-stop 
+				editing oblivion.
+
+=========================================================================================
+
+* Play Information *
+
+Game			: Quake II v.3.13 
+Level Name       	: Abandon all Hope
+File name		: abandon.bsp
+Single Player           : Yes.
+Cooperative 		: Yes. (4 coop starts... untested, so play balance may suck)
+Deathmatch 2-8 Players  : Yes (8 DM starts, all SP entities removed)
+Difficulty Settings     : Yes (easy, medium, hard)
+New graphics		: No.
+Anything else new:	: No.
+
+* Construction *
+
+Base            : new level
+Build Time      : ~2 weeks/100 hours
+Editors used    : QERadiant 1.0b (builds 41-45).
+		   	  
+
+Compilation:	Qbsp3 	      build time: ~1 minute 
+		Qvis3 (full)  build time: ~4 hours
+		Qrad3 -extra  build time: ~3 hours 
+		Brushes:  1617
+		Entities:  433
+		
+============================================================================================
+Platform used   : P-200 64MB RAM, Matrox mill. 4mb and 3dFX 4mb
+Known Bugs      : None.
+
+
+--------------------------------------------------------------
+The Story:
+--------------------------------------------------------------
+Following our successful assassination of the Strog leader and
+destruction of their primary defenses, 
+civil unrest has caused the Strog to begin seperating into tribal
+factions in support of various candidates for the title of Makron.
+One such candidate, a savage baron in control of the Zion Sector
+on Strogos, has recently united the Strog lords in the surrounding 
+territories, and we fear he may have the resources neccessary to 
+obtain the throne as the new Makron. If this happens, the reunited
+enemy will once again set their sights upon Earth. We cannot let this
+happen marine.
+
+Strike team Alpha dropped 2 days ago, but lost commlink sometime this morning, 
+apparently in the vicinity of the baron's personal compound. We fear the worst.
+Their mission was a search and destroy order on the baron himself. 
+We need you to go in, find the strike team, and assist any survivors 
+in carrying out these orders. If they have all been lost, you are to 
+continue alone. If the baron survives, we will once again be targets
+of the entire Strog empire. We're counting on you. Godspeed marine.
+--------------------------------------------------------
+
+
+* Loading information *
+
+To load this Q2 map:
+- Put "abandon.bsp" in the /quake2/baseq2/maps/ directory.
+- Start Quake2 as you usually would do.
+- Pull down console, type "skill 1" (or "skill 2" or "skill 0"). Press enter.
+- Then type: "map abandon" to begin.
+(Do not type the quotation marks)
+		 
+
+* Copyright / Permissions *
+
+This level is (c) by J. Parkman, 1998.
+Don't put this level on any sort of commercial product please. That would be
+uncool. If you want to pay me alot of money, feel free to drop me a line :)
+
+You MAY distribute this BSP through any electronic network , provided you include this file 
+and leave the level in it's original form.
+Don't use this map for a basis of another level, please. This one was for a contest.
+
+*Archive info*
+Archive filename: abandon.zip
+
+* Where to get this archive *
+ftp.cdrom.com and mirror sites
+http://www.shsu.edu/~stdjhp/Quake2/
+
+* Other levels by JHP *
+awf1 - infiltration
+
+*background of this map*
+I created this map as an entry in the QERadiant map contest of March '98. I think this is MUCH 
+better than my first released map, AWF1. I'd appreciate any and all comments, suggestions, or
+criticisms of the map. Also, if you play coop, let me know how it is, as I've not tested it's 
+coop capabilities. I have played the map DM using bots, and have removed all puzzle doors, 
+replaced powerups in secret areas with DM-appropriate items, and fleshed out the weapons available on the
+map. Have fun!
+
+JHP aka "gloom"
+ 
+---------
+
+

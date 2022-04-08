@@ -1,0 +1,115 @@
+================================================================
+Title                   : Shrine of the Warriors
+Filename                : SHRINE.WAD
+Author                  : Daniel "Stormin" Norman
+Email Address           : 70437.3146@compuserve.com
+Misc. Author Info       : Electrical Engineer, Network Consulting, etc.
+
+Description:             This is my last level before DOOM ][.  I will
+                         consider rebuilding this level and "The
+                         Final Gathering" for DOOM ][ when possible.
+
+                         You begin right next door to hell.  in a twisted
+                         chamber used by hell spawn as a portal to the 
+                         humans' realms.
+
+                         You venture beyond the portal to find... the Shrine.
+                         The shrine is a large complex that pays tribute to
+                         the hell spawn.  Some what of a cross between an art
+                         museum and a mausoleum.
+
+                         The tourists and guardians are a little bit hostile.
+
+                         Can you survive?
+
+                         Some advice, you may get the rocket launcher early,
+                         SAVE IT FOR WHEN YOU REALLY NEED IT!
+
+
+Additional Credits to   : My wife.  She is absolutely the greatest gal
+                          in the whole world.  A true DOOM widow at times
+                          but alway delightful.
+
+                        : ID Software - WOW!  Thank you so much.  This has
+                          become a way of life.
+
+                        : Collin Reed for the BSP Utility
+
+                        : Raphael Quinet and Brendon Wyber for the awesome
+                          DEU 5.21 editor.  You guys are brainiacs.
+
+                        : My mother, the acadamy and all my grade school
+                          friends..... ;)
+
+================================================================
+
+* Play Information *
+Copy the unzipped files to your DOOM directory and run SHRINE.
+
+Once your in DOOM pick Knee Deep in the Dead and put your thinking cap on.
+
+==============================
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, but made for Single and cooperative play.
+Difficulty Settings     : I think it plays best on Ultra
+                          Violence.
+                          
+
+New Sounds              : No, they got annoying.
+
+New Graphics            : Yes.
+
+New Music               : No,  I'm working on an awesome soundtrack for this
+                          level.  You'll like it.  But I need to clear up
+                          some copyright things first.  Keep your eyes on 
+                          CServe Gamers forum.
+
+Demos Replaced          : All - Watch the third demo for a decent attempt
+                          at winning this level.
+
+
+* Construction *
+
+Base                    : New level from scratch
+
+Editor(s) used          : DEU DOS extender version, BSP, DMAUD, DMGRAPH
+
+Build Time              : 100+ hours
+
+Known Bugs              : None that I can find.  If you've followed my work
+                          before you know that I'll fix bugs and make
+                          enhancements if you give me feedback.  I strive for
+                          perfection and don't like bugs in my WADs.
+
+                          You'll need DOOM 1.666 though to avoid some HOM
+                          effects in several rooms.  DL it, it's free!
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  Blah blah blah.....  Why's that always sound like a lawyer wrote
+it?
+
+* Where to get this WAD *
+
+Compuserve gamers forum
+Rusty and Edie's BBS (216) 726-2620
+The Internet on infant2/pub/doom
+
+Please Communicate!
+I'm like Doritos I'll make more!
+
+
+DOOM is a trademark of ID software.
+Doritos is protected with some legal clause also I'm sure.
+Great chips you know...
+
+Enjoy!
+

@@ -1,0 +1,40 @@
+From: Spock
+To  : All  
+Subj: ViPER Tech
+
+
+   Hello everyone, 
+
+                   ViPER Tech, a programming group, is currently looking for 
+good ANSi and VGA artists. If you have talent, send us some of your best 
+realizations and we'll check them out.
+
+                   ViPER Tech is a programming group that I started with 
+Screaming Demon. We're a few members right now, and we welcome anyone in 
+the group. The group has released 3 or 4 things up to now, and we recently 
+started working on something big. I cannot tell you any more, but if any of 
+this sounds interesting, drop me a note, it'll be a pleasure for me to answer 
+you and see what you could do to help us!
+
+                   ViPER Tech - Ask me if you want to join, or if you want any
+info. Our releases up to now are App-Gen 1.0, Mr. 8 Ball, LSD Wad, Gator-On-
+a-Stick, a dice door game and the UFO/X-Com cheat. We are currently working 
+on bigger projects, which will be  released during the next 12 months. Keep 
+an eye out for them! And again, we welcome new members! One of the requirements 
+is that you do something for the group. Coding, drawing, writing, anything 
+that can help is great! 
+                   
+                   ViPER Tech uses high level languages for now - Turbo 
+Pascal and C++. We do not yet use Assembly, but we look forward to do so. 
+No matter what you code in, as long as it's fast enough, not too big, and 
+you can give us .OBJs for linking. That's for coding. For artists, ANSi or 
+VGA (SVGA) are the only formats accepted, unless you can provide better ones. 
+If you want to draw VGA screens but do not have a program to do so, download 
+IMPROCES from the graphics utils. section. 
+
+Spock and Screaming Demon: Founders - Presidents
+
+Coding   : Screaming Demon, Rebel (TP), Spock, Launcelot (C++)
+ANSi Art : Heavy D
+VGA Art  : Pink Panther
+

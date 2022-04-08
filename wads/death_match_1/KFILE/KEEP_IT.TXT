@@ -1,0 +1,26 @@
+========================================================================
+Title                   : KEEP_IT.WAD
+
+                          Keep_it is a castle with towers, dungeons,
+                          and a moat.  It has a good deathmatch or
+                          single-player layout.
+=========================================================================
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file.
+You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

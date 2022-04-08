@@ -1,0 +1,52 @@
+=============================================================================
+Title                   :PANIC!.WAD
+Author                  :Jason Hargreaves (A really really bored Chem E student)
+Email Address           :jhargrea@gpu.srv.ualberta.ca (only till September)
+
+Description             :Well, here it is...
+			This is an improved version of a level which I made
+			The first version had some bugs and this is way better!
+			A lot of blood sweat and tears went into this level
+			(especially since I did it during final exams)
+
+			I like my levels HARD!  There are many nasty bits in
+			this level, ie. watch your ass and save often.
+			Since it is the second level of the episode, I expect
+			that people will come into the level with some ammo 
+			and weapons (you may find it hard to warp straight into
+			(I don't)).  If you play this level and like it, let me
+			know by E-mail
+
+			ENOUGH BLABBING!!  Play the frigging level!!
+
+Additional Credits to   Mike Barker: Thanks for the txt format, liked your level
+			Diane Boot: Sorry I was glued to my computer all day hon.
+			Brendon Wyber and Rapha‰l Quinet: DEU v5 Rules!
+			Mike Reed:  BSP sure fixes all those anoying bugs
+			Mike Daskalopoulos:  My ever faithful beta-tester!!
+				 (Too bad he's an EE)
+=============================================================================
+* Play Information *
+
+Episode and Level       :E2M2
+Single Player           :Yes
+Cooperative 2-4 Player  :Yes
+Deathmatch 2-4 Player   :Yes
+Difficulty Settings     :Yes
+Watch your ass          :YES!!
+
+* Construction *
+
+Base                    :New Level
+Build Time              :25 hours (ouch!)
+Editors used            :DEU v5 and BSP 1.1
+Known Bugs              ùMaybe one or two textures are not aligned
+
+* Copyrights / Permissions *
+
+Since I did spend a lot of time on this wad-file, I'd appreciate it if you 
+pass it around with this little text file.
+
+* EXTRA *
+
+Interested in making a level with me?  Drop me some E-mail.

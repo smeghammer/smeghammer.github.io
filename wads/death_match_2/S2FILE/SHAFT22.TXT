@@ -1,0 +1,50 @@
+================================================================
+Title                   : Shaft22
+Filename                : SHAFT22.WAD
+Author                  : Chuck Jordan
+Email Address           : jordan@ix.netcom.com
+Misc. Author Info       : Bram Stoker was a theatrical producer
+                          before writing "Dracula"
+
+Description             : They say this WAD is one bad mother...
+                          This is a bigger, better-organized
+                          version of SHAFT.WAD.  Choose your
+                          favorite!
+                          You go down a deep mine shaft to a
+                          network of dark underground tunnels
+                          with a bunch of other guys with guns.
+                          Get to work.
+                          A deathmatch WAD for E2M2, 3 or 4
+                          players suggested
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M2
+Single Player           : Yes (for preview)
+Cooperative 2-4 Player  : Not really
+Deathmatch 2-4 Player   : Yes (3 or 4 recommended)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : SHAFT.WAD, which was a new level from
+                          scratch
+Editor(s) used          : DEU 5.2
+Known Bugs              : Maybe it's a little too big
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+

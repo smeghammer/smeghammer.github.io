@@ -1,0 +1,64 @@
+================================================================
+title                   : abanware.wad (abandoned warehouse)
+author                  : joost schuur
+email Address           : jschuur@studserv.zdv.uni-tuebingen.de
+
+description             : yet another warehouse in the middle of nowhere.
+                          you and your buddies meet here for a few hours
+                          fragging to pass the time. it's a shame they
+                          always die so fast ;)
+
+additional credits      : face_, lucifer, hanover and who ever else
+                          from irc playtested it. thanks a bundle :)
+
+================================================================
+
+* play information *
+
+episode and level #     : e1m1 for doom 1.666 (see bugs)
+single player           : specifically designed for deathmatch. easy
+                          accessable exit switch, no monsters.
+cooperative 2-4 Player  : ditto
+deathmatch 2-4 Player   : definately, 4 starting points. press the switch
+                          at the starting points to raise the nukage.
+                          small level, designed for 2-3 people.
+difficulty settings     : easy only gives you the shotgun and the chaingun,
+                          medium adds a rocket launcher and extra rockets,
+                          hard adds a plasma riffle (no extra ammo for it).
+                          no bfg at all. other than that. no monsters on
+                          any difficulty level.
+new demos               : no
+new graphics            : no
+new sounds              : no
+
+* construction *
+
+base                    : new level from scratch
+editor(s) used          : deu 5.21gcc, dmapedit 3.01, reject
+known bugs              : this level _needs_ doom 1.666, otherwise
+                          you'll get a terrible hom inside the bulding,
+                          due to too many linedefs.
+
+
+* copyright / permissions *
+
+authors may use this level as a base to build additional levels, provided
+they contact me and send me a copy of their work (pine attachements
+welcome)
+
+you may distribute this wad, provided you include this file, with
+no modifications.  you may distribute this file in any electronic
+format (bbs, diskette, cd, etc) as long as you include this file
+intact, and you distribute it free of any charge, all provided you
+send me a mail saying so.
+
+* Where to get this wad *
+
+ftp sites:  infant2.sphs.indiana.edu
+            wuarchive.wustl.edu
+            ftp.uwp.edu
+
+www:        http://hp11.zdv.uni-tuebingen.de:2611/doom/files.html
+
+email:      ask me (but then again, how did you get this .txt file?)
+

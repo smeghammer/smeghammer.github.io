@@ -1,0 +1,86 @@
+10/08/1998
+================================================================
+Title                   : The Blockade
+Filename                : blockade.bsp
+Author                  : Michael Shand
+Email Address           : shand@pangea.ca
+Description             : Quake II Single Player Level
+================================================================
+
+* Play Information *
+Its simple. You are marooned on Stroggos at the foot of a blockade. You can either pitch a tent or go down fighting. 
+
+
+
+Single Player           : yes
+Cooperative             : yes (but not recommended or tested)
+Deathmatch              : no (I will be releasing a proper DM level based on this map)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+
+Base                    : none
+Editor(s) used          : QeRadiant
+Build Time              : uncertain
+
+* Other Maps*
+-Saving Private Bitterman (SP)
+ftp://ftp.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/planetquake/ltdan/spb1.zip
+
+
+-Twofold (DM)
+ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/s-u/twofold.zip
+
+
+-The Oppressor (DM)
+http://fugue.terrafusion.com/files/msdm5.zip
+ 
+-The Cistern 2 (DM)
+ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/d-f/dm5-2.zip
+
+ 
+-The Rocket Lab (DM)
+ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/m-o/msdm4.zip
+
+
+* Credits *
+
+-Xine
+
+-Guf (for allowing me into his home, posting my stuff and giving helpfull encouragement. He is just a great guy.)
+
+-Tron (for excellent suggestions and criticism. He knows some deep secrets about the art of game design!)
+
+-Crash (for excellent concise nitpicking and suggestions. The master of misaligned texture detection.)
+
+-Coffee (I like Coffee, with a drop or two of water)
+
+-Madonna (I like Madonna)
+
+-Lt.Flaarg (For corrupting me)
+
+-Qeradiant
+
+* Author *
+
+Name  : Michael Shand
+E-mail: shand@pangea.ca
+Alias : Asscrisps
+
+___________________________________
+           
+               Member
+                 of
+        - the Fugue State -
+
+http://fugue.terrafusion.com/state/
+___________________________________
+
+
+* Copyright / Permissions *
+
+You may include this level in any type of non-commercial release so long as you include my text file and give me proper credit.
+ 

@@ -1,0 +1,44 @@
+
+================================================================
+Title                   : QUARY11.WAD   
+Author                  : Dave Matteson
+Email Address           : davematt@mail.msen.com
+
+Description             : A deathmatch level.  Big chasm with                              
+                          all guns except BFG9000.  No exit
+                          because it is intended for deathmatch.
+
+Misc Game Info          : This is my first release, suggestions
+                          welcome.
+
+Additional Credits to   : Bryan Muthig for some playtesting.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1            
+Single Player           : Yes - not so great.
+Cooperative 2-4 Player  : Yes - untested.
+Deathmatch 2-4 Player   : Yes <-- best for this.
+Difficulty Settings     : Eh, somewhat.
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Brand spanking new.
+Build Time              : Long time while learning DEU.
+Editor(s) used          : DEU 5.1, BSP 1.1x
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use it in another group wadfile.
+
+You can do whatever you want with this file.
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+

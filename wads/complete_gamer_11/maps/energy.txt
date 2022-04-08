@@ -1,0 +1,44 @@
+
+===================================================
+Title:		Energy Processing Plant
+Filename:       Energy.bsp
+Author:		Ryan Corey
+Email address:	Bond007103@AOL.com(may change soon.)
+Description:	Single Player Level For Quake II
+Special Thanks:IdSoftware for Quake II and Virtus for DMM2(editor used)
+===================================================
+
+--------------INSTALLATION--------------
+
+Copy the .bsp into a subdirectory of quake2\baseq2 called maps (i.e. c:\quake2\baseq2\maps)
+Then run Quake II.
+Enter the console (press "~"), and type in "map <mapname>" at the command prompt., where <mapname> is the name of the map (energy.bsp).
+NOTE: Neither the .bsp extension nor the quote marks should be typed in.
+
+
+---------------Play Information---------------
+
+Level Name:	Energy Processing Plant
+Single:		Yes
+Deathmatch:	Maybe Later but not currently.I may use it as a base for a CTF level later on.
+Comments:	This level is short and difficult.Lotsa bad guys but low weapons.
+
+
+---------------Construction---------------
+
+Base:		built from scratch 
+Build Time:	about 3 days
+---------------Compile Info--------------
+q2vici:about 40 minutes with VIS & RAD
+Editor(s) used: Deathmatch Maker 2
+Known Bugs:	None that I know of.
+
+Tested on Win 95 with 200mhz 24mb and with a Power VR Extreme card
+
+
+---------------Legal Stuff-------------
+
+Authors may MAY use this level as a base to build additional levels(as long as you give me some credit).
+You may distribute this any way you like as long as you include this readme.
+If you sell this level for profit you MUST contact me first.This is not supported by any company whatsoever.
+

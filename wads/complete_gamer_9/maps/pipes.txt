@@ -1,0 +1,75 @@
+The PIPEWORKS
+-------------
+
+Another fine level by ProMagnoN
+-------------------------------
+
+Level theme:
+-=-=-=-=-=-=
+A pumping facility somewhere in HalfLifeLand ;).  Something has gone wrong 
+and a pipe has blown in the basement, making for some very wet deaths and 
+wierd fights below decks, while above the scuffle continues.  The 4 water
+vats each have some useful item in, one of them has the crossbow and another 
+has the alien Hivehand (but remember that if this level has a couple people 
+in it you are rather vunerable there).
+
+There are 2 chimeny stacks sticking out into the sunlight at the butt end 
+of the facility, with a RPG between them.  I have made sure that there 
+are _AT LEAST_ 2 ways to get to any one point, sometimes more!  
+
+People seem to be having difficulty climbing to the top of the maintennance 
+ladder and then getting off onto the platform.  This is because they still 
+appear to be using ladders as if they are playing quake2.  All you do is you 
+climb to the top and press JUMP.  it doesnt matter which direction you are 
+facing, just press jump and you will land on the platform.
+
+There are 2 "observation rooms" one in the basement and one HIGH HIGH up 
+overlooking the facility.  Both have gauss guns in. (but no ammo... you must keep 
+moving to collect the scatterings of ammo)  
+
+The level is designed in such a way that it favors "clever" combat... that is, 
+good use of objects to take cover behind, and using your brain to outsmart 
+your opponents, and of course, listening carefully (Do  you hear a metallic 
+footstep then a splash?  It means hes jumped into the one water silo... do 
+you hear constant splashing?  It means hes wading through the basement!).   
+There is a jump module and it CAN be used to GrEaT advantage in this level.  
+You can also make a '1337' jump from the top observation room all the way 
+to the roof of the maintennance shaft, it makes a reasonable "SURPRISE!" spot.  
+
+This is a LARGE level... but if you want 'stalking' style of gameplay, play 
+it with about 4 people, each of whom use their eyes and ears and brains 
+rather than blundering through.  For more "Crazy Wild" game play, try it with 
+a larger group, 8 or more ppl.  You will find that theres usually some kind  
+of weapon nearby so pistol confrontations only happen if you LET THEM.
+
+NOTES
+-----
+
+This map has been thouroughly tested!  It takes just over 9 hours to fully compile
+so this is indeed quite a task to do.  I have had to do some minor but significant
+changes about six times, then recompile.  This version is speed (and lag) optimized.
+the test machines were a p2-300 with 16 megs ram and voodoo2 (8mb version) on which
+it ran quite acceptably, and also a p2-300 with voodoo1 4mb, which got slow
+at some places probably due to its very small 2mb texture memory.
+
+Sorry about the filesize but that appears to be the only way to distribute maps
+with custom textures in them :( that came out in testing also.
+
+Enjoy it thoroughly, it cost me about 50 hours of map editing :) / playtesting / compiling
+
+Stats
+-----
+
+Author name: Nicholas 'ProMagnoN' Lawson
+Author email addy:  promagnon@home.com
+Full Compile time: about 9 hours (!) each time.
+Build time:   um... about 5 days worth of nonstop except to eat and sleep. heh.
+Theme: Pipe works!!! 
+Music listened to:  None :( CD player uses up valuable memory!!!!!
+Size of swap file during compile:  230 MB (heh)
+Number of times FULLY recompiled:  7.
+Discoveries:  The CORDON tool!!!  The nifty hide buttons and stuff.  
+
+ENJOY it !!!!
+
+- ProMagnoN

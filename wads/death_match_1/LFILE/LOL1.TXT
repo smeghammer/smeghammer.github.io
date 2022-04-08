@@ -1,0 +1,63 @@
+============================================================================
+Title                   : Watch out for the Cyber Demon
+
+Author                  : Lawrence Morrisson
+Email Address           : Compuserve 100071,3262 
+
+Misc. Author Info       : Absolute DOOM Addict 
+                          Trainee Level Creator
+
+Description             : This is my first attempt a building a
+                          Level. It is fairly small but fairly
+                          difficult in some areas. Please try
+                          this level and feed back any constructive
+                          comments you may have to the E-mail address
+                          above. Look out for LOL2 coming soon, which
+                          I hope will have more of a theme.
+
+Additional Credits to   : Thanks to Stuart Grieg, for recommending that
+                          I stick with DEU. It made my life easier in
+                          the end.
+
+                          Congratulations to Raphael Quinet and Brendon
+                          J Wyber, (authors of DEU), for the creating of
+                          such a great editor. (Hurry up DEU 6.0 )!!
+
+============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 30 hours
+Editor(s) used          : DEU v 5.2 (The best editor for DOOM)!
+                          BSP (Gets rid of see-thru walls)
+Known Bugs              : None (I think). 
+
+
+* Copyright / Permissions *
+
+Please feel free to use this level as a base to build your own additional 
+levels. All that I ask is you include soom credit to the original author.
+Although it is believed that this WAD file is error free, the author can
+accept no responsibility for any problems caused by its use.
+
+* Where to get this WAD *
+
+Compuserve (Gamers Forum) - The home of DOOM formers.
+
+* Final Note *
+            
+Although critisism is invited, please try to be tactful and kind, after 
+ all... it is my first attempt !!
+
+     

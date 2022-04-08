@@ -1,0 +1,11 @@
+DMChaos Version 1.0
+Produced 29th June 1998 by Bullet
+
+Hope you like small deathmatch arenas! If you don't, you shouldn't have downloaded this
+one. This is one of my first UnrealEd maps, so don't judge it too harshly : I will get
+better (look out for my next one, 'DMMadness').
+
+Hope you enjoy it
+
+Bullet
+

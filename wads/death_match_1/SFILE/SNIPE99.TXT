@@ -1,0 +1,72 @@
+===============================================================================
+Title                           : SNIPE99.ZIP (snipe99.wad, snip99e.txt,
+                                               snipe99.lmp)
+Author                          : Eric C. Reuter
+Email Address                   : reuter@merck.com
+Misc. Author Info               : I'm SYSADMIN and SYSPGMR for supercomputing
+                                  with no time on my hands, but make time for
+                                  the most important thing: DOOM!
+
+Description                     : This level was originally a small deathmatch
+                                  concept, but needed some additions to improve
+                                  playability. This level is moderate in size
+                                  and has been designed for 2 Player Deathmatch.
+                                  It also plays well as a one player episode.
+                                  There are a few hidden doors, but they should
+                                  be easy to spot. Two teleporters. A hidden exit,
+                                  but it is revealed fairly easily. Monsters are
+                                  copious in UV, and there is a spiderdemon.
+                                  Not too tough to get though, because of the
+                                  location. View the .lmp to see basically the
+                                  entire level in UV. (Apologize for my performance
+                                  as I only had the keyboard at the time)
+                                  (doom -playdemo sniper99 -file sniper99.wad)
+                                  Comments, criticisms very welcome.
+Additional Credits to           : Geoff Allan for Doom Editor - The Real Thing
+                                  (de_260b2 and b4)
+                                  Walt Woerner -
+                                  (steady deathmatch opponent)
+                                  id Software (of course)
+                                  Playtesters - Jim Purdon, Jennie Reuter
+                                  Billy Reuter, Walt Woerner (arrggghhh!)
+==============================================================================
+
+*  Play Information  *
+
+Episode and Level #             : E1M1
+Single Player                   : Yes
+Cooperative 2-4 Player          : Yes
+Deathmatch 2-4 Player           : Yes
+Difficulty Settings             : Yes
+New Sounds                      : No
+New Graphics                    : No
+New Demos                       : No (.lmp included, though)
+
+*  Construction  *
+
+Base                            : New level from scratch.
+Build Time                      : Approx 30 Hours over 3 weeks.
+Editor(s) Used                  : Doom Editor - The Real Thing (for windows)
+                                  by Geoff Allan V 2.60b2 and 2.60b4.
+                                  idbsp 1.0
+Known Bugs                      : None Known
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+Authors MAY delete or add weapons or monsters to suit tastes.
+
+
+You MAY distribute this WAD provided you include this file with no
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette CD, etc.) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites :     infant2.sphs.indiana.edu
+                ftp.uwp.edu
+                wuarchive.wustl.edu
+
+
+
+
+

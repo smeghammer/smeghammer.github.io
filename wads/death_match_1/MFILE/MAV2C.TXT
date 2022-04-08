@@ -1,0 +1,50 @@
+MAV2C - A Deathmatch WAD (BETA TEST) by Tom Neff
+================================================
+Version of August 3, 1994 (E1M1 only)
+
+Please review this WIDE BETA TEST version and email your
+comments to:      tneff@panix.com
+
+--------
+
+This is the first level of what will be a two or three level mini
+episode based on ideas developed in MAVERICK.WAD, which everyone said
+was beautiful but too big and ammo-poor for two players.  Instead of
+putting all the neat ideas into one big level, I am breaking them up by
+episode.  E1M1 is the Arena, with some surrounding corridors and a
+central hide&seek a little like the one in E1M4 which seems popular.
+
+It should be usable under 1.2 through 1.5, any deathmatch rules,
+although the flow of play will be slightly different as usual.  Actually
+there are a couple of HOM (Hall Of Mirrors) glitches caused by complex
+rooms that show up under 1.2, but just ignore them until registered 1.6 
+is released.
+
+The exit switch is in the Northeast, you press the Satyr switch (SW) on
+the Roundhouse to get to it.  Pardon my cacodemon. :-)
+
+There are chainguns, shotguns, rockets, a plasma gun (hidden) and a
+chainsaw (hidden).  The roundhouse has a blur sphere.  On -altdeath you
+could reuse it...
+
+A few monsters to soften you up, or you can play without them.
+
+There is no nukage or crushers, but you can rocket yourself to death if
+you insist.  I will probably segregate weapons by difficulty level in
+the final product, but for now they're all in there.  
+
+There are a few "breaks" for people who get hunted by stronger players.  
+But whoever knows the layout best will probably triumph...
+
+Versions B and C add new stuff per playtesting, especially AlanW.  
+There is a big pit with balconies, an "arena" with galleries, more 
+twisty places to misuse your rocket, and a bigger roundhouse with 
+space to hide out in.
+
+--------
+
+If you make a really cool LMP of this level I would like to see it!
+Let me know via email.
+
+-- 
+Tom Neff             tneff@panix.com

@@ -1,0 +1,45 @@
+================================================================
+
+Title                   : The Vat
+Filename                : theVat.bsp
+Author                  : Eric Bieschke (aka "NecroJester")
+e-mail                  : oberon7@uclink4.berkeley.edu
+Description             : 2-8 player DM map for Half-Life
+Special Thanks to       : Autolycus - WC help
+                          Kurt R. Kowitz - WC help
+                          Antonio Llamas - playtesting
+                          Raymond Wong - playtesting
+                          Valve - created the best FPS to date
+
+================================================================
+
+Map Information
+
+Type                    : Deathmatch
+# Players               : 2 to 8
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+================================================================
+
+Construction
+
+Editor used             : Worldcraft v2.0
+Construction Time       : 9 days
+Compile Date            : 1998 DEC 10
+
+================================================================
+
+This zip may only be distributed in its entirity, including both
+this text file (theVat.txt) and the map file (theVat.bsp).
+
+Commercial use of this map is prohibited without the explicit
+written consent of the author, Eric K Bieschke.
+
+================================================================
+
+I would appreciate any feedback you might have.
+
+Eric Bieschke
+oberon7@uclink4.berkeley.edu

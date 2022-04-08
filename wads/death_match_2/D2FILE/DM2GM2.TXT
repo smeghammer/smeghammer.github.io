@@ -1,0 +1,68 @@
+===============================================================================
+Title                           : DM2GM2.ZIP (dm2gm2.wad + .txt)
+Author                          : Eric C. Reuter
+Email Address                   : reuter@merck.com
+                                  (All comments, suggestions and criticisms greatly
+                                  appreciated; its way to quiet around here.
+Misc. Author Info               : I'm Sysadmin for  supercomputing with no time on my
+                                  hands, but am totally controlled by demonic forces and
+                                  have devoted myself to DOOM.
+
+Description                     : A DOOM II combo hunt'em deathmatch / single player
+                                  wad. Rather spread out, lots of open areas with little
+                                  obstruction. Take a while and explore this wad, think
+                                  you may find it interesting. Contains 6 teleporter dest's.
+                                  Hmm...what else, oh yeah a Cyberdeamon and Spider
+                                  Demon together, should not be too tough though, as the
+                                  area has good vantage points/ sniper locations.
+                                  There are no nasty tricks or unsolvable traps.
+                                  This wad designed for use with DOOM II and replaces
+                                  map01 (level 1).
+
+                                  Hope you like it, if not please tell me why, so I can
+                                  improve on design. ANY and ALL Feedback Welcome!
+===============================================================================
+*  Play Information  *
+
+Episode and Level #             : Episode 1 (map01) of DOOM II
+Single Player                   : Yes
+Cooperative 2-4 Player          : Yes (2 player tested)
+Deathmatch 2-4 Player           : Yes (2 player tested)
+Difficulty Settings             : Yes
+New Sounds                      : No
+New Graphics                    : No
+New Demos                       : No
+
+*  Construction  *
+
+Base                            : New level from scratch
+                                  Build Time: Rediculously long, but who cares.
+Editor(s) Used                  : Doom Editor - The Real Thing (for windows)
+                                  by Geoff Allan V 2.60b2 and  3.0 alpha.
+                                  Edmap 1.21 (I have had NO problems with this pgm)
+                                  Edmap 1.22 (Had some video problems with this pgm).
+                                  idbsp 1.02
+Known Bugs                      : None Known or Discovered.
+                                  Please e-mail if you have any trouble.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+Authors/ Users MAY add or remove weapons, monsters and ammo
+to suit taste for playability.
+
+You MAY distribute this WAD provided you include this file with no
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette CD, etc.) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites :     infant2.sphs.indiana.edu
+                (ftp.orst.edu - temporarily)
+                ftp.uwp.edu
+
+
+
+
+
+

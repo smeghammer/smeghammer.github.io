@@ -1,0 +1,45 @@
+================================================================
+Title                   : DM1 for Quake II
+Filename                : Q2dm1.bsp
+Author                  : Justin Kimber "Killer"
+Email Address           : kimber@bigpond.com      
+Description             : This is a remake of DM1 from 
+                        : Quake - Quake 2 
+			
+
+Additional Credits to   : All the people at ID Software for the
+                          best game ever made Quake II! And the
+                          second best Quake.
+                        : To the original designer of "Dm1"
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+3Wave CTF               : No
+CD Track		: 5
+
+* Construction *
+
+Base                    : Remake of DM4
+Finish Date             : December 19, 1997
+Current Revision        : December 19, 1997
+Editor(s) used          : Worldcraft
+Known Bugs              : Not any I know.
+                          Havn't tryed the map myself so you may find some bugs.
+                          Email me if you find Bugs or wish to comment.
+What will be            : Light fixtures will be fixed as well as unalined
+                          brushes.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems as
+shareware.
+You may NOT use it in commercial porposes.*

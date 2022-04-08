@@ -1,0 +1,53 @@
+October 12, 1998
+--------------------------------------------------
+
+Title                 - Liger's Domain
+Filename              - liger.bsp   
+
+Author                - Andy "Liger" Patrizio
+
+Email Address         - andyp@mediaone.net
+ 
+Description:  This is my first Quake2 single player level. I made a few Quake 1 maps that were, well, not much to brag about. :) It's SP only, no deathmatching. This map is a major improvement over what I've done in the past, I think. Tell me if you agree.
+
+Additional Thanks to:
+              
+Disruptor, for the answers when I got stuck
+Mad Dog and others on the Rust message board for filling in the blanks
+
+--------------------------------------------------------------------
+
+ ---- Play Information ----
+
+Game                    : Quake II  
+Single Player           : Yes 
+Cooperative             : No
+Deathmatch              : No
+Difficulty Settings     : Yes 
+New graphics            : No
+New Sounds              : No
+CD Track                :  0 
+
+Known Bugs         :      If I knew I'd fix em. Personally, I don't like how the sound of the monsters seem to radiate through the whole map.
+
+
+ ---- Loading Information ----
+
+   - unzip liger.bsp into your \quake2\baseq2\maps directory
+   - start up Quake 2
+   - open console  ~ 
+   - type in  'map liger'
+
+
+
+ ---- Copyright / Permissions ----
+
+ 1. Authors MAY NOT use this level as a base to build additional levels.
+
+ 2. You are NOT authorized to put this BSP on any CD or distribute it in
+    any way without my permission for any amount of money.
+
+ 3. You MAY distribute this BSP through any electronic network 
+    provided you include this file and leave the archive intact.
+
+---------------------------------------------------------------------------------

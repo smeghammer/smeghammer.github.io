@@ -1,0 +1,70 @@
+WAD Authoring Template V1.4   (Clip this line)
+================================================================
+Title                   : Gum wad.
+Filename                : gum.wad
+Author                  : Justin "J.T." Ward.
+Email Address           : ward@escape.com
+Misc. Author Info       : J.T. is just there for show. Finger me for more info.
+Description             : It's a pretty simple thing, really. It just puts you
+                          in a huge room with like a billion enemies and
+weapons to your heart's content. The thing with the walls going up is really
+nothing-- it just makes it look a little different from all the rest. And
+regarding the music, I spent a lot of time searching my hard disk for the most
+inapropriate background music for Doom. While I'm sure there's worse(better?),
+I think I made a good desicion.
+
+Additional Credits to   : The good people of #doom for talking about gum while
+                          I was trying to think up a name for this thing. :)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : e1m1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No. gum.wad's purpose is to fight as many enemies
+                          as possible.. not to fight one another.
+Difficulty Settings     : No. See above for why not.
+New Sounds              : Supposedly. It says it's there, but I don't hear 'em.
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 gcc, bsp 1.2x, dmaud 1.1, dmmusic1.0,
+                          reject 1.0
+Known Bugs              : Won't work on Doom 1.2 or lower. 
+                          Goes slowly when all the walls start lifting up.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels. However, if
+you do, email me about it BEFORE releasing it. Thank you.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. This is, however on two terms. First, neither this text 
+file nor the wadfile is to be uploaded to a service such as CompuServe
+that charges for downloads. Please do not upload it to AOL, either.
+Other BBS's that DO NOT CHARGE FOR DOWNLOADING is fine. The second
+term is this: you cannot charge money for it either. This is copyrighted,
+and, while you might have gotten it for free, that does not mean you
+can do whatever you want to with it.
+
+* Where to get this WAD *
+
+FTP sites: ftp.idsoftware.com
+
+BBS numbers: Please do NOT upload this to CI$, AOL, or Prodigy. I don't think
+             I can legally tell you not to, but please don't. I could if I
+             wanted to, and I don't want to.
+
+Other: It might eventually have a link on my home page to it.
+       http://www.escape.com/~ward/
+
+

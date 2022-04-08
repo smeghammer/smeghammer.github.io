@@ -1,0 +1,140 @@
+                       PHARM1
+=====================================================================================
+======================================================================================
+
+A single player unit for QUAKE2 Ver.3.14
+
+======================================================================================
+
+Title                             : PHARM//KATTLE//PRODUCE//PHARMER
+Date                              : 2/5/1998
+File                              : PHARM1.zip
+Author                            : KNEEL
+Email address                     : kneel@compuserve.com
+Description                       : 4 levels around a loose theme. Levels are small to 
+                                    v.small, mainly to keep the frame rate down.This is only 
+                                    my second go at editing...be kind.
+Credits                           : Angie, Zack & Kes...as allways. Big thanks go to TRON..
+                                    3D gamers edge. Aceplayers. Matt Sefton[spq2 heaven] &
+                                    Shawn[Trespasser] for roughly the same reason...it's easy to diss
+                                    but it takes time to encourage...thanks guys.
+                                    ID software and anyone who took time to mail me with positive feedback.
+
+                                    Oh yeah.....this unit is dedicated to the memory of FRITZ...sleep easy. 
+=======================================================================================================
+======================================================================================================
+
+*Play information*
+
+Single player                     : Indeed
+Cooperative                       : No
+Deathmatch                        : Sorry, no.
+Difficulty settings               : Oh yes....Hard is Hard.
+Advice                            : Watch your health and ammo....you will need it.
+
+
+
+======================================================================================================
+======================================================================================================
+
+*Construction*
+
+Base                              : New levels from scratch
+Editor used                       : QERadiant 0.41...I know..I am upgrading as you read this!
+Known bugs                        : Yeah...Animated textures won't work??? And some texture
+                                    slippage occured during compile.
+Build time                        : 4-5 weeks, on and off.
+Compile machine                   : Pent 166 w/32 megs and Power VR card.
+Qbsp time                         : PHARM   16 mins
+                                    KATTLE  10 mins
+                                    PRODUCE 250 secs
+                                    PHARMER 300 secs
+
+Qvis                              : PHARM   14 hours
+                                    KATTLE  12 hours
+                                    PRODUCE  3 hours
+                                    PHARMER  3 hours
+
+Qrad extra                        : Dont know.......Lost track.
+
+=====================================================================================================
+=====================================================================================================
+
+*How to run*
+
+Unzip to \Quake2\baseq2\maps\
+Start Quake2 and at console type; map pharm....
+
+map order is...PHARM
+               PHARM3
+               PHARM2
+               PHARM4......Dont ask why they aint in order. It wont matter if you access them in the game.
+
+========================================================================================================
+========================================================================================================
+
+*Other stuff*
+
+My first map Recon was a huge eye opener for me in many ways...I hope this unit is significantly better.
+If you review this unit..Good or Bad...PLEASE MAIL ME
+Any and every constructive comment will be welcome so get in touch folks.
+Be happy folks.
+
+
+*A PLOT*
+
+
+With the death of the Makron came a kind of cautious joy...the Strogg were running scared. We had kicked
+thier collective mechanical butt, we were top dog, we were...stupid.
+In the fall of that year they fell upon our home worlds like black, diseased locust. Colony after colony gone
+ripped asunder before a wave of mindless hatred.
+World after world after world and then.....nothing
+For 4 months the space ways were clear. At last we located thier newest base of operations and the fleet departed,
+leaving only a skeleton crew to defend the home worlds.
+All was well until 3 days ago when a returning frieghter was ambushed by Strogg craft and boarded by 23 mindless drones.
+With courage and foresight the crew of the ship fought back and overpowered the drones, while our light fighters blew the 
+Strogg ships to hades.
+Cool you may think......no way. Because as the autopsy commenced upon the fallen Strogg and the 
+greasy, black visors were popped open, releasing a fetid stench and a noise akin to busting open a ripe melon, we were faced with a new
+problem.
+All the drones were the same guy!
+And to make matters worse...it was an ex commander of yours. Seems the Strogg have perfected cloning techniques.
+They now have a perfect way of increasing thier troops, boosting food produce and growing replacement body parts.
+We gotta stop them.
+Intense profiling and wave band emmission monitoring produced a name. TORAN, the Makrons top scientist and most
+vicious of right hand men. Seems that after the fall of Stroggos he fled to the waste lands of KRYTO, the planetoid nearest the
+vast Strogg star. A place so hot and inhospitable that the whole world is bathed in a red toxic glow.
+Toran seems to be hiding out in the worlds one city...a chemical extraction plant, processing the thick green crap that spews 
+surfaceward from the volatile core.
+It's up to you soldier...we dont have the resources for a full scale assualt so were gonna beam you in, just outside the city gates.
+You must locate the clones and eradicate them...then find and assassinate Toran. In his typical Strogg paranoia he will have shared
+his knowledge with no one...take him out and the cloning process dies with him.
+Good luck trooper
+Good luck.
+
+
+
+
+
+
+A full version of this story will be available soon upon my web page....perhaps.
+
+
+
+=================================================================================================================================
+=================================================================================================================================
+
+*Legal guff*
+
+Copyright/permissions
+
+This level may be distributed free over the internet providing this text file is attached. Don't put it on any cd or any other formatt without
+first getting my prior and WRITTEN consent. Do not attempt to make money from it without my CONSENT IN WRITING.
+Just dont do it if it aint free!!!!!
+Feel free to discuss any proposals with me.
+ANY breach WILL be followed up.
+
+
+
+EMbrAce And UNitE
+KNEEL 98      

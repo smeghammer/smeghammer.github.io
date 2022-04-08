@@ -1,0 +1,45 @@
+================================================================
+Title                   : KIK16.ZIP
+Author                  : Baz
+Description             : Deathmatch Wad for Doom II
+                          This wad is the latest version of Kikass.
+                          
+                          v1.6
+                          This introduces a couple of imps, a couple of extra
+                          rooms, and a vantage point.
+
+                          v1.1
+                          It fixes those bugs, No more teleport in front of
+                          the stairs!, and has been improved for deathmatch 
+                          play.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 1 Hour
+Editor(s) used          : Edmap 1.31
+Known Bugs              : One teleport texture is wrong.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+* Where to get this WAD *
+BBS numbers:
+Phobos (649) 626-3500

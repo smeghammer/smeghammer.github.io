@@ -1,0 +1,99 @@
+================================================================
+Title                   : Kronic Karnage
+Filename                : kronic.bsp
+				  ---single player (Quake2)
+                          ---deathmatch (Quake2)
+Author                  : Russell Hayward
+Email Address           : russell@vision.net.au
+Description             : You have been dropped into a Strogg
+			     	  stronghold and you must fight your 
+			  	  way out of the base, through the 
+				  cave with a watery pool,  up the mine
+			  	  shafts, back into the base, and endure
+				  a lung busting swim to the exit . If 
+				  you dare return to the base instead of
+				  exiting you will encounter more angry
+				  Strogg.
+
+				  This level is primarily a Single Player
+			        level, but I believe it should or could
+				  serve as a reasonable arena for fragging
+				  other players.  The DM positions are 
+			        there, as are the weapons and ammo, give 
+				  it a go in Multiplayer and see how it 
+				  runs.
+
+			  
+Additional Credits to   : iDsoftware , After The Fall TC  , 
+			  worldcraft , quoole, adunpack,
+			  RMD software, Talon,  Mosquito
+================================================================
+
+* Play Information *
+
+Level Name              : Kronic Karnage
+Single Player           : Yes!
+Cooperative 2-4 Player  : No, sorry , shoulda added em
+Deathmatch 1-8 Player   : Yes! 
+		          6 DM start positions
+Difficulty Settings     : Yes
+* Construction *
+
+Base            : New level from scratch
+Build Time      : Two weeks,  compile time 6 hrs
+Editor(s) used  : Worldcraft, Quoole, Quark
+Known Bugs      : I couldnt get the skill settings to work
+			but the monsters are there if someone can 
+			get normal or hard settings going.
+			Some sort of "Think Delay without Indicator"
+			error keeps popping up, dont know what that's
+			about yet, sorry.
+
+Performance     : I attempted an areaportal and kept getting
+			"areaportal isnt reaching two areas" errors
+			so I had to remove that.  I would have liked
+			to give all doors an areaportal but was not able
+			too on this,  maybe later.  It would be great
+			if anyone knew the solution and would like to 
+			email it to me.					  
+
+================================================================
+
+This is my fourth level for Quake2, but this time
+I have made it a single player and a deathmatch
+level.
+
+The first one was krustydm (Underworld Outpost)
+The second one was krakendm (Pathways to Peril)
+The third one was krooldm (Underworld Vertigo)
+
+If you liked this level or would like to see 
+a bigger version of this level email me at
+russell@vision.net.au
+
+A would appreciate any constructive critisicms
+or even non-constructive criticisms.
+
+What is the best user made TC for Quake1?  After The Fall.
+Cram packed with many cool features this Total
+Conversion is a fantastic bargain,.. its free!!!
+http://www.planetquake.com/atf
+
+My personal quake web page?
+http://www.vision.net.au/~russell/quake/
+
+Most interesting start-up company/ games developers?
+RMD software,  go to http://www.quake2.com/rmd  to
+check on their progress.
+
+Best level reviewer?  Talon of Talons Strike ,
+his in depth TC reviews, and individual level reviews
+are excellent, and he gave After The Fall an
+exceptionally high rating.   http://www.planetquake.com/talon
+
+Mosquito at A World Of Quake2  has a great review
+page http://www.quake2.com/awoq2 and has also 
+added my level to his site.
+
+PS, ppl. try not to take the bad paraphrasing of 
+Conan The Barbarian (aka Arnie) too seriously :)

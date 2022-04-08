@@ -1,0 +1,82 @@
+1/9/1998
+****************************************************************
+
+Title                   : PzStrife
+Filename                : pzstrife.bsp
+Author                  : Pazu
+E-mail                  : Pazu@home.net
+More Map Info           : http://members.home.net:80/tazu/DMlevels.html
+Description             : Half-Life DeathMatch Level
+
+****************************************************************
+Play Information:
+
+Copy pzstrife.bsp to your halflife\valve\maps directory
+and join a Half-Life server that's running it (or create one!)
+
+Single Player           : To look around
+Cooperative             : No
+Deathmatch              : Yes (8 respawns)
+Player load             : 2 to 8 (8 gets pretty crazy, but sometimes crazy is FUN!)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+****************************************************************
+Construction:
+
+Editor(s) used          : Worldcraft 2.0 & accompanying utils
+Handbuild Time          : 12 days 
+VIS info                : 8190 seconds (damn pipes)
+QRAD info               : 920 seconds 
+Build Machine           : K6-2/300, 128 RAM
+Known Bugs: Snarks fall through the gratings in the floor (it was either that 
+or you couldn't shoot through the grates) The elevator can be tough for HPBs to make 
+if you hit it at an angle: try jumping onto it if you have trouble)
+****************************************************************
+
+This is my second map, and alot of its elements reflect the feedback I've 
+gotten from my first map, pzmalice. If you use your ears as well as yer eyes, you 
+will find that you can often get an idea where your opponents are lurking. I know that 
+RPG looks out of reach, but there IS a jump module located.. somewhere. (well, you
+could gauss up there, but it's tough) I also tried to make it a bit more visually 
+interesting than malice was. 
+
+This map was designed to be suitable for 2 to 6, but I tossed in 8 spawns, in case
+you want to get crazy. I'm sure I'm not the only one who remembers those crazy 8-16 
+Quake games in DM4 (The Bad Place). I've included all weapons except for the lag-blaster 
+(egon) to support different styles of play. 
+
+Thanks to everyone for their feedback on the first level, and especially to HellBringer
+for his great tutorials! Also thanks to the whole crew on the planethalflife editing 
+forum, including Goatboy, Hellbringer again and Ak-47. 
+
+
+Copyright Information:
+
+Copyright (c) 1999 Pazu. All rights reserved.
+
+This map may be electronically distributed only with no
+charge to the recipient, and may not be modified in any way.
+This text file must be included intact with the unmodified map
+when distributed via ZIP format. No other files are to be added
+to the zip file.
+
+This map may not be distributed on any CD-ROM without the
+prior, explicit written consent of Pazu.
+
+This map may not be used on a commercial multi-player server
+without similar explicit written consent.
+
+Pazu's Contact Information:
+mailto:Pazu@home.com
+http://members.home.net/tazu
+
+****************************************************************
+Thanks To:
+        Valve, for Half-Life!!!
+        Ben Morris for WC, Valve for WC2.0
+        Special thanks to the Playtesters:
+        Air, Scott and Curtis!
+	HellBringer, AK-47, Goatboy and everyone else at the planethalflife editing
+	forum! Also Hellbringer's tutorials (also on PHL) taught me all I know!

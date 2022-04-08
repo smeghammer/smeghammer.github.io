@@ -1,0 +1,94 @@
+===============================================================================
+Title                   : Armageddon 5
+Filename                : Arma5.BSP
+Version                 : 12/24/97
+
+Author                  : Matthias Worch
+Email Address           : langsuyar@ocrana.de
+
+Other levels by author  : "Beyond Belief", a 9 level episode for Quake,
+                          Armageddon 1-4 for Quake
+                          For more information visit my homepage at
+                          http://www.geocities.com/hollywood/7766/quake.htm
+                          or our clanpage at http://www.ocrana.de
+
+Description             : Here is Armageddon 5, my first (and last) DM map
+                          for Quake 2. It's inspired by DM3 of Quake and
+                          JAIL3 of Quake 2.
+
+                          There's so much I could tell you about this map,
+                          like that this is my first Quake2 level and has a
+                          lot of areas I would have done differently now,
+                          how much more detail I would have liked to add,
+                          how much architecture I had to reduce to keep the
+                          framerate low, etc. pp. :)
+                          Anyway, I hope you like this level and have some
+                          great DMs in this map, it should be good for up to
+                          24 players.
+                          If you know of a server running this map please
+                          tell me :)
+
+                          I may release an update with changed item layout -
+                          we (Clan Ocrana) have tested this level for quite a
+                          while, but Q2 DM is still new and maybe there are a
+                          few items that should be placed differently to make
+                          thhis level play better.
+                          Feel free to mail me your suggestions.
+
+Additional Credits to   : id, Yahn Bernier, Giggler (for feedback), Loiosh
+                          for compiling), all other #level_design ppl, Clan
+                          Ocrana, Ritual, Joost...
+                          All the great authors I'm in contact with, the 100
+                          persons I have forgotten
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake 2
+Single Player           : No
+Cooperative             : No 
+Deathmatch              : Yes, 16 dm starts
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : new map
+Build Time              : a few days + another few days for finding leaks
+                          without pointfile (I can't run QE4) and trying to
+                          keep reasonable r_speeds without any r_draworder
+                          and r_drawflat commands - how stoned have you been
+                          at id software when throwing those commands out? ;)
+Editor(s) used          : BSP 0.87-0.89. No QE4, WC or Qoole can ever beat
+                          that editor
+Known Bugs              : one texture error because QBSP3 merges two faces
+                          with different textures together - it is ok in
+                          the .map file, but after a dozen attempts to get it
+                          right in the .bsp as well I gave up.
+
+* How to use this level *
+
+Make a "maps" directory in ../quake2/baseq2 and copy the level into it.
+In Quake2, bring up the console and type in "map arma5".
+
+To start a deathmatch game either start it as usual and type "map arma5" in
+the server's console or start a multiplayer server from Quake 2 and type
+"map arma5" in the console.
+
+* Copyright / Permissions *
+
+This level is (c) by Matthias Worch 1997.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+* Where to get this map *
+
+www.ocrana.de, ftp.cdrom.com and mirror sites.
+

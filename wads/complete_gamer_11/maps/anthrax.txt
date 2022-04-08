@@ -1,0 +1,50 @@
+04/06/98
+
+================================================================
+
+Title                   
+Filename		:anthrax.bsp
+Author			:Stephen Seachord
+Quake/IRC Name		: N/A
+IRC			: N/A
+Email Address		: sseach@airmail.net
+Web Page                : N/A
+Description             : Gothic influence using city textures.
+Skill Levels		: Easy,normal,hard
+
+Additional Credits to	: id Software and Rogue Ent.
+
+			  
+================================================================
+
+* Play Information *
+
+Single Player           :Yes
+Cooperative             :No
+Deathmatch              :Yes
+Player Support		: 1 through 16 players
+Difficulty Settings     :(type in what skills levels are flagged)
+Demos 		        :N/A
+                         
+
+
+* Construction *
+
+Base			: New level from scratch
+Editors/Programs used	: QeRadiant
+			 
+
+Known Bugs              : None known of
+                          
+
+Build machine		: P2-266
+Build time              : 160 hours
+Instructions            :Unzip "grail.zip" into your
+                         "quake\baseq2\maps" directory.
+                         
+
+Copyrights
+--------------------------------------
+Quake2(R) and all other graphics, and techonologies are 
+property of id Software.
+

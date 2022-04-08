@@ -1,0 +1,74 @@
+Title    	        : Whare15.wad 
+Author                  : Mike McGrath
+Email                   : rimshot@wam.umd.edu
+Info                    : Bored...really bored....
+
+Description             : You've recently been sent to work as a temp
+                          in a wharehouse.  The address is a bit strange...
+                          Its in Hell!  You discover that a new shipment
+                          of demon-spawn has just arrived, you decide to
+                          take it upon yourself to make sure they never
+                          leave the trailer alive....improvise.
+
+Credits                 : ID, authors of DEU, BSP, and Reject
+============================================================================
+
+*   Play Info   *
+
+Episode replaced:  e1m5
+Single player   :  Of course
+Co-op           :  Yep
+Deathmatch      :  Oh, yeah
+Difficulties    :  All difficulties supported
+New sounds      :  no
+New graphics    :  I would have liked to, maybe in the future
+
+
+*   Build info   *
+
+Base    :  New level from scratch
+Editors :  Deu, BSP, Reject
+Time    :  ~25 hours, give or take 20
+Bugs    :  None that I know of...Sometimes the textures look a bit monotonous
+           and boring, however I've never tried making my own....
+
+*   misc info   *
+
+This is actually a wharehouse where I worked as a temp last week...well, there
+weren't as many undead soldiers with guns and I couldn't find the red key....
+There are two main rooms and two "death-machines." (I'm proud of those)  The
+first one is actually setup where the carpet-rolling machine was that I worked
+with, but I'm sure you care.  I haven't really tested it with multiplayer
+since 1.5 is the only version fast enough to use with a null-modem connection
+and it won't load external files in the shareware version...oh, well.  It
+should be fun though, with pleanty of dark nooks and crannies and open spaces
+to hide, dodge, or cower in.  Check out the boss's office...he's checkin'
+over a bit of damaged shipment.  There's no gratuitous use of powerfull baddies
+and enough health to keep you kicking if you're carefull.  
+
+This is #5 in a whole episode I hope to create by the end of summer...I've
+released #3 already (styfst13.zip Stay Frosty) I'd like to hear any comments 
+and or suggestions on either of the two levels....
+
+*   rights and privilages   *
+
+Authors may NOT use this as a base to create new levels (It's mine and
+you can't have it!)  You can do anything else with it as long is this file
+is included and/or I'm mentioned somewhere.  Any problems occuring from the
+use of this wad (mental trauma, water on the knee, rectal itch, ear mites) are
+yours and yours alone, I don't wanna hear about it.  
+
+But seriously...enjoy the wad 'cause I had fun making it.
+
+
+*   where to find   *
+
+My hard drive
+In OJ's backyard next to the bloody glove
+infant2.shps.indiana.edu
+ftp.uwp.edu
+In the finest restaurants of northern Greenland
+
+Later.
+
+

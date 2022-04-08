@@ -1,0 +1,97 @@
+* General Information *
+============================================================================
+
+Title                   : CLAWSON7 (CLAWSON7.WAD, CLAWSON7.ZIP)
+Author                  : Kenneth S. Forte
+Email Address           : fusioncon@cup.portal.com
+
+Additional Credits to   : This PWAD was named for a good friend of mine
+                          whose father just passed away after a struggle
+                          with Lou Gehrig's disease. Rest assured that
+                          your dad will not be forgotten, Scott. I would
+                          also like to dedicate this PWAD to my girlfriend
+                          who, altho she hates DOOM with a passion, still
+                          admits thats she's proud of the PWADS I've made.
+                          Thanks to Rich Condon for testing the level.
+                          More credits given later...
+
+Description             : Plot? Who needs a plot? Ummm, you're dropped in
+                          the crater of a dead volcano and someone just
+                          happened to leave weapons and shit all over the
+                          place. Maybe you're in some futuristic combat
+                          training facility. Perhaps a religious cult was
+                          living in a secluded mountain and built all of
+                          this but then suddenly decided to mass suicide.
+                          Who cares?
+
+Points of Interest      : Invisible Walkway:
+
+                             This took a while to figure out, altho I'm
+                             sure someone else has done something similar
+                             before this. Yeah that's why there are those
+                             two lines of seemingly useless light pillars,
+                             people were bitching about running into the
+                             invisible walls.
+
+                          Guard/Sniper Tower:
+
+                             Ok, I readily admit that I blatantly stole
+                             the proximity detectors from the guy who did
+                             Aliens-TC (I think it was him.. was it?). The
+                             alarms outside of the tower indicate that
+                             there is someone in the tower, and are reset
+                             if the player in the tower leaves by either
+                             jumping out the front or taking the teleport.
+                             The alarms inside the tower tell whoever may
+                             be inside that someone else is poking around
+                             outside, so stay on your toes. (You can reset
+                             the inner alarms by going into the cubicle
+                             marked "Proximity Retrigger", so if the person
+                             is stupid and comes inside and you kill them
+                             you can be ready for the next dumbass that
+                             wanders along).
+
+                          Cooperative Exit:
+
+                             Standard Deal. Inside the Green Rock Building
+                             is a switch one the wall. Hit that switch to
+                             lower Lift A, which takes you to another one
+                             that lowers Lift B, which takes to yet another
+                             switch which lowers the wall behind the first
+                             switch, thus exposing the pulsing exit switch.
+                             Confused? Good. Suffice to say you need two
+                             players to accomplish this.
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : DOOM ][ MAP07 (Sick of Dead Simple, eh?)
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented (For DM? Get Real)
+New Sounds              : No
+New Graphics            : Yes
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : Roughly 36 hours give or take a week.
+Programs used           : DEU 5.21GCC
+                          EDMAP v1.22
+                          IDBSP v1.01
+                         DMGRAPH v1.1
+                         Deluxe Paint: (EA puts the PAIN in Painting)
+
+Known Bugs              : If you go behind the tombstone farthest back in
+                          the graveyard, and then look out over both the
+                          mausoleum and the wall, you might get a HOM.
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

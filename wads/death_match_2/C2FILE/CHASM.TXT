@@ -1,0 +1,55 @@
+================================================================
+Title                   : The Chasm   
+Filename                : CHASM.WAD
+Author                  : Steven Doornbos
+Email Address           : Dippy@AOL.com
+Misc. Author Info       : 
+
+Description             : Primarily a DEATHMATCH - you fight off
+around a chasm filled with lava. There are thin bridges to cross
+in various places, allowing you and you adversary access to the
+awesome arsenal of automated armaments that DOOM has to offer!
+(Whew! What alliteration!)
+All the weapons are available, and one CAN commit suicide...
+
+
+Additional Credits to   : Nobody!!! Er.. except, that is, to all
+those wonderful people at Id, and the makers of DEU, and BSP, and 
+rest.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Sure, for practice at those bridges.
+Cooperative 2-4 Player  : Supported, for you retards out there.
+Deathmatch 2-4 Player   : Yes, definitely.
+Difficulty Settings     : Not implemented (That's put into effect by YOU!)
+New Sounds              : Not this one.
+New Graphics            : Not this one.
+New Music               : Not really.
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2, BSP 1.1x, and Win HexEdit to change the
+                                level number, since I started as E1M1.
+Known Bugs              : Some Hall of Skies down in the lava pit due to the
+                                tall height (though less than 1023), but then
+                                again, who would want to go down there? :)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file. After all, I made this for
+FUN!!!!
+
+
+* Where to get this WAD *
+
+Wherever you got it, obviously, or AOL.
+

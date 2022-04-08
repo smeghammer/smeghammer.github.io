@@ -1,0 +1,49 @@
+=================================================================
+Title                   : Teleport Mania II - [Doom II only]
+Filename                : TPMANIA2.WAD
+Author                  : Phillip Watts
+File Size               : 20,679 bytes                          
+Creation Date           : 27 February 95
+Email Address           : pwatts@comp.uark.edu
+			  please e-mail me comments, suggestions for any changes
+
+Description             : A deathmatch only wad with mostly dark rooms and
+			  halls.  Fairly small with very little ammo and few
+			  weapons (highest Rocket Launcher).  Once again many
+			  teleporters to add some spice.  The teleporters have 
+			  a pattern thats not too complicated.  Multiple tp's
+			  per tp exit though so don't stand around.  
+
+			  
+
+Additional Credits to   : DCK 2.0 authors and DoomCad 5.1 authors
+      ================================================================
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Bring a pillow
+Cooperative 2-4 Player  : Bring 2-4 pillows
+Deathmatch 2-4 Player   : Yes Yes Yes (YES)  ({!})
+Difficulty Settings     : Uh ... no
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 5 hours off and on
+Editor(s) used          : Dck 2.0 / Doom Cad 5.1 / BSP 1.1
+Known Bugs              : Praying Mantis, Fleas, Horseflies (none present but
+			  those are the ones I know)
+			  
+* Copyright / Permissions *
+
+Go ahead and use it , just give me some credit please.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com, wuarchive.wustl.edu (if I can ever get on)
+

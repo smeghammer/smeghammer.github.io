@@ -1,0 +1,107 @@
+================================================================
+Title                   : DANTE'S GATE version 1.666 
+Author                  : John W. Anderson (aka Dr. Sleep)
+Email Address           : INTERNET:drsleep@hooked.net
+			  CIS:75211,1113
+			
+Additional Credits	: Rapha‰l Quinet and Brendon J. Wyber for DEU 5.21.
+			  Colin Reed for BSP v1.xx (can't DEU without it).
+			  Patrix for Deathmatch tutoring and pointing out
+			     two nasty LineDefs that I missed.
+			  Desdinova for being a swell kind of guy.
+			  Myself, for being so clever.
+			  And, of course, those guys at id.
+
+Description             : This is the third revision of DANTE'S GATE, and it 
+			  accommodates a peculiar bug in the Doom 1.666 engine
+			  which does not allow multiple sector tagging for
+			  raised floors.  I just barely caught this and had
+			  to redo a couple of sectors which raised fine in
+			  1.2 through 1.5b, but not in 1.666.  I've also taken
+			  advantage of some of the new LineDef and Sector tags
+			  for Fast Doors and Lifts.  This version is fully
+			  compatible with Doom 1.666. 
+
+			  For the most part, the only "theme" I had in mind was
+			  to make the level as aesthetically pleasing and 
+			  consistent as possible.  In other words, I wanted it
+			  to look neat. There are lots of little nooks and 
+			  crannies scattered about, and (I hope) a few
+			  surprises.  
+
+			  Please let me know what you think by E-Mail at any
+			  of the above addresses.
+			  
+			  Enjoy. (And if you liked DANTE, check out the 
+			  third level in the series, CROSSING ACHERON. The 
+			  second level, VIRGIL'S LEAD, will be released after
+			  DOOM II.)
+
+Instructions		: Put DANTE666.WAD and DANTES.BAT in your DOOM directory,
+			  then "DANTES."  Skill level defaults at "Hurt Me 
+			  Plenty."
+
+Disclaimer		: I assume no responsibility for anything of any sort
+			  in any way, shape, or form, now, then, henceforeward, 
+			  in this life (or the next several) for any screw-ups
+			  or even minor inconveniences this PWAD causes you,
+			  your family, your relatives, friends, ancestors,
+			  associates, employers, pets, neighbors, lovers,
+			  deities (major AND minor), nor any other person --
+			  living, dead, or undead -- that you have or will ever
+			  have any contact with in even the slightest form.
+			  This PWAD has been tested and tested ad infinitum, so
+			  it shouldn't mess with your computer or anything else
+			  remotely associated with it.  But if it DOES, then
+			  too damn bad.  Don't come cryin' to me.  It must be
+			  something YOU did.
+
+Grammar Lecture		: "a lot" is two words, not one; it's "you're," not
+			  "your" -- as in "you are" unless you're (see?) using
+			  the possessive in your (uh huh) text descriptions;
+			  "their" indicates possession, "there" indicates
+			  place or direction.**
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Oh Yes
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch, 3 revisions.
+Build Time              : For-friggin-ever	 
+Editors/Utilities used  : DEU 5.0, 5.1, and 5.21 by Rapha‰l Quinet
+			  & Brendon J. Wyber
+			  BSP v1.0 and v1.1w by Colin Reed
+			  Reject 1.0 by L.M. Witek
+			  DOOM Endoom Data Editor (TED) v1.2 by Peter Monks
+Known Bugs              : Surely you jest, Pops.
+Unknown Bugs		: You tell me.
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Internet FTP: infant2.sphs.indiana.edu /pub/doom/incoming or /wads
+CompuServe, Gamers+ Forum, Library 8 (Action Game Aids).
+The Four Winds Bar BBS (412) 437-4521  Games Directory #5
+	Desdinova, Sysop; Dr Sleep, Co-Sysop.
+			
+
+(This information form was provided as AUTH_WAD.TXT v1.2 with DEU 5.1.)

@@ -1,0 +1,52 @@
+================================================================
+Title                   : DS_NEW.WAD
+Author                  : Jackson Harvey
+Email Address           : jch9@po.cwru.edu
+Misc. Author Info       : I am a Electrical Engineering major
+                          at Case Western Reserve University
+
+Description             : This is an update of dethstar (I know
+                          that dethstar is a stupid name but what
+                          would you call it?).  There are a very
+                          few minor bug fixes and new music has
+                          been added.
+
+Additional Credits to   : Justin Mansell for help with DEU and Eric
+                          Alspaugh for suggesions and help with
+                          textures.  Also to whoever is
+                          responsible for 661-NAEC.MID
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+
+* Construction *
+
+Base                    : Update of dethstar, which is a new level
+                          from scratch
+Build Time              : Too long
+Editor(s) used          : DEU 5.0, BSP 1.0, MIDI2MUS, DMMUSIC
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu in pub/incoming or pub/doom/wads/newwads2
+================================================================

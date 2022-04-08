@@ -1,0 +1,29 @@
+================================================================
+Title                   : Storgae
+Filename                : Storage.bsp
+Author                  : Peter Hopkins
+Email Address           : Hops@globalnet.co.uk      
+Description             : Start level of the new Mission pack		
+
+Additional Credits to   : All the people at ID Software for the
+                          best game ever made Quake II! And the
+                          second best Quake.
+                        
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch              : Yes
+CD Track		: 7
+
+
+
+* Copyright / Permissions *
+
+Authors MAYNOT use this level as a base to build additional
+levels.
+
+This BSP may be distributed ONLY over the Internet and or BBS systems as
+shareware. You may NOT use it in commercial porposes.*

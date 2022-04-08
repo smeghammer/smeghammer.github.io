@@ -1,0 +1,61 @@
+================================================================
+Title                   : FOODDISH.zip (Contains: Fooddish.wad, Fooddish.txt)
+Author                  : DeadEye
+Email Address           :
+Misc. Author Info       : My First Wad.  Very Nice, Thank You.
+
+Description             : The FoodDish is where everyone who's anyone comes
+                          to feed.  You're invited.  The main course is the
+                          other diners.  Bring a friend for dinner.  Just
+                          wait till you see what's for dessert!
+                          
+Additional Credits to   : id software
+
+Disclaimer: I accept no responsibility or other liability
+            for the use of this .wad file. Mental or Physical
+            damage, either to person or equipment is entirely 
+            at the user's own risk. 
+
+=====================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : No (only a wimp would even ask) 
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : Way too long.
+Editor(s) used          : Tried many.  None ideal.
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels, but I wouldn't advise it.  I had many problems creating
+it.  No one editor was satifactory.  It got to a point where I
+would get mirrors and passable walls in strange places whenever
+I added anything new.  I would spare you this agony.  If I could
+have continued, this level would have been three times as large.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

@@ -1,0 +1,68 @@
+================================================================
+Title                   : The Pfander Annihilation Level (v1.0)
+Filename                : DM_TPA_1.WAD
+Author                  : Tom Boyles
+Email Address           : tomboyles@aol.com
+Misc. Author Info       : Just a DOOM player, trying to make
+                          cool files.
+
+Description             : Fun, challenging level that has some
+                          tricks and a couple secrets and
+                          surprises.  Be wery careful, we're
+                          hunting some wascally imps!
+
+Additional Credits to   : 1-My wife Laura for staying off the
+                            computer so I could edit after
+                            dinner and for playing it many
+                            times over as it was developed!
+                          2-Geoff Allan for a great editor that
+                            will become the standard editor!
+                          3-David Bruni for some "emergency"
+                            assistance and a great tutorial that
+                            was extremely helpful getting
+                            familiar with the editor.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M2
+Single Player           : Yes
+Cooperative 2-4 Player  : No, not yet!
+Deathmatch 2-4 Player   : No, not yet!
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd - The REAL Thing (exclusively)
+Known Bugs              : None, please tell me if you find any!
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+and the included GIF file intact.
+
+File List:
+DM_TPA_1.TXT - This file!
+DM_TPA_1.WAD - The PWAD file, obviously!
+DM_TPA_1.GIF - A 640x480, 256 color GIF of a nice intro to the level!
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:  TechQuest On-Line BBS (408) 248-9639
+
+Other:
+

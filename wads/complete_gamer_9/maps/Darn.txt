@@ -1,0 +1,55 @@
+date: 9th December 1998
+Half-Life deathmatch level
+
+=================================================
+title:            Darn
+file:             Darn.bsp
+author:           FrostNax 
+email address:    Praise, compliments, suggestions: Frostnax@prodigy.net 
+		  Flames, complaints, threats: RazerusDR@aol.com
+URL:              
+description:      My first Half-Life deathmatch map.
+
+Bonus: 		  This stunning readme.
+================================================
+play information
+
+single player     yes (to check things out)
+cooperative:      no
+skills 0,1,2,3:   no
+deathmatch:       yes (Playtested on network, runs smoothly)
+new sounds:       no
+new graphics:     no
+new music:        no
+
+================================================
+info
+
+This is my first Half-Life map.
+hope you like it :-)
+
+Thanks to:
+The White Dog for emotional support.
+Killer and Warrior Woman for being such good targets.
+Autolycus from Half-life Erc for making such nice tutorials.
+
+================================================
+construction
+
+base:           an idea
+editor:         WorldCraft, Quark
+other progs:    none
+know bugs:      none 
+build time:     2 days to make, 3 days playtesting.
+
+
+================================================
+Copyright / Permissions
+
+Copyright (c) 1998 FrostNax All rights reserved.
+This level may be electronically distributed only
+at no charge to the recipient, and may not be
+modified in any way.  This text file must be included
+with the level. This level may NOT be included in any
+commercial compilations without permission of the author.
+================================================

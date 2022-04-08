@@ -1,0 +1,85 @@
+================================================================
+Title                   : E2M1_MT.WAD   
+Author                  : Martin Titz
+Email Address           : titz@math.uni-hamburg.de
+Misc. Author Info       : Student of mathematics in Hamburg.
+
+Description             : A level for guys who want mainly to fight.
+
+    You are now at Deimos moonbase in front of an area that was
+planned as an storage area by the UAC, but not used yet. You
+found one dying space marine in front of the two large doors
+that could tell you only that the demons that invaded this
+area have two leaders hating each other and that there is a
+column with four switches that controls access to several areas.
+
+Some notes:
+
+ o    You can't block your way if you use every switch you will
+      find - but beware - the enemy could also use the opportunity.
+      There is one exception I know, but to become trapped you
+      have to move immediately after turning the switch. If you are
+      a tough fighter you can turn all switches without much
+      thinking - this level is designed for fighters!
+
+ o    Some rooms are rather empty, because the game may slow down
+      if there is too much decoration.
+
+ o    Mail me your comments or your LMP files for this level.
+
+Additional Credits to   : Authors of DEU and BSP,
+                          and of course, of DOOM.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes, tested only on my own 80386.
+Cooperative 2-4 Player  : Yes, not tested
+Deathmatch 2-4 Player   : Yes, not tested
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Several days (with testing and recompiling
+                          on a 386 with 25 MHz)
+Editor(s) used          : DEU 5.1, DEU 5.2 (gcc port), BSP 1.1x
+Known Bugs              : Saving games is not possible, sorry:
+                          it results in a 'Savegame buffer overrun',
+                          perhaps there are too much monsters lurking
+                          around.
+                          
+                          If you use some doors or lifts you will
+                          perhaps see for a moment something I
+                          could only describe as a grey veil for
+                          a small moment. If you have an explanation
+                          please send me a mail.
+
+                          At one step of the long staircase are small
+                          strange light effects though I can't see any
+                          difference of construction to the other steps,
+                          so I darkened the whole area.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+    ftp.math.uni-hamburg.de:/pub/pc/doom/local/e2m1_mt.zip
+          
+
+BBS numbers:
+
+Other:

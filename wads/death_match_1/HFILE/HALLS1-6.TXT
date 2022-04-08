@@ -1,0 +1,78 @@
+Title                   : Halls of Death (Episode of deathmatch wads)
+Filename                : halls1-6.wad (The 6 indicates that two levels
+                          are ready. When we make more we'll release
+                          halls1-7.wad and so on..)
+Author                  : Jan Ignatius, Osku Salerma
+Email Address           : osku@muncca.fi
+Description             : These levels are designed especially for
+                          deathmatch. They're great fun at even two
+                          players games, but with a LOT of playtesting
+                          we have found out that the more players you
+                          have, the more fun :)
+
+----------------------------------------------------------------------------
+| To ftp-site's administrators: Please delete halls.zip, halls2.zip,       |
+| halls1-2.zip and halls1-5.zip. They're just older versions of this,      |
+| and don't contain all the levels included here.                          |
+----------------------------------------------------------------------------
+
+Additional Credits to   : Raphael Quinet, Colin Reed, for making deu and
+                          bsp.
+
+                          Jari Lanteri, for converting the music on
+                          level e1m3. And all the other music authors,
+                          whose midi files we picked out of a large
+                          midi-collection.
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2, E1M3, E1M4, E1M5, E1M6
+Single Player           : No
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : All
+
+Level-specific notes:
+
+E1M1, E1M2: There's a prison in both levels. If you walk over certain
+linedefs you'll teleport to prison. You can't see out from there, but
+your enemies WILL see you from outside, and then it's just a matter of
+seconds until you're dead. So, run carefully ;-)
+
+E1M4: There IS a way to exit on your own, but it's too hard for you to
+figure out :) The first one to mail us a demo showing how he/she does it
+gets his/her name on the next release of Halls of Death :)
+
+Also, the first one to walk thru a certain doorway to a specific
+direction gets teleported to a place where there is a lot of goodies
+around. Including BFG. BUT, only one person can get there, and then it's
+gone forever..
+
+E1M6: The only weapons on medium/hard difficulty level are chaingun and
+shotgun. At easy level, there's also a rocket launcher included.
+
+* Construction *
+
+Base                    : All new levels made by us.
+Editor(s) used          : DEU 5.1-DEU 5.2
+Known Bugs              : None that we know of, but let us know if you
+                          find any.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You may distribute this file in any electronic format (BBS, Diskette,
+CD, etc) as long as you include this file intact, and haven't touched
+the zip file.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+Email us your comments about this level. We like having lots of mail :)

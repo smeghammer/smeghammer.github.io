@@ -1,0 +1,48 @@
+================================================================
+Title                   : The Floppy Wizard 1   
+Filename                : TFW1.WAD
+Author                  : Gary T. Richardson
+Email Address           : YFHB29A@PRODIGY.COM
+Misc. Author Info       : Owner/President of The Floppy Wizard
+
+Description             : For the more advanced single player.
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd version 2.06 BETA 4
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:  Bits and Pieces BBS: (713)537-2219 or (713)537-0702
+
+Other:

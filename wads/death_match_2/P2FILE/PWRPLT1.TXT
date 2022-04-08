@@ -1,0 +1,72 @@
+================================================================
+Title                   : The Power Plant ver 1.0
+Filename                : PWRPLT1.WAD
+Author                  : Ravenwing
+Email Address           : ravnwing@netcom.com
+Misc. Author Info       : College student at Highline Com Col., Kent WA
+                          Ravn on DWANGO and IRC #doom
+                          Author of THEKULT.WAD
+
+Description             : A new twist on pwad deathmatch creation..
+                          a PWAD *MADE* for team play! some of the stuff
+                          you just can't get without a partner ( Like
+                          the BFG ) The BFG is a Trap, you can get TO it
+                          alone, but you can't LEAVE it alone. ::Grin::
+                          ( Phrasing completely intentional )
+
+                          The exit room has more than one switch, ONLY ONE
+                          IS THE TRUE EXIT! the rest lower the ceiling...
+                          ::Grin:: see how eager you are to run for the exit 
+                          now coward...
+
+
+                          
+
+Additional Credit to   :  id ( gee, wonder why... ) Kee and Romero for
+                          coming up with DWANGO, Ben Morris for DCK, The
+                          entier DEU team, the letter "B", the number "6",
+                          The Guys on DWANGO whom I deathmatch everynight
+                          with ( you know who you are )
+================================================================
+
+* Play Information *
+
+MAP #                   : MAP18  ( The Music fit )
+
+Single Player           : Yes   (Just for looking around, no monsters.)
+Cooperative 2-4 Player  : Yes   ( for looking around with partner )
+Deathmatch 2-4 Player   : Yes! (suggest -altdeath)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : BSP12x
+                          DCK 2.1b
+                          DEU2c
+Build Time              : lots and lots and lots... 
+                          ( "I'm ALMOST DONE!... REALLY!" )
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels. You may change it to suit your needs, but do not distribute edited
+version.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. 
+
+
+* Where to get this WAD *
+
+FTP sites:  ftp.cdrom.com and mirrors
+
+BBS's: DWANGO file support BBS

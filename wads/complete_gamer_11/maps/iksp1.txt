@@ -1,0 +1,77 @@
+================================================================
+
+Title                   : Leftovers...
+Filename                : iksp1.bsp
+Date                    : 4/29/1998
+
+Author                  : Iikka "Fingers" Keranen
+Email Address           : iikka@ionstorm.com
+
+Map description         : My first Q2 single player map... Started back in
+                          Finland before moving to US, before anyone else
+                          had released Q2 single player maps... Finished
+                          it now after 3 months to get rid of it. :)
+
+Da plot                 : You're one of the sad individuals who were lost
+                          during the drop operation in the start of Quake2.
+                          You've enjoyed your underground holiday on
+                          Stroggos for some time, when someone blows up
+                          their "big gun", allowing a rescue operation.
+                          Unfortunately, Stroggs still have air superiority
+                          on this side of the planet so we don't have much
+                          time...
+
+Blahs                   : Didn't have time to make any big improvements on
+                          what was basically my first Q2 map design...
+
+                          This was also going to be part of a mini-episode
+                          by me and Matthias Worch, but...
+
+Other maps by me        : IKSPQ series for Q1, IKDM maps for Q2. Get all from
+                          http://www.planetquake.com/ikq/levels.htm 
+            
+Additional Credits to   : id Software
+                          other ION Storm guys
+                          people on #quakeed, #level_design and #ion
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : No
+Deathmatch              : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Track No.               : 
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used             : QE4 and IONradiant
+Known Bugs              : None.
+Build Time              : 4 months?
+Texture WALs used       : Many
+Compile machine         : P2/300, 128M RAM
+BSP Size                : ~2000 brushes
+Compile time            : around 30 minutes
+
+* How to play this BSP *
+
+    1. Put iksp1.bsp in 'baseq2/maps' directory under your Quake2 directory
+       (without quotes, create one if it doesn't exist.)
+    2. Start Quake2, set the skill level and enter 'map iksp1' (no quotes) 
+       in your Quake2 console.
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+You may distribute this .BSP freely via internet, provided you include this
+.TXT file and leave the archive intact.
+
+Commercial distribution is prohibited.
+
+No, Actura software may still not use this .BSP in any way.

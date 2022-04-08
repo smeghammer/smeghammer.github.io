@@ -1,0 +1,56 @@
+=============================================================================
+Title				: deathday.wad
+Author				: Zenon
+E-mail Address			: n9241433@henson.cc.wwu.edu
+Misc. Author Info		: Oh, too much to mention.
+
+Description			: My first serious attempt at a wad, also my
+				  first uploaded wad.
+				  This level is mainly made for deathmatch,
+				  however, single play is possible.  I'm not
+				  sure about co-op, as I never bother to play
+				  it.  The main premise behind the level
+				  is windows and more windows to shoot/see 
+				  through.  I haven't added the plasma gun,
+				  BFG or rocket launcher as I prefer the 
+				  shotgun and chaingun in deathmatches.  Also,
+				  there are no difficulty levels implemented.
+				  Either kill everything or be killed...oh, don't
+				  forget to wash your subconscience before and
+				  after playing doom.
+
+Additional Credits to		: The author of Edmap.  Also, Johnny Nugnug
+				  who happily play tested the level with me.
+
+=============================================================================
+
+*  Play Information  *
+
+Episode and Level #             : E1M1
+Single Player                   : Yes (yes, but play it deathmatch)
+Cooperative 2-4 Player          : Yes (not tested)
+Deathmatch 2-4 Player           : Yes (yes!)
+Difficulty Settings             : no
+New Sounds                      : No
+New Graphics                    : No
+New Demos                       : No
+
+*  Construction  *
+
+Base                            : New level from scratch.
+Build Time                      : Approx 10 Hours
+Editor(s) Used                  : Edmap111 (Best Editor I've used)
+Known Bugs                      : None Known
+
+* Copyright / Permissions *
+
+Authors may do whatever the heck they want with this wad.  I don't care. 
+Just be sure to give credit where credit is due.
+
+You MAY distribute this WAD provided you include this file with no
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette CD, etc.) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites :     infant2.sphs.indiana.edu

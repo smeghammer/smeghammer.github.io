@@ -1,0 +1,45 @@
+WAD Authoring Template V1.4
+================================================================
+Title                   : Hurt me 1        
+Filename                : HURTME1.WAD
+Author                  : J. Michael Heppler
+Email Address           : FFXA86A@PRODIGY.COM
+Misc. Author Info       : From Scottsdale, Arizona
+                          E-Mail me, and tell me what you think of the WAD
+Description             : Lots of FUN and Surprises, Hidden doors
+                          transporters, 2 way walls. Very Hard and
+                          fun on Hurt-me-plenty.
+Additional Credits to   : none
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd version 2.06 BETA 4
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Do what ever you want with this .WAD,  Just E-Mail me and let me know if
+you like it. Thanks
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. 
+
+
+

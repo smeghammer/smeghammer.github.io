@@ -1,0 +1,16 @@
+Read the text file on the Aliens Patch version .9
+        type alien.txt | more
+Read the text on DMADDS
+        type dmadds.txt | more
+How to get the 3D-Studio meshes
+        type a3ds.txt | more
+run DMADDS (YOU MUST DO THIS BEFORE YOU PLAY ALIEN DOOM!)
+        dmadds aliengfx.wad alingrfx.wad
+play Doom with the alien graphics, sounds, and levels
+        doom -file alingrfx.wad aliensnd.wad alienlev.wad
+play Doom with alien graphics only
+        doom -file alingrfx.wad 
+play Doom with alien levels only
+        doom -file alienlev.wad
+play Doom with alien sounds only
+        doom -file aliensnd.wad

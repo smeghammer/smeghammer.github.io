@@ -1,0 +1,45 @@
+==============================================================================
+Title                   : SKULL.WAD
+Designed for            : DOOM II
+
+Author                  : Doug Drake  [ The Buccaneer ]
+Email Address           : none
+
+Co Author               : Brian Drake
+Email Address           : brian@visicom.com
+
+Description             : Arrr matey..... dis level t'was designed fer ya
+                          landlubbers dat enjoy a good deathmatch.  I look
+                          forward to crossin' swords wit da best o' ya.
+
+Additional Credits to   : Tanks t' me brother n' first mate Brian fer helpin'
+                          wit da blasted "Hall of Mirror" effects n' other
+                          problems.  Tanks also t' da little woman, who woke
+                          on many a forenight t' find me still hackin' away
+                          in da wee hours of da mornin'.
+==============================================================================
+
+* Play Information *
+
+Map Level #             : Map 01
+Single Player           : Yes - Why? Are ya yella?
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes - T' be sure, dead men tell no tales.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : Buildin' a Schooner would be faster.  
+Editor(s) used          : DEU2
+Known Bugs              : None. Completely ship shape n' bristol fashion. 
+
+* Copyright / Permissions *
+
+I'll keel haul da scurvy dog dat uses dis here file as a base fer buildin' 
+more levels.  (Ya can't!)
+
+Ya kin distribute dis here file only as is, no changes kin be made t' da 
+WAD or t' da TXT file yer readin'.  (Or else ya walk da plank!)

@@ -1,0 +1,26 @@
+				  Tree1
+
+Filename:       tree1.zip
+Uploaded:       ocf.unt.edu (4-26-94)
+Author:         Greg A. Lewis (gregory.lewis@um.cc.umich.edu)
+Wad Tools:      Deu 5.0 and BSP 1.1x
+Loads As:       Episode 1 Level 1 (requires registered doom)
+Sample Load Command:
+
+c:\doom> doom -file tree1.wad
+
+Description:
+
+This is a moderately difficult level, although different skill levels
+are implemented.  It features a broad array of monsters and weapons, 
+with just enough health to get you through the rough parts.  A few nifty
+effects can be achieved with barrels, ceilings, and floors, if you do the
+right things.  This is not an entirely hack-n-shoot level, and minimal 
+intelligence is required (sorry, couldn't help it!).
+
+This level has been played numerous times in deathmatches (too many to 
+count!), and public opinion holds this to be a fun deathmatch level.
+After enough switches have been triggered, and players find the locations
+of the weapons, the action gets fast and furious (and a little sneaky, too).
+
+Please send any comments you may have to the above e-mail address.

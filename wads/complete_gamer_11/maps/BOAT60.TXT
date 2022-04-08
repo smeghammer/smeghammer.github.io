@@ -1,0 +1,87 @@
+========================================================================
+
+Title                   :	The Boat in God's Fly
+Filename                :	boat60.bsp
+Date                    :	12-31-97
+
+Author                  : Jeff Ashley, Jr.
+Email Address           : ashtray@iglou.com
+
+
+In a parallel universe somewhere...
+========================================================================
+  After the war, things changed.  Boy did they ever.  Our boys and girls died over there, but the ones that came back brought examples of the Strogg technology with them. This  ushered in an undreamed of expansion as hundreds of wormholes were soon found.  Civilian, military and government interests began interstellar exploration in earnest.  Then came commerce, and sometimes  war.  It was the New World all over again.  But unfortunately,  the New World had a New World Order.
+
+  It was a subtle thing that spelled the end of the old way.  From the Strogg we learned how to travel from planet to planet, but we also returned with other goodies like their implant technology.  Some of the more benign implants were  adopted for medical uses  and boy did they help.  Aging and disease could be  a thing of the past.  While the Strogg might be somewhat poor in strategic thinking, somehow they excelled at  nano-technology.
+
+  Soon after the war, some leaders on earth figured out what they had,  and so became the sole possessors and distributors of this knowledge.  Within a very short time the democratic government of the early twenty-first century earth became a dictatorship.  The Council of Twenty, as they became known,  didn't intervene in personal freedoms at first, and they did not disrupt the existing order.  They merely inserted themselves into the top of the heap. The military was even powerless against this cartel of government and company rule. Dissenters were denied implants which meant a death sentence in those virulent days of early expansion. The rulers had the earthlings lock stock and barrel.   Nobody  likes dying.
+ 
+  The Strogg changed too.  Realizing their shortcomings, their tactics were expanded to  include diplomacy.  It was like they where starting all over. Sure it grinded them that we had kicked their ass, but it seemed they liked the prospect of losing a second war even less than not getting revenge.  Besides they had a large empire already,  and the earth had been one of the last 'easy pickings' planets around.   They still hate humans though.  Out here in the great beyond, if you see one you better shoot because they will.
+
+  Hard to believe that twenty years ago,  you were assaulting the Strogg planet  and today you're a glorified thief with no home.  Jumping from planet to planet looking for work.  Well with a little luck this next mission can be it.  You'll never go home again,  but there is a place on Lagunda 7 waiting for you.  One more score, and buddy its the easy chair right by the beach sipping largos and telling lies to Rasta the Bulgarion and  good old stinky SevenEyes.  As you walk down the dark hallway,  you recall your  debriefing from the quiet stranger.  You are to steal a CD containing key information from a Strogg embassy.
+It is located in a room within the  embassy here on Bangis.  The embassy is lightly guarded and no more than a sidearm is required.  Try to get in and out as quietly as you can.   That's about all that the stranger told you, but you also suspect that this CD might contain information about Strogg implants.  It doesn't matter,  you are paid to do the job. 
+
+  As you step out of the hallway  into the brightly-lit courtyard and see two guards,  you realize that bringing only a sidearm was a BIG mistake.  
+  Too late, the door has closed behind you......
+
+
+========================================================================
+Alright then.   Its basically a shootfest...
+
+
+* Play Information *
+
+Game                    : Quake2
+Single Player           : Yes
+Deathmatch              : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Colored Lighting        : Yes
+
+********* Construction *
+
+Base                    : new map
+Build Time              : 7.5 hours to compile 			    
+Design Time		: more than 20 less than 100.
+Editor(s) used          : Qoole beta versions 2.30.4 to 2.30.11. 
+ 
+********Known Bugs/Issues       : i) One play level. - medium/hard depending on who u talk to.   
+			  ii) anything else.  mail me.   			  
+
+			  
+****Comments*      	 :  Hope you enjoy.  If you think it sux then  delete it. 
+
+		            The first rev.  was compiled without any areaportals(imaginary entities used in map making to seperate regions of large map  for q2 engine) and the resulting gameplay was very sluggish.  This version 
+includes areaportals and as a result the gameplay is MUCH smoother.
+
+*** How to use this level *****
+
+1)Place boat60.bsp into your ..\quake2\baseq2\maps\ directory.(if it don't exist-make one)
+2)then either launch quake 2 like so:   <path>\quake2 +map boat60 
+Or in Q2,  hit the ~ key(upper left hand corner)
+	 at the prompt, type:   map boat60
+			follow this with <enter>
+			then hit ~ key again.
+
+
+
+***Hints****(u might want to skip)
+
+i  -There is a very nice secret out there with visual clue.  
+ii -You don't have to kill everyone to win.  running is okay(near end). 
+iii-At the end,  go back to the original room to exit.
+
+***Copyright / Permissions ***
+   You MAY distribute this BSP through any electronic network provided you include this file and leave the archive intact.
+   You are NOT allowed to commercially exploit this level, i.e. put it on a CD or any other electronic format that is sold for money without my explicit written permission! 
+
+
+***Special thanks***  
+  Well  this is my first quake 2 level(heck, first level of any kind),  and i owe a lot to: the Snyde, Timbo, Insolence, daphoenix, mr c.,  and others(at #qoole) who critiqued, and/or otherwise helped out. 
+  Neal for helping look for visual errors, killing those bad guys over and over again, and generally helping me out with that superior architect brain of his.  
+  Special shout out to Mr. white fang and Lithium Software. From the frequency of Qoole beta releases it looks like your x-mas was spent over a terminal.  
+
+  And of course, id.
+
+8^L

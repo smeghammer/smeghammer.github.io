@@ -1,4 +1,0 @@
-This is a dehacked file that will turn pink demons into
-red plasma balls and spectres into green plasma balls 
-that float and explode upon dieing or attack. 
- 

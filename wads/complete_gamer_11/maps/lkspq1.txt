@@ -1,0 +1,35 @@
+Title:			Sewage Plant or Dead End (cul de sac)
+FileName:		LKSPQ1.bsp
+Author:			Lord Kalvin
+Editor:			WorldCraft 1.5b
+
+Email Address:		curtis@winternet.com
+			Comments/suggestions are welcomed
+
+Homepage:		www.bilgeturtles.com/quake
+
+Info:			This is one half of a rather large Q2CTF map 
+			(on hold at the moment, until Dave gets off his behind...jk)
+			The map was designed and built with GL use in mind.  If 'software' has
+			probs...I don't care.
+
+Description:		Dark and foreboding, the building wraps around you like the film that
+			floats on a decaying bog.  You hear the enemy nearby, but cannot see them.
+			The exit is a short distance from your current location - you jump up from your
+			hiding place - the alarm is sounded.  A mad dash to a nearby elevator takes you
+			up and out. Out to the exit.  Out to freedom.  But the door is locked...
+
+			You must find your way to the key that unlocks the path to the outside.  You've
+			been stripped of all weapons and armor, and must make do with whatever you find
+			along the way. Ego says to fry everything in your path, a small voice tells
+			you to be cautious.
+
+			Where could these enemies be coming from?  Surely this is all there is?  
+			You are	certain that this is the final battle...or is it?
+
+Advice:			CONSERVE YOUR AMMO
+
+Additional Credits:	Paul Steed - thanks for the debate, Paul!
+			Ben Morris - WC1.5 r00ls (who needs 1.6??)
+			Autolycus - Dude, is it out yet?
+

@@ -1,0 +1,49 @@
+================================================================
+Title                   : The Back Alley
+Filename                : bakally.bsp
+Author                  : Steve Graehl (a.k.a. Nailer)
+Email Address           : nailer@pyramid.net
+Description             : A medium sized Half Life dm level
+Additional Credits to   : id, Valve and WorldCraft 2.0 
+================================================================
+
+Copy bakally.bsp to sierra\half-life\valve\maps
+Run using console mode /map bakally <enter>
+
+* Play Information *
+
+Level Name              : The Back Alley
+Single Player           : Just for looking around. 
+Cooperative 		: Nope.
+Deathmatch 		: Yup. 
+Difficulty Settings     : No.
+
+* Construction *
+
+Base            : New level (work in progress from ware.bsp).
+Build Time      : A couple weeks off and on.
+Editor(s) used  : WorldCraft 2.0
+Known Bugs      : none 
+
+* Level info *
+
+First level from me not using the Build game engine.  Nothing too trick 
+here, just tried to make a fun level for up to about 4-8 players.  I may 
+do this level in a single player version if I get favorable feed back.
+
+* Previous work *
+
+Hoovrdam and Hoovrtwo for Duke Nukem, Hoovrbld and Caleb's Tomb for 
+Banzai's Blood Add-on Episode and some work on the other levels in 
+the Add-on.
+                                  
+* Legal Stuff *
+
+You may distibute this level by any means so long as you 
+include this text file and give me credit. If you compile this on a 
+CD I'd like a free copy please :) (use e-mail address above, if you can't reach 
+me that way..go ahead and use it anyway, I trust you will try)
+
+You may use this as a base but without the .rmf or .map it's kinda impossible.
+
+

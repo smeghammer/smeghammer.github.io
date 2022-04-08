@@ -1,0 +1,86 @@
+================================================================
+Title                   : TechTemple
+Filename                : TECHTEMP.WAD
+Author                  : Artemis Entreri
+Email Address           : entreri@ccnet.com
+Misc. Author Info       : This is the first public wad I have made.  I have
+made several wads for my friends and myself(for deathmatches) before.
+Description             : You are a special forces commando ordered to UAC's
+Neural Research Facility where they were using human cells to control some 
+computers that were replicating DNA.  One of the chips with the human brain
+cells malfunctioned and the cells within replicated horrible monsters from 
+the DNA replicators.  Soon after, the guards destroyed the chip but the 
+damage was done.  You are to go there and kill all the monsters.  Watch out,
+because the place was evacuated so quickly that the intruder alarm/neutralizer
+was left on.  The monsters have reportably entered an old cult temple that was
+located next to the research center.  You should only leave once all the monsters
+are destroyed.  Good luck and good hunting:)
+
+Additional Credits to   :       Dr. Digital(digital@ccnet.com) for lots of 
+                                advice and for beta testing it
+                                
+                                The creators of DEU for a hella rad(and powerful)
+                                DooM editing utility.
+
+                                And, of course, to ID software for such a rad
+                                game!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes (tested)
+Cooperative 2-4 Player  : Yes (tested for 2 players, but has 4 player starts)
+Deathmatch 2-4 Player   : Yes (tested, there are some traps specifically for it,
+                          also this is only for deathmatch, not for -altdeath(you 
+                          could hole up for ever)
+Difficulty Settings     : Yes implemented(kinda hard on UV and up)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU
+Known Bugs              : A few textures aren't quit aligned along the X axis,
+                          and the one in the secret stairwell isn't Y aligned
+                          quite right.  In the final room there is one flash 
+                          of black effect.  Sometimes the crushing ceilings stop
+                          halfway down(I think I fixed this, but I'm not sure).
+                          Once Dr. Digital got stuck on a corner in the first
+                          blue hall to the right of the start(this *should* be
+                          fixed).  Send me E-mail if any others are found.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+infant2.sphs.indiana.edu
+
+BBS numbers:
+
+Other:
+alt.binaries.doom
+from me(E-Mail me)
+
+Misc. Info:
+You can get every weapon in this.  There are 3 traps.  Don't be too greedy in
+getting the BFG(who knows, you may walk into a trap :)).  In the hall straight
+ahead of the start there is a trap primarily designed for Deathmatches(although
+you can kill the caco's in it)  take the time to walk through the level and test
+the traps before a deathmatch.  Also if someone is holed up in the BFG trap room
+you can go there and kill him even if you has the rocket launcher, take a chance.
+One final word of caution:  Run like hell in the "garbage compactor" room! Don't
+bother with the baddies of your ass is dead.

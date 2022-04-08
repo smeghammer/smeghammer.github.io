@@ -1,0 +1,43 @@
+Level: 		DM~LookingGlass
+Author: 	Snakeeyes
+E-mail: 	serpwidgets@hotmail.com
+Build time: 	About 3 days (including learning UnrealEd) 
+Thanks: 	Desiato for getting me into 3d, and The brilliant dudes at Epic for making Unreal, the game that made me forget the name of that "Q" game, Ben Morris for making DCK and Worldcraft (the editors that got me into editing)
+
+================================================================
+
+* Play Information *
+
+Single Player           : No.
+Deathmatch/BotMatch     : Yes, preferably 4+ players/bots.
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : UnrealEd
+Known Bugs              : Occasional HOM's and pixel jaggeys.
+
+Compile time            : About 30 seconds... (beats the crap out of QBSP, QRAD, and VIS!!!)
+
+================================================================
+
+Notes: This level started as a demonstration of kewl things that can be done with portals, but I decided to complete it.  The main battle rooms are connected via a portal on their ceilings.  
+
+Everything in the other battle room will appear to be upside-down, but if you clip out of the map and look, you can see that it isn't.  Ray-traced projectiles (ASMD Regular fire, rifle bullets, Minigun, and the AutoMag) will NOT travel through portals.  Rockets, grenades, and other non-instantaneous weapons can be fired through it, though.  This is standard for ALL Unreal portals, so don't complain to me about it.  In addition, Bots will not "see" you through the portals...
+
+The map contains all weapons except the minigun.  The layout is designed for the fast-and-furious, in-your-face slaughterhouse style of Deathmatch, however, it could also be used for a slower-paced, wandering match.
+
+
+Editing Notes: Portals have to be the same size, but that's the only restriction on them.  You don't have to put them in the same orientation, and this level is only one of the many ways you can twist space to make interesting levels.
+
+================================================================
+
+* Copyright / Permissions *
+
+This level is (c) 1998 Serpentine Widgets.
+
+This level may not be included in any compilation without the author's prior consent.  Consent means that I must explicitly state to you that I am giving permission.  Failure to contact me or recieve a reaponse does NOT constitute permission or consent.   Just to be clear: this level may not be used on some jagbag's mass-distributed CD or used in any other way to benefit any for-profit enterprise.  
+
+This level may not be used as a base for any other level, especially since the brushes are all gone.  If you wish to add in certain weapons or items to be used with some specific mod, go for it.  If you wish to convert this map for CTF or some other purpose, please contact me for the source file with the actual brushes in it. :-)  All I ask is credit for the original layout design.
+
+

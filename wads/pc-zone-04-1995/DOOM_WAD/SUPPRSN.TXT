@@ -1,0 +1,87 @@
+================================================================
+Title                   : SUPPRSN.WAD (suppression of resistance.wad)   
+Author                  : Doug Ryerson
+Email Address           : dryerson@botany.utoronto.ca
+
+Misc. Author Info       : A not-so-unruly colonist with no demon master.
+
+Description             : A group of unruly colonists and their demon
+			  masters.
+		
+Additional Credits to   : Authors of DEU, BSP, MIDI2MUS and WDMSTR.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes (Music)
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : One week (not continuous!)
+Editor(s) used          : DEU 5.1, BSP 1.1, WDMSTR05
+Known Bugs              : None that I know of.
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites:
+	   infant2.sphs.indiana.edu
+======================================================================
+STORY...
+
+[ELECTRONIC TRANSMISSION START  Date:2499.7]
+
+From: Chairman Union Aerospace Corporation
+
+-message start-
+
+	Stiff competition in recent years between various space agencies 
+has led to the spread of various settlements further out into the solar 
+system. Beyond the orbit of Mars lies a large band of various sized chunks 
+of rock, some rich in useful extractables such as iron ore, known as the 
+asteroid belt. The largest asteroid Ceres is home to a small station 
+responsible for administration of the local area. A few weeks ago an 
+uprising started there that quickly turned into outright revolt. A 
+group of Marines sent in to quell the rebellion instead joined it. Garbled 
+radio transmissions made mention of demons taking over the base by 
+somehow transforming normal law-abiding citizens into radical anarchists.
+	This can't be true can it? I mean, there are no such things as
+demons are there? All the same, this represents a serious situation that        
+needs attending to immediately. Shuttle Titan is leaving for Ceres from 
+gate 17 immediately and I want you on it. Due to interference from
+radiation storms the shuttle will not be able to land, you will be
+teleported into the main receiving area. Your official job will be to 
+go in there and restore order using any means necessary. Unofficially, 
+your mission is to lay down suppressing fire in liberal doses, i.e.: 
+kick some ass.
+
+P.S. Find out about these so-called demons, maybe we can employ them.
+
+That is all.
+
+-message end-
+
+[ELECTRONIC TRANSMISSION END]
+
+Comments and suggestions would be greatly appreciated, I can be reached at
+the above e-mail address.

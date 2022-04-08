@@ -1,0 +1,51 @@
+================================================================
+Title                   : DAVID2.WAD 
+Author                  : David Jennings
+Email Address           : CIS: 72223,146
+
+Description             : E1M1 map made from scratch.
+                          Not yet complete.......
+
+                          To Run:  DOOM -FILE DAVID2.WAD
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Episode 1, Mission 1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Total new floor plan
+Build Time              : 4 Hours
+Editor(s) used          : DoomEd For Windows
+Known Bugs              : None that I know of
+
+
+* Copyright / Permissions *
+
+Authors MAY include this graphic in additional PWAD
+levels.
+
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+
+* Where to get this WAD *
+     :CompuServe - GAMERS: Action Game Aids 
+      Docs Inn   - 918-234-2899
+      (Upon completion)
+
+

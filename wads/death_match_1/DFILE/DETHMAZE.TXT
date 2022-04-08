@@ -1,0 +1,77 @@
+================================================================
+Title                   : DETHMAZE.WAD
+Author                  : Brian Jackey
+Email Address           : loner@iglou.com
+Misc. Author Info       : A bright, perfect 14-year-old who 
+                          plays FAR too many violent games :)
+
+Description             :    Welcome to the future of combat training:
+                          The Holodome. Since long before the 
+                          colozination of planetary moons, Earth's 
+                          finest military have been trained here. 
+                          With the ability to create any environment,
+                          situation, dream, or battle, the Holodome 
+                          has tested every Marine currently on earth. 
+                          The failure of this final test is much worse 
+                          than non-admittance to the ranks of marines:
+                          failure inevitably means death.
+                             Today is your chance to graduate from simple   
+                          grunt forces to acceptance as a full marine. 
+                          Your Test: Journey through the dethmaze in 
+                          search of the Blue keycard, which grants you 
+                          the only door from the Holodome... 
+                            But beware! With luck, you will only be up against
+                          computer-generated aliens, souls, ect. But if Lady 
+                          Luck has thrown you to the wolves, you'll find your
+                          selflocked in a maze with only one other,a thinking, 
+                          fighting grunt like yourself, aimed on destroying
+                          anyone or anything in his path to becoming a
+                          marine! Your only hope of surviving this is the
+                          destruction of your counterpart! You stand at the
+                          edge of the pit to the Holodome with a shotgun 
+                          found in your current room. with a box of shells. 
+                          Now only YOU control your fate, my friend!
+
+                          
+
+Additional Credits to   : Id, Creators of: DEU5.22GCC and REJECT
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes (BORING! This is a DEATHMATCH .WAD!!)
+Cooperative 2-4 Player  : Yes (Look up!^^^^^^^^^^^^^^^^^^^^^^^^^^^)
+Deathmatch 2-4 Player   : Yes (Go for it, my friend!)
+Difficulty Settings     : Yes (Some changes, but 'member: DEATHMATCH :)
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Is that in hours, days, weeks, or months?
+Editor(s) used          : DEU, Reject
+Known Bugs              : None (E-mail if one is found)
+
+
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional
+levels WITHOUT MY EXPRESSED PERMISSION.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+attatched to it.
+
+* Where to get this WAD *
+
+FTP sites:infant2.sphs.indiana.edu
+
+BBS numbers: The Louisville Connection BBS
+             (502) 241-3878
+
+       

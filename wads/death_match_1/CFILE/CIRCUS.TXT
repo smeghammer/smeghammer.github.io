@@ -1,0 +1,65 @@
+CIRCUS.WAD
+================================================================
+
+In the spirit of SHOWDWN2.WAD, I'd like to introduce CIRCUS for
+the truly spirited DOOM player. As with Showdown II, Circus will
+fill the screen with a mass of monsters, leaving you on the run
+in this seemingly never ending three ring circus!
+
+Enjoy,
+
+Vance Andrew Blevins
+
+P.S. It has been noted that for no apparent reason at all, _SOME_
+     computers MAY get a "R_FindPlane: no more visplanes" error
+     when running CIRCUS.WAD...
+
+================================================================
+Title                   : CIRCUS.WAD
+Author                  : Vance Andrew Blevins
+
+Email Address           : VAB 01@aol.com
+                          75331.761@compuserve.com
+                          V.A..Blevins@F209.n170.z1.fidonet.org
+
+Misc. Author Info       : I can't stand the Circus...
+
+Description             : NOW IN THIS RING! NOW IN THIS RING!
+
+Additional Credits to   : All the GREAT DOOM PWAD Authors!
+                          DEU v5.2GCC, BSP v1.1x
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Easy *Less Monsters for Deathmatch, Med=Hard
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From Scratch
+Build Time              : est. 72 hours
+Editor(s) used          : DEU v5.2GCC
+Known Bugs              : *POSSIBLE: No more visplanes on some systems?
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.
+
+* Where to get this WAD *
+
+FTP sites: n/a
+
+BBS numbers: Almost anywhere PWADs can be found in great quantity!
+
+Other: n/a

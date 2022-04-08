@@ -1,0 +1,104 @@
+================================================================
+Title                   : Dooms day of UAC (UAC_DEAD.WAD) ver 1.0 (FINAL)
+Author                  : Leo Martin Lim
+Email Address           : leo@cae.wisc.edu / gendut@aol.com
+Misc. Author Info       : Student                    
+			  
+Description             : Earth date : December 10, 2010.
+			  Location : UAC branch of Jakarta, South East Asia.
+			  Local Time : 18:35.
+			  Monsters from hell just spawned in UAC complex.
+			  UAC has deployed their truck to pick you up, along
+			  with your 5 other pals to help them.
+			  But the only person sit in the secret compartment
+			  is you. :)
+			  The truck got attacked, just after it entered 
+			  the complex. You were knocked unconcious...
+			  minutes later, you got out from the compartment and
+			  tried to find your pals. "Where are they ?"
+			  "Where are inhabitants of this complex ?"
+			  "If they are dead, where are the corpses?"
+			  Thus, the adventure begins...
+			  Later, you will find them all. but, they are dead.
+			  EVACUATE is your priority then.
+
+Additional Credits      : Id - Creators of DOOM!
+			  Raphael Quinet and Brendon Wyber - DE 5.21 GCC
+			  Colin Reed - BSP 1.1x.
+			  L.W. Witek - Reject 1.0.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M8
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes. The courtyard should be fun for this.
+Difficulty Settings     : Yes (HMP and UV only)
+New Sounds              : No
+New Graphics            : Yes
+			  SKY1 texture. Thanks to the author of nightfal.
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 4 weeks (ver 0.9 + ver 1.0)
+			  Hey, I have things to take care alright.
+Editor(s) used          : DEU 5.21 GCC, BSP 1.1x,  REJECT 1.0
+Known Bugs              : The _only_ problem is you can NOT save game
+			  when playing in UV difficulty.
+			  1 HOM error where you can view all the wheels
+			  of the truck (very small area).
+			  (I don't think this HOM will detract you,
+			  considering an EXCELLENT aesthetic design :).
+			  
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels provide you credit me with creating the original level and 
+that you say the level you've made is a modified version of my 
+original level.
+
+		     *** VERY IMPORTANT***
+You MAY extract any part/idea or any derivatives of its kind from 
+this level and put it in your level, provided that you credit my name
+in your .txt distribution.
+			      ***
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+infant2.sphs.indiana.edu
+wuarchive.wustl.edu
+ftp.uwp.edu
+America Online: PCGAMES forum
+filename: uac_dead.zip
+temporarily named: uac_dead.zip.1.0 on ftp sites before the sysop
+	deleted the old version.
+
+
+* Misc *
+Since the version 0.9 that I released on 6/8/94, This level has
+been changed so much in terms of the cosmetic changes and playability.
+
+Playing in UV, at the beginning is pretty rough, some common sense
+of what part of a complex should contain is needed.
+"And the rest are just details." :)
+
+remember to drop me your thoughts via email, ok?
+
+Warn you, below are features in this WAD. 
+They may contain some spoilers to you.
+
+- Courtyard with 2 parts of overturned truck.
+- "The Staircase". Remember the last of the 3 tests that Indiana Jones
+  had to take? :)
+- Big letters of U A C.
+- Part of the map that resemble uac logo.
+- The escape shuttle. (I could have made this one look better, 
+  but i'm out of 2S linedefs).

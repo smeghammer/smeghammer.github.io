@@ -1,0 +1,48 @@
+================================================================
+Title                   : Hulk.zip (Contains Hulk.wad, Hulk.bat Hulk.txt)
+Author                  : Kevin Simpson / Paul Pyatt
+Email Address           : crug@cix.compulink.co.uk
+Misc. Author Info       :
+
+Description             : Prototype of first level a Space Hulk series
+                          based on the original Space Hulk maps.
+Additional Credits to   : Gotta put the Writers of DEU and all at ID
+=====================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 4 Hours
+Editor(s) used          : DEU5.0
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors (MAY NOT) use this level as a base to build additional
+levels.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: crug@cix.compulink.co.uk

@@ -1,0 +1,61 @@
+
+================================================================
+
+Title                   : Snipcor Based (Two levels grouped together:Sniper
+			  and corridor
+Author                  : M van Wijhe
+Email Address           : vanwijhe@dds.nl
+Misc. Author Info       : 
+Description             : These are two run around levels , but watch your
+		          back or else!!! 
+
+Additional Credits to   :  Oscar N. Verzaal , Lars Rosenquist , Bas Holtkamp
+			   Richard Smol for play testing , the guy who built
+			   EDMAP and ID for providing a great game!!!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : 1 and 2 for Doom2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (No fun) 
+Deathmatch 2-4 Player   : YES!!!!
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : Level from start , it took about a weekend to build
+Editor(s) used          : Edmap 1.23 , Edmap 1.30 , Edmap 1.31 , deu2 , idbsp10
+			  dck 2.0			
+Known Bugs              : In level 2 a secret door sometimes doesn't open for
+			  some reason		
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+I don't care what you do with this wad as long as you give me proper credit 
+for it!
+You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) .
+If you modify this wad please E-mail the wad to me , I like to see 
+what changes you made,
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.orst.edu
+	   Net News (alt.binaries.doom)
+
+BBS numbers:
+
+Other:
+

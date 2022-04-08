@@ -1,0 +1,55 @@
+DOOM Version            : II
+Title                   : Hotdeath! Revision 2 (12/30/94)
+Filename                : hotdeath.wad
+Author                  : Robert Chapman
+Email Address           : robc@igs.net
+Misc. Author Info       : 
+
+What's New?             : Added a new level (map 04), moved previous
+                          map 04 to map 05.  Added a teleporter to level
+                          2 in the secret room as to allow more than one
+                          way out.
+
+Description             : A compilation of my five g&r wads (2,3,4,5,6).
+                          2 player, deathmatch ONLY, no monsters!
+                          Designed for maximum carnage.  These wads are
+                          not designed for those players who like to sit
+                          and wait for their opponent, they are for the
+                          hunter who enjoys the chase.
+
+                          Note: You will not find a BFG ANYWHERE in these
+                                levels.  All other weapons available.  
+
+Additional Credits to   : Carl W. Moore, author of Wadman.
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : map 01, 02, 03, 04, 05
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Renegade Graphics Doom Editor v2.23
+Known Bugs              :
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+

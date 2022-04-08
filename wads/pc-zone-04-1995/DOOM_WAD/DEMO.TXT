@@ -1,0 +1,41 @@
+Hi Fellow Doomers.
+
+Here's a level I wipped up from the original e1m2.
+To use it run use.bat. To view the demo of it run demo.bat
+
+I think it's just about perfect for deathmatch or a coop slaughter :).
+No longer need you run around the whole level in search for you buddies
+now there are 9 teleports to get you places in a flash.
+Of course you can also do some nice destruction along the way blowing
+to bits 80+ sarges, 50+ imps and 40+ troopers. Watch out for that barron
+or two ;)
+
+Yeah, I know this level sucks processor big time, so I recommend 
+*at least* 486DX33 with 8Mb. VLB would help too. If it's still slow
+or too hard then play on lower difficulty. It still bloody 8).
+
+I made this on a 4Mb machine so my demo came out choppy :(... and I didn't 
+go the way I usually go 'cause I wouldn't wanna spoil your game by showing 
+ya all the secrets etc. Can you find that prized Plasma Gun? (muhahahaha).
+
+I actually tried to place key items in strategic places. Also difficulty
+has a bearing on the game. On the lowest level you might find e.g. shotgun or
+chaingun in front of your nose. On the harder levels, well, you gonna hefta
+look for it. Oh, and did I mention a ton of new switches, platforms, nuke
+pools etc. Most of the wall decorations have been replaced apart form the 
+computer section which was kinda hard to improve on. You'll also find
+more stuff and enemies in multi-player mode, just as expected.
+And most iportantly the level is rather dark (no cheating with F11
+hear me!) which makes it rather fun for deathmatch mode. 
+If you find the play is too slow in deathmatch then try using -nomonsters 
+parameter. 
+
+Now, go and have a bloodbath.
+
+oh, and if u think I stuffed up somewhere send me a note.
+
+Stan ("wolfie")
+
+stasiak@iinet.com.au
+
+P.S This is free. If u charge money for this you're a prick, lame and low life.

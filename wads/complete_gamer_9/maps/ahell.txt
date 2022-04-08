@@ -1,0 +1,76 @@
+December 28, 1998
+
+================================================================
+
+Title                   : Alien Hell
+Filename                : ahell.bsp
+Author                  : BLigHT[BD]
+Address           	: bd_blight@hotmail.com
+
+Description             : Halflife DM level for 3-5 players. 
+			        It is the first Xen style map that
+				  I have seen thus far.  	
+
+Special Thanks to       : Valve - For creating Half-Life!
+			 
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : None
+Build Time              : Unknown.
+
+================================================================
+
+Designer's Notes
+
+This is my first attempt at a Half Life map. Since there were no
+Xen style maps at this point in time, I thought it would be a
+good one to start with. Any comments and feedback is appriciated.   
+
+================================================================
+
+Installation
+
+To play this level, extract the file "ahell.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map ahell" or "changelevel
+ahell" in the console.  
+
+================================================================
+
+Copyright and Permissions
+
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name ahell.BSP and is supplied in a zip file called 
+ahell.ZIP that also contains this text document and no other 
+files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 1998 BLigHT[BD]
+The Brothers Disgruntled
+http://users.townsqr.com/bd
+bd_blight@hotmail.com

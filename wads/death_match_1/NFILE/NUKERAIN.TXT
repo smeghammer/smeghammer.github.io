@@ -1,0 +1,48 @@
+================================================================
+Title                   : Nukerain.WAD   
+Author                  : David J. Hill   
+Email Address           : Mentzer@aol.com
+
+Description             : After 40 days and 40 nights of nukeage rain,
+			  the sun has finally appeared.  Your mission:
+			  What do you think?  Kick some Demon butt!!  
+			  	 
+
+Additional Credits to   : The authors of DoomCad and ID software.  
+			  Also thanks to my Anna for her patience. 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : yes
+Deathmatch 2-4 Player   : yes
+Difficulty Settings     : NO
+New Sounds              : NO
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Around 40 hours.
+Editor(s) used          : DoomCad 4.3
+Known Bugs              : None
+
+===============================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, just give me credit for my effort.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you find any bugs or have question or comments, write to Mentzer@aol.com.
+
+* Where to get this WAD *
+
+Other: America On-Line, Compuserve

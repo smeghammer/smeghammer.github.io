@@ -1,0 +1,56 @@
+================================================================
+Title                   : Rest In Pieces   
+Filename                : RIP.WAD
+Author                  : Jeremy Drye
+Email Address           : nickwt@aol.com
+Misc. Author Info       : HS Student
+                          Professional Mortal Kombat 2 Player Wanna-be
+Description             : My first WAD, its very large.  All the
+                          guns are visiable.  Designed primpary
+                          for Cooperative playing, especially
+                          with all the 'loads' of combat areas.
+                          Please send any/all comments to the address
+                          above, they will be forwarded to me.  
+                           
+Additional Credits to   : Nick Tucker
+                          DEU and BSP Authors
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2L1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Yea, wouldn't you like know.  ~50 hrs
+Editor(s) used          : DEU and BSP
+Known Bugs              : Kill them too!
+
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu
+
+BBS numbers:  Bills Graphics BBS (704) 932-2455
+              Carolina Forum     (704) 563-5857
+
+Other:  America Online PC Games Forum
+

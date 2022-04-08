@@ -1,0 +1,77 @@
+SHOWDWN2.WAD
+================================================================
+
+From Rick DeMar's Original SHOWDOWN!
+
+I couldn't have been more impressed or addicted to real brow bending
+action in a PWAD until  I ran across Rick DeMar's SHOWDOWN.WAD file.
+Even though the original PWAD needed some adjustments, it really was
+a SHOWDOWN indeed! With express permission from Rick DeMar via Email
+I am releasing this  PWAD as  SHOWDWN2.WAD which  contains  two more
+steps to  getting out of the  literal blood-bath SHOWDOWN originally
+contained. Rick DeMar's balance of a small map with mega monsters is
+really  great as this will allow it to run smoothly when at the very
+peak of the battle. I hope you enjoy playing and  YES there are many
+ways to beat this map, it's all just a true matter of your attitude.
+
+Enjoy,
+
+Vance Andrew Blevins
+
+P.S. This PWAD plays GREAT in Cooperative mode! Deathmatch feels just
+     about like playing cooperatively! UV+ mode? I don't think so....
+
+================================================================
+Title                   : SHOWDWN2.WAD
+Author                  : Rick DeMar (Original SHOWDOWN.WAD)
+                          Vance Andrew Blevins (Enhancements)
+
+Email Address           : Rick DeMar - 74354.1421@compuserve.com
+                          V.A..Blevins@F209.n170.z1.fidonet.org
+
+Misc. Author Info       : Taken from Rick DeMar's Original Showdown
+
+Description             : A total BLAST! Enter a huge room simply
+                          crammed full of monsters, kill, kill,
+                          kill, take a break, kill, kill, kill and
+                          wonder if it will ever end! Cap it off
+                          with a true showdown between the bosses!
+
+Additional Credits to   : All the GREAT DOOM PWAD Authors!
+                          DEU v5.1, BSP v1.1x
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (2 Players)
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Revision of Rick DeMar's Original Showdown!
+Build Time              : est. 48 hours
+Editor(s) used          : DEU v5.1
+Known Bugs              : Zero
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.
+
+* Where to get this WAD *
+
+FTP sites: n/a
+
+BBS numbers: Almost anywhere PWADs can be found in great quantity!
+
+Other: n/a
+

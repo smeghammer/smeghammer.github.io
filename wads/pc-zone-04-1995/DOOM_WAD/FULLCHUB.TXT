@@ -1,0 +1,68 @@
+
+================================================================
+Title                   : Full-on Deathmatch Chubbie   
+Level Design            : Shadoe
+Construction and input  : Shade (aka James Wilson)
+Email Address           : 74353,357
+Misc. Author Info       : This is Shadoe's first level, and the fifth level
+			  that Shade has worked on.  Shadoe's ideas, Shade's
+			  experience.
+
+Description             : This is a Deathmatch level (duh).  It is designed  
+			  as three major rooms, each with a different design
+			  concept and look based on a color.  The rooms are
+			  only accessible via teleporters.  A good size level
+			  for modem DM.  Have fun killin'.
+
+Additional Credits to   : ID for just bein' great, regardless of what they
+			  drive.  The maker's of DEU and BSP.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes (boring, only implemented to take a look-see)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes (Recommended)
+Difficulty Settings     : Yes (To facilitate those who like monsters in there
+			       DM levels this level includes varied settings.
+			       The easy level has almost none.  Medium a good
+			       amount, and hard is just plain ridiculous and
+			       unsurvivable for single player).
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 12+ hours 
+Editor(s) used          : DEU 5.2, BSP 1.2
+Known Bugs              : Very slight HOM in the red room.  Tried and tried 
+			  to get rid of them.  This one didn't even appear
+			  until way into play testing, and you really have to
+			  want it to see it.
+		      
+
+			   
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional levels, provided 
+you credit us with creating the original level.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:CompuServe, Gamer's Forum

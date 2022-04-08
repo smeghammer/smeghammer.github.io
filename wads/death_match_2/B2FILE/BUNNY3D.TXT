@@ -1,0 +1,53 @@
+================================================================
+Title                   : Energizer Bunny 3D DOOM   
+Filename                : BUNNY3D.WAD,BNNYSND.WAD
+Author                  : Randy Chan
+Email Address           : rchan@chs.cusd.claremont.edu
+Misc. Author Info       : 
+Description             : Replaces Sargents with Bunny
+Additional Credits to   : David Lobser (he made the dmgraph version)
+                          lobser@csn.org
+================================================================
+
+* Play Information *
+
+Episode and Level #     : 
+Single Player           : 
+Cooperative 2-4 Player  : 
+Deathmatch 2-4 Player   : 
+Difficulty Settings     : 
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : No
+Demos Replaced          : 
+
+* Construction *
+
+Base                    : bunny3d.zip (DMGRAPH and DMAUD)
+Editor(s) used          : DMGRAPH 1.1 DMAUD 1.1
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  (Use the version by David Lobser)  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+ftp.uwp.edu             
+infant2.sphs.indiana.edu
+
+* How to use this WAD *
+
+You must get DMADDS1B.ZIP  (dmadds).
+
+TYPE:
+  dmadds bunny3d.wad bunny.wad
+  doom -file bunny.wad bnnysnd.wad

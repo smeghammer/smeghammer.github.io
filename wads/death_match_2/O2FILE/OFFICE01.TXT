@@ -1,0 +1,49 @@
+================================================================
+Title                   : DOOMED Office 1.0
+Filename                : OFFICE01.WAD
+Author                  : Clay Pigeon
+Email Address           : alonzo@ilx.com
+Misc. Author Info       : my first wad .)
+
+Description             : This is a wad that i created of my
+                          office. plenty of deathmatch starts
+                          and network action.
+
+Additional Credits to   : My DOOM Widow for putting up with me.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Doom Construction Kit 2.0
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.
+
+* Where to get this WAD *
+(You may modify this section if you distribute this WAD)
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers:
+
+Other:

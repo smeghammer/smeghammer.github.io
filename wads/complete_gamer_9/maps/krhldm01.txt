@@ -1,0 +1,114 @@
+================================================================
+Title                   : krhldm01  - for Half-Life
+Date                    : 5th December 1998 
+Filename                : krhldm01.bsp
+Author                  : Russell "Krusty" Hayward  
+Email Address           : russell@vision.net.au
+Home Pages              : http://www.games.vision.net.au/~quake2
+			  http://www.rmdsoftware.com
+			  http://www.vision.net.au/~russell/quake
+			  http://www.vision.net.au/~russell/genesis
+
+Mail Address            : Russell Hayward
+		          18 Vermont Rd
+			  Mowbray
+                          Tasmania 7248
+			  Australia
+Description             : G'day,  couldnt resist making at least one
+			  map for this great game.
+			
+			  Need a theme? Its an abandoned 23rd century
+			  chocolate factory.  You have arrived at work
+			  3 hours late, and your workmates are pissed 
+			  off.  Its up to you to waste all those snooty
+			  co-workers because you are sick to death of
+			  stirring the cocoa vat, and besides... their 
+			  constant jibes of "Freeman is a llama" have 
+			  really taken their toll over the last six years.
+
+			  Why is a chocolate factory littered with heavy
+			  weaponry?  Because chocolate has been a precious 
+			  commodity since the Great Chocolate Wars of the
+			  22nd century, and all remote chocolate outposts
+			  are now keenly guarded. 
+
+			  
+			  
+
+			  
+
+			
+
+Additional Credits to   : i)   ID software
+                          ii)  Valve/Sierra
+                          iii) http://halflife.gamedesign.com
+			  
+================================================================
+
+* Play Information *
+
+Single Player           : No (one start)
+Deathmatch              : Yes, 2-6 players.
+Difficulty Settings     : No
+
+================================================================
+
+Make sure you put the .bsp file into the following directory:
+
+... \Sierra\Half-Life\valve\maps
+
+Run your hl.exe with "-toconsole +deathmatch 1" (no quotes) and 
+type in "map krhldm01" (no quotes) at the console. 
+
+================================================================
+
+* Construction *
+
+Base                    : From Scratch
+Editor(s) used          : Worldcraft.
+Known Bugs              : Sure, why not.
+			  
+Build Time              : 2 days.
+
+Compile machine         : Cyrix 166, 64 meg ram, voodoo1 
+QBSP Time               : a blink of an eye
+QVIS Time               : a coffee break
+QRAD Time (extra)       : some surfing time
+
+
+================================================================
+
+* Plug time *
+
+If you still have q1 on your hdd and haven't played
+"After The Fall" then its time you did. Some say it
+was the inspiration for Half-Life.  Try it out, and 
+judge for yourself.  
+
+http://www.planetquake.com/atf
+
+
+If you never played Painrift (DM mod for q2) then 
+thats ok, the servers were few and far between.
+Still you should download it cos it had some cool
+maps, weapon effects, etc. and it runs great on a 
+lan.
+
+http://www.rmdsoftware.com/painrift
+
+Both these games are free, weigh in at over 16 meg
+each (zipped) , and are worth your time.
+
+================================================================
+
+* Permissions *
+
+You MAY NOT sell this sucker for money!
+
+If a magazine wants it on its CD - that's fine - *BUT* you *MUST*
+send me a copy. OK!! Then we are quits :) My address is at the top!
+
+Feel free to swap it amongst your net friends.
+
+You MAY NOT alter or add to this level without my permission.
+

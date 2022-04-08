@@ -1,0 +1,78 @@
+================================================================
+Title                   : Boogers (All the good names were taken)  
+Filename                : boogers.wad
+Authors                 : John Jablonski
+Email Address           : jabster@crl.com
+                          
+Misc. Author Info       : Unemployed engineer, just graduated from
+                          UIUC, with nothing better to do!  :)
+
+Description             : You start off aboard your UAC Marine transport.
+                          Out of a crew of 4, 2 have already gone down to
+                          the surface and failed to report in at the
+                          predetermined time.  You third crewmate has just
+                          left the brigde when the ship suddenly goes on
+                          Red Alert.  You try to hail him, but you can't.
+                          You fear he's dead.  Somehow the Hell-Spawn
+                          have boarded the ship.
+
+                          Your only hope is to get down to the planet's
+                          surface and destroy the generator room!
+
+                          You take a deep breath, pull out your pistol, 
+                          and prepare for the worst........
+                             
+Additional Credits to   : Id - Creators of DOOM!
+                          Raphael Quinet - DEU 5.21
+                          Colin Reed--for the node builder!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M5  (Why not?)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes*
+Deathmatch 2-4 Player   : Yes*
+  * -- These are both supported, but not recommended. I just got tired
+       of DEU telling me to put in all 4 player starts and 4 DM starts. :)
+Difficulty Settings     : Yes:   1-2: For my little sister
+                                 3-4-5: For the rest of us
+New Sounds              : No
+New Graphics            : No
+New Music               : NO
+Demos Replaced          : None
+
+* Misc*                 : Definately a single player PWAD.  Too many
+                          walk-triggered ceilings, etc to make multi-
+                          player play reasonable.  (Of course, it could 
+                          probably be modified by adding a few more switches,
+                          but this is designed for only 1 player. Maybe
+                          my next undertaking....  :)   )
+
+                          This is my 1st wad.  So any comments (ESPECIALLY
+                          criticism) are welcome and encouraged!
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Too damn long (3 or 4 months on & off at least)
+Editor(s) used          : DEU 5.21cc, BSP1.2X
+Known Bugs              : None.  (If by some chance one rears its ugly head,
+                                   _please_ let me know!)
+
+* Copyright / Permissions *
+
+Hell, I don't care.
+Modify, add to it, build upon.  Whatever.  It'd be nice to be recognized
+in the credits if you do anything to it, but frankly, my dear, I don't
+give a damn.  :)
+
+Just be sure to distribute this TXT file with the WAD if you decide to
+spread it around.
+
+* Where to get this WAD *
+
+FTP sites: ftp.orst.edu  (and mirrors too I guess)
+
+BBS numbers: SFI:  (314) 394-4295

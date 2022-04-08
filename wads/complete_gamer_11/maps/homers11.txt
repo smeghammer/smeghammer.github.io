@@ -1,0 +1,85 @@
+
+7/7/98
+=======================================================
+Title			: "Palace Of Blood"
+Description		: DM Map for Quake 2
+Filename		: homers11.bsp
+Author			: Dave Waters, Long Beach, CA, USA
+Alias                   : Homer[CK]
+E-mail Address		: baseman@msn.com
+Author's Other levels	: Homers 1 thru Homers 51 for Classic Quake(e-mail me if you want one)
+			  Homersq2-1 thru -6 and homers9 to 12 for Q2 DM
+                          "Covert Operation"(covertop.zip) and "Terran Torture"(homers7.zip)
+                          which are SP maps for Quake 2
+
+Credits :Special thanks to Id Software.	Quake 2 rules !
+         Thanks to Ben and Valve Software for Worldcraft, and all the websites that 
+         review Quake 2 maps ( except the ones that ignore mine )   
+			 
+Thanks to my beta testers: Shaku, Dick Delicious, the guys at Voo2Quake: Chank and Renegade,
+and the folks at Froglabs who run the best custom map server on the net.
+Check them out at www.froglabs.com - you may see this map there.
+
+Unzip the bsp file to your Quake2/baseq2/maps folder. Start Quake 2 multiplayer,
+and type "map homers11" (without the quotation marks) from the console to start play. 
+ 
+Special note: clip brushes are everywhere so you won't get stuck on walls at all-Guaranteed !
+lots of cool eyecandy, but r_speeds came out good overall. Tons of weapons and ammo
+so you don't spend all your time looking for it. This map is set in the palace texture
+theme. Frag !
+ 
+======================================================
+
+* Play Information *
+
+Single Player          :No
+Cooperative            :No
+Deathmatch             :Yes
+Recommended players    :4-8
+DM Starts              :6
+CTF                    :No
+New sounds             :No
+New graphics           :No
+Weapons-Ammo           :Plenty
+Powerups               :Quad/megahealth
+Difficulty Settings    :No
+Exit                   :No
+
+* Construction *
+
+Base                   :Scratch
+Build time             :50 hrs.
+qbsp3 time             :3 min.
+qVis3                  :8 min.
+qrad3                  :22 min.
+Compiler               :P233/64 megs-SDRAM/Viper330/3DFX Voodoo II
+Editor                 :Worldcraft 1.6
+File size              : 1 meg. unzipped
+
+Please forward any comments to Homer[CK] about this map, 
+and report any bugs to the E-mail address above.
+
+======================================================
+
+* Permissions *
+
+This level may be used and distributed freely, so long as the text 
+is included with the bsp file intact. Level authors may not use
+this map as a base to build on. Please give credit where it 
+is due. You must get my permission to use this software on a CD or any
+other electronic media if you intend to sell it. All textures and entities
+are the sole property of ID software. Quake and Quake II are trademarks of
+ID software. I assume no responsibility of any kind for any problems that
+arise from the use of this software.
+
+==============================================
+
+* Homepages *
+
+Homer[CK] is a proud member of Clan Kevorkian, where our motto is " Let us put you out
+of your misery ". Check out our websites at:
+http://home1.gte.net/ralaniz/
+http://home1.gte.net/mortus/   (get my maps at this site)
+If you live in the greater Los Angeles/ Southbay area, You are welcome
+to join in on one of our Death Tour LAN parties. Contact me or the other
+clan members through our websites. Thanks and happy fragging.......Homer[CK]

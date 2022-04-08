@@ -1,0 +1,47 @@
+Title                   : Plucky.WAD
+Author                  : Mike Regan
+Email Address           : Plucky666@aol.com
+Misc. Author Info       : 
+
+Description             : My second attempet at making a Doom level from scratch. Large, 
+			Secrect areas. Some puzzles.
+
+Additional Credits to   : My Brother, just for nagging at me to make it.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes only for Hard and Normal
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : ABout 2 hours to put eveything down on the map, then about a week just
+			to put in some textures. Took longer because of the STAND and Super
+			Metriod
+
+
+Editor(s) used          : Deu 5.0 and BSP 
+Known Bugs              :
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. But aleast say you added to mine.
+
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites: None that I know of
+
+BBS numbers: None that I know of

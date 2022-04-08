@@ -1,0 +1,54 @@
+========================================================================
+
+Title                   : The Atomic Place
+Filename                : atomdm4.bsp
+Date of Release         : December 4, 1998
+Author                  : J. P. Rhodes (who did you expect, your MOM?!?)
+Nickname, Handle        : J1nxEd
+E-mail Address          : j1nxed79@hotmail.com
+Other Communications	: ICQ - 21100741
+Description             : Sludged deathmatch styled from Quake's DM4.
+			  This is my first Half-Life map, and is scaled
+			  a little small. I'd prefer no more than 5
+			  people fragging it away on this map hence it's
+			  really tight around the corners and such.
+
+========================================================================
+
+* Play Information *
+
+Game                    : Half-Life
+Single Player           : Nope
+Cooperative 2-4 Player  : Nope
+Deathmatch 2-8 Player   : Yup, more like 2 - 5 though. =\
+Difficulty Settings     : Nope
+New Textures            : Nope
+Exit			: Nope
+
+* Construction *
+
+Build Time		: Approx. 35 hours
+Editor(s) Used          : WorldCraft 2.0
+Other Compile Tools	: Huh hu huh hu huh.. it says "tool."
+Known Bugs		: I think I squashed most of `em.
+Credits			: Valve for the badass game, WorldCraft for the
+			  kickass "tool", id Software for their awesome
+			  games (especially Quake's DM4 design, used in
+			  this map but I changed it up a bit), and my
+			  girlfriend for not bitching too much about me
+			  wasting time building this map.
+
+			  And anyone else who I left off, sorry. I
+			  should take notes more on credits instead of
+			  burning hours staring at the monitor and
+			  drinking Dr. Pepper instead of beer. ;)
+
+* Permissions *
+
+You may distribute this level freely, as long as you don't get rich off
+of it, and include this text file and give all the credit of making the
+map to me.
+
+Oh yeah, screw Actura!
+			
+========================================================================

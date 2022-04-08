@@ -1,0 +1,89 @@
+* THIS LEVEL IS NOT MADE BY OR SUPPORTED BY id Software *
+ * REQUIRES REGISTERED VERSION OF QUAKE2 *
+
+
+Released: January 20, 1998
+==================================================
+Title                   : Hadley's Hope
+
+Filename                : HHOPE.BSP
+
+Author                  : John E. Schuch
+Email Address           : hal9000@quake2.com
+Quake1 PC page          : http://urbana.warzone.com
+Editing page            : http://www.quake2.com/qworksop
+Clan page               : http://www.mindspring.com/~wessner/kurtz.html
+
+Description             : SPQ2/DM level
+                                                    
+===================================================
+* Play Information *
+
+Game                    : Quake2 reg.
+Map Name                : hhope
+Single Player           : Yes
+Co-op                   : No
+Deathmatch 2-16         : Yes
+Capture the Flag        : No
+Difficulty Settings     : Yes
+
+==================================================
+* Construction *
+
+Base                    : New level from scratch.
+Construction time       : 2 weeks
+Compile times           : QBSP3          = 51 seconds
+                          QVIS3 -level 4 = 17 minutes
+                          QRAD3          = 10 minutes
+Compile machine         : p209MHz w/64meg EDO 50ns RAM
+Known bugs              : HOM at entrance to secret
+                          and near security button.
+                          cause??? noticable, but not
+                          deadly.  Could not repair.  
+Special                 : 
+
+==================================================
+
+* Other *
+Doom:
+None
+
+Doom2:
+Jesus, do I really have to list them all???
+
+Quake:
+Urbana Partial Conversion for Quake (see url above)
+Hub and URBDM7 for Quake Workshop Quake1 DM pak
+==================================================
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+This map or any part of it may *NOT* be distributed over any
+medium at this time, or anytime in the future, for profit in
+any form of currency, credit, or rocks and pebbles
+(depending on your culture).
+
+
+* Notes *
+
+Those two damn HOM errors (if you dont know what HOM is, you
+never made Doom/Doom2 maps <g>) have got me stumped.  I tried
+everything in the book to fix them, apart from redoing the
+entire level.  Sorry if those bug you; they sure annoy the
+hell out of me too.
+
+If you dont own a 3dfx card, go BUY ONE!  Quake2 without gl
+is not the same game ;)
+
+This map was more of a learning project than an all-out
+attempt at a top quality level.  A lot of the ideas in it
+were done in part for the Quake Workshop 2 web site, so that
+I can pass along as much info as possible to the rest of the
+editing community about creating Quake2 environments.
+
+Hope you enjoy it.
+Hal 9000
+

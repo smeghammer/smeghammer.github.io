@@ -1,0 +1,17 @@
+4 Seasons - Readme
+
+   ***   Intro: This is my first ... You know that stuff very well. If not, download any of the other maps and read the readme. But I think this map had a rather special development. First, I could not even build two rooms, becuase I didn't read the manual. Then suddenly, while I was reading a tutorial from www.planetunreal.com, I pushed the Strg(Ctrl)-Button. Oh well, I startde to experiment and tried about everything I could... but don't think I knew what I was doing. So I removed the few things I knew from my memory and started over again. What I then created was supposed to be the map you have just downloaded... but it ws not even an Alpha-Version. A little accident made the map become some kind of Titanic... Full of water. Oh well, back to the drawing board, I thought. But it was about 1.30 AM and I preferred to go to bed. The next morning I sat down in front of my Computer and began to brush. And suddenly: after about 2 hours (!) the map you see here was finished. Oh well, it's just a beta, but besides of the Bot-Support it works perfectly, if you go for some serious slaughtering.
+
+   ***   Description: DeathMatch! Four rooms, each with its own colour and content. Blue: a nice li'l pool. Red: some very normal flames (I'm practicing, okay?). Green: green NaliHealingFruits. Yellow: The weapons. Okay, let's say: The weapon. The only weapon around is the Auto-Mag. ... Or is there a fifth room, with more weapons than you could ever want and some other goodies? Try it, it's not very hard to find.
+
+   ***   Limitations: Bots will act STUPID! Better play it against humans.   ***   Bugs: I couldn't find any. If you do, please eMail me.
+ 
+   ***   What you gotta do: About nothing. You can change the map (if you send me your finished work, please), you can give it to your friends, you can sell it (Why you should do that? Don't know. Why not?), you can love it (oh please, do so!   :-) ), you can hate it (please send me an eMail which says why you do so)... But please, include this file whenever you give it away, or at least include a file that says: *** PLEASE, VISIT THE WB-A's HOMEPAGE AT WWW.MAIL4YOU.DE/GREENSITE ***
+
+   ***   WARNING: DO NOT play this map with more than 4-5 Players!!! It's kinda small.
+
+Larry Croft
+
+P.S.: Any comments, if it's a li'l expression of your overwhelming joy because the map was so great, or if it's a curse because the map was so unbelievably bad, can be sent to LarryCroft@gmx.de
+
+CU!

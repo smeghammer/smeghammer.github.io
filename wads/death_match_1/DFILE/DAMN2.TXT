@@ -1,0 +1,44 @@
+================================================================
+Title                   : DAMN2.WAD   
+Author                  : Lance Frohman
+Email Address           : N/A
+Misc. Author Info       : 
+
+Description             : Three levels that have some things you haven't 
+                          seen? elsewhere. The first level is simple,
+                          the second and third are harder.
+
+Additional Credits to   : Lee Frohman for testing 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1, E2M2, E2M3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : 80+ hours  
+Editor(s) used          : DEU 5.2, BSP 
+Known Bugs              : its possible to get stuck in the second level, 
+                          so save your game often  
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+BBS numbers: Software Creations BBS

@@ -1,0 +1,11 @@
+           The DOOM .LMP Film Collection: Collector's Edition
+
+Title      :  The Domino Effect
+Category   :  PWAD                            DOOM Editor:  DEU 4.31
+Recorded by:  Michael Houston                       Date :  March 16, 1994
+Episode    :  1               Level: 7              Skill:  Ultra Violent
+PWAD file  :  domino.wad
+
+Summary:
+
+A demonstration of the domino effect.

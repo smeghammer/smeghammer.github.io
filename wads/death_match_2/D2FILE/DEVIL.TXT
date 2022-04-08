@@ -1,0 +1,57 @@
+================================================================
+Title                   : DEVIL.WAD   
+Author                  : Eric Falsken
+Email Address           : eric@tudorcon.com
+Misc. Author Info       : A pro with DEU after building this
+			  level.
+
+Description             : This WAD should be used with
+			  ANNEX.WAD by Ryan McGrail.  We
+			  designed them together.
+
+Additional Credits to   : Nobody...
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, kind of (4 player)
+Deathmatch 2-4 Player   : Not Suggested, but yes (4 player)
+Difficulty Settings     : Yes
+New Sounds              : Not yet
+New Graphics            : Not yet
+Demos Replaced          : 2
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : +6 weeks
+Editor(s) used          : DEU 5.0, DEU 5.1, BSP 1.1x
+Known Bugs              : When you cross a couple of lines,
+			  something flashes across the screen.
+			  Ignore it...
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+If you're reading this you probably already have it.
+
+(KNOWN) FTP Sites:
+		infant2.sphs.indiana.edu
+		wuarchive.wustl.edu
+		ftp.uwp.edu
+		etc...
+
+Other: Me, of course!! Just send mail to eric@tudorcon.com

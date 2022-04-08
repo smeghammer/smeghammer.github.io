@@ -1,0 +1,104 @@
+===============================================================================
+Title                   : The Strogg downfall
+Filename                : downfall.bsp
+Version                 : February 2, 1998
+
+Author                  : Wiebo de Wit
+Email Address           : wdw@xs4all.nl
+
+Other levels by author  : WdWdm1  dm
+                          WdWdm2  dm
+                          WdWdm3  dm
+                          visit my little Q2 homepage at
+                          http://www.xs4all.nl/~wdw/q2
+                          for info, screenshots and future maps.
+
+Description             : A single player map for Quake 2,
+
+Testers                 : Per 'Ellusion' Nyhaug, Dark Monkey
+                          Thanks men.
+
+Compile time            : machine - p200/40mb
+                          qbsp3           11 mins.
+                          qvis3 -level 4  35 mins.
+                          qrad3 -extra   109 mins.
+
+Extra info              : I started with BSP, but switched to QedRadiant early in
+                          development. Why? BSP is slow with bigger maps.
+                          Radiant has excellent region support and it works similar
+                          to BSP, so the switch was easily made (it's also free).
+
+                          Check out these excellent level review sites:
+                          http://www.bangg.org/q2/dmreview/
+                          http://www.planetquake.com/lotus/
+                          http://www.quake2.com/crash/
+
+Thanks to               : ID, for Quake2 [the best game ever] and Qed.
+                          Robert A. Duffy, for excellent QedRadiant support.
+                          You, for actually reading this and playing my level!
+
+Plot (do we need one?)  : 
+
+The story so far:
+-----------------
+  The Strogg have made a big mistake. Intelligence reports that a disc containing
+essential data needed for our main campain is being held in a small Strogg
+Outpost. We managed to make a duplicate key pass which can be used to open the
+front door. A strike team consisting of five of our finest men has been dropped
+near the Strogg Outpost... They have not reported back.
+  We do not want to send in another team as the Strogg are alerted. But,
+one man can sneak in and save this mission. You are that man.
+
+   Your mission objectives:
+   ------------------------
+1) Locate the strike team.
+2) Take command of the team and -if present- retrieve the pass from the
+   team captain.
+3) Enter the outpost and locate the data disc. 
+4) Exit the base via the back door and rendevous with the strike team escape pod
+   lying somewhere north of the base.
+   It probably has been located by the Strogg, so look out.
+
+   Good luck. We know you can do it.
+
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake 2
+Single Player           : Yes
+Cooperative             : No 
+Deathmatch              : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : new map
+Build Time              : couple'a weeks, on and off.
+
+Editor(s) used          : BSP 0.90, QedRadiant 0.36 - 0.41
+Known Bugs              : None (tell me if you find any)
+
+* How to use this level *
+
+Make a "maps" directory in ../quake2/baseq2 and copy the level into it.
+In Quake2, bring up the console and type in "map downfall".
+
+* Copyright / Permissions *
+
+This level is (c) by Wiebo de Wit 1998.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+* Where to get this map *
+
+http://www.xs4all.nl/~wdw/q2
+ftp.cdrom.com and mirror sites.

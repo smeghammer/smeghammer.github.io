@@ -1,0 +1,81 @@
+================================================================
+Title                   : Glamis
+Version                 : 1.0	
+Release Date            : 06/09/98
+Filename                : DMGlamis.zip
+Author                  : Mooney
+Email Address           : mephisto@bc.sympatico.ca
+			  mooney@my.unreal.org
+Description             : A medieval Unreal deathmatch level for 8-12 players
+Where to get this map   : ftp.unreal.org
+Other levels by author  : DMPower.unr
+			  DMRiot.unr
+Additional Credits to   : Epic Megagames for Unreal	
+			  All the UnrealEd tutorial sites
+			  Randar's Bots page (http://www.ionet.net/~mimpchnk/main.html)
+================================================================
+--- Play Information ---
+Game                    : Unreal 
+Level Name              : Glamis
+
+Single Player           : yes (Botmatch)
+Cooperative             : no
+Deathmatch              : yes
+Dark Match              : no
+Difficulty Settings     : no
+New Sounds              : no
+New Graphics            : no
+Botmatch Enhanced 	: yes
+Known bugs              : Sometimes players can fall through the circular
+			  lifts that lead up to the rifle.  Not sure why 
+			  this happens.  If someone figures this out, let
+			  me know!
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : Approx. 1 week on and off
+
+
+Installation
+------------
+Unzip the files and place them into your Unreal maps sub-directory. 
+Type in "open <mapname>" to run the map.  
+
+
+Extended Description:
+--------------------
+The players do battle in a spooky section of Glamis castle.
+  
+
+Author's Notes:
+--------------------
+I have paid a lot of attention to placing pathnodes in this level.  As 
+well as the bots play, they do have two problems: 
+
+1)They will not activate the smasher, and
+
+2)They occasionally get trapped in the circular lift pits.
+
+Other than that, they do really well (they kick my ass).
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Mooney 1998.
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

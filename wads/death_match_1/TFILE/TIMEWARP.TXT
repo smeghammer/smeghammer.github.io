@@ -1,0 +1,129 @@
+
+================================================================
+Title                   : "TimeWarp"   
+Filename                : TIMEWARP.ZIP
+
+Author                  : Bill Ainsworth
+Email Address           : wha@netaxs.com
+
+Description             : This is a deathmatch only level
+                          for DOOM I designed with the altdeath
+                          mode in mind.  It is a smallish level
+                          without the chainsaw, plasma rifle,
+                          or BFG.  What it does feature is good
+                          solid deathmatch action (what else?).
+                          It has been extensively playtested with
+                          2-4 players and has gone through a few
+                          revisions to arrive at its current
+                          state.
+
+Additional Credits to   : Chandler Driggs, Paul Fox,
+                          Joe Casadonte (Playtesters), the
+                          almighty Id Software, and Wad Editor
+                          designers of DoomCad and DCK.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #                    : E2M1
+Single Player                          : No
+Cooperative 2-4 Player                 : No
+Deathmatch 2-4 Player                  : YES
+recommended # of players (deathmatch)  : 2-4 
+Difficulty Settings                    : Not implemented
+New Sounds                             : No
+New Graphics                           : No
+New Music                              : No
+Demos Replaced                         : None
+
+Monster types : 3 pink demons, 2 lost souls, 1 cacodemon
+                (just for the heck of it)
+
+
+* Construction *
+
+Base                    : None.  Level built from scratch.
+Editor(s) used          : DoomCad 4.3, DCK 2.0
+Known Bugs              : None.
+
+
+Story:   It's deja-vu all over again as you stare at the computer
+         terminal this morning.  The program you are working on is
+         just not going well and you start to fantasize about a
+         tropical island and a tall frosty drink.
+         Suddenly a whirling vortex of blue mist yawns open behind
+         you!  You are deafened by the roar of the gaping inter-
+         dimensional aperature!  Unable to resist the pull you are
+         sucked in!
+         You find yourself in a pool of water underneath a flashing
+         light.
+         "Where am I?" you think to yourself.
+         You notice to your surprise that a few of your co-workers
+         are next to you bathed in similar pools.
+         You all get together and discuss the situation.  You quickly
+         surmise that you all were thinking of being far away from the
+         office at the same precise instant.  The conjunction of this
+         energy must have caused a whirling, blue, misty, roaring,
+         interdimensional aperature!  AAAAAAHHHHHHH!
+         {Ahem}
+         Well, to make a long story short, you're in a strange military
+         scientific installation of some kind.  And there are some
+         demons with you.  And lots of big guns and armor.
+         You all find your way out to a circular arena that is open to
+         the hostile environs of some alien planet.
+         A booming voice bellows:
+         "You have been kidnapped by the Fluffy Space Aliens of Renda
+         7!!!  You must entertain us by engaging in a little game for
+         our amusement (insane cackling).  Run around and kill each
+         other for a while.  If we like your style, we may return you
+         to your pitiful existences!  Oh, and seeing as we have
+         technology far beyond your puny race, we will take steps to
+         reverse your deaths in combat.  The pain and suffering, of
+         course, must remain for our benefit (more insane cackling)."
+         "Yea right!" you all exclaim to each other with meaningful
+         glances.  You meet back inside and unanimously agree to not
+         comply with the perverse desires of the Fluffy Space Aliens.
+          
+         But there's not food, you all starve to the point of madness,
+         and end up on killing sprees anyway.
+
+
+Design Notes:  The two switches in the room to the east of the arena
+               operate elevators.  The eastern most switch triggers
+               an elevator in the far end of the lava pit.  This
+               elevator can only be reached by an immediate sprint
+               after throwing the switch.  The western-most switch
+               operates an elevator in the room immediately to the
+               west of the arena.  This area was put in to prevent
+               people from lurking and collecting rockets unmolested.
+
+
+               Let me know what you think of the WAD!
+               -Bill
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+It's kind of my baby and I don't want people mucking with it.  I
+will entertain suggestions for changes, however.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  It's not required but if you put this WAD on a CD I 
+would sure like a copy.
+
+
+* Where to get this WAD *
+
+FTP sites: FTP.CDROM.COM (uploaded to the incoming directory)
+
+---
+
+
+
+
+
+

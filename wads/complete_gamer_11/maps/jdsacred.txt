@@ -1,0 +1,112 @@
+(best viewed in 800x600+, maximized)
+===================================================================================
+DATE: July 29, 1998
+===================================================================================
+Title                   : "On Sacred Ground"
+Files                   : sacred1.bsp  sacred2.bsp  sacred3.bsp  jdsacred.txt
+Author                  : Jack Davis aka 13bongtokes
+Email Address           : jackd104@primenet.com (icq 4272282)
+Date of release		: 7/29/98
+Description		: Three map, single player Quake2 unit (with DeathMatch)
+                          for id Software's Quake2.
+===================================================================================
+
+--ADDITIONAL CREDITS--
+Playtesters:
+Doran Amos aka [FF]Chamber     chamber@bigfoot.com
+Alex Williams aka Morbid       morbidF@rocketmail.com
+Samiad			       samiad@cyberdude.com
+Richard Wilson aka Wilf        n/a	
+Ryan Plunkett                  n/a
+
+Prefabs used:
+Marine landing pod at beginning of sacred1.bsp 
+by Robin Hermance-Moore  -  p-banshee@geocities.com
+file q2pod.zip
+
+"Cobra ACE" ceiling mounted turret at end of sacred1.bsp 
+by EutecTic  -  jfgrol@cam.org
+file q2cturret.zip
+
+Visit the Quake Prefab Park II for these and other fine prefabs:
+http://www.planetquake.com/qpp/qpp2/
+
+--THANKS GO TO--
+id Software
+Robert Duffy for QERadiant  -  http://www.planetquake.com/qeradiant
+Ravages of Radiant  -   http://www.planetquake.com/ravage
+RUST  -  http://www.planetquake.com/rust
+Steven Boswell, the guru of vis  -  http://24.0.172.162/whatis/Quake2/bspvis.html
+The playtesters, thanks a million guys!
+
+=========================================================================================
+
+--PLAY INFORMATION--
+
+Game			: Quake2 (NOTE: you must have Quake2 v.3.15 or higher to play this
+                          unit, as of this release current version is 3.17)
+Level Names      	: "Outer Temple Complex"  "Strogg Temple"  "Jorg's Lair"
+Files    		: sacred1.bsp  sacred2.bsp  sacred3.bsp
+Single Player           : YES	
+Cooperative 		: YES (co-op starts provided, though nothing else specifically 
+                          implemented for co-op play)
+DeathMatch              : YES
+        		Considerable attention has been paid to the DM play of these maps, 
+			so for you bot freaks they should provide for some pretty good 
+			action.
+                             MAP    # of PLAYERS
+             		sacred1.bsp    6-15
+             		sacred2.bsp    5-12
+             		sacred3.bsp    2-5
+			
+Difficulty Settings     : YES (easy, medium, hard)
+
+* NOTE: The difficulty settings are slightly untraditional. Compared with the original id 
+Quake 2 episodes, here's approx. where this unit stands:
+
+HARD - A couple of notches more difficult to accomodate the Quake 2 *fanatic*
+MEDIUM - Slightly more difficult than 'medium' on the orig. Q2 levels.  Should provide a
+       good challenge for average-above average Q2 players.
+EASY - About the same as the orig. Quake2 levels, to accomodate newbies (and lazy players:)
+
+Construction:
+
+Base            : New
+Editor used     : QERadiant by Robert Duffy
+Map info        : sacred1.bsp - 2333 brushes, 988 entities
+		  sacred2.bsp - 1647 brushes, 756 entities
+                  sacred3.bsp -  286 brushes, 268 entities
+Platform used   : P200mmx, 64MB
+Known bugs      : None
+New sounds/textures/entities: NO
+
+============================================================================================
+
+--THE STORY/MISSION BRIEFING--
+There is a new evil that threatens the sanctity of Earth . . . it's name is Jorg . . .
+a vile and evil beast, rumored to have been spawned from the depths of Hell itself.  If 
+Jorg and his minions are allowed to thrive, they will surely become powerful enough to 
+decimate Earth.  Jorg resides in his lair deep within a Strogg temple--an unholy temple of
+death where the Strogg practice thier hideous religion.  While in his chamber, Jorg is 
+invulnerable to attack . . . according to legend, only he who possesses the Sacred 
+Crystal of Stroggos may release and destroy the dreaded Jorg . . . find that crystal, 
+soldier--and frag that ungodly SOB before it is too late.  Good luck.
+
+===========================================================================================
+
+--LOADING INFORMATION--
+Copy all three .bsp files to you quake2\baseq2\maps directory.  If the \maps directory doesn't 
+exist just create it. In the Q2 console, select your skill by typing:
+'skill 0' = easy
+'skill 1' = medium
+'skill 2' = hard
+Then type 'map sacred1'
+
+Comments on this unit are welcomed and greatly appreciated.
+
+============================================================================================
+--LEGAL--
+These Quake 2 levels (sacred1.bsp/sacred2.bsp/sacred3.bsp) are (c) 1998 Jack Davis.
+DO NOT put these levels on any sort of commercial product.
+You MAY distribute these BSPs through any other means, provided you include this .txt file 
+(unaltered) and it is free of charge.  Do not modify these BSPs.

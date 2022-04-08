@@ -1,0 +1,74 @@
+================================================================
+Title                   : Engine
+Filename                : ENGINE.WAD
+Author                  : Cos
+Email Address           : N/A
+Misc. Author Info       : Bitten by the DOOM Bug!
+                          Unemployed as a result!!
+
+Description             : Should be OK on 486/33 SX or DX 
+                          with 8 MB RAM, and a zippy video card.
+                          
+                          
+                          Quite a large level with lots to kill and a few
+                          puzzles to solve. I played it a couple of times 
+                          so I know it can be done. Unfortunately, there's 
+                          a couple of small areas where the mirroring effect
+                          persists, and I just couldn't get rid of it!
+                          I'm not going to tell you to be careful and save 
+                          the game often etc etc, cos you'll play it your 
+                          own way anyhow.
+
+                          I had a lot of fun creating this, I hope you enjoy 
+                          playing it. 
+                                      Cos.
+                          
+
+Additional Credits to   : The many authors of additional doom levels,
+                          and of course ID for the original game.
+                          Thanx to Geoff Allan, whoever you are, for 
+                          DoomEd, it's just SO easy to use despite the bugs! 
+
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes 
+Cooperative 2 Player    : Yes (untested)
+Deathmatch 2 Player     : Yes (untested)
+Difficulty Settings     : Not dependant on settings
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd v2.60b4
+                          DEU 5.1
+                          
+
+Known Bugs              : Hopefully none, (well I counldn't see any!)
+                          but if you find any, "oooops, silly me!".
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+Please give credit, if only for the many hours spent creating
+the levels feeling.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: N/A
+
+BBS numbers: Lightning BBS, Tornado BBS, Viper BBS, The Twilight Zone.
+
+Other:

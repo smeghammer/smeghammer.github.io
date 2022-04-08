@@ -1,0 +1,8 @@
+Here's a new twist to an old level. Run Episode 1 Level 1 and try to find 
+your way out!.....Hint: Think Pink Floyd.... There are a couple of visual
+glitches, but I couldn't get them out. This was made using DEU5 editor. 
+Just type Doom -file RHE1L1.WAD and play Episode 1 at Level 1 on Ultra- 
+violent and enjoy!
+......Rich Horn
+
+

@@ -1,0 +1,27 @@
+Abyss - a pwad for your enjoyment by Avery Lodato.
+
+This wad replaces E1M1.
+
+A few notes:
+  1)  I think that I got most of the bugs out of this level, but there
+are still a few problems that I can't track down.
+    a>at the very begining of the level if you stand on the border
+between the first couple of sectors, the screen will somtimes 
+insert a black frame or two.
+    b>the star room with the blue keycard has caused my computer to
+crash on two occasions.  there is a lot going on in this room, but
+I still don't understand exactly what is causing the problem. (I think
+that i was using the iddqd cheat both times)
+
+  2)  This is a hard level, but I know that it's not impossible
+because I finished it myself (with no cheats, but repeated saves)
+
+  3)  I had plans for much more, but I am sick of working on this level.
+I don't think that I'll do another level until the next generation of
+level editors is released, it can be a frustrating experience to know
+that what you want to do _should_ be possible but can't be made to work.
+
+******************************************************************
+This level was made using DEU 5.0 and BSP 1.0 -
+Thanks to everyone working on DOOM utilites for making this possible!
+******************************************************************

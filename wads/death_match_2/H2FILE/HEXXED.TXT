@@ -1,0 +1,56 @@
+================================================================
+Title                   : HEXXED
+Author                  : Chris Carollo
+Email Address           : carollo.1@osu.edu
+
+Misc. Author Info       : Student at The Ohio State University
+
+Description             : My friends and I have been playing deathmatch
+						: since the day 1.2 came out, so I tried to put 
+						: some stuff that I know I like in this WAD.
+						: I don't know of any bugs in it, but if you find
+						: some, please let me know about them.  Likewise for
+						: suggestions for what you'd like to see.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes, just for looking around.
+Cooperative 2-4 Player  : Nope.
+Deathmatch 2-4 Player   : Sure thing!
+Difficulty Settings     : No, only 2 monsters...:)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Approximately 10 hrs, including playtesting.
+Editor(s) used          : Dedlev 1.0 Beta, my own personal editor.
+						: I'm really not sure if I'll release it or not,
+						: maybe if enough people are interested.
+Known Bugs              : None that I've found.
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+	   infant2.sphs.indiana.edu
+	 
+BBS numbers:
+	   none
+
+Other:
+	   none

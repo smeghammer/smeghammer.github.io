@@ -1,0 +1,92 @@
+======================================================================
+Title                   : Security to the Bidet!   
+Filename                : SCUMTREK.WAD
+Author                  : Arthur Young
+Email Address           : arthur.young@stonebow.otago.ac.nz
+Misc. Author Info       : Talks to the President lots - and gets
+                          replies. He's 5"7', dark hair, male,
+                          eyes are limpid pools of mud, spends
+                          altogether too much time playing
+                          around with other people's computers.
+
+Description             : SECURITY TO THE BIDET! Jean Luc is
+                          nowhere to be seen, the security team
+                          was toasted hours ago and Deanna Troi
+                          has a headache. Just why the Enterprise
+                          is crawling with Imps and Cacodemons,
+                          no-one knows. They should be aliens
+                          with latex on their foreheads and noses,
+                          but alas, we make do.
+                          
+                          You are Ensign Wesley Crusher - your
+                          mother was on planet leave when _strange_
+                          things started to happen. Data got a life,
+                          Lwaxana became a nun, the security team
+                          came back from planetside intact, Worf
+                          came out of the closet, Riker _didn't_
+                          scam on some babe and Tasha Yar came back
+                          from the dead ... again. Ya-know, it's the
+                          little things that give it away. It's
+                          gonna be a tough day.
+
+                          Set phasers to rotisserie and report to
+                          transporter room three on the double. You
+                          must join your mum before _you_ get toasted
+                          and the Enterprise gets a parking ticket.
+
+                          Just look out for Q in a very special guest
+                          appearance in engineering!
+
+Additional Credits to   : Neil for his computer and the rest of his
+                          flat for inspiration and the location for
+                          playing ST-TNG drinking game - (rules
+                          available, just email to
+                          neil.gardner@stonebow.otago.ac.nz)
+
+                          Finally, thanks to President Bill Clinton
+                          (Billy the Kid to his friends) for his
+                          personalised letter. Just send mail to
+                          President@whitehouse.gov telling him you're
+                          a mate of Arthur's and he'll see ya right
+                          if you want any small South American
+                          countries invaded.
+
+======================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 (Watch for Planetside and Bird of Prey
+                                and the Liberator!!!)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (tested with 4 players!)
+Difficulty Settings     : Not implemented - (why bother?)
+New Sounds              : No (send me a SB and I'll make some)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 12 hours...
+Editor(s) used          : DEU 5.21, DEU 5.21gcc, BSP12x
+Known Bugs              : cockroaches, wetas, dung beatles, earwigs
+                          rhinocerous beatles, John, Paul, George,
+                          Ringo, ants, carpet beatles, spiders,
+                          bedbugs, VeeDubs, wasps etc...
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. (But send me a copy) 
+
+You may do whatever you want with this file.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: None - get onto Internet :-)
+

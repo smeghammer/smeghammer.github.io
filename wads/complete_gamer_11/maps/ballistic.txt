@@ -1,0 +1,108 @@
+    BALLISTIC.TXT *********** 7 April 1998
+
+Title                : BALLISTIC
+
+Filename             : balistic.bsp (please note the mispelling due to
+                                     8 character constraint)
+
+Author               : Fred Hite,Jr , a.k.a."DEVIANT"     
+
+Email Address        : fhite@ctc.net
+
+Description          : Ballistic is my first Quake 2 map. Designed for
+                       single play (skill levels included) or deathmatch !
+                          
+  The Story:    You awake to the crackle of your com-link, the static
+              broken intermittently by the gruff voice of your commander.
+              "New Strogg threat", you think, "Great, just what I needed."
+              "Inter-Planetary Ballistic Missiles......", the voice continues,
+              "travel through wormholes to reach their target."
+                "Inter-PLANETARY ?!, Geez, what'll these assholes come up with
+               next ?"
+                The commander quickly describes a hidden teleporter leading to 
+              a Strogg missile silo. "Recon reports that the central launch 
+              computer controls wormhole creation. Destroy it, and those ten
+              giga-ton warheads are goin' nowhere ! Good luck, soldier."
+                A thin bead of sweat breaks on your brow as you grab your
+              pack and head for the telepod........ 
+               
+               
+                                 
+                      
+Additional Credits to : Id Software for creating the coolest,baddest,
+                       most ass-kickin' games ever !!!!!
+                         http://www.idsoftware.com/
+                    
+                      : Ben Morris for Worldcraft, ditto , ditto, ditto,
+                       Quake and Quake 2 editor ever !!!!!
+                         http://www.gamecraft.com/
+                         
+                       : All the prefab authors who posted their excellent
+                        work on :
+                             qED Prefab Park
+                          http://www.planetquake.com/prefab/
+                             Quake Prefab Park 2
+                          http://www.planetquake.com/qpp/qpp2/
+                             Bad Monkey Prefabs
+                          http://www.rcip.com/badmnky/prefab/
+
+                        Sorry I didn't include a full list of author names,
+                        would've been quite long ! Visit the above sites to
+                        view their work and spice up your levels too !
+                       
+                       : The guys at the following sites who provide killer
+                        info and tutorials on Quake 2 editing ! 
+                             RUST
+                         http://www.planetquake.com/rust/
+                             Quake2 Workshop
+                         http://www.quake2.com/qworkshop/
+  
+          * Play Information *
+
+Level Name           : BALLISTIC
+Single Player        : YES
+Cooperative          : NO
+Deathmatch           : YES
+Difficulty Settings  : YES
+
+
+
+          * Construction *
+Base                 : New level from scratch
+Build Time           : Couple weeks - built in spare time ; gotta work :(
+                       Also learning Q2 entities, etc. (1st Q2 level) 
+Editor(s) Used       : Worldcraft 1.6a
+Compile info         : about 4 hours total- qbsp3, qvis3 -level 4, 
+                       qrad3 -extra
+Compile machine      : PII-266, 128 MB SDRAM, ASUS P2L97 mainboard 
+
+
+          * Legal Stuff *
+        You may freely distribute this level in any non-commercial fashion 
+     ( free of charge, that is :-). If you would like to include it in a compilation
+     or other type of fee-based release, please contact me first.
+
+
+          * Other Notes *
+      
+               Send any comments or questions to :
+                 
+                            fhite@ctc.net
+
+          * Archive Info *
+Archive filename     : ballistic.zip
+          Including:
+                       balistic.bsp (careful to type only one "l" in the map name !)
+                     
+                       ballistic.txt (this file)
+
+________________________________________________________________________________  
+CHECK OUT MY HOME PAGE AND OTHER LEVELS AT:
+                       
+         http://www.geocities.com/TimesSquare/Lair/1307/index.htm
+
+________________________________________________________________________________
+
+      " I love the smell of gibs in the morning !!!!!!!!! "
+                
+                      :)

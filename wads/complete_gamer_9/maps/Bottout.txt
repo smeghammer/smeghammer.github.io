@@ -1,0 +1,44 @@
+*************************************************************************
+*************************************************************************
+*************************************************************************
+*************************************************************************
+*									*
+*				Bottomed Out				*
+*			(a Half-Life Multiplayer level)			*
+*									*
+*			    by Awetopsy & Muck Man			*
+*									*
+*************************************************************************
+*************************************************************************
+*	Level specs:							*
+*	           Name: Bottomed Out					*
+*		 Single: No						*
+*	 	  Death: OH Yeah!!					*
+*		  Co-op: No						*
+*	   # of Players: there are 12 starting points			*
+* 	  Creation Time: Approx 20 hrs. (give or take a few seconds)	*
+*	     Known Bugs: 1) one of the crates on the second floor, when *
+*				hit breaks as glass.			*
+*			 2)same crate, on both sides will not fall when *
+*				crate beneath it is broken		*
+*			 						*
+*									*
+*									*
+*	This Level is our very first Level. It was created with		*
+*	World Craft 2, provided on the Half Life CD. This Level is	*
+*	FREE. If you decide to distribute this level, please include	*
+*	this .nfo file along with it. YOU MAY NOT MAKE MONEY BY THE     *
+*	REDISTRIBUTION OF THIS LEVEL. If you would like to sell any	*
+*	media with this level on it then CONTACT us.			*
+*									*
+*	We also welcome feedback and/or ideas concerning this or	*
+*	any other level forth coming.					*
+*									*
+*									*
+*	You can reach us at --->Halflife_AM@Hotmail.com<---		*
+*	We WILL NOT answer useless mail.				*
+*************************************************************************
+*************************************************************************
+*************************************************************************
+*************************************************************************
+

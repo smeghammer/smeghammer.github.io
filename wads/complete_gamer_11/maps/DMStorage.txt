@@ -1,0 +1,49 @@
+DMStorage
+ 
+ A Deathmatch level for Unreal
+ by Mark Thomas (Veinman)
+
+ Release Date: 6/29/98
+
+--------------------------------------------------------------------------
+
+Title                   : DMStorage
+Filename                : DMStorage.unr
+Version                 : 1.0 of 6/29/98
+Author                  : Mark Thomas (Veinman)
+Email Address           : markt@festech.com
+Installation            : Unzip into your Unreal/maps directory.                         
+Description             : This is a storage facility with three levels.
+I am pretty happy with the way it came out, it is very fun to play, and
+the bots are very good at it, too. TIP: You don't have to jump to 
+get the superhealth (when standing at the minigun).
+
+Recommended
+# of players            : 2-5
+
+* Play Information *
+
+Single Player           : no
+Cooperative             : no
+Deathmatch              : yes (8 deathmatch starts)
+Skill Levels            : na		  
+
+
+* Construction *
+
+Base                    : Original level from scratch.
+
+Editor(s) used          : UnrealED
+
+Build Time              : 12-14 hrs appx.
+--------------------------------------------------------------------------
+
+*** Copyrights/Permissions ***
+
+This map (DMStorage) is copyright 1998 by Mark Thomas.
+
+This map MAY be used as a base for other levels, as long as I am 
+credited.
+
+This map may be distributed on CD or floppy as long as you
+credit me.

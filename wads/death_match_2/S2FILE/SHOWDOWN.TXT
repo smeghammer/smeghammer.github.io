@@ -1,0 +1,45 @@
+Hi there!
+
+Thanks to the wonderful world of high technology, we can now not only 
+participate in, but also cause a mass slaughter right in the cozy comfort
+of our computer chair. Not only that, but thanks (much thanks!) to Brendon J.
+Wyber and Rapha‰l Quinet (Authors of DEU), we also have the Doom Editor 
+Utility, and can create our own perfect "Spray-and-Slay" scenario!
+ I call this particular level "Showdown". The reason for this is probably most 
+apparent early in the game. My favorite four of the enemy list are represented
+here in droves, and classy weapons and bonuses abound (except for the BFG-
+9000, which I thought made things a little too easy, and we can't have that...
+), as well as some crafty secrets and traps.
+ This patch WAD requires that you have the registered version of DOOM, and you
+should play it on a fast machine so as to increase refresh rates to a pleasant 
+level (the bodies get kinda thick here...). To run it, place the .WAD file 
+(SHOWDOWN.WAD) in your DOOM directory, type DOOM -FILE SHOWDOWN.WAD, and press
+enter (capitals are not neccesary). The init screen will come up and tell you
+that "This version of DOOM has been modified... (etc.)". Just press enter and
+when the menu comes up select New Game, Knee Deep in the Dead. Skill level 
+won't matter, just don't go for Nightmare 'cause you ain't gonna survive it :@
+  
+  Four things to remember while playing:
+
+  1:Watch your ammo levels (health too!!)
+  2:Watch your ass as well!
+  3:If it smells like a trap, it probably is...
+  4:All secrets are in sequence; if you miss one, you won't be able to leave!
+
+It is a real run for your money, but if you keep these things in mind, it's
+acually kind of easy after awhile ;) . BTW: Don't forget about the strafe 
+maneuver!!
+
+Level one is "Showdown" (kinda hot for the first level, huh?). All succeeding 
+levels are normal... That's it! Good luck and don't forget to bring some band-
+aids! (not forgetting the deluxe shotgun cleaning kit...) Oh, and by the way,
+the weird pulsing blue (water texture) on the recieving end of the teleporter
+wasn't intentional, but I thought it looked cool so I left it as-is.
+
+DOOM E1L1 replacement level "Showdown" was created by Rick DeMar, Compuserve 
+member #74354-1421, whom also finger-picked this document. I used DEU 5.0 
+for map design and BSP.EXE (Beaucoup thanks to Colin Reed, author of BSP.EXE) 
+for graphic cleanup. Endless thanks also to those awesome guys at id Software 
+for bringing us "DOOM". Look for "Doom: Hell on Earth" this summer and 
+remember, "Winners don't use cheat codes!!!"
+                                                                 

@@ -1,0 +1,97 @@
+================================================================
+
+Title                   : Arena
+Filename                : arena.bsp
+Author                  : AJ James
+Address                 : AJ_James@xoommail.com
+Description             : This level is based on a custom level
+			  that someone made for Duke Nuke'em. My
+			  friends and I used to play it all the
+			  time.  I couldn't let it die with Duke,
+			  so, I threw this level together (not much
+			  was given to make things look real). This
+			  was necessary to reproduce the original
+			  feel of the Duke Nuke'em level. Of course,
+			  it has been tweaked for Half-Life, and
+			  I made it from memory, but it should still
+			  be recognizable to those who have played
+			  the Duke version.
+
+			  This level is a rectangular arena, about
+			  the size of a large gymnasium.  There is
+			  a maze on the floor, and a sniper catwalk
+			  above. There is a main lookout which has
+			  a large Gun (made by Mrpops, thanks!),
+			  which I have customized.  It can also be
+			  controlled remotely from the bunkers in
+			  each corner on the ground floor!  Firing
+			  it takes getting used to, but hey!
+
+			  This level is VERY quick, and there is 
+			  little cover.  It is fun with 3+ people.
+			  For real fun, try organizing into teams,
+			  and keeping everyone straight!  Enjoy!
+
+			  I dedicate this level to Tod Stokes and
+			  Erik Pikula, who made me love the Duke
+			  Nuke'em level so much, that I had to
+			  make a Half-Life version of it.
+
+Special Thanks to       : The guy who originally developed the 
+			  map for Duke Nuke'em 3D (Whoever you
+			  are, I salute you).
+			  Mrpops (Jose Garcia)...The guy who made
+			  the big gun.
+			  Tom Glorfield, Chad Bormann, Craig
+			  Phillips, and Kevin Peterson, for
+			  helping me play test, and for providing
+			  feedback.
+			  My wife, for her patience.
+				
+Webpage                 : http://members.xoom.com/AJ_James/arena.bsp
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : None.  But the gun takes getting used to.
+Build Time              : 3 days.
+
+================================================================
+
+Installation
+
+To play this level, extract this file "arena.bsp" into
+your sierra\half-life\valve\maps directory and then start the 
+game.
+
+Start a deathmatch server and type "map arena" or "changelevel
+arena" in the console. To test it out in single player mode
+start Half-Life with hl.exe -console, hit the console button and
+type "map arena". 
+
+================================================================
+
+Copyright and Permissions
+
+Please keep this file intact. Please let me know if you use it on
+a DM server.  I appreciate any feedback.  This is my first level.
+
+- AJ James
+  AJ_James@xoommail.com
+  January 6, 1998

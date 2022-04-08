@@ -1,0 +1,53 @@
+================================================================
+Title                   : JAL_DM1.WAD   
+Author                  : James Legg
+Email Address           : jal@doc.ic.ac.uk
+Misc. Author Info       : Sysop of Imperial BBS (+44)-322-556325
+
+Description             : Set in an open-air castle castle
+                          Deathmatch only
+                          Designed to be played with -respawn
+Additional Credits to   : -none-
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes, but no fun...
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes, the reason I created it!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 2hrs
+Editor(s) used          : DEU 5.1 of course + DEU 5.2 BETA
+Known Bugs              : -none-, Been tested by a few people
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+
+BBS numbers: Imperial BBS (UK) +44-322-556325 14k4 Fido-2:440/29
+
+Other:
+
+Please send ideas/comments to my e-mail address or BBS

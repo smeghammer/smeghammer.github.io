@@ -1,0 +1,120 @@
+
+
+
+                                  MURDER2
+
+                          A spelunker's horror story
+
+         This WAD is for registered ver 1.2 of DOOM (1) by id Software.
+
+   For solo cave explorers this level is not overdone in difficulty.  There
+is only one Baron and two cacodemons, nothing harder.  Difficulty levels have
+been set as well as four multi-player start positions and nine deathmatch
+reincarnation spots.  For deathmatch players, extra weapons have been placed.  
+Sorry, no BFG.  
+   There are numerous sniper spots and hide-aways for those not inclined to
+roam about.  Almost all parts of the cave are accessible by teleport.  This
+was to preclude lots of passage hunting.
+   Two keyed cave gates let the solo player explore all the passages before
+arriving at the exit (beyond Double Wells). 
+   A self-running DEMO is included.  Simply type MURDERME to watch it.  
+Select Episode two to play it. This level replaces E2M1.
+
+                    -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+   For those interested in reading it, the following paragraphs describe the
+REAL Murder Hole cave that this level was modeled after.
+
+   Murder Hole is a vertical cave (ropes required) and very dangerous due to
+shifting breakdown, numerous pits, and exposure (amount of empty space below
+you on various straddles and climbs).  Some friends and I are currently
+surveying the cave and it should top out around two miles in length.
+   The entrance is a 78 foot rappel that leads to two Straddle Pits.  The 
+third pit drops into the Climbing Section.  The next room is the Meander Room 
+(demon lunching on a cave vandal).  This central room has passages to the west 
+and to the east.  
+   The western side leads to the Park Bench overlooking a chasm, then to the
+pool area (protective Baron).  Beyond, the Layback Climb leads up to a large
+room that may be a second entrance (lava room).
+   Eastward from the Meander Room, a staircase leads up to a passage with the 
+Elevator on the left and the Butt Ledge ahead (we normally sit on the ledge
+with feet dangling over the 30 foot pit and lean under the overhanging rock)!
+Beyond the Butt Ledge is Double Wells; twin 90 foot pits.   
+   The three northern passages seen on the map from this area all lead down
+to the Elevator stream which we have now connected to the Climbing Section 
+(yellow key gate). The western side of this stream sumps north in a round 
+room. This is the entrance to Atlantis.  We surveyed through it during a long 
+drought and connected it back to the chasm area. Unfortunately, since Atlantis 
+is underwater most of the year, so it is here.  
+   Many passages have been left out due to editor restrictions.  Still, you
+are looking at over a mile of cave!
+
+      Remember the caving motto;
+
+      Take nothing but pictures,
+      Leave nothing but footprints,
+      Kill nothing but time.
+
+               Yeah, right!!
+
+Enjoy!
+                                     Critical Edge
+
+
+================================================================
+Title                   : MURDER2.WAD   
+Author                  : Lawrence Britt   <Critical Edge>
+Email Address           : l.britt2@genie.geis.com
+                          lbritt@bev.net
+Description             : Caving DOOM style!
+
+Additional Credits to   : id Software and the authors of DEU and BSP.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : DEMO 1
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 100+ hours.  Completed 8 April 1994. 
+Editor(s) used          : DEU 5.0, DEU 5.1, BSP 1.0, BSP 1.1
+Known Bugs              : Distortion walking under the hanging dudes in the
+                          Elevator.  Also, if you load this under a version
+                          later than 1.2, the demo won't run.
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.  
+    You MAY NOT alter any vertexes, linedefs, sectors or teleports.
+    You MAY, however, alter deathmatch start locations, enemies, weapons,
+    and bonuses providing you do not distribute this altered file.
+
+You MAY distribute this WAD pursuant to the following limitations:
+   1. You include this file and the original WAD, with no modifications.  
+   2. You MAY distribute this WAD to commercial and private BB systems.
+   3. You MAY NOT distribute this WAD as part of a commercial product without
+      my prior written permission.
+
+
+* Where to get this WAD *
+
+Available on GEnie in Gaming Library #30.
+
+Also available at ftp.uwp.edu
+
+
+
+
+
+
+
+

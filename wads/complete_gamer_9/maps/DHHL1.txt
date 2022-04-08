@@ -1,0 +1,57 @@
+================================================================
+Title                   | DHHL1
+Filename                | DHHL1.bsp
+Author                  | Brice "DuKeHeNrY" Christman
+Email Address           | sgtbaker@sky.net
+Web Page                | www.sky.net/~sgtbaker
+Description             | A Dark map based off on an old Quake map that I diddnt have a 			| chance to finish until now :), No custom textures in this one. 
+			|
+			| 4-8 players... Havent tried it with more yet :)
+			| *heheh* watch your back :=))
+			|
+                        | Still Kicking Around The Idea Of Adding More Detail, But As
+			| Of Now Its Still Too Damn Slow On My Pathetic Machine :)
+
+
+================================================================
+
+* Play Information *
+
+
+Single Player           | Feel Free To Search For An Exit :)
+Cooperative             | Nope
+Deathmatch              | Yes
+
+
+* Construction *
+
+
+Base                    : Whatcha Talkin Bout Foo? 
+Finish Date             : January 4, 1999
+Current Revision        : January 4, 1999
+Editor(s) used          : Worldcraft 2.0
+Build Time              : What social life? 
+QBSP3 Time              : 2 Mins
+QVIS3 Time              : 1 Hour
+QRAD3 Time		: 1 Hour 45 Minuites
+
+
+* Special Thanks *
+
+
+Eddie Smelcer - For the network :)
+
+Chris Glaeser - For Input and Playtesting
+
+Nate Smelcer - For Input and Playtesting
+
+Jason Harvey - For Playtesting 
+
+The Caffene God - For Without Which I would Be Nothing. :)
+
+My Old Skool Quake Buds - Arcanum, Vampire, Everlast, Ein Lair, 
+Romeo M, Whitetrash, CC-Commander, 2501, Antius, GrittyKitty, 
+Mentalpain, 2501, CC-Destro, Scythe, Ash, And All Who Have 
+Been Through A Good Game With Me... :)
+
+And To Anyone Who Downloaded This :)

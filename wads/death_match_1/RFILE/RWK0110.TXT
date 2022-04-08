@@ -1,0 +1,88 @@
+================================================================
+Title                   : Untitled   
+Filename                : RWK0110.WAD
+                          Logically selected file name for easy 
+                          sorting and categorizing future works.
+Author                  : Rick Kehres
+Email Address           : None
+
+Misc. Author Info       : First try at computer graphic design work.
+                          I write business programs and software for 
+                          midrange HAL computers and thought this would
+                          be a challenge (It definitely was!!). 
+
+Description             : My goal was to produce a PWAD that took some 
+                          thought and/or skill to play rather that pure 
+                          blast 'em 3rd grade logic.
+
+                          All secrets and doors are marked in some way
+                          by change in color, texture or decoration.
+                          Pushing on walls to find totally hidden secrets
+                          is not my idea of fun and a total waste of time.
+
+                          Don't look for an over abundance of ammo as it
+                          takes the skill out of the game.
+                                    
+Additional Credits to   : id Software.
+                          Designers of DEU and BSP.
+                          Anyone who feels that they want, need or
+                          deserve it.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (Untested)
+Deathmatch 2-4 Player   : Yes (Untested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+                          Over 60 hours.  Could have taken less
+                          but I am a perfectionist at heart and 
+                          even the smallest little errors frustrate 
+                          me.
+                          
+Editor(s) used          : DEU 5.2  BSP 1.1
+Known Bugs              : None - As I said, I strive for perfection.
+
+
+* Copyright / Permissions *
+
+Authors MAY include this level UNMODIFIED in multi-WAD distributions.
+
+Authors may NOT modify, add and/or change or in any other way alter this 
+level.  There are too many pretenders out there who feel if they 
+add more weapons, ammo and enemies to an existing WAD they have created 
+a masterpiece.  I have put too much time and effort to make this
+WAD work like I have designed it to let some amateur who has never built
+a single wall ruin my personal work of art.  (We artists are really
+picky about these things aren't we.)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You MAY distribute this WAD file in any format.
+
+* Where to get this WAD *   
+(Sort of silly since you already have it !)
+
+FTP sites:
+
+BBS numbers:
+
+Contact Author thru:
+
+Software Creations BBS: 508-365-2359   508-368-7036 
+Digital Dreams BBS:     704-683-0090   704-683-0091
+
+

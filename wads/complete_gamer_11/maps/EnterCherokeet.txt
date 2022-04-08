@@ -1,0 +1,80 @@
+================================================================
+Title                   : Entrance to Cherokee Base
+Version                 : 1.0
+Release Date            : 6/26/98
+Filename                : Cherokee37.zip
+Author                  : Josh Stern aka "Dirty Plastic Fork"
+                          (DPF for short)
+Email Address           : JMStern@concentric.net
+Web Page                : None
+Description             : My first attempt at any level design of any
+                          type. Period.
+Where to get this map   : ftp://ftp.cdrom.com/pub/unreal/maps
+Other levels by author  : None - but this was so much fun...
+Additional Credits to   : Epic Megagames (http://unreal.epicgames.com/)
+                          A special thanks to a very special
+                          episode of "The Smart Guy"
+================================================================
+--- Play Information ---
+Game                    : Unreal
+Level Name              : Entrance to Cherokee Base
+                          Second of three planned levels.  
+Single Player           : Yes
+Cooperative             : No
+Deathmatch              : Not really, but sure if that floats your boat
+Dark Match              : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Known bugs              : None known.
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : 3 weeks
+
+Unreal Design Competition
+-------------------------
+Entered in the UDC under the SP catergory.
+Date submitted: 26/6/98
+
+
+Awards: None, although I expect a swift kick in the head because it's
+over the size limit... Oh, come on - size does matter!!!.
+------
+
+
+Installation
+------------
+   Unzip the the files and place them into your maps directory under the unreal
+   directory. Type in "open <mapname>" to run the map. Alternatively, double-click
+   the map.
+
+Extended description:
+--------------------
+None...
+
+Author's Notes
+--------------
+I had an awesome time builting this thing and learning Unrealed!
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Foo L. Barr 1998.
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.
+

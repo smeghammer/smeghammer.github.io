@@ -1,0 +1,155 @@
+================================================================
+Title                   : Cray Oh La Boxes
+Filename                : craybox.bsp
+Date of Release         : Jan 20th, 1998 (11 months after CY2A) 
+Author                  : Tom Hall
+Nick                    : Organon
+Email Address           : tom@ionstorm.com
+Description             : Really fun deathmatch level for three
+                          to eight players.  Quake 2 only!
+                          Two players will have some, er, quiet
+                          time, shall we say.
+Problems                : None that I know of.  Not as pretty as
+                          I'd like, and some clunky things were
+                          added to fix too many visible polys or
+                          edges or something.  That also caused
+                          me to take out a cool teleporter and
+                          secret place.  Ah, well.
+
+================================================================
+History
+----------------------------------------------------------------
+We were porting Anachronox over to Quake 2, and I wanted to be
+able to talk with the level designers more fluently, and to see
+what Quake 2 could do.  I didn't explore everything, but I got
+a little taste of the power.  I look forward to trying more
+stuff in the next level.
+   About the name--Squirrel picked on the computer in the main
+room, saying it looked like a Semi, so I was going to call it
+[Something] Semicomputer, but he also picked on most people's
+Quake 2 levels, including mine, for being too colorful.  So
+instead of fixing it, I named it Crayola Boxes, which is also
+a pun, because there's a computer (could be a Cray) in the main
+room with boxes around it.  I spelled it like that so it can
+go everywhere without some stupid megacorporation making me
+change the name.  Also, I say "La" a lot in email and ICQ and
+IRC and CU See Me.
+   Thanks to everyone that tested it (basically Team Anachronox
+and Bill Nadalini), and thanks especially to Cleaner, Rich, and
+Larry for their help with design and editing and map bug fixes
+and BSP workarounds.
+   BTW, I think this looks _okay_ and frame rate is a little
+slow, but it exists, which is cool.  Next one will be pretty
+and fast...
+================================================================
+
+* Play Information *
+Game                    : Quake 2
+Single Player           : No
+Cooperative 2-4 Player  : No  
+Deathmatch 2-13 Player  : Yes. There are like 13 spawn spots.
+Difficulty Settings     : No
+New Textures            : None--I like the one-file simplicity.
+Exit                    : No
+
+* Construction *
+ 
+Editor(s) used          : QuakeEd 3, QuakeEd 4 
+Fuel                    : Pepsi, iced tea (no lemon, no spoon),
+                          orange juice, water, and Baked Lays.
+                          Oh, and some awesome bread my
+                          girlfriend Melissa made.
+================================================================
+HINTS ON CRAYBOX
+Here are some tips on getting around Cray Oh La Boxes. Don't
+read this if you want to figure stuff out by yourself!
+==Main Computer Room
+  You can jump from the railing above the rocket launcher hole
+  onto the crates.  You can also just walk onto the shelf
+  behind the boxes.  Did you see the armor and health
+  underneath the ramp, too?  Hope so.  I always go there....
+  Rocket launcher, armor....
+
+  You can climb on either side of ladders, but only the tall
+  one is a hiding spot.
+
+  You can get to all the window ledges.  Everyone wants the
+  cool armor and the rockets--shoot them as they go for the
+  goodies.
+
+  You can use the computer (that big block of beigeness)
+  to get to the grenade launcher, the outside area, or
+  straight through the window above.  Oh yeah, and there's a
+  freakin' megahealth on it!  Go!
+      And if you have trouble jumping from the grenade launcher
+  platform to the computer, jump onto the lights, and then up
+  on top of the computer.
+
+  You can hop from the ladder/teleporter area to the ducts.
+
+  You can sneak through the little window to the outside.
+
+  If there's a ledge, you can hop to it somehow.
+
+==Lower Computer Room
+  Know where that extra health is behind the computer.
+
+  Going down and going around the computers and taking
+  an unexpected way out can lose people pretty easy.
+
+==Outside Grass Area
+  You can hop between all the ledges on the support beams.
+
+  The platform will squish you!  Watch it!
+
+  You can sneak through the little window.
+
+  You can hop to the beam then WALK to the Railgun.
+
+==Dark Lava Pit Room
+  You can easily hop to the machine gun on the Lava Heat Vent.
+
+  The Lava Frogs comment is by the teleporter in the lava.
+  It was in Corpseyard II and is sorta my sig, though not
+  of brushes.  I guess it is my Hitchcock appearance or
+  something.
+
+==Central Catwalk Lava Death Room
+  The corners are ladders!
+
+  You can hop on the bottom of the pipe, onto the little
+  shelf and back on a path.
+
+  You found the Invulnerability, right?
+
+  If you hear someone lava-screaming and you are near, run here
+  and start firing--they'll probably be climbing the corners
+  and REALLY vulnerable.  Heh heh.
+
+==North Secret Shiny Room
+  You can sneak into the room with the glowing yellow
+  machines in it.  Hopping over, you can get to a ladder
+  that gets you to rockets and cells.  Falling off early
+  gets you health and a hiding place.
+
+  You can TRY to hide on the back of the ladder in the main
+  room....
+
+==Secret BFG Room
+   Crouch to get the BFG obviously.  Go on the outside so
+   people running by don't see you.
+
+
+STANDARD TECHNIQUES
+You can run across 64-wide gaps, like from the crates to the
+shelf.  You will get around a LOT faster if you don't have to
+jump.  Also, if you jump before plummeting in certain places,
+you will get hurt, while you won't if you just run off.
+
+Later!   --Tom
+================================================================
+("Cray Oh La Boxes" is not an official ION Storm product.
+Whatsoever. At all.)
+
+P.S. Anachronox is going to be reaaaaaaally cool.  I can't wait!
+

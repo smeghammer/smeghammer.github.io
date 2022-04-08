@@ -1,0 +1,66 @@
+================================================================
+Title                   : PEACE.WAD   
+Authors                 : Christian Hellmann
+                          Wolfgang Grassl
+Email Address           : grassl@mailer.uni-marburg.de
+=================================================================
+                      
+        !     This pwad is the ULTIMATE DEATHMATCH LEVEL.       !
+        !     We think you can't build a level that is more     ! 
+        !     fun ! If you agree with us or have an another     ! 
+        !     opinion please email !                            !
+ 
+Description             : A DEATHMATCH ONLY level for professional
+                          deathmatch players ! It's small and very
+                          fast. There are all weapons and an exit.
+                          The level is based on shadows2, but
+                          there is almost everything changed.
+                          We began to modify shadows2.wad for our
+                          own purpose only, but the result was to
+                          good to keep it unpublished (and we spent
+                          to much time now to rebuild the level
+                          from scratch).
+                         
+Additional Credits to   : the authors of SHADOWS2 :
+                           Sergey Ishchenko and Ivan Samarin
+                          the makers of DOOM, DEU and BSP !
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No (there is a player 1 start but no monsters)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes !!! DEATHMATCH ONLY !!!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : based on shadows2 
+Build Time              : very much work with graphic details and
+                          gameplay .. about 5 days of development
+                          with much playtesting ... 
+Editor(s) used          : Deu 5.1 and BSP11x 
+                          (shadows2 was build with DE260b2)
+Known Bugs              : NO BUGS !
+
+* Copyright / Permissions *
+
+(You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.)
+!!! You may distribute this PWAD if you don't get in conflict with
+!!! the shadows2 copyright !!!
+
+* Where to get this WAD *
+
+FTP sites:
+ infant2.sphs.indiana.edu
+
+OTHER:
+ alt.binaries.doom
+

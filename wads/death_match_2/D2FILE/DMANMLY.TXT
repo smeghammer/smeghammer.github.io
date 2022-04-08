@@ -1,0 +1,69 @@
+================================================================
+Title                   : DOOM ANOMALY (DMANOMO.ZIP)
+Author                  : Lee Dixon
+Email Address           : COMPUSERVE USERS: 74354,3314
+                        : INTERNET USERS: 74354.3314@COMPUSERVE.COM
+Misc. Author Info       : just another DOOM-maniac
+
+Description             : This PWAD is the First level of my SHORES OF HELL
+                          replacement mission. I am releasing it as a single
+                          level for the sole reason to get feedback and
+                          comments on my design/implementation so I can
+                          make the other 8 even better! This is my first
+                          attempt at a PWAD so be gentle!
+
+EXTREMELY IMPORTANT!!  Make *SURE* Gamma Correction is OFF!! You will be MISSING
+                       the essence of the "feel" I have tried to convey here.
+                       DOOM is a dark and forboding place with dimly lit areas,
+                       dangerous shadows and sounds. turn out the lights and
+                       ENJOY!!
+
+Additional Credits to   : Mr Geoff Allan. Creator and author of DOOMeD.
+                          Without his program and assistance this would just
+                          be DEU-DOO (*JUST KIDDING!!*) I was glad to be one
+                          of the alpha testers for DOOMeD and I wore him
+                          out with questions and such. Thanks also to
+                          Dave Bruni. Fellow Alpha tester and author of
+                          the DOOMeD tutorial(s) He helped along with Geoff
+                          to play test this thing for me.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 (For Now...)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : Yes (basically less/more monsters)
+New Sounds              : No (may change music when mission is completed)
+New Graphics            : No (there will be some in the follow on levels)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Whatever it took to make (i hope) a good level.
+Editor(s) used          : **DOOMeD The REAL thing**
+Known Bugs              : Some H.O.M. at the exit door if you stand just so.
+                          If you find any other bugs,by all means please tell me.
+
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional
+levels. (This WAD will be part of my SHORES of HELL mission replacement.)
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: (I dont have full internet access....yet)
+
+BBS numbers: Software Creations (home of ID Software among others)
+             508-368-7036
+Other: COMPUSERVE in the "GAMERS" forum libraries
+

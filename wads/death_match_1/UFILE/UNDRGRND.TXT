@@ -1,0 +1,65 @@
+===============================================================================
+Title                   : UNDRGRND.wad
+
+Authors                 : Eliot G. Mah
+                        
+Email Address           : szmah@bullwinkle.ucdavis.edu or ErtM@aol.com
+                      
+Description             : large custom PWAD.  May run a bit slow on some
+			  systems.
+
+Special Thanks          : Dr. Spencer Kwong who admirably attempted to test
+                          this version using an IBM Value-Point with its 
+                          famous mouse compatibility problem.
+
+Additional Credits to   : Those of you responsible for DEU521, BSP,
+                          and the wad modifiers DMGRAPH, DMMUSIC, and
+                          DMAUD...
+                          And of course, everyone working at:
+
+                          **************  id Software  **************
+
+                          (How many Ferrari's can a person own?)
+
+                                          
+===============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No (sorry, no.  I've never been able to get this to work
+			  so I have no experience with Deathmatches)
+Difficulty Settings     : Yes
+New Sounds              : No (don't you have enough already?)
+New Graphics            : Yes (a few wall textures for something new)
+
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : too long (way, too long)
+Editor(s) used          : DEU 5.21, and BSP for Node Building
+Known Bugs              : I tried to get them fixed. Let me know if you
+                          find any.
+
+
+* Copyright / Permissions *
+
+Authors MAY not use this level as a base to build additional
+levels EXCEPT to add modifications to make the level playable for
+multiple players/deathmatch.  
+
+You MAY distribute this WAD freely so long as this file is 
+distributed with it.
+
+
+*** Comments welcome !!!!!
+
+ at    szmah@bullwinkle.ucdavis.edu
+ or    ErtM@aol.com
+
+
+

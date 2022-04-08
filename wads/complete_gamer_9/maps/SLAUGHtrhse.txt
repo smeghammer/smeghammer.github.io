@@ -1,0 +1,49 @@
+ Information *
+Title                   :Slaughterhouse
+Filename                :SLAUGH~1.bsp
+Author                  :[SOG]SpinalTap	
+Other lvls by author    :None
+Email address           :spinal9315@aol.com
+Home page               :n/a
+Description             :2-8 player fragfest...In a pseudo-arena like 
+			 environment
+Additional Credits to   :[SOG]SpecOps and S.O.G. for playtesting and 
+			 and feedback..and for bein patient =)
+Single Player           :No..only for inspection
+Cooperative Player      :n/a
+Deathmatch Player       :2-8 (at most)
+CTF2                    :n/a
+Difficulty Settings     :n/a
+New Textures            :n/a
+CD Track                :n/a
+
+* Construction *
+Base                    :From scratch
+Editor(s) used          :Worldcraft 2.0
+Compile Machine         :Pentium Pro 200 w/64 megs RAM and Voodoo1
+Compile time            :approx 750 seconds
+
+================================================================
+                ::: ADDITIONAL INFO :::
+================================================================
+
+This is my first ever map made for any 3d shooter...Its meant to be a 
+small map with lots of death and carnage...It may not be the greatest
+looking map around, but it's MY map and I'm damn proud of it. I give
+props to my friends Specops and SOG for their help (Specops REALLY 
+wanted a carnage map) and to people  out there in the HL community
+like Hellbringer for their help..Thanks!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, as
+long as I am credited and a copy of the map is sent to me. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

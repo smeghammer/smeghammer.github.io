@@ -1,0 +1,48 @@
+---------------------------------------------------------------
+Map Name: 	The Deep Dark Wells
+Release Date:   June 3rd, 1998.  11pm EST.
+Revision:	Pre-Release.
+Author:		Daniel Blair-Johns (arteris@technologist.com)
+---------------------------------------------------------------
+
+	A nice little Deathmatch level I got the idea for while
+working on my Single Player level.  This however isn't the end of
+this level as I'm planning on adding more to it later.  Heck, it
+might even become part of the series of single player levels I'm
+planning for an add-on but I'm not gonna go into detail on that. ;)
+Was hoping to do a Total Conversion but don't want to get OVER
+ambitious considering this is my first foray.
+
+	Please report any flaws/bugs you find within the level for
+future reference.  Also, this level is not to be modified or re-used
+in any way other than it's original form unless given the explicit
+permission of the author.
+
+Background Story:  (for those that care)
+
+	You stood at the edge of the suspicious dome.  Looking down
+through the opening at the top you say the machinery beneath you
+chugging away.  Climbing back down the hill you read the report from the
+now empty guardhouse..
+
+	"... continue to proceed with core burn-off of excess waste.  Continue to
+use the melting ice chunk in section 02 to keep the burn-off from overheating.  
+Section 01 is still awaiting a new block that should be delivered within the next
+couple weeks.  At that point we'll cool off the core again and connect the final two
+sections for maximum efficiency.  Teams are still looking into the caves we found while
+excavating the new sectors... "
+
+	Reading the report and looking at the massacared bodies, the tell-tale marks of
+the Skaarj blades across their chest.  Sighing deeply you unholstered the disruptor pistol,
+checked the energy level and continued in the steps of your ancestor, and jumped down into
+the pit, ready to clean house..."
+
+
+(Of course because this is only a deathmatch level right now all you found was a bunch of
+evil frag hungry people out to kill ya ;)
+
+More information on the add-on series I'm planning will be posted on PlanetUnreal when I got
+my website running.
+
+Daniel (a.k.a. Arteris)
+arteris@techonologist.com

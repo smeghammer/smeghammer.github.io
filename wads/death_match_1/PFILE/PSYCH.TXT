@@ -1,0 +1,8 @@
+Well, here's the Reed College Psychology Building version 1.0 for DOOM v 1.2.
+I used DEU5.1 and BSP11.
+There are some bu..  uh, I mean, Features in it...
+Some of the bugs I think work pretty well since it IS the psych building, so I left them in, but others, particularly the HOM effect I have no idea how to correct.
+
+Well, anyways...  Just try it out if you like...
+mark
+gchen@reed.edu

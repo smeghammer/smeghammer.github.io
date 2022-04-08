@@ -1,0 +1,217 @@
+April 8, 1998
+
+================================================================
+Game			: Quake2
+Title                   : Deja-Boo & Deja-Boo (Part II)
+Filename(s)             : Deja.bsp, Deja_2.bsp, deja.txt   
+Author                  : Dakila
+Email Address           : dakila@msn.com
+Description             : Single player level(s) for Quake 2 (my first map.)
+Additional Credits to   : id Software, for Quake2 (has nearly made up for Quake1) 
+                          The guys at Qoole (Great editor no matter what anyone else says)
+			  Bad Monkey for the Prefabs (grdtower, and floor lever)
+			  The guys over at Rust for the tutorials...they make this much easier.
+================================================================
+
+----INSTALLATION----
+Copy both .bsp files (deja.bsp, deja_2.bsp) 
+into a subdirectory of quake2\baseq2 called maps.
+
+(i.e. c:\quake2\baseq2\maps)
+
+Then run quake2.
+
+*Go into the console by pressing the key left of the 1 key (~),
+and type in "map deja"
+
+The .bsp extension should not be typed in, and neither the 
+inverted commas.
+
+--------------------
+
+::::::::::::::THE MISSION:::::::::::::::::
+
+***Get some Intelligence.***
+
+(For your superiors that is...)
+The information is on a CD that you have to ask the strogg to give you.
+If they refuse you may use force...
+
+
+Good luck, Marine - you'll probably need it...
+
+::::::::::::::::::::::::::::::::::::::::::::::
+
+TIPS
+____
+
+SAVE the Invulnerability (if you find it) for the next level. 
+It will help your encounter with da Bosses.
+
+There is a platform that takes you up to the radar & the rocket-launcher but it is camuflaged.
+It is set into operation by the shoot-button inside the control room
+
+---------------Play Information---------------
+
+Level Name(s)        	: Deja-Boo, Deja-Boo (Part II)
+Single			: All alone is when you see if you are a man
+Deathmatch		: NO (are you kiddin? see above)
+Coop			: No (ditto)
+
+
+Comments                : You guessed it:
+				
+			  YOU NEED A 3DFX CARD TO FULLY ENJOY THIS...
+				
+			  I've tried to keep r-speeds down, but  
+			  They get pretty high around the control room, and 
+			  the gameplay SUFFERS GREATLY in software q2.
+			  This is due to inexperience on my part.
+
+			  I know a lot of things in this map are not perfect,
+			  I've left it in this state for a very good reason:
+		
+				I AM TAKING THE UK BAR EXAMS!!!
+				and it would be winderfull if I could pass. Thank You.
+				(however I should point out that my exam stress
+				did contribute to the inspiration for the level)
+		
+
+			Also note that this is my first map, and it is perhaps lacking 
+			in the "perfect flow gamepley" area (to say the least).
+			I promise that I will try to get better
+			at this for the next one.
+
+			If you have any hints or tips or suggestions please let me know...
+			I can take it, and I can use it.
+
+
+---------------Construction---------------
+Compile Machine :PII 300, 64MB, 3Dfx card
+
+Deja.bsp
+
+Base            : built from scratch 
+Build Time      : forever...but mainly around a month (this was my first map)
+Entities	: didn't check
+Brushes		: don't know
+BSP file size	: 2.20 MB 
+MAP file size	: 583 KB 
+Compilation time: BSP - 34 sec.
+		  VIS - 1 h. 27 min.
+		  RAD - (extra) 47 min
+
+Deja_2.bsp
+
+Base            : built from scratch 
+Build Time      : a week
+Entities	: ?
+Brushes		: ?
+BSP file size	: 827 Kb
+MAP file size:	: 124 Kb
+
+Compilation Time: BSP        		 - 10 sec
+		  VIS         		 - 5 min.
+		  RAD (extra, bounce 30) - 12 min.
+
+				Total:	2 h. 33 min 
+---------------------------------------------------------------------
+Editor used  : Qoole v.2.34 Registered
+---------------------------------------------------------------------
+
+Known Bugs      : 	Where to begin...
+
+			There are probably some bugs that I've overlooked,
+		  	please e-mail me and point them out 
+
+		1. The textures on the Glass Jar at the circle room with Boss2:	
+		   For the life of me I just couldn't get the x-alignment right
+		   so I gave up. If you know how to fix this e-mail me.
+
+		2. The sides of the "teeth" of the door before the control area:
+		   They are totally black because they are not being lit by anything.
+		   This is because I used CSG cutting to create the grooves
+		   and the teeth of the door fill them perfectly so no light can get in
+		   I tried to give them the light tag & transluscency, but nothing worked 
+		   If you know how to fix it please let me know.
+		   (I couldn't shrink them because then I'd get a "splitface error")
+
+		3. The game temporarilly hangs when the Tank Commander is killed:
+	           This is because a number of entities are spawned at the same time.
+		   Sorry. 
+		   excuse: Inexperience
+
+		4. This is a biggie..the glass floor in Deja (Part II) appears immediately, 
+		   whereas it is not actually there; result: falling into the lava.
+		   I tried every thing to get this right, I turned the floor into a train, 
+		   a door, but nothing worked. 
+		   If anyone knows why this occurs or how I can fix it tell me. 
+		   Just lob a few grenades or wait to see if the sound has stopped to be sure that 
+		   the floor has returned.
+
+		4. The r_speeds around the control room are shameful:
+		   I know, I know...leave me alone!
+
+		If you spot anything else that isn't trivial then please let me know.	
+
+
+THE DESIGN:
+----------
+I hate Dark depressing levels.
+They remind me of Quake1 which is an experience
+I wish to avoid remembering if I can help it.
+
+Single Player levels are about inspiration, and originality; they should provide an
+immersive environment for the player to PLAY through and ENJOY. 
+
+This isn't artistic nonsense from someone that can't or won't play deathmatch games; 
+I'm pretty good at deathmatch actually...
+but I can testify that DM provides you with 1/10 of the feeling you get when you complete
+your own level. That's the truth, honest.
+
+I have tried to set the level in a "real" environment other than the "old abandoned base"
+setting. there are too many levels you forget after 5 min you stopped playing them.
+
+This level supposedly takes place at an army barracks. I wanted to get more recognisable areas in,
+like a mess hall, or a garage with trucks, but the level got too big too quick.
+Maybe next time.
+
+I am not saying that my level IS inspiring or immersive or original. Far from it. 
+it is flawed in certain important respects.
+What I am saying is that those are my IDEALS.
+
+The greatest compliment I aspire to get someday is "your level is different".
+Till that day I shall keep trying.
+
+
+---------------Legal Stuff (necessary I'm afraid)---------------
+
+You can use this level and any of its single elements 
+in any level you design/produce,
+
+or in any compilation of levels you put together,
+for your PERSONAL ENJOYMENT 
+(as long as this text file goes with it, unedited), 
+but NOT for commercial purposes,
+
+or for distribution over the internet/www,
+NOT for commercial purposes, 
+(and this text file goes with it, unedited).
+
+Note that the source code belongs to id Software.
+
+
+Disclaimer: If these files adversely affect your, or anyone else's system, 
+	    I do not accept liability either in negligence or any other type.
+	    You have voluntarily accepted any risks of damage that may result from their use.
+	    Any loss you suffer from these efects is non-recoverable from me, and this includes
+	    financial, economic, or consequential loss.
+
+----------------Contacting Me---------------
+Please send me feedback of any kind. Even just to tell me you played it.
+
+dakila@msn.com
+
+
+Thanks,
+Dakila

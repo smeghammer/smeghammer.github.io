@@ -1,0 +1,13 @@
+This is an edited level of Episode 2 Map 1 with the walls completely re-done 
+with wood texture.  There's not much else changed with the exception of a few  
+monster changes, and the ability to jump into the main hall. (not sure of the 
+exact name, but you'll get the picture when you get there).  There's not a
+big difference but there's a lot of graphic changes and I think it looks
+like nicer. :)
+       If you have any questions, comments or suggestions send them to me
+at chopkins@bud.peinet.pe.ca or look for me on irc channel #doom as Lithium.  
+Let me know if you think it's any good and I'll try making a new level!
+Thanks!
+
+Chris "Lithium" Hopkins
+(chopkins@bud.peinet.pe.ca)

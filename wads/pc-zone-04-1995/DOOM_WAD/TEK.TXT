@@ -1,0 +1,16 @@
+This was originally just a setup for a Deathmacth level for myself and
+my murder-happy friends. I tried to add in some non-deatmatch
+componenets to make it more playable, however.
+The basis for this level is that it's a portiuon of my school's
+campus(Georgia Tech).
+Feel free to add on to it and send me bug reports(I've debugged
+extensively, but I'm sure there are more to go).
+I only ask that if you add on, you send me mail and let me know where
+to find the add on, 'cause I'd be eager to play any
+enhancements/changes.
+(I'm a bit of a doom addict myself).
+It's episode 1 mission 1.
+Have at it.
+						gt6523c@prism.gatech.edu
+
+

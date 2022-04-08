@@ -1,0 +1,57 @@
+================================================================
+Title                   : Radiation Processing Plant
+Filename                : RADPLANT.WAD
+Author                  : Chris Brooking
+Email Address           : cgb@maths.bath.ac.uk
+Description             : Large radioactive substance processing plant
+                          that's been overrun by hell-spawn.  Large, open-
+                          plan warehouse section.  Ideal for the Doomer 
+                          looking for a bit of a blast.  Also suits co-op
+                          netplay (like anyone plays it), but probably a 
+                          no-no for deathmatch (I woulda made a dm wad, but...
+                          long story).
+                          It's a bit linear, but hey, it's only my first
+                          wad, so go easy!  You'll have to look real hard
+                          to find the super-shotgun without cheating.
+
+Additional Credits to   : iD, of course, and Chrissy M and Tessy F, for a
+                          bit of testing.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP 01 (Doom2)            
+Single Player           : Yes.   
+Cooperative 2-4 Player  : Yes.    
+Deathmatch 2-4 Player   : No.   
+Difficulty Settings     : Yes.                
+New Sounds              : No.  
+New Graphics            : No.   
+New Music               : No. 
+Demos Replaced          : None.         
+
+* Construction *
+
+Base                    : That one sector that EDMAP starts you with.
+Editor(s) used          : EDMAP 1.22/1.23.
+Known Bugs              : A few slugs in my kitchen.
+
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: None
+
+Other:
+
+

@@ -1,0 +1,29 @@
+Title                   : The Ancient Pit
+Filename                : dmrdc1.unr
+Author                  : Rick Clark
+Email Address           : rickdale@flash.net
+Description             : An Ancient style DM maps good for 3 to 4 
+                          bots. Put this map in your maps directory
+                          and select Game-Botmatch and select it 
+                          from the list.
+Credits                 : Epic for a great game.
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : UnrealED
+Build Time              : 4 hours
+
+* Copyright / Permissions *
+
+Do whatever you want with it.

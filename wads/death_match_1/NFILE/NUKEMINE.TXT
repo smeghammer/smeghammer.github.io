@@ -1,0 +1,139 @@
+================================================================
+Title                   : Nuke Mine (Come Get Some)
+Filename                : NUKEMINE.WAD
+Author                  : Jason Hargreaves
+Email Address           : jhargrea@gpu.srv.ualberta.ca
+Misc. Author Info       : My girlfriend thinks I'm a DOOM-geek (sh-ya, right!)
+
+Description             : It appears that there has been an incident
+			on Nexus 14.  Nexus 14 is a mining planet, which
+			basically means its a rock floating in some shitty
+			solar system.  Nexus 14 is known across the universe
+			for its rich content of Nuke, a green substance that
+			makes a great meat spread, paint thinner or extra
+			firm hair gel.  Anyways, the last report from the 
+			Nexus 14 communications centre warned of an attack
+			from creatures released through a time-continuem
+			breach (sorry if that's spelled wrong).
+				You have been ordered to go in as survelance
+			only.  You are to assess the situation and be out in
+			two hours to report to your commanding officer so that
+			preparations can be made for a counter assault.
+				The only problem is, you think your tough 
+			enough to take on the army of creatures yourself.  You
+			stupid twit!  What makes you think that one person
+			could possibly drive off an entire army of blood sucking
+			demons from Dimension-X?  Fine then, go ahead...
+
+Additional Credits to    Sounds:  I admit it... I'm a thief.  I STOLD some
+			sounds from the aliens sound package and also from the
+			Laura Beyer add on packages (sorry).
+			 Deu52:  I can't wait for Deu version 6!!! No wait. On
+			second thought, my deu.log is over 300K...
+				HOLY SH*T I'M AN ADDICT!
+			 BSP 12x: Couldn't live without it (although I'd like
+			to get my hands on the nodes builder that id uses,
+			it might solve my problems (see bugs section))
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1,E1M2,E1M3,E1M4,E1M5,E1M6,E1M7,E1M8,E1M9
+			 (I guess I could have just said Episode 1, right?)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes (20 new ones!, see nukegrph.txt for info and
+			   try out nukegrph.bat for a quick view)
+New Music               : Well, sort of
+Demos Replaced          : All
+New Anything Else	: Yup!  It's amazing what you can find when you
+			  poke around in the doom.wad file. (you'll see when
+			  you end the game)
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : deu, bsp, dmmusic, dmgraph, dmaud, wt100
+			  graphic workshop and even paintbrush for Windows too!
+Known Bugs              : I had some real node building problems in missions
+			  7 and 8.  Try as I could, there are some HOM effects
+			  (god, I feel like an amateur).
+			  A couple of the levels are not very friendly for
+			  multi-play.  I didn't beta test using two players
+			  until it was too late.  Big hints for me
+			  1.  Even though a door may need a colored key, always
+				make the backside a normal door. That way if
+				only one player has a key in a new area and they
+				die, the other player is not trapped in there.
+				Sorry about that.
+			  2.  Always have enough radiation suits for everyone.
+				It really sucks to have to stand there and
+				watch as someone else does all the work.
+				Sorry about that.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  (Just let me know first. Hey, I may want to help)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________
+HEY YOU READ ALL OF THIS!!
+
+Well just for you, here's a helping hint.  The new graphics I made were
+kind of a last minute thing so they only appear in Missions 6,7,8 & 9.
+If you only want to see the new graphics warp these missions.  Or else you
+can use the batch file nukegraph to view the textures (you'll of course need
+to have dmgraph.exe handy).
+
+Also, if anyone would like to know how I made the new textures here's how...
+Using wad tools, I made lbm graphic exports of ceiling textures that I thought
+were cool as well as one texture that had dimensions of 128x128 bits.  Using
+graphic workshop in windows I converted the lbm files to bmp formats.  I opened
+up about 5 paintbrush programs in windows and then opened up all of the bmp
+files at once.  Using the 128x128 bmp as a template, I copied and pasted bits
+of the ceiling and floor textures onto the 128x128 wall.  I found I had to do
+this because if I copied a 256 color image into a new paintbrush file, it
+would not store it as 256 colors, rather as a 16 color load of garbage.  The 
+other reason is that the 128x128 bmp serves as a nice template so you know
+how big everything is.  Also note that a ceiling or floor texture is 64x64 bits,
+so if you copy four sections onto your 128x128 wall you have a new texture that
+will line up with itself on both sides.  For best results in paintbrush, use
+the keyboard arrows to fine tune your position.  Play around with it, you'll
+soon find what works best for you.  
+For the grated windows, I used one ofthe ceiling textures with grating, zoomed
+in, filled the holes with cyan and copied it onto my new wall.
+Whamo! Instant walls with little see through bits.
+I then used gws to convert the bmp back to gif files.  I used wad tools to find
+some wall textures that were 128x128 and are really bad walls to look at (sorry
+id, but there are a couple).  128x128 walls are something like 17,544 in 
+size, for example all those concrete walls).  Then using dmgraph.exe, I stored
+these gif files in a pwad file.
+If you are curious to know, the whole procedure took about 4 hours for the
+20 textures that I made.
+
+If you read all of this then you are a very curious minded person and you
+may want to get in touch with me by e-mail.  There is soooo much to tell you.
+
+			       --- JAYMAN ---

@@ -1,0 +1,41 @@
+================================================================
+Title                   : TRIANGLE.WAD ver 1.2
+Author                  : Alex Siegel
+Email Address           : scimitar@netcom.com
+Description             : Deathmatch wad. Small, intense. Lot's
+			  of little gadgets and holes to have fun
+			  in. Layout is based on a giant triangle,
+			  with many other polygons thrown in. This
+			  wad is perfect for two person combat.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : yes
+Cooperative 2-4 Player  : yes
+Deathmatch 2-4 Player   : yes (highly recommended)
+Difficulty Settings     : yes
+New demos               : no
+New Sounds              : no
+New Graphics            : no
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 20 hours total
+Editor(s) used          : DEU 5.2 and BSP 1.1x
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: (The DOOM server) infant2.sphs.indiana.edu

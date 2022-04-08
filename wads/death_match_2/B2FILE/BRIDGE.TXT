@@ -1,0 +1,59 @@
+================================================================
+Title                   : The Bridge   
+Filename                : bridge.WAD
+Author                  : Justin Ward
+Email Address           : ward@escape.com
+Misc. Author Info       : J.H.S. student in N.Y.C. -- I'm still alive, though
+
+Description             : A simple little bridge (sorta). It works like one
+I kinda put in a few neat things, at the beginning, which you'll probably find
+fun. It doesn't really take a lot of work to make a level this small, but
+it DOES function as a bridge, and that's why I made it. It's not really a
+level you play, more a level you play once, and then use in your own levels.
+I hope you enjoy it, I know I enjoyed making it.
+
+Additional Credits to   : Somebody on CIS, who posted a message asking
+                          about bridge possibilities and gave me the idea
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu 5.1 and BSP 1.1x -- I made it a while ago
+Known Bugs              : I don't think there are any, but I forget
+Build time              : I was still learning DEU, and so it took WAY longer
+                        : than it should have. Oh well. I didn't clock myself.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. -- That's why I made it. So that there COULD be bridges in DOOM  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. However, if you charge for it, tell me before you do, and 
+we can work out a deal. Although it is NOT copyrighted, and I don't 
+know much about legal jazz, but tell me through email beforehand, and
+wait for a reply!!!!
+
+
+* Where to get this WAD *
+
+FTP sites: Infant2.sphs.indiana.edu
+
+BBS numbers: Compuserve has it in the Gamers forum
+
+Other: Dunno

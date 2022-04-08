@@ -1,0 +1,63 @@
+================================================================
+Title                   : Where Eagles Dare - Extended Version
+
+Filename                : eagle.bsp
+Date of Release         : July 22, 1998 
+Author                  : Rickard Edén aka Nephilim
+Email Address           : rickard.eden@swipnet.se
+
+Description             : Base map. Sort of an extended Where Eagles Dare(oh yeah?)
+			  My first Q2 map, so i thought i'd take one of my old maps and modify it 			  to make the start a little easier. It turned out to be a pretty 			  independant map anyways (which was intended).
+			  All weapons are there except the BFG. It simply didn't fit.
+
+History			: Blah. Just took too long to do.
+			
+
+Other works by Author   : 
+			  ----- Quake 1 Maps -----
+			  Where Eagles Dare  - QDM
+			  Hell aka Vile	     - QSP
+			  A Base Beyond      - QDM                
+
+
+Additional Credits to   : KRON, for betatesting and giving helpful hints on weapon placement, and 			  for liking the map :) 
+			  Ben Morris and Valve, for Worldcraft
+			  iD, for Quake and Quake2
+
+MapTesters		: KRON
+
+================================================================
+* Play Information *
+Game                    : Quake
+Single Player           : No
+Cooperative 2-4 Player  : No  
+Deathmatch 2-4 Player   : Ya!
+Deathmatch 5-8		: Ya! (6 spawnpoints)
+Difficulty Settings     : Why would there be?
+New Textures            : Nope, not here
+Exit                    : No
+
+
+* How To Make It Work *
+Just put the map in your quake2/baseq/maps directory and when inside the game, get the console down and type "map eagle".
+
+
+* Construction * 
+
+Editor(s) used          : Worldcraft
+			 
+Compile machine         : Celeron 333Mhz 64Mb win98.
+
+Compile time            : Nope, forgot to take the times
+
+
+Legal Stuff And More	: What more can i say?
+			  Drop a line and tell me what you think about it.
+			  Tell me if you decide to put this map on a server,
+		 	  in a pack, or on a CD. Not for commercial use unless i agree on it.
+			  I don't have a page, nor have i made any tutorials about
+			  mapediting, i think there are enough of these out there.
+			  	
+Comments, suggestions   : rickard.eden@swipnet.se
+ICQ			: 2166247
+			(c) Rickard Edén

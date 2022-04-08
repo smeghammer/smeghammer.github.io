@@ -1,0 +1,77 @@
+
+================================================================
+Title                   : DMOMEN1.WAD   
+Author                  : Kathy & David Bruni
+Email Address           : 74353,357
+Misc. Author Info       : This is my 5th WAD file and the 2nd one that my wife 
+			has more or less designed.
+
+Description             : A dark haunting WAD. With much emphasis on horror
+		       and the macabre. We tried to make it as gruesome
+		       as we could without overdoing it. I think. I've made 
+		       this WAD file a little less difficult. No hidden exit
+		       this time. All the weapons are in plain sight. There's
+		       also ample weapons and ammo to kill all the 
+		       different monsters. Revised to support deathmatch.
+
+Additional Credits to   : id for DOOM & Geoff Allan, author and creator 
+			of DoomED-The Real Thing.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              :  We worked on this off & on for 2 to 3 weeks.
+			I was doing this and the DoomED tutorial
+			at the same time. Maybe 60 hours total.
+			
+Editor(s) used          : DoomED-The Real Thing version 2.60
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: CompuServe, Action Games Aids library, Modem Games Forum
+	   (GO MODEMG).
+
+==============================================================
+
+To play this WAD, switch to your DOOM directory and type:
+doom -file dmomen1.wad, then start the game as usual, pick
+episode 3, the skill setting doesn't matter, they're all the 
+same. Or you can copy the batch file that I've written
+into your DOOM directory. Run the batch file from your
+DOOM directory by typing OMEN1. It will warp you straight
+there. You won't have to go thru the menu.
+
+All comments/suggestions welcome.
+
+

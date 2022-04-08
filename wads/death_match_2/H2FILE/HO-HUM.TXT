@@ -1,0 +1,51 @@
+================================================================
+Title                   : Homicidal-Human
+Filename                : HO-HUM.WAD
+Author                  : Gordon Brignal
+Email Address           : gwbrignal@cix.compulink.co.uk
+
+Description             : OK, so this is my first WAD, & it grewed so the 
+                          theme is only that its best to shoot from cover 
+                          wherever possible ;-)  A variety of rooms and 
+                          plenty of beasties in convenient GULP sized 
+                          packets.  Ammo IS adequate, so it can be done 
+                          in UV, honest Guv.  (I'm a ten Guv-a-day man, 
+                          always have been, always will be)
+
+Additional Credits to   : sjbradshaw@cix.compulink.co.uk
+                          dlc@astro.ox.ac.uk
+                          mcharsley@cix.compulink.co.uk
+                          g.head@ic.ac.uk
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, but Untested as 2nd machine too slow :-(
+Deathmatch 2-4 Player   : Yes, but Untested
+Difficulty Settings     : Yes! (Snore/Yawn/Ho-Hum/B*stard)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd 2.5 & 2.6, DEU 2.5 & BSP 1.1
+Known Bugs              : Erm, not @ the moment
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+1.  CIX
+2.  Erm
+3.  Thats it
+4.  gwbrignal@cix.compulink.co.uk

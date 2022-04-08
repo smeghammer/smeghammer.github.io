@@ -1,0 +1,70 @@
+=============================================================================
+Title                   : 303 Sucks! (Version 2.1)
+Filename                : 303SUX2.WAD
+Author                  : Calypso
+Email Address           : freeside@netcom.com
+Misc. Author Info       : VOR VGA Artist
+
+Description             : 303 (Denver Colorado Area Code)
+                          Design based on blue prints of
+                          actual 303. This is the first of
+                          many 303 levels I will do, and I will
+                          eventually replace a few textures
+                          with some of my own.
+                   -----> If the game runs to slowly, um, buy a 
+         IMPORTANT!-----> 486 or something. 
+                   -----> 
+
+The Story               : STORY.TXT
+
+Additional Credits to   : All the krad guys in 303
+                          ID
+======================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1, E2M2
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Graphics            : No - use ALIENGFX.WAD
+New Sounds              : No 
+New Music               : No 
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : 303SUX1.WAD
+Build Time              : About 9 Hours      
+Editor(s) used          : DEU 5.2 
+Known Bugs              : The Scrolling walls look lame because
+                          you can see like where the texture ends
+                          and starts. I'm working on that. Also,
+                          Once you shoot in the first level, 
+                          all bad guys know your there and 
+                          come after you. Also, E2M2 lags
+                          quite a bit in the maze.
+                          
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu
+BBS: Narkotik Illusions            
+
+* How to use this WAD *
+
+1. Install Doom
+2. You must have the registered version of DOOM. (duh)
+3. Put 303SUX2.WAD in your Doom home directory
+4. type: DOOM -FILE 303SUX2.WAD
+5. Be in exstacy knowing your playing one of the koolest wad's ever

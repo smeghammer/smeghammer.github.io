@@ -1,0 +1,13 @@
+DM_CRDM1 V1.0
+
+Ok, thats my first Unreal-Map and i guess i'll work a it a little more.
+this level is a remake of one of my favorite DM_levels ever. 
+It's called "Jailhouse Frag". I've had some features like lights that
+turn walk on by and turn off after a few seconds, so it's possible to
+see a invisible opponent (cool effect !!).  
+
+So, please give my some feedback ... and mybe there will by a new Version
+of this map.
+
+E-Mail: Scarap@energy.nacamar.de
+

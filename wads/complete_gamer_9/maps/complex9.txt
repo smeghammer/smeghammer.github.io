@@ -1,0 +1,75 @@
+* Play Information *
+Title 			:COMPLEX9
+Filename		:complex9.bsp
+Author			:Suicide20
+Other lvls by author	: First HL map, did some Q2 DM and CTF maps
+Email address 		:suicide@fastlane.net
+Home page		:www.fastlane.net/~shock/Suicide20/Quake
+Description		:DM map for 8-16+ players
+Additional Credits to   : Still credit Id Software, they started this whole thing after all.
+                          Tim Willitsm, general map GURU{tm}
+			  Magicman_ another Map GURU {TM} only cooler...
+			  Ben Morris for Worldcraft
+			  The Guys at Valve, Harry for all the email help
+			  Autolycus for a great HL editing site
+                          Everyone who emailed me about my previous maps
+                          and all the friends I've made over the Internet AKA. 			  #Level_design.
+
+Single Player           : Yep, but why???
+Cooperative 2-4 Player  : NO  
+Deathmatch 2-16 Player  : Yes.
+CTF2			: Not Yet
+Difficulty Settings     : No
+New Textures            : Not this time around
+CD Track                : 1
+
+* Construction *
+Base			: New level from scratch
+Editor(s) used          : Worldcraft 2.0
+Compile Machine		: Dual PII 350 384 RAM NT
+Compile time		
+			qcsg: 58 secounds
+			bsp : 127 secounds
+			vis : 17.35 minutes
+			rad : 6 minutes 
+
+
+================================================================
+		::: Other INFO :::
+================================================================
+Extra Blurb here...
+Get NOTETAB it just roxs...
+www.unige.ch/sciences/terre/geologie/fookes/
+
+I'd like to hear comments from anyone regarding this level.
+E-mail to suicide@fastlane.net
+I will reply to all who take the time to send me E-mail.
+
+
+* How to play this map *
+
+Just unzip *.bsp to \halflife\valve\maps directory (create if necessary),
+then launch HL, go to the console and type:
+map complex9
+
+alternatively from your HL dir type the following
+
+hl.exe +map complex9
+
+
+
+
+
+Enjoy!!!
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

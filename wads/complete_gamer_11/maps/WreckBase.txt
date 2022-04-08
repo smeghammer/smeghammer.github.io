@@ -1,0 +1,57 @@
+================================================================
+Title                   : Wrecked Base
+Filename                : WreckBase.bsp
+Author                  : Brad Kiefer ( notime )
+Email Address           : bradleyk@telusplanet.net
+Description             : A fairly large SPQ2 map
+Additional Credits to   : id
+================================================================
+
+
+*  STORY  *
+
+
+Sorry, no story - well, actually there is : I started this level as part of a grander scheme ( notice the word
+scheme ) that fell through, unfortunately - it looked like a pretty good TC. So I converted it to a stand alone
+Single Player map.  I lacks a cohesive help and goal system but the gameplay should make up for it. I hope :>
+
+
+==================================================================
+
+* Play Information *
+
+Level Name              : Wrecked Base
+Single Player           : YES
+Cooperative 		: YES
+Deathmatch 			: Nope
+Difficulty Settings     : YES ( although meant to played at default - just load and run )
+
+
+Copy the file  wreckbase.bsp   to    DRIVE:\baseq2\maps  where drive is your drive letter
+Run Quake2
+Press ~
+type    map wreckbase
+
+Away you go.
+
+
+Have fun.
+================================================================
+
+Puter:			:330mhz-pII w/192 meg sdram Win98, Monster II, Nvidia
+
+compile time            3 hrs with Qrad +extra
+
+* Construction *
+
+Base            : 
+Editor used     : QERadiant (this thing blows them all away )
+Known Bugs      : 
+
+* Legal Stuff *
+
+If you want to distribute this map on a CD Collection you _MUST_ contact me first for my approval.
+Any other distribution is granted.
+
+
+

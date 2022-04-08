@@ -1,0 +1,73 @@
+================================================================
+Title                   : The Bug Vile
+Date                    : 9-11-98
+Filename                : iodine1.bsp
+Author                  : Nuklearic Death(Bug) - Richard Heath
+Email Address           : godzilla@bulloch.com
+Home Page               : www.geocities.com/Tokyo/Flats/4171
+						  (soon to be moved from here and much more added)
+Other maps by author    : So far this is my first map(ok a revision of my
+						  first map) but I plan to have more released one
+						  day.
+
+Description             : This is my first map for Quake2. This is actually
+						  a map I made before and just redid it to make it
+						  look a ton better. The original map was called
+						  bugvile.bsp and was in bugvile.zip. I decided
+						  some of the areas needed spicing up and noticed
+						  that I had left out a few clip brushes here and
+						  there so I decided to revise it. It is a dark
+						  deathmatch map using black metals. Any complaints,
+						  compliments, suggestions, tips, or whatever would
+						  be greatly appreciated. The level design and 
+						  architecture were all completely thought up by
+						  me. I used only light fixtures to give off
+						  light and no light entities. I did this to try
+						  and create the most realistic lighting I could
+						  achieve. Also a note on the lighting is that I
+						  cannot see colored lighting so this was a blind
+						  attempt to use it.
+
+================================================================
+
+* Play Information *
+
+Single Player           : Just for looking around
+Cooperative             : No.
+Deathmatch              : Yes (8 start points; play with 16 if you like)
+Difficulty Settings     : No.
+New Sounds              : No
+New Graphics            : No.
+New Music               : No
+Demos Replaced          : No.
+
+* Construction *
+
+Base                    : New level from scratch(ok so my bugvile original)
+Editor(s) used          : BSP
+Known Bugs              : none
+Build Time              : 2 weeks(because of school and ideas)
+Compile Time            : 8 hours
+
+================================================================
+*Installation*
+To install all you have to do is unzip the iodine.bsp into:
+
+quake2/baseq2/maps
+
+or wherever you installed quake as long as it goes into the baseq2/maps
+area other wise it won't work. Then to run it you go into quake and pull
+down the console by pressing the tilde(~)key and type:
+
+map iodine1
+
+================================================================
+* Copyright / Permissions *
+
+All the architecture in this level is made by me, so I have
+the rights to do anything I want with it. 
+
+Anyone who wants to include this level into a set of levels or sell it
+in something like a new Quake2 mission pack or whatever should ask me first,
+though I would consider it an honor if offered. 
+================================================================
