@@ -1,0 +1,98 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+====================================================================
+Title                   : AYRTON.WAD    
+Authors                 : Wolfgang Grassl
+                           (peace.wad and peace_20.wad)
+Email Address           : grassl@mailer.uni-marburg.de
+====================================================================
+
+Description             : This is a DEATHMATCH 2.0 pwad.
+                          Please play this wad with -altdeath only.
+                          There are all weapons and an exit.
+                          Monsters: one Trooper :)
+                           (try to keep the Trooper alive while
+                            playing deathmatch)
+                          
+Info                    : This is my latest Deathmatch pwad.
+                          The level is very compact, so you
+                          won't search to long to get a frag.
+                          I hope this level reaches the
+                          gameplay qualities of peace_20.wad.
+                          I'm not sure about that, because
+                          i build it without much playtesting.
+                                                                                       
+Additional Credits to   : Ayrton Senna for being the greatest
+                          racing driver ever.
+                          Everyone who enjoyed my prior levels
+                          peace and peace_20.
+                          James Dicke for the deathmatch charts.
+                          ID for DOOM.
+                          The whole internet for being there.
+                          The little trooper in this pwad for
+                          running around.
+
+================================================================
+Please email me what you think about this level and send me your
+lmps ! (but not between Aug/14 to Sept/14 coz i'm on vacation)
+================================================================
+
+* Play Information *
+
+Doom Version            : 1.666 (1.4 or above)
+Episode and Level #     : E1M1
+Single Player           : (yes) (no! don't kill the Trooper)
+Cooperative 2-4 Player  : (yes)
+Deathmatch 2-4 Player   : YES !      !!! DEATHMATCH 2.0 ONLY !!!
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+Release Date            : 9/Aug/94
+
+* Construction *
+
+Base                    : scratch
+Build Time              : 56 hours ;-) 
+Editor(s) used          : DEU 5.21 gcc and Idbsp 1.01
+Known Bugs              : no known bugs with 1.6
+                          ( HOM with V. 1.2 )
+                          
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+In Germany you MUST NOT give this WAD to people under 18 years ;)
+
+* Where to get this WAD *
+
+FTP sites:
+  infant2.sphs.indiana.edu    (ayrton.zip)
+
+- -----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: 2.6ui
+
+mQCNAi42g3oAAAEEALQe3h+Gp4H22w6MGDkfGba0zaab7kJMMw/WqW7H0tGNf52P
+r5IFlonHgdJIMmYMQq2NxINQu+QBWFK8Lmw/zYLx10fx1pTYg/9VBrzNRg6cxmxb
+apeqV8JQbaaYJ9l5dvjhsyyEKUuIX4LTnRZhG3I2F+f1kl692kBvrrAQN2odAAUR
+tC5Xb2xmZ2FuZyBHcmFzc2wgPGdyYXNzbEBtYWlsZXIudW5pLW1hcmJ1cmcuZGU+
+iQCVAgUQLjfhZ0BvrrAQN2odAQF9uQP/ViGl/vUfDxp8EKtWm1cV+UGf3AEg3z+k
+oI1QOacydcKbwtdWMIq0XdzMkUdZ3PTm3vsoyWKItW5anNeuKOJA4Ijn2fRq7trO
+VBIFWhQxkJ79fUjFvHlrKanKDdNukBU6lgXOlJv54h6lfF9tkZNqqgZm7nL1CZrP
+IqOK47uEz4I=
+=HJNC
+- -----END PGP PUBLIC KEY BLOCK-----
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6ui
+
+iQCVAgUBLkaVnUBvrrAQN2odAQEa8gP9GnT2NluCAcGGhNbPZGyJBVw/oZnUr9w8
+hfjI4w/bC4eVkcq8MWf4RKFUodyX3+we9cTTItsMZulq5NKTP7dMcPQ3kO4+vohr
+GTX9BMk3B1DCRcmiTVVfzQPB3QgDWzc8ZSr0Yc5TtVjFeVoj+/7oMMIWVGDSheGC
+nX5WJQ1hQXg=
+=nVl8
+-----END PGP SIGNATURE-----

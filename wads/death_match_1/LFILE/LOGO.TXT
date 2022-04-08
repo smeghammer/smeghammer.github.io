@@ -1,0 +1,49 @@
+* General Information *
+============================================================================
+
+Title                   : LOGO.WAD
+Author                  : Kenneth S. Forte
+Email Address           : fusioncon@cup.portal.com
+Additional Credits to   : The authors of DOOM, DEU, and BSP, of course.
+Description             : A Deathmatch Level that is likely to get my butt
+                          in trouble for trademark violation. What? You say
+                          that ID is having trouble obtaining the trademark
+                          for DOOM? Well, I guess I made this level just in
+                          time, eh? BTW: Hope you all have fun getting at
+                          the BFG... if you survive.
+
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E1M1 (Uses textures not in Shareware Version)
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : A couple of Hours...
+Editor(s) used          : DEU 5.0 and BSP 1.0
+Known Bugs              : None (If any can explain the weird "Dancing Wall"
+                          effect on the west-most wall of the letter "D",
+                          e-mail me a clue. And no I don't mean the infamous
+                          "Hall of Mirrors" effect.
+Note                    : There are unmarked exits for this level. Simply
+                          hit the "Open" key while against any of the metal
+                          textures behind the teleporter pads (teleport to
+                          any pad, turn around, and hit the "Open" key).
+
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

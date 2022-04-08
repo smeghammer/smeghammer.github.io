@@ -1,0 +1,39 @@
+
+SOFTWARE USER LICENCE   
+
+
+READ THIS LICENCE CAREFULLY BEFORE LOADING OR USING THIS SOFTWARE.  BY LOADING OR USING THE SOFTWARE YOU ARE DEEMED TO ACCEPT THE PROVISIONS OF THIS LICENCE.  IF YOU DO NOT ACCEPT ANY OF THE FOLLOWING PROVISIONS, DO NOT USE THE SOFTWARE BUT PROMPTLY RETURN THE COMPLETE PACKAGE.
+
+The enclosed computer program(s) "Software" is licensed not sold, to you by Perfect Publishing for use only under the following terms, and Perfect Publishing reserves any and all rights not expressly granted to you.  You own the disk or CD-ROM on which any Software is recorded, but Perfect Publishing retains ownership of all copies of the Software itself.
+
+1. Definitions
+" Perfect Publishing " shall mean Perfect Publishing Limited.
+"Software" shall mean the software application(s) "Abyss of Pandemonium" and is supplied subject to this license
+"Documentation" shall mean the printed documentation supplied with the Software and containing details of the contents and operation of the Software.
+
+2. Copyright, Know-How and Trade Marks
+(i)	Perfect Publishing, or its licensor, own or control all copyright, know-how and any other property in the Software and in the Documentation.  Such copyright is protected under international copyright law.
+(ii)	Perfect Publishing is a trademark of Perfect Publishing.  Various trademarks appear in the Software in relation to the Software and Information, the ownership of which trademarks are indicated on the respective applications and duly acknowledged.
+
+3. License
+Perfect Publishing grants users of the Software a non-exclusive single-user license to:
+(i) 	Use the Software only on a single computer at a time, except that the Software may be executed from a common disk shared by multiple CPUs provided that one authorized copy of the Software has been licensed from Perfect Publishing to each CPU executing the Software. 
+(ii) 	This License is in force until terminated.  This License will terminate immediately without notice from Perfect Publishing if you fail to comply with any of its provisions.  Upon termination you must destroy the Software and all copies thereof, and you may terminate this License at any time by doing so.
+
+4. Prohibitions
+
+Without affecting the generality of any provision of this licence, users may not:-
+(i)	Copy, alter, modify or adapt the Software, or any data contained in the Software (except as permitted by normal operation of the Software or by-law) including, but not limited to, translating, decompiling, disassembling, reverse engineering, or creating derivative works from the Software.
+(ii)	Reproduce, make copies of, or otherwise record the Software in computer readable or human readable form except for one back up copy.
+(iii)	Use the Software in or in connection with, any misleading or deceptive trade practice or illegal or immoral purpose.
+(iv)	Reproduce, adapt, translate or modify the Software or Documentation or any part thereof for use as the basis for any derivative work.
+
+5. Warranties and Indemnities
+
+
+(v)	Perfect Publishing, ITS SUBSIDIARIES, DISTRIBUTORS, AGENTS AND SUPPLIERS MAKE NO WARRANTIES OR REPRESENTATIONS, EITHER EXPRESS OR IMPLIED, AS TO THE QUALITY, ACCURACY, PERFORMANCE, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE SOFTWARE.
+(vi)	Perfect Publishing, its subsidiaries, distributors, agents and suppliers shall not be liable for any loss or corruption of data or loss of profits or any direct, indirect, special, incidental or consequential damage arising from the use, attempted use or operation of the Software.
+
+6. Entire Agreement
+(i)	This printed license constitutes the entire agreement between the user and Perfect Publishing and its subsidiaries. In the event of any conflict between the provisions of this license and the terms and conditions of the distributors or agents of Perfect Publishing, the provisions of this License shall prevail.
+(ii)	The laws of England shall govern the validity, construction and performance of this License and any dispute shall be referred to the non-exclusive jurisdiction of the English courts. 

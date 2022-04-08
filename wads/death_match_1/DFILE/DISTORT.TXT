@@ -1,0 +1,97 @@
+================================================================
+Title                   : DiStOrTiOn...
+Filename                : distort.wad...
+Author                  : Narfmiestr
+Email Address           : AOL Narfmiestr; CIS 71201,1512....
+Misc. Author Info       : I also do photoshop work... 
+
+Description:             This is a perfect deathmatch level. Designed 
+			  after Doom ][ level 1, plus a few ideas of my
+			  own. this level incorperates convienient size, 
+			  a modest supply of weapons, and a vast variety 
+			  of textures to add to the exitment. 
+			
+			 This level has 5 main rooms with several secret 
+			  rooms. I had a group of friends complile their 
+			  ideas of what would make a great deathmatch 
+			  level onto a peice of paper, and mixed that with
+			  Doom ][ level 1. This level is for doom 1.....
+
+
+Additional Credits to   : My buds, who will go nameless due to request of the FBI...
+
+                        : To all the little people who made this possible...
+
+			
+================================================================
+
+* Play Information *
+Copy the unzipped files to your DOOM directory and run Doom 1....
+
+Once your in DOOM pick Episode ][ and put your modem to work.....
+
+==============================
+Episode and Level #     : E2M1...
+Single Player           : Yes... but has no monsters....
+Cooperative 2-4 Player  : Yes...
+Deathmatch 2-4 Player   : Yes...
+Difficulty Settings     : No monsters
+                          
+                          
+
+New Sounds              : No...
+
+New Graphics            : no...
+
+New Music               : No...
+
+Demos Replaced          : None...
+* Construction *
+
+Base                    : New level from scratch...
+
+Editor(s) used          : DoomCAD 4.3 for structure; DEU for textures; and BSP...
+
+Build Time              : 30+ hours...
+
+Known Bugs              : None. cept maybe cockroaches crawling through your 
+			  opponents cranium.....
+
+
+			* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  Blah blah blah.....  (As long as you sacrifice a live chicken 
+and spill the blood on a live newt.) 
+
+* Where to get this WAD *
+
+Compuserve gamers forum
+
+Please Communicate!
+Comments are appreciated. If you have a floor plan, send it and i will consider
+making a level out of it.
+----------=========<<<<<<<<(((((((IMPEACH CLINTON)))))))>>>>>>>>=========----------
+
+				^ subliminal message ^
+
+DOOM is a trademark of ID software.
+
+(remember... if you want to own real guns. dont be a fool that doesnt know how to
+use one and accidentely shoot someone.)  (((((GUN SAFTEY -- NOT GUN CONTROL)))))
+
+----------==========<<<<<<<<<<((((((((((PLUGS))))))))))>>>>>>>>>>==========----------
+
+/\/ | \/\  == The best music in the world!
+ B  S  A   == Teach youth's to be sensible
+ U  S  A   == MILITARY TO POLICE TO SCHOOLS HAVE PRIDE IN AMERICA (or get the hell out!)
+ N  R  A   == GUN SAFTEY... NOT GUN CONTROL
+FREEDOM    == Fulfill our forfathers dreams and our desires... NO SOCIALISM IN THE USA!
+Anti-MTV   == DONT LISTEN TO THE LIES.... MTV and their bias, libral Beliefs...
+Rush Limbaugh == HICKS IN '96! 
+

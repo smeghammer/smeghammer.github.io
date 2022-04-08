@@ -1,0 +1,68 @@
+================================================================
+Title                   : The Cistern   
+Filename                : CISTERN.WAD
+Author                  : Roger Musson
+Email Address           : e_rmwm@va.nmh.ac.uk
+Misc. Author Info       : Seismologist
+
+Description             : A series of stone corridors arranged around
+                          a reservoir of blood somewhere in Hades. You
+                          can SEE the exit (it's right in the middle) 
+                          but how do you GET there? Plenty of tactical 
+                          choices as to when and where to fight.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No - it wouldn't work.
+Difficulty Settings     : Of course. (But none of them are very hard.)
+New Sounds              : No
+New Graphics            : Just the one.
+New Music               : No
+Demos Replaced          : One
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Started with DoomEd and Deu. Finished with DCK.
+Known Bugs              : One or two minor texture misalignments.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels if its use is acknowledged. You are welcome to include it in 
+compilations if due credit is given.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: The usual.
+
+BBS numbers: ?
+
+Other: ?
+
+* Miscellaneous info *
+
+Note the way the player is obliged to tackle sectors in the required
+order although only one key is used. Despite this linear structure
+the player has plenty of tactical choice, particularly with regard to
+the trade-off between an early fire fight at long range or a later
+one at closer range. The first option may be safer but more expensive 
+in ammo. 
+
+Watch you don't fall into any of the pits. Only one of them has any
+way out. Falling into the cistern through ducking and weaving while
+engaged in a firefight on an insecure ledge is a bad idea.
+
+There are a couple of walls which look like they ought to be secret 
+doors but aren't. Don't worry about it.

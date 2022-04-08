@@ -1,0 +1,68 @@
+================================================================
+Title                   : HellGate I
+
+Filename                : HELLGATE.WAD
+
+Author                  : Jeff Aikin
+
+Email Address           : jaikin@netcom.com
+
+Misc. Author Info       : New to the game, only started playing May '94.
+                          Addicted totally to deathmatch games, enjoy killing
+                          my work partners! (the usual intro!)
+
+Description             : The UAC genius who developed the trans-dimensional
+                          warp was believed killed during the fiasco on
+                          Deimos. But it appears that he managed to escape,
+                          using a new interplanetary teleporter! Even worse,
+                          this man has made an evil pact with the forces of
+                          evil - he is building a HellGate to transport 
+                          hordes of demons and imps to take over the world. 
+                          Our hero, the stolid marine, must put this menace 
+                          to an end. Already, demonic troops stand guard 
+                          over the complex where the unethical maniac has 
+                          performed his fiendish work. You are dropped into 
+                          the central compound at night. Your mission - 
+                          destroy all opposition. Deactivate the HellGate!
+
+Additional Credits to   : id, the authors of DEU, BSP, Reject, all the
+                          DOOMers on alt.games.doom for ideas and inspiration,
+                          the admin of infant2!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes, but not too well done
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.1, 5.21GCC, BSP12x, REJECT10
+Known Bugs              : Slow down in "tower" room, whole level
+                          a little slow for my taste on 486DX-33 w/o 
+                          local bus - but still faster than most pwads
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  (I'd be flattered)
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites:              infant2.sphs.indiana.edu        /pub/doom/incoming
+
+BBS numbers:
+
+Other:

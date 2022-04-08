@@ -1,0 +1,48 @@
+================================================================
+Title                      : Axis
+Filename               :axis.bsp
+Author                  :  Phillip Bennett    is      Carnrat[X]
+Email Address      : < benn@powerup.com.au >
+Description          :   I have built this map with Team Fortess and Teamplay in mind.
+Thanks to            : Keato[X] for helping with the play testing
+
+                             :   AzrKnight 
+                                 azrknight@planetquake.com
+	                - fan prefabs
+ 
+                             : Joe the Slayer
+                               joetheslayer@hotmail.com
+                              - Suspended bridge prefabs
+================================================================
+
+* Play Information *
+
+Single Player           :No
+Cooperative             : Well if you work as a team I spose so?
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : New level
+
+Editor(s) used          : Worldcraft 2.0 from the Half-Life CD
+
+Known Bugs              : Textures at hallway joints above the water outa wack, well I                                              woulda spent anohter couple of hours fixn this but what the hell                                          I,m sure your not gunna worry about them when you have                                                    somebody fireing a guas at ya! Plus I aint gettn paid for this :)
+
+Build Time              : Longer than it takes to roll a ball of string the size of a cow I spose.
+                               : Compile time 12 hours on a celoron 300A @ 450mhz with 128 meg
+
+Comments                :The hall area was origionaly a q2 map that I have converted to                                    halflife.  You may need a bit of a grunt machine to run this map but                                    if you don't I gues you might just have to try and get to the tower!
+			  
+Installation               : Installation After downloading, unzip, and copy the axis.bsp file                                    into a folder called 'maps' in your half-life/valve directory.  You may                                    have to create the 'maps' folder if you haven't all ready got one.
+			 
+I will not be held responsible for any stuff ups you make to your pc. 
+You can distribute this bsp freely as long as you place this readme in your release.  Ya can't make any money from this map iether without telling me or the others who are mentioned above!
+						
+					©I am the Carnivourus Rat!

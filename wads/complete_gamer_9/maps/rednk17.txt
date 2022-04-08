@@ -1,0 +1,82 @@
+12/30/98
+================================================================
+Title                   : The Coolant Station
+Filename                : rednk17.bsp 
+Game			: Half Life
+Author                  : Chris Thorsten
+Email Address           : chris@atomic-pc.com
+Description             : Small to medium multiplayer
+			  level. We've tested it with 2 players and
+		          get a real kick out of it, but it's big enough for 
+                          a bunch of players (maybe 6 or 8?).
+
+Additional Credits to   : Everyone responsible for Half Life, a
+                          truly amazing game.  Also, special thanks to
+                          Dr. Octagon at http://halflife.gamegurus.net/
+                          for tips on map editing.  Thanks to my friends 
+                          Jake, Joe, Frank, and Gabe for testing this map.
+
+
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No  
+Deathmatch              : 2-8 players (or more if you really want)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : None
+Build Time              : about 1 week 
+Compile Time            : full VIS took about 40 minutes on a PII-400 / 128 MB...
+
+* Other Comments *
+
+Yes, I know the "green toxic waste pits" theme is a little trite by now,
+but I don't really care.  This is a fun map.
+
+I also made crawl02.bsp, but I think rednk17.bsp is a better multiplayer
+map.  Tell me what you think.  I'm still learning to make maps.  I tried to
+keep the r_speeds from getting too out of hand for my Celeron 266.
+
+This map has at least one good sniper / camper spot... it's also where the 
+crossbow is, but you'll need to go around the map to find more ammo for it.
+Though you might not think the crossbow would come in handy on this map, 
+a decent player can make great use of it.
+
+It's a little tight for the rpg in places, but I tend to like this insanity
+factor in a game map!
+
+The egon is in a place where it's VERY easy to get sniped... watch out for
+crossbow-wielding players under the stairs...
+
+
+-------------------
+
+* Copyright / Permissions *
+
+Authors, may NOT use this level as a base to build additional
+levels.
+
+This level MAY be distributed over the Internet and/or BBS systems.
+Please include this text file with it, however.
+If you want to include this level on a CD-ROM or level pack, please 
+let me know first.  
+
+I hope someone will run this level on their server so I can try it 
+in multiplayer... 
+
+enjoy...
+
+                     -"Redneck_Retard!"
+
+======================================================================

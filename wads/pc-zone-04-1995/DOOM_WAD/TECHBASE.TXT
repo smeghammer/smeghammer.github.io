@@ -1,0 +1,83 @@
+================================================================
+Title                   : TECHBASE.WAD   v1.0
+Author                  : Brandon Reinhart
+Email Address           : jwine@ink.ink.org
+Misc. Author Info       : This is my first WAD. Please tell me 
+                          how you feel about it!!!!
+
+Description             : After the "Doom" incident an interplanetary
+                          war was sparked between the Humans and the
+                          creatures from Hell.  You were sent on a
+                          mission to a major enemy military installation
+                          to gather intelligence....but you were 
+                          captured.  Sl`Tek Kor, Commander of the 121st
+                          Infantry (also a spider daemon), found you
+                          lurking around and imprisioned you....but not
+                          before you were able to find out that a major
+                          weapons shipment is about to take place.
+
+                          You find yourself now inside the holding cell in
+                          the military compound.  A drop ship has arrived 
+                          and the weapons are being loaded on by Sl`Tek Kor
+                          himself.  You've gotta find a way inside that
+                          drop ship and get to wherever those weapons are
+                          headed.  Wherever it is.....it's gotta be BIG...
+
+                          Read the file TECHBASE.STY included in the zip
+                          to get a complete background.  It also includes
+                          useful info concerning the presence of Sl`Tek Kor.
+                          (Play the WAD.....you will understand then...)
+
+Additional Credits to   : Blake Reinhart -- Playtesting/Nifty ideas
+                          Bret Rodgers   -- Playtesting
+================================================================
+
+* Play Information *
+
+(The v1.0 release stuff is there because I intend on adding to this
+WAD...maybe make it an episode.)
+
+Episode and Level #     : E1M1 - v1.0 release 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (2-4)
+Deathmatch 2-4 Player   : Yes (2-4)
+Difficulty Settings     : Yes
+New Sounds              : No 
+New Graphics            : No 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : I found a pack of wads on a BBS. One of the
+                          levels had no monsters in it.  No deathmatch
+                          spots....no nothing.  I took it....played with
+                          it....and came up with this...
+                          
+Build Time              : About a day (not counting DEU 5.2 learning time)  
+Editor(s) used          : DEU v5.2
+Known Bugs              : There was a strange texture glich but it hasn't
+                          shown up for about an hour so it should be gone.
+                          <G> The textures should be aligned (I made it
+                          a priority to learn texture alignment BEFORE my
+                          first release.).
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+Just make sure my name is somewhere in that file......
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu  /pub/doom/wads/newwads (or wherever)
+           wuarchive.wustl.edu       /pub/MSDOS_UPLOADS/games/doomstuff/wads
+
+BBS numbers:
+
+Other:

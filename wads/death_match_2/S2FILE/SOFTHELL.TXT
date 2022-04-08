@@ -1,0 +1,67 @@
+================================================================
+Title                   : "SoftChoice goes to hell!!!"
+                          SOFTHELL.WAD (Aka: SCC3.WAD)
+Author                  : Christian Antkow
+Email Address           : cant@softchoice.com
+Misc. Author Info       : IS worker who would rather play DOOM all day
+                          that do his work... 
+
+Description             : It's happened. SoftChoice Corporation's facade
+                          has been broken and revealed to be the true
+                          hell that it really is (THIS IS A JOKE DAVE!!!)
+                          
+                          Watch out for the CyberLord. There's ALOT of
+                          room for him to walk around in, so look out
+                          for him once you "activate" him...
+
+                          If you've played SCC2.WAD, you already know this
+                          WAD is HUGE!!! Check this one out... The same
+                          thing, just better textures (I think), more
+                          secrets... Just check it out...
+                          
+                          Oh yeah! And in response to public outcry over
+                          lack of EXIT signs, I've conformed and put one in.
+
+Additional Credits to   : Andrew Moore for helping me test out this
+                          level (amoore@softchoice.com)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 (A bit to hard for E2M1 but...)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (YES!!!! MOST DEFINATELY!!!)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Sleep? What's sleep? I don't need no sleep!
+                          (Well over 45 hours)
+Editor(s) used          : Doom Edit (Win), DEU 5.21, IDBSP DOS Port
+Known Bugs              : Some "Gates" are not aligned properly and you
+                          can't set the X & Y prop's of a floor or
+                          ceiling. Two doors look messy outside of the
+                          boardroom.
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+(Addn'l) If you put this WAD in any wadpack, for either shareware
+distribution or for monetary gain (You capitalist bastards!!!), kindly
+credit the author and include this TXT file...
+
+* Where to get this WAD *
+
+infant2.sphs.indiana.edu
+(Where ever it's uploaded to next...)
+

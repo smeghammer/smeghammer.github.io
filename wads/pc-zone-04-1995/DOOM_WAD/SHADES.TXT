@@ -1,0 +1,16 @@
+Ok so you are playing the part of the roughest toughest space marine that
+ever lived.  He doesn't think twice about entering a moon base infested
+with the legions of hell armed only with a pistol.  A guy like that must be
+so cool he could drink boiling water and pass ice cubes.  But wait something
+is missing.  A guy that cool would never be seen without his shades - 
+regardless of light conditions.  You can fix this major oversight by copying
+SHADES.WAD and SHADES.BAT into your doom directory and start doom by typing
+SHADES [return].
+
+Doom will not be permenantly altered.
+
+Stay cool
+
+Enjay.
+
+Compiled using DMGRAPH and DEU.

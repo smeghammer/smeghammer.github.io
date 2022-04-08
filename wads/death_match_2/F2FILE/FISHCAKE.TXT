@@ -1,0 +1,15 @@
+This is our first attempt at a wad file for DOOM!  It runs on E1M1 and shouldn't work with the shareware version!
+We haven't implemented different skill levels or multiplayer or deathmatch level cos we're too lazy to be bothered...I can't play deathmatch so why should you lot!
+There are no new graphics and no new sounds...in fact it is complete shite!  So don't bother to download it...i Wouldn't!!!!!! Honest!!!  If you do don't come crying to me!  you have been warned!
+
+:-)
+
+I haven't used the standard wad submission format...cos as I said before i can't be arsed!  If you like this level (or you hate it) let us know.  Maybe the next one we design will have all those things....you'll just have to wait and see!  (for about 5 years!!!!)
+
+This was designed using waded 1.17 and Deu 5.11.  Thanks very much to the author of Waded (sorry can't remember you're name....this spanish wine is too nice!).  If anybody else is stupid enough to use this as a basis for another wad then go ahead...just give us an email to say so!
+
+The only bugs we've found are some clipping (i think that is what it is called) in one of the corridors after the yellow door...enjoy!
+
+Lots of Love and Kisses
+THE FISHCAKE COLLECTIVE!
+ 

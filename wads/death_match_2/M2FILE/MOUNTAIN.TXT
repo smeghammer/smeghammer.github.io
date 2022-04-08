@@ -1,0 +1,53 @@
+===========================================================================
+Title                   : Summit of Oblivion
+Filename                : MOUNTAIN.WAD
+Authors                 : Eric Aamodt and Dave Crampton 
+Email Address           : None
+Misc. Author Info       : Eric Aamodt AKA Infinity
+                          Dave Crampton AKA Zardon
+                          Both founding members of [SHoGUN] P.A.C.
+Description             : You find yourself in a hellish valley with a
+                          pulsating red sky..the only way to go is in.
+                          You find yourself in a computer control 
+                          center that's infested with creatures that 
+                          could only have come from Hell itself.  You
+                          must fight your way to the summit of the mountain
+                          to survive and to get home.  Good luck.
+Additional Credits to   : Joe Crampton AKA Blackhawk for level 9.
+===========================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1,E3M2,E3M3,E3M4,E3M5,E3M6,E3M7,E3M8,E3M9
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.1
+Known Bugs              : Occasional Wall of Mirror effects.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+The Onyx Dragon BBS  - SHoGUN WHQ       - (810)651-8105
+Insanity Central BBS - SHoGUN Dist Site - (810)652-9324
+
+Or any other [SHoGUN] Dist. site...

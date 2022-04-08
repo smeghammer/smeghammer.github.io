@@ -1,0 +1,58 @@
+================================================================
+Title                   : NOVA.WAD
+Author                  : Bob Lange
+Email Address           : bob.lange@aquila.com
+                          rlange7@genie.geis.com
+
+Misc. Author Info       : <ack!>
+
+Description             : Nova started out as a test platform to
+                          experiment with cut'n'paste ops and rotation
+                          in DEU 5.1, and somehow grew into a deathmatch
+                          level. Dark and ominous. And no STARTAN3!
+
+Additional Credits to   : All true Doomaholics
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes, but why would you want to?
+Cooperative 2-4 Player  : Ditto
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : New? Hardly. But yes...
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 16 hours or so
+Editor(s) used          : DEU 5.1, BSP 1.0
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD pursuant to the following
+limitations:
+1.  You include this file, with no modifications.
+2.  You MAY NOT distribute this WAD, in whole or in part, as part
+of a commercial product without the permission of the author. 
+This includes any use for profit, including the use of this level
+in competitions or collections of files on physical media. 
+Distribution via electronic means is excepted from this
+limitation (you may post this WAD on commercial and private BB
+systems).
+
+* Where to get this WAD *
+
+FTP sites: None
+
+BBS numbers: Aquila (708) 820-8344
+
+Other: GEnie Scorpia Games Library

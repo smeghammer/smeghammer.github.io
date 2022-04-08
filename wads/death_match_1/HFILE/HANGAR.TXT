@@ -1,0 +1,37 @@
+File:           hangar.zip
+
+Content:        hangar.wad      e1m1 pwad - Doom v1.666
+                hangar.lmp      recording at skill 1
+
+Usage:          1) Unzip hangar.zip in the directory of your choice. 
+                2) Use the indicated command line from your Doom v1.666
+                   directory.
+                   
+                   Note: <path> is not required if hangar.zip
+                   is unzipped in your doom v1.666 directory. Also
+                   note that the .lmp extension should be omitted from
+                   the recording file name.
+                   Type the following:
+
+                   doom -file <path>hangar.wad -playdemo hangar
+
+                3) then press <Return> twice to clear the modified pwad
+                  warning and away you go.
+
+Skill Levels:   Yes, but perhaps rather crudely.
+Multi-Player:   Yes.
+Deathmatch:     I think so, but never played it as such.
+Plot:           Get outta here!
+
+Comment:        Some parts of the pwad are rather unfinished I'm afraid, but
+                the demo seems to gun along quite well.
+
+Acknowledgement:
+
+                This pwad and lmp recording are free but require the
+                registered version of Doom v1.666. Doom is copyright of
+                id Software. Please feel free to do whatever you want with
+                the pwad and lmp except selling them or running them on an
+                illegal copy of Doom v1.666. 
+
+

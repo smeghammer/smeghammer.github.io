@@ -1,0 +1,70 @@
+================================================================
+Title                   : The DILLY wad   
+Filename                : DILL.WAD  (DILLWAD.ARJ/ZIP/LZH/UC2)
+Author                  : Dan Dorn
+Email Address           : Send comments to Piet Barber 
+                          Pbarber@mason1.gmu.edu
+Misc. Author Info       : Computer operator/technician 
+                          at a cable company in Northern Virginia
+
+Description             : Fire... death... lots of Sergeants and Imps.  
+                          You may need to use IDKFA the first time through
+
+Additional Credits to   : Piet Barber for accepting any Email for me. 
+                          My wife for putting up with me and my 
+                          doom level making schemes, especially when I 
+                          ignored the in-laws on the 4th of July to go
+                          play DOOM (I'm sure you can understand what 
+                          I mean).
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 and E1M2 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, but really slow even on DX2/66
+Difficulty Settings     : You figure it out
+New Sounds              : Not yet
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : WADED versions 117 and 123  <- excellent
+                          DEU to meld the two levels into one WADFILE.
+Known Bugs              : I think we fixed it, but there used to be a bug, 
+                          where you would fall in this hole that wasn't 
+                          there.  It was really wierd.  Report it to Piet
+                          if you see it again, maybe we'll figure out 
+                          what it was caused by. 
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD file in any format.  Do whatever you want
+with it.  As a common courtesy, most people would request that you include
+this file wherever you upload it to.  But I don't really care.  Put it on
+a 360k floppy and throw it out the window if you want to.  I don't care.  
+If you do wish to register this wadfile, stand up and say "HURRAY FOR 
+FREEWARE!!!  HURRAY FOR ID SOFTWARE!!!  HURRAY HURRAY HURRAY!!!"  and 
+consider it registered. 
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites:
+ 
+  infant2.sphs.indiana.edu
+
+Other:
+  None, as far as I know.  Feel free to distribute this most excellent WAD 
+  file to another BBS or FTP site if you wish.  BTW, don't ask me why I 
+  named this file DILL.WAD, I don't know what came over me.

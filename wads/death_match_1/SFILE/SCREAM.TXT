@@ -1,0 +1,20 @@
+LMP File Name        : SCREAM.LMP
+Wad File Name        : SCREAM.WAD
+LMP Author           : Bob Tausworthe
+Email Address        : tozz@cup.hp.com
+DOOM Version         : 1.2
+Skill Level          : Ultra Violent
+Running Time         : 16m20s (486 66MHz, 16MB)
+Number of Players    : Single Player
+Comments             : One small area left out (Hint: Button Button,
+                       who's got the Button?), but not intrinsic to game
+                       (especially if you want to make the time limit
+                       on LMP file). Some good Baron/Caco battles etc.
+                       Kicked butt on the "crotchrocket" dood.
+
+Copyright/Permissions: This LMP file may be freely distributed, replicated
+                       on bulletin boards or combined with other files
+                       in compilations, CDs, etc as long as this file
+                       is included in its entirety. Any screenshots derived 
+                       from these LMP files must include credit to the author.
+

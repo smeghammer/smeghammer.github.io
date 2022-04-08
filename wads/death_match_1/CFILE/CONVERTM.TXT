@@ -1,0 +1,50 @@
+================================================================
+Title                   : Convertm.WAD
+Author                  : John Hitt
+Email Address           : damage@tamsun.tamu.edu
+Misc. Author Info       : 
+
+Description             : Human Conversion Lab the Aliens use to 
+                          turn the Marines into Former Humans.
+                          Contains helo landing pad and dungeon were 
+                          the marines are kept.
+
+Additional Credits to   : - The People who wrote DEU 5.1, its a 
+                            Great program..
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes, Definately
+Difficulty Settings     : Yes, All levels supported
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : ~25 hours
+Editor(s) used          : DEU 5.1 
+Known Bugs              : None I know of, email me if you find one.
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+* Where to get this WAD *
+
+ftp.uwp.edu
+
+* Additional information *
+
+This, hopefully, is the first of a series that will follow along and complete
+an alternate set of files for the entire episode.
+

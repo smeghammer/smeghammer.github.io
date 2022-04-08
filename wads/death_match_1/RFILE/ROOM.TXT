@@ -1,0 +1,50 @@
+WAD Authoring Template V1.4   (Clip this line)
+================================================================
+Title                   : Room of death
+Filename                : Room.WAD
+Author                  : Jon Paynter
+Email Address           : jon@halcyon.com
+Misc. Author Info       :
+
+Description             : You materialize on a ledge in the side of a large
+                          cavern.  Looking around you realize its not a
+                          cavern, its an enormous room echoing with the
+                          growls of who knows what...
+
+Additional Credits to   : The author of DEU
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : some HOM when you are on the upper portion of the
+                          staircase
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           wuarchive.wustl.edu

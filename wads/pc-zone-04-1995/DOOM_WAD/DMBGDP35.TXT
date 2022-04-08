@@ -1,0 +1,15 @@
+Blood, Guts, Death, and of Course, Pain, Version 3.50 Deluxe Edition.
+
+Contents:      35.bat (does everything for you automatically)
+               New demon graphics! (type "type 35.bat |more" for list)
+               1 surprise replacement graphic!
+               dmbgdp35.deh (new DeHacked file)
+
+
+
+Note:          You MAY use any of the parts of this program or whole and
+               distribute it with your new and better concepts.
+
+Concept by: Greg Reid, CIS:74537,1546  
+
+

@@ -1,0 +1,25 @@
+This Zip archive contains the following files:
+
+Horror.wad       - Wad file for use with DOOM
+Horror.txt       - What you are reading now
+Horror.bat       - Batch file that starts DOOM with Horror.wad in E1M1
+
+-------------
+Copy all three files into your DOOM directory and run Horror.bat
+                        -OR-
+Copy horror.wad into your DOOM directory and type the following:
+
+Doom -file horror.wad
+-------------
+Single, Cooperative, and Deathmatch compatible. ;)
+
+This level was created from scratch using Brendon Wyber and Raphael Quinet's
+DEU v.5.0 and Colin Reed's BSP v.1.0.  Many thanks go out to all three of 
+these people for allowing all of us a chance to create our own custom levels.
+
+...and of course, thanks to id Software for creating DOOM. ;)
+
+
+Patrix
+a.k.a Patrick Hipps
+Compuserve ID - 74212, 2075

@@ -1,0 +1,49 @@
+================================================================
+Title                   : BW_DEATH.WAD
+Filename                : BW_DEATH.WAD
+Author                  : Brian White
+Email Address           : none
+Misc. Author Info       : comments/suggestions to: 517 n.37 St.
+                                                   Council Bluffs, IA 51501
+Description             : Great for coop's and deathmatch. Ultra-violent
+                          provides great challenge for single or multiplayer.
+Additional Credits to   : Corey Schmida, Daniel Vukson, John Wiese for
+                          suggestions and play testing assistance.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

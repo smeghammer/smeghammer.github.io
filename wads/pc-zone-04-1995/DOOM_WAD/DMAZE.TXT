@@ -1,0 +1,50 @@
+================================================================
+Title                   : Death Maze   
+Filename                : DMAZE.WAD
+Author                  : Spencer Brown 
+Email Address           : zifnab@clt.fx.net
+Misc. Author Info       : 
+
+Description             : This was specialy made for deathmatch.
+                          No monsters at all, strictly you and your prey.
+
+Additional Credits to   : darkman - For all the great matchs...
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2.1
+Known Bugs              : One place where a wall disapears, and inner walls
+                          are not impassable to rockets and cells
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers:
+
+Other:

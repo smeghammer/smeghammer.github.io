@@ -1,0 +1,68 @@
+================================================================
+Title                   : IDEAL WAD for DOOM II  
+Filename                : IDEAL.WAD
+Author                  : Jordan Feinman
+Email Address           : jordanf@globalone.net
+Misc. Author Info       : Do you really care? :)
+
+Description             : I have taken the time to make this
+                          [what I feel] to be the most deathmatch-
+                          suitable wad.  It has open space for 
+                          great battles, and a lot of thought
+                          has gone into the relationship between
+                          rooms, platforms, etc.
+                          Please email me if you do or do not
+                          like this wad!  NOTE: This level does 
+                          not contain the BFG9000.  If you want
+                          it, you can add it yourself.  
+                          This is my first wad -- I plan on making
+                          more in the future, depending on the
+                          success of this one.
+
+Additional Credits to   : Dan Ginsburg -- Hours of frag
+                          rallies and testing;  Ken Forte,
+                          for showing me the basics of wad
+                          editing and being patient with my
+                          neophyte questions;  Steve Benner
+                          for his time in writing up those
+                          wad newby docs on his web page! :)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes - to check it out
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes - of course [-altdeath recommended]
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU II and BSP 
+Known Bugs              : None that I know of.  Please email me if
+                          you find any GROUND-BREAKING bugs.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, provided that you email me that you have done so, and that send  
+me your wad. :)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.orst.edu/ftp.cdrom.com
+           server.globalone.net
+
+BBS numbers: Global One   518-452-1234
+             Florida Keys 518-587-0317

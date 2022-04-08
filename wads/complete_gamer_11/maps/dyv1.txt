@@ -1,0 +1,64 @@
+===================================================================================
+June 3, 1998
+===================================================================================
+
+Title                   : Crystal Planet
+Filename                : dyv1.bsp / dyv2.bsp (is not finished, use for dyv1.bsp)  
+Author                  : Yuri Davidov (DYV)
+Email Address           : dyv@users.ldc.net
+Date of release		: June 3, 1998
+Description		: Single Player Quake II map with DM 
+                          and full CTF capabilities.		
+			 
+=========================================================================================
+
+* Play Information *
+
+Game			: Quake II v.3.14
+Level Name       	: Crystal Planet
+File name		: dyv1.bsp
+Single Player           : Yes.
+Cooperative 		: No.
+Deathmatch 2-8 Players  : Yes. 
+CTF                     : Yes.
+Difficulty Settings     : No.
+New graphics		: No.
+
+* Construction *
+
+Base            : new level with CTF capabilities
+Build Time      : ~4 weeks
+Editors used    : QERadiant.
+		   	  
+
+Compilation:	Qbsp3 Qvis3(full) Qrad3 -extra  5 hours 41 min 50 sec
+		Brushes:  851
+		Entities: 189 
+		
+============================================================================================
+Platform used   : P-166MMX 32MB RAM, S3-Virge 4mb and 3dFX 4mb
+Known Bugs      : None.
+
+--------------------------------------------------------
+
+
+* Loading information *
+
+To load this map:
+- Put "dyv1.bsp" and "dyv2.bsp" in the /quake2/baseq2/maps/ directory.
+- Start Quake2.
+- Pull down console, type "map dyv1". Press enter.
+For CTF:
+- type "set game ctf" and then "map dyv1"
+		 
+
+* Copyright / Permissions *
+
+ This level is (c) by Yuri Davidov, 1998.
+Do not put this level in any sort of commercial product.
+ This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name dyv1.bsp and is supplied in a zip file called
+dyv1.zip that also contains this text document and no
+other files.
+

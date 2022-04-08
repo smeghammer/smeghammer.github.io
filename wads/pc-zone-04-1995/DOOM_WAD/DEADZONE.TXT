@@ -1,0 +1,63 @@
+================================================================
+Title                   : DEADZONE.WAD   
+Author                  : Colin Dickens
+Email Address           : colin.dickens@aea.orgn.uk
+
+Description             : This level was designed primarily as a
+                          three to four player deathmatch, but it
+                          can also be played through as a single
+                          player game. The level is based round
+                          a large central cavernous room containing 
+                          four gun turrets. As a deathmatch level,
+                          the best places to be (in terms of where
+                          to find weapons and good ambush/sniper
+                          points) are also the most dangerous. These
+                          are the deadzones.
+
+Additional Comments	: When playing in deathmatch, try running the
+  level on -skill 1 and -respawn. This puts four deaf and wall facing
+  humanoids in the level which are dead easy to kill, and provides a
+  nice way of introducing fresh ammo into the game. There are also a
+  number of 'stores' hidden around, which can provide that well needed
+  health boost.
+
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : ~ 40hrs
+Editor(s) used          : DEU 5.1  and BSP1.1
+Known Bugs              : There is one linedef that when you cross, you get
+                          a flash of sky.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

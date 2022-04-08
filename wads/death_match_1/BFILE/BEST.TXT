@@ -1,0 +1,63 @@
+================================================================
+Title                   : Best 4.96 
+Filename                : BEST.WAD
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Author                  : Captain Cream 
+Email Address           : N/A
+Voice Number            : 714-830-7000 ask for Ray
+Author Info             : 3 time loser with a lot of talent...
+			  computer programing, engineer, etc etc...
+Description             : okay, you have played doom wads for a long 
+			  time and you still have not found on you
+			  just love.  Now you have.  This doom wad
+			  has several aspects to it and for many it 
+			  be a quick level and for others it can be 
+			  hell, seriously.  This wad took four engineers
+			  about six straight weeks to complete working 
+			  almost non-stop 12 hours a day to bring this to 
+			  you.  The scenery is new and scary as there 
+			  are dramatic canyons and never before seen 
+			  monsters.  Also in this level there is graphics
+			  that only a top notch engineer could create.  Go
+			  ahead and take this wad and your life will change.
+			  From here on out you will be happy and doomed...
+
+Additional Credits to   : Stormy for his computer engineering advice.
+=============================================================================
+
+  
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes:)
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+New Music               : Yes
+Demos Replaced          : Yes
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : None
+
+______Copy Rights________________________________________
+
+I Ray Fladeboe grant anyone the right to enjoy this wad for 
+any period of time.  However I would like this registered
+for a one time fee of $70.  Make this payable to Ray and mail
+it to me before adding to this wad or selling it for profits.
+I am a nice man and if you have a problem call my office at
+714-830-7000 and ask for Ray.  This level took such an 
+extensive period to create that I am forced to charge for it.
+All members that worked on this wad are air traffic controllers
+and risked their jobs by doing no work till this wad was complete.
+Bottom line is basically just send me money or just enjoy the wad
+and if you want more just call me for the next version in progress.
+This wad could have never come about if Stormy had not done the 
+dramatic graphics involved in this masterpiece so thank him as well...
+
+The End......

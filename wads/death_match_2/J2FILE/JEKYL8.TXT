@@ -1,0 +1,58 @@
+================================================================
+Title                   : The Jekyl Series for DOOM ][
+Filename                : jekyl8.wad
+Author                  : B. Vannatta
+Email Address           : vannatta@bobcat.ent.ohiou.edu
+Misc. Author Info       : The Jekyl series will continue where Igor left 
+                          off, encompassing the next seven levels of 
+                          DOOM ][ (levels 8-14). 
+Description             : This is the first pwad in the Jekyl Series for
+                          DOOM ][ Deathmatch.  Jekyl8.wad supports both
+                          monsters (use respawn) and nomonsters effectively.
+Additional Credits to   : Coder (ideas and playtesting), id Software...
+================================================================
+
+* Play Information *
+
+Map #                   : Map08
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : ---
+Known Bugs              : Perhaps a little choppy on SLOWER 486 machines.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+You may do whatever you want with this file, as long as you distribute 
+your modified file under a name OTHER than "jekyl".
+
+
+* Where to get this WAD *
+
+FTP sites:  ftp.orst.edu, ftp.netcom.com
+
+BBS numbers:  APCi BBS/MPGS (618-632-7664)
+
+
+* Misc. *
+
+If you liked jekyl8.wad, please feel free to get igor2.zip!!  Igor is an
+intense seven-level deathmatch pwad for DOOM ][.

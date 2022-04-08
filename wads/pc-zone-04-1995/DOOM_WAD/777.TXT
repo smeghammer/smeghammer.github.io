@@ -1,0 +1,86 @@
+=======
+777.wad
+=======
+
+
+This is the 'sequel' to 666.wad.  It is actually smaller in extent than 666
+but more complex.  You cannot get stuck anywhere, contrary to what it may
+first seem.  (Though if you fall in the pits in the 1st room, you're dead --
+but this is the only place where that's the case).  If it seems to end rather
+abruptly that is because I ran up against DEU's limit for memory (not to
+mention that it started to get slow).  On that same note -- it was developed on
+a 486DX-33 with 8MB and the 1st room or two are pretty slow on UV -- but it
+does speed up.  You may want low detail,  maybe not.  I have tried it on a
+60MHz Pentium with 20MB RAM and man was that nice.  Kinda makes me want to
+spend some $...  Ah well.
+
+There are deathmatch and cooperative starting spots.  I haven't tried out
+either significantly (tried deathmatch for a few minutes).  If anyone finds
+any problems, let me know.  There are features in the level designed for
+deathmatch.
+
+Oh, on UV it is pretty hard.  Some say too hard, but I assure you it is
+possible.  I added some extra ammo to help out, but it is still tough.  You
+may want to try it 1st on Hurt Me, though experienced players may find that
+too easy.  Ammo is (was) very precious on UV.  If you think it is too easy
+then remove some of the ammo and try it like I had originally intended --
+bust out that chainsaw and kill what you can to save ammo (you might have to
+anyway -- hehe).
+
+Well, that's more than enough rambing.  Have fun.  Please mail any comments,
+criticism, etc to stimson@leland.stanford.edu.
+
+--Steve
+
+
+
+
+================================================================
+Title                   : 777.WAD
+Author                  : Steve Timson
+Email Address           : stimson@leland.stanford.edu
+
+Description             : More hell.
+
+Additional Credits to   :  Ted Manning,  Jamey Nielsen, Lloyd Pique
+                            for playtesting
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes but untested
+Deathmatch 2-4 Player   : Yes but untested
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : I don't even want to think about it.
+Editor(s) used          : DEU5.0 and bsp11x
+Known Bugs              : It is possible to get the 'too many two sided
+                            line def'  "feature" of Doom going, causing
+                            HOM in the doors at the end of the 1st room,
+                            and in the big central room.  Sorry, but I
+                            didn't really see what I could change to fix
+                            the problem.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, as long as the changes are significant.  No, there's
+no real definition to that.  Just DO something with it.
+
+You may distribute this file in any electronic format (BBS, Diskette,
+CD, etc) as long as you include this file intact.
+
+
+* Where to get this WAD *
+
+FTP sites:  ocf.unt.edu, wuarchive.wustl.edu
+

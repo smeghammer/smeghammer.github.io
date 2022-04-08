@@ -1,0 +1,148 @@
+================================================================
+Title                   : MAK's Doomdom   
+Version                 : 3.0
+Filename                : MAKDOOM3.WAD
+Date                    : August 26, 1994
+Author                  : Martin A. Krebs  "The MAK"
+Email Address           : V086KLEN@UBVMS.CC.BUFFALO.EDU
+US Snail Address        : 91 Slate Creek, #1
+                          Cheektowaga, New York 14227
+
+Description             : Three classic Doom levels complete with
+                          all three keys, traps, secret doors,
+                          and of course, lots of targets.  These
+                          levels are an attempt to mirror the
+                          mood and detailed maps that made the
+                          original game so much fun.  Stress 
+                          was placed on QUALITY.  
+
+                          Attention veterans of MAKDOOM1 or 2;
+                          I have attempted to create a slightly 
+                          more difficult level with E2M3.  (It
+                          only makes sense that things will
+                          gradually get nastier.)  Also, there 
+                          are some new "tricks" in MAK's bag.
+                          Nothing you Doomaholics can't pummel 
+                          with ease... almost.  8^o
+
+                          For those experiencing multi-player
+                          slow down...  E2M3 is slightly bigger 
+                          than the previous two (sorry).  I'm 
+                          using the best node builder for NET 
+                          play, so look at a FAQ for suggestions 
+                          on speeding things up.  BTW, me and the
+                          Beta-test psychos have no problem with
+                          MAKDOOM3 on a Novell 3.11 486 server 
+                          (950 speed rating) with 10baseT lines
+                          and 486 workstations. (no chop at all)
+
+                          This should only be used with the 
+                          registered version of Doom as it
+                          replaces the second episode.
+                          
+                          Please E-mail me if you have the time
+                          and let me know what you think....
+                          If you like it, I'll make more.  
+
+Additional Credits to   : My wife, for living with a Doom Addict 
+                          turned hacker....
+                          
+                          The Amazing people at id Software for
+                          doing "it" yet again...
+
+                          The authors of the editors mentioned
+                          below, they are all great programs...
+
+                          The Beta testers who put up with MANY
+                          stupid bugs, any that remain are my
+                          oversight, not theirs...
+
+                          Finally, thanks to all those who have
+                          e-mailed or written me with comments
+                          and suggestions, you have "kept the
+                          barrel warm" and enabled the
+                          completion of a THIRD twisted level...
+
+================================================================
+
+* Play Information *
+
+Episode and Level #s    : E2M1, E2M2, E2M3     
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes     (not much added since MAKDOOM1)
+New Graphics            : Yes     (only "titles" since MAKDOOM1)
+New Music               : No    
+Demos Replaced          : 1 only 
+
+* Construction *
+
+Base                    : New levels from scratch (No butchering)
+
+Build Time              : Ask my wife, she's keeping a 
+                          journal for the divorce lawyers.  ;^)
+
+Editors used            : DEU 5.0, 5.1, 5.21, 5.21GCC
+                          IDBSP 1.0, 1.0.1D, 1.0.2D
+                          Renegade Graphics DOOMed 1.1c
+                          DMGRAPH 1.1
+                          DMAUD 1.1
+                          GIFCLIP 1.5
+
+Known Bugs              : None...please E-MAIL or write
+                          me if you discover any.
+
+Revision History        : V3.0   MAKDOOM3.WAD   08/26/94
+                                 Added new level E2M3.  Scrapped
+                                 music add-ons...not sounding
+                                 good enough...killed by QC  :^(
+
+                          V2.01  MAKDOOM2.WAD   07/22/94
+                                 Cleaned up some of the existing
+                                 sound effects (noise at end of
+                                 Beavis sounds, etc).  Added a 
+                                 few "title" graphics.
+                        
+                          V2.0   MAKDOOM2.WAD   07/11/94
+                                 Added new level E2M2 and a few
+                                 new sounds, no new graphics. 
+                                 Added demo of MAKDOOM.
+
+                          V1.0   MAKDOOM1.WAD   06/20/94
+                                 First release of MAK's Doomdom.
+                                 Complete E2M1 with added sounds
+                                 and graphics.
+                        
+                          V0.99  MAKDOOM.WAD    05/28/94
+                                 Beta release.
+                         
+* Copyright / Permissions *
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Authors MAY use these levels as a base to build additional
+levels.  Please notify me, thanks.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Doom is a copyright of id Software.  Please BUY it, support
+the creation of QUAKE!!  (The next "killer" from id Software)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+* Where to get this WAD *
+
+This WAD file may be found on many FTP sites and BBSs but only
+the locations listed below guarantee the latest version.
+(These are the only locations the author uploads to...)
+
+FTP sites:      INFANT2.SPHS.INDIANA.EDU
+                WUARCHIVE.WUSTL.EDU
+
+BBS numbers:    Falcons's Nest BBS
+
+
+

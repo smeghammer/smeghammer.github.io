@@ -1,0 +1,20 @@
+Level Name:	DMFragTemple
+Game Engine:	Unreal
+Author:		Mark "Geese" Blanco
+email:		markblanco@hotmail.com
+Date:		06/05/98
+Time Spent:	1 week
+Single Player:	No
+Deathmatch:	Yes 2-6 players
+Bot Support (path nodes): Fully Implemented
+
+Notes:	This level was designed on a P2-333/64mb ram, Monster 3D. I tried to optimize it as
+much as possible using zoning techniques as discussed by Tim Sweeney.
+
+Thanks to Debacle for explaining how to implement path nodes.
+
+Anyone has my permission to use this level, as long as credit is given to me.
+
+Any suggestions are welcome...
+Mark "Geese" Blanco
+markblanco@hotmail.com

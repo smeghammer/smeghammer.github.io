@@ -1,0 +1,61 @@
+============================================================================
+Title                   : Knee Deep ][ - Bloodbath
+Filename                : DMBBATH.WAD
+Authors                 : Aug & Ben Sze
+CompuServe Address      : 71202,1312
+Misc. Author Info       : Most of the work was done by Daugman.
+                          I did the redesign of the Nuclear Plant,
+                          the new title, and the "distributing".
+Description             : "Bloodbath" - the title says it all.
+                          New, meaner Knee Deep levels and this
+                          time, the buildings make more sense
+                          (ie. the Hangar is a real hangar, the
+                          Nuclear Plant is a real Nuclear Plant
+                          equipped with a core and everything).
+                          Six tough levels for you to wade through.
+Notes                   : Beware of the Command Center (E1M4).  This
+                          one is extremely tough if you warp into it.
+                          The levels get progressively tougher and were
+                          designed to be played in sequence - although
+                          each level has been tested by warping in to
+                          make sure it IS possible to complete each one
+                          starting with just a pistol.  However, it is
+                          extremely difficult and probably requires many
+                          tries to do so.  Don't say I didn't warn you! :)
+============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2, E1M3, E1M4, E1M5, E1M9
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes - New Episode One title.
+New Music               : No
+Demos Replaced          : All
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : DEU v5.1 and v5.21, BSP v1.2 (Colin Reed's), 
+                          Improces v3.1, WinJPEG v2.51, and DMGRAPH v1.1
+Known Bugs              : A few of the levels have HOM effect when viewing
+                          certain areas at certain angles.  Can't seem to
+                          find what's causing them.  Some may be due to too
+                          many 2S linedefs in a line of sight.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.  
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+CompuServe:  GAMERS Forum - in the Actions Game Aids Library.

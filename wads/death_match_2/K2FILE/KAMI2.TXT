@@ -1,0 +1,64 @@
+================================================================
+Title                   : KAMI2.WAD   
+Author                  : J. OKAMURA 
+Description             : A house in hell?
+
+Additional Credits to   : Bad Bart for inspiration
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 30+ hours
+Editor(s) used          : DEU 5.0, DEU 5.1
+Known Bugs              : One area still has mirrors, but very
+minor
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, provided they charge NO fee for the modified level, and
+the following limitations are observed.
+
+You MAY distribute this WAD pursuant to the following
+limitations:
+1.  You include this file, with no modifications.
+2.  You MAY NOT distribute this WAD, in whole or in part, as part
+of a commercial product without the permission of the author. 
+This includes any use for profit, including the use of this level
+in competitions or collections of files on physical media. 
+Distribution via electronic means is excepted from this
+limitation (you may post this WAD on commercial and private BB
+systems).
+
+About the level:
+
+Yes, I know, "another house."  Well, it was an exercise in
+cuteness, an experiment in adaptation, and an attempt at creating
+a neat level with good texture mapping.
+
+This level can be played like any regular DOOM level.  Provisions
+have been made for cooperative and deathmatch play.  It's big,
+but there's a way to quickly check several areas without running
+around.  I'll leave it up to you to find it.
+
+Strategies vary depending on the difficulty level selected.  It
+is possible to defeat the enemies on each level with the weapons
+provided.  If you are playing multiplayer and want a wide weapon
+selection, play on the easy level.  If you want to limit the
+weapons selection, play on harder levels.
+
+Hope you enjoy it.  Address any comments/bug reports to: 
+J.OKAMURA1@GENIE.GEIS.COM

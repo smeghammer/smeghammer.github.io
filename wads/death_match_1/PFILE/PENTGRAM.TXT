@@ -1,0 +1,121 @@
+WAD Authoring Template V1.2  (you mean there's MORE than one version???) 
+================================================================
+Title                   : PENTAGRA.WAD   
+Author                  : Jin H. Kim  "Time Traveler"
+Email Address           : xjinkim@fullerton.edu
+Misc. Author Info       : I forgot to pay my vehicle registration and was a 
+			  day late in paying my parking ticket.....  To all
+			  those fundamentalist Christians that might be 
+			  playing Doom...  No apologies.  Take a look.  Like
+			  it (or even hate it) or leave it.
+
+Description             : There's nothing quite as evil as the sign of Satan
+			  itself...  Well, maybe certain farts might be 
+			  considered more evil.......
+			  If you haven't done so yet, go play HUNTER.WAD.
+
+Additional Credits to   : Anton Szandor LaVey (Founder of the Church of Satan
+			  and author of the Satanic Bible) for the idea.  It's
+			  on the cover of his Satanic Bible.  
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2
+Single Player           : Yep.
+Cooperative 2-4 Player  : Yep.
+Deathmatch 2-4 Player   : Yep.  
+Difficulty Settings     : At the Time of this writing, no.  At the Time of
+			  release; probably.  Most likely.  Yep.  No doubt.
+New Sounds              : Yep.  Shotgun from Terminator 2.  Also replaces 
+			  the original e1m2 music with e1m5.  It suits the 
+			  level better.
+New Graphics            : Nope.
+Demos Replaced          : None.
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 666 x 3 minutes.  Or about 33 hours.
+			  circa 6/21/94 - circa 7/04/94
+Editor(s) used          : DEU 5.1, BSP 1.1x
+Known Bugs              : Yeah, right.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: If I can EVER figure it out.. I'll put it up on ftp.uwp.edu.  Or
+	   if a kind soul would do that for me. 
+
+BBS numbers: The Wine Cooler (310)860-9171.  Has a dedicated "home-brew"
+	     doom directory.
+
+Other:  
+
+The story thus far:
+
+	You've almost made it.  Only two more weeks of hard work and one more
+training mission and you'll be shipping out to adventure.  Aboard the troop
+transport headed to the staging area, you review the combat reports a final
+Time.
+	"....will require tactical thinking as well as evaluation prowess.
+The mission will require that the recruit pay attention to details in a greater
+extent than in the previous training mission.
+	"The training mission will test a recruit's ability to maintain his
+concentration while under attack by camoflauged assailants.  In situations
+where multiple recruits battle for supremacy, each of the participants will 
+need to exercise their judgement regarding the use of advantageous positions
+which may already be occupied or may be the first to fall under opponent fire.
+Once again, wise judgment and attention to details will be stressed."
+	Terrific, you say to yourself.  Just what you needed to do.... THINK.
+You pull out your orders for when you complete training.  Guard duty on a 
+docking station on Mars.  UAC calls it Docking Crater Alpha.  The place has
+been in active service as a supply drop off point for 40 years and it's 
+falling apart.  But for now you set that aside.  Right now you're touching
+down and have to prepare to fight on Satan's ground.  Terrific.
+
+
+	You might recognize me from my previous Doom level, HUNTER.WAD.  I
+figured I might as well make a "sequel" of sorts.  This level is pretty cool
+looking once it's been thoroughly explored and viewed from the map.  The exit
+itself is kind of tough to access for those of slightly feeble minds.  The 
+level itself is easier to complete than HUNTER.  It can also be used as a
+deathmatch arena, although it may be a bit too big for serious fast action
+unless you limit the boundaries.  But what fun is that.  There are still a 
+couple of areas to set up pseudo ambushes and stuff.  
+
+	I did most of my serious babbling in HUNTER.TXT so I'll keep it short
+here.  
+
+	A few hints:
+
+	There IS a way to kill the bad guy(s) behind curtain #1 without firing 
+a shot...
+
+	What symbolizes goodness, a white cross or an upside down red cross?
+
+	If the situation looks bad, then it probably is.
+
+	Avoid the pentagram's eyes.
+
+	And I say again.......  I don't scatter dead bodies around for my 
+health or for theirs.
+       
+	Finally:
+
+	No, I am not a Satanist, nor do I ever plan on being one.  I just 
+happen to enjoy collecting various forms of literature.  Besides, the teleport
+pads in Doom are based on runic symbols out of the Necronomicon, the book of
+the dead.
+
+	Peace.

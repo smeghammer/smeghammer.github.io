@@ -1,0 +1,53 @@
+===============================================================
+Title                   : FURY   
+Filename                : Fury.WAD
+Author                  : Jason (aka Widowmaker)
+Email Address           : CIS. 74721,3236 
+Misc. Author Info       : Thanx to Joe, Marc, and John for testing my levels, 
+                          good and bad.:)
+                          Thanx to Dr. Sleep for advice and inspiration. :)
+                          Thanx to J. Cameron for ALIENS (tons of ideas!)
+
+Description             : "We're on an express elevator to hell, goin' 
+                           down!" You have lost contact with the mining colony
+                           codenamed FURY. It is your job to find out what has
+                           happened to the colonists. Sound familiar? 
+                           probably. This WAD is still fun to play though.
+
+Additional Credits to   : Id Software (of course), Raphael Quinet, Brendon J.
+                          Wyber (DEU), and Colin Reed (BSP)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (but has not been tested)
+Deathmatch 2-4 Player   : Yes (again, not tested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base/Time               : New level from scratch. This took me about 12 hours
+                          to construct and about 4 to test.
+Editor(s) used          : DEU 5.21 & BSP 1.1
+Known Bugs              : NONE Thank God!(or whatever entity was involved)
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels. (Unless of course, you really have no imagination.) ;)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+CompuServe.(Action Game Aids)

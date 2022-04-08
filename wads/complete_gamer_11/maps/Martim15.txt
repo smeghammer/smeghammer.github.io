@@ -1,0 +1,87 @@
+================================================================
+Quake 2 level
+================================================================
+
+Title                   : Final Absulation
+Filename                : MarTim15.zip
+Authors                 : Tim van Hal,		Head Builder
+			  Marco van Schriek,	Head Designer
+			  Roel Tiemessen,	Co-Designer
+			  AKA "The MarTim Team"
+Email Address           : Tim@inside3d.com 
+			  Marco@inside3d.com 
+		          Roel@inside3d.com 
+Homepage		: Http://www.inside3d.com/martim
+Misc. Author Info       : Creators of :
+
+                          Quake - levels
+                          ==============
+			  MarTim 3 "First Encounter"
+			  MarTim 4 "The Silent Corridors"
+			  MarTim 5 "Satan's Fifth Sin"
+			  MarTim 6 "Lucifer's Path"
+			  MarTim 7 "Certified Serial Killers"
+	          	  MarTim 8 "Contempt of Death"
+                          MarTim 9 "The Dark Demise" 
+                          The MarTim Quake Commemorative PAK
+
+                          Hexen 2 - levels
+                          ================
+                          MarTimh1 "Ominous Inaugural"
+			  MarTimh2 "Discourteous Bisect"
+
+			  Quake 2 - levels
+			  ================
+			  MarTim11 "Penitant Parricide"
+			  MarTim12 "Raw Sewage"
+                          MarTim13 "Missile Base A32"
+			  MarTim5r Remake "Addiction to the Fifth Sin"
+			  MarTim14 "Body and Soul"
+
+Level Description       : You're the only one left from a team consisting
+		          of 6 men sent for a mission to infiltrate and
+			  destroy every Strogg to be found in their primary 
+			  base. We have detected several huge life forms inside
+			  the base, be carefull soldier, or you will face the
+			  same fate as your collegues...
+
+================================================================
+
+** Play Information **
+
+Episode and Level #     : 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes 
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+** Construction **
+
+Base                    : From scratch
+Editor(s) used          : Quakeed 3.0 + Radiant
+Known Bugs              : None
+                          
+** Copyright / Permissions **
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.If you intend to use this level in any way (TC's, Mission 
+Packs, CD's, Freebee's, etc.) please contact us first at roel@inside3d.com
+
+** Where to get the original BSP **
+
+The MarTim Homepage: HTTP://www.inside3d.com/martim
+
+FTP sites: The best Quake 2 sites
+
+BBS numbers: None we know of...
+
+Other: The Computer Fairs/LAN-party's in Kilder (Holland)

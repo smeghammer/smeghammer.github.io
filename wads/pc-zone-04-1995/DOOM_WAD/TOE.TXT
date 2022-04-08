@@ -1,0 +1,6 @@
+Hi everyone out there in Doom land.  This is my second attempt at a board, but
+I thought I'd share it with everyone despite that.  It is rather small, rather
+simple, and has no value outside of deathmatch.  It was written with deu50, 
+with a little help from dmapedit, and of course BSP.  It is highly likely 
+to cause stress, if you have a heart attack, don't blame me.  Enjoy.
+If you wish to contact me, write me at khl1@acpub.duke.edu 

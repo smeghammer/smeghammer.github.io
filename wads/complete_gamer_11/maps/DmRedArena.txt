@@ -1,0 +1,56 @@
+================================================================
+Title                   : DmRedArena
+Version                 : 1.2
+Release Date            : 1998/07/01
+Filename                : DmRedArena.zip
+Author                  : Gnutten
+Email Address           : gnutten@home.se
+Web Page                : http://gnutten.cjb.net
+Description             : Uptated version of DmRedArena
+Where to get this map   : ftp://ftp.unreal.org/pub/incoming/
+Other levels by author  : DmMansion
+Additional Credits to   : Epic Megagames (http://unreal.epicgames.com/)
+                          
+================================================================
+--- Play Information ---
+Game                    : Unreal
+Level Name              : DMRedArena
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes (2-6 players)
+Dark Match              : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : None i hope. If you find any, please e-mail me!!!
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : 5-8 hours
+
+Installation
+------------
+   Unzip the the files and place them into your maps directory under the unreal
+   directory. Type in "open <mapname>" to run the map. Alternatively, double-click
+   the map.
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Gnutten 1998.
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

@@ -1,0 +1,15 @@
+EPI1BEST.WAD
+____________
+
+This is a collection of the finest, custom made DOOM levels ever made :)
+EPI1BEST.WAD replaces Episodes 1 to Episodes 8 in DOOM v1.2 REGISTERED!
+It will not work in the shareware version! To use this WAD, type
+
+DOOM -FILE EPI1BEST.WAD
+
+And doom will add the wad file to use at startup, using the levels
+contained in this wad file instead of the default levels in DOOM.WAD :)
+
+Have fun & enjoy :)
+
+Eugen_Woiwod@Mindlink.bc.ca

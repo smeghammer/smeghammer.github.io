@@ -1,0 +1,54 @@
+To play DIEFAST, type: doom -file diefast.wad
+
+
+================================================================
+Title                   : DIEFAST!   
+Filename                : diefast.wad
+Author                  : Jawed Karim
+Email Address           : karim002@maroon.tc.umn.edu
+Misc. Author Info       : >>Addicted to DOOM!<<
+
+Description             : Hard to beat, even on "I'm too young to
+                          die". Watch out for Cyberdemons when 
+                          you get the yellow key! Every single
+                          weapon, except for the BFG9000, 
+                          is hidden in DIEFAST! [Watch the demo!]
+
+Additional Credits to   : DAN MAYNES-AMINZADE for his long name 
+                          and for helping me! (Although he did not
+                          help me with THIS level..); Ryan (The 
+                          one who plays DOOM 24 hours a day) for 
+                          testing the first (shorter) version of
+                          this level...
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No (unless you make weird noises while
+                          playing...)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU521
+Known Bugs              : DOOM might crash if you play DOOM underwater. 
+                          Most computer are not water proof. 
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. 

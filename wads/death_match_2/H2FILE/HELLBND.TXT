@@ -1,0 +1,22 @@
+================================================================
+Title                   : Hell Bound   
+Filename                : HELLBND.WAD
+Author                  : Megaduck
+Email Address           : 
+
+Description             : Its a huge multiplayer level.
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+This level can be played solo but it was designed for multiplayer mayhem.
+Some walls open when you shoot other walls.

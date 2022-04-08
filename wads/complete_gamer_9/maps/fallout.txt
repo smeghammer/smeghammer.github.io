@@ -1,0 +1,45 @@
+================================================================
+Title                   : Fallout
+Date                    : 1-10-98
+Filename                : fallout.bsp
+Author                  : Jake Downing 
+Email Address           : Romcom@premier1.net
+
+Description             : This is my first attempt at creating a Half-Life level. It
+                          is suppose to be a small Fallout shelter inside the Black
+			  Mesa Research Facility.
+		
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+
+================================================================
+
+* Construction *
+
+Base                    : New
+Editor(s) used          : Worldcraft v2.0.
+Known Bugs              : None that I know of.
+
+Build Time              : Unknown
+
+Compile machine         : AMD-K6 233 with 64 MB Ram
+
+================================================================
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+

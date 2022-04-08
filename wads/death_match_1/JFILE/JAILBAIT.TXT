@@ -1,0 +1,27 @@
+Jailbait is a rather large level in which you start out in jail and have
+to fight your way out. Because of many of the narrow ledges and surprise
+confrontations I think it probably a pretty challenging level (but great
+fun). Take heart, I have gotten through several times on the hardest 
+level without dying (but I know where everything is). The medium level is
+the same minus the bulls (or centaurs).
+
+As you will notice, there are a couple of minor errors in this level. 
+Nothing that takes away from or interferes with the game, but being a
+perfectionist they still bug me. I either could not figure out how to get
+rid of the problem or it would have taken 5 frustrating more hours to fix it.
+
+Embarrassingly, I don't know how long this level took to make. I lost track 
+at about 50 hours, when it was maybe halfway done. But this is my first level,
+and I was starting from scratch, and DEU does take a lot of getting used to. 
+Which reminds me, any of you frustrated DEU editors, feel free to email 
+me with some questions or problems. There are some very specific things 
+you need to know about DEU that the manual fails to mention, 
+namely lindef defining. I don't want anyone to spend all those frustrating
+hours trying to solve a problem when someone else might know the answer.
+
+I really want to hear feedback on this level, suggestions for improvement,
+bug fixing suggestions, etc., so please email me at 
+
+trobbins@autobahn.calpoly.edu.
+
+You will enjoy this level - I guarantee it!

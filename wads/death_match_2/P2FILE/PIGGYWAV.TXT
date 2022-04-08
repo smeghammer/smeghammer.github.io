@@ -1,0 +1,67 @@
+================================================================
+Title                 : Piggy with a view.
+Author                : Kirk Yokomizo
+
+Additional Credits    : Matt Ayres for WADED 2.0
+                      : id Software, creaters of Doom I and II
+
+Description           : Here it is!  The lastest edition of the Piggy
+                      : series.  With this version of the Piggy series
+                      : I hoped to take care of some of the cheapness
+                      : that has been taking place in all the other piggy
+                      : wads.  Not so much in 3+ player modes, but mostly
+                      : in 1-on-1 matches.  This problem was solved with
+                      : the windows to catch some of the hiding out in the
+                      : large rooms.  All the classic piggy features are
+                      : included of course, the wood textures in the halls,
+                      : the BFG room, and of course the arenas with the
+                      : quick stair weapons.  The wad is really cool in 4
+                      : player mode free for all or 2-on-2.  1-on-1 matches
+                      : are finally fair for a change!  This wad can be used
+                      : for acurate skill testing as well.  Enjoy!  Next
+                      : in the series is on its way ;).
+
+Directions            : (ipx)sersetup -file piggywav.wad 
+                            
+Disclaimer            : You have chosen to use this wad.  I'm not forcing you
+                      : to in any means.  Whatever the heck happens to your
+                      : computer from using this wad is your fault, so don't
+                      : come winin' to me.  This wad has been tested in all
+                      : modes of play so there should be unexpected problems.
+                      : You have been warned.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes, if you are REAL, real bored.
+Cooperative 2-4 Player  : No...well 2-on-2 co-op I guess.
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : No.
+New Sounds              : No.
+New Graphics            : No.
+Demos Replaced          : ...
+
+* Construction *
+
+Inspired by:            : Sitting in class, bored to hell, I thought of this
+                        : wad and got it down on paper, then paper to wad.
+Build Time              : 15 mins.  Oh yeah.... :)
+Editor(s) used          : WADED 2.0.
+Known Bugs              : Vitalogy track 9.
+
+* Copyright / Permissions *
+
+Authors can go ahead and use this level as a base to build additional levels.
+  Gimmie some credit if you use this.  Thanks.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Lithium BBS (510)455-0425
+Via ftp from : ftp.cdrom.com

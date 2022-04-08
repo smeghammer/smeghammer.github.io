@@ -1,0 +1,70 @@
+================================================================
+Title                   : BloodLust
+Author                  : Greg Grimsby
+Email Address           : david.gardner@electric.com
+Misc. Author Info       : Doom! rocks my world!  I can be reached at
+                          the above address, but place my name in the
+                          subject...
+
+Description             : This level was originally designed as a death
+                          match level.  I threw in some monsters and changed
+                          the layout to make it a playable level too.  Its a
+                          pretty quick level to clear though, due to its
+                          simple design.  As a Death Match level, its a pretty
+                          fun romp.  Its designed to give the feel of having
+                          three floors on the same level.  The bottom floor, 
+                          The Sewers, has the basic weapons.  The middle floor 
+                          offers some beefier fire-power. The top, tech-level 
+                          floor has the big-mommas.  So the flow of battle is 
+                          upward.  It tends to be a pretty fast-paced kill-
+                          fest.  There are plenty of places to commit suicide, 
+                          for those so inclined 8^)
+
+                          Note that there are 2 exits to this level.  Note also
+                          that this level is a secret level.  The first exit
+                          is the normal exit.  The hidden exit (nearby) brings you
+                          back to this same secret level.  So it is possible to
+                          loop this level.  This makes it easy to play to a certain
+                          number of kills.  When you have x kills, run to the
+                          second exit.  The second exit brings you right back for
+                          more carnage!!
+
+Additional Credits to   : my dedicated band of playtesters 8^)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M9
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : YES -what it was originally designed for...
+Difficulty Settings     : Yes (admittingly, I haven't tried it on Nightmare)
+Difficulty              : 8'ish out of 10.
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 20 hours, plus playtesting
+Editor(s) used          : DEU 5.1, BSP 1.1x
+Known Bugs              : not really a bug, but it might run slower than
+                          most levels due to its complexity
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+This WAD can be FTPed at infant2.sphs.indiana.edu in 
+ pub\doom\wads\newwads  
+ (until its moved.....)
+

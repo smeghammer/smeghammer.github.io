@@ -1,0 +1,50 @@
+================================================================
+Title                   : Flood The Fool
+Filename                : fldfool.bsp [Package: fldfool.zip -- fldfool.bsp fldfool.txt]
+Author                  : Dr Funk
+Email Address           : drfunk@cgocable.net [Comments welcome]
+Website                 : http://www.cgocable.net/~drfunk/
+Description             : This level took a long time to make and finally I can get
+			  some rest from it... please feel free to email
+			  me with your comments, but please no flames...
+                          Please visit my webpage for future maps, and updates for this one.
+			  **This map is meant for 4-12 players.
+Thanks to               : Littlemute for his vickers MG prefab.  I put in sound and
+			  increased the ROF but the main base of the prefab is there.
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : Completely from scratch
+Editor(s) used          : Worldcraft 2.0
+Known Bugs              : There is just 1 texture glitch... in the lower maintenance station
+			  inside the water silo there is a peice of the wall with an 
+			  unmatching texture.  Please email me if you find more and I will be 
+                          convinced to recompile a new version.
+
+			  In one area of the parking lot you will get a wpoly count of about 620,
+			  this is the highest poly of the map and other than that, this map should
+			  run just SMOOTHLY with DM.
+Build Time              : About 4 days to create the level, testing took about 1-2 days. I also
+                          had to get some help with some things that gave me trouble throughout
+                          the level.
+
+Comments                : Half Life will never cease to amaze me with all its features. I will be 
+                          quite a few more maps before I get bored of this!
+			  
+Installation		: Unzip fldfool.zip into your sierra/half-life/valve/maps directory and
+                          join a game with fldfool.bsp!  Or if youd like to run around in it, 
+                          run "hl.exe -console +map fldfool.bsp".  Have fun!
+             

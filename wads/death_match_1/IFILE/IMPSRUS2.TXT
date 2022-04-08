@@ -1,0 +1,43 @@
+Impsrus2.txt
+
+Imps r us 2: Masters of Carnage
+
+Dodd A. Snow
+
+cis: 70004,1775 (this is not mine, but i will get your message)
+e1m1
+
+Here it is, the sequel! This is actually my fourth level created for the
+excellent game DOOM. It is also the best level by FAR, that i have made.
+Before i create a level i sit down and try to think up some cool stuff to
+put into each area, but this level just kind of grew while it was being 
+made. I have read you can run into problems doing things like that, but,
+to each thier own. 
+
+
+This level takes me over 30 minutes to complete. That includes getting all
+of the secrets and killing all of the baddies. There are over 320 bad guys
+to waste (only in america). This level has deathmatch starting points,but
+it was made for the single player and co-op players in mind. There are some
+awesome traps in this level, things i have not seen in other levels. This 
+level took me about 60 hours (i know, i need a life.... oh by the way im 29..
+...i really need a life!) of building and playtesting to make sure YOU will
+not have any problems. There is a .bat file included with this, so you won't
+have to type out the whole command (1.bat).(with these files in doom directory)
+
+O.K. go play the game let me know what you think, but before you go, i want
+you to thank,
+
+ID Software- for the cool game (my way of life).
+
+the DEU guys- Brendon J. Wyber and Raphael Quinet
+
+and last but certainly not least (i have never actually thanked this guy
+personally, but i hope he will accept my gratitude in mentioning him)...
+envelope please.......drum roll....
+
+The man that gave us "The Beginners Guide to DEU parts 1,2,3,4
+-Rich "Blackfist" Dersheimer
+
+
+to everyone that made "Imps r us" a success, this level is for you.

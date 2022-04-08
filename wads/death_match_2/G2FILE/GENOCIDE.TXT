@@ -1,0 +1,47 @@
+================================================================
+Title                   : Genocide
+Filename                : GENOCIDE.WAD
+Author                  : Olli Salonen
+Email Address           : olli.salonen@mfc.fipnet.fi
+
+Description             : Quite small deathmatch level with lots of weapons
+                          and no exit. It's designed for 2 players, but can 
+                          check how it works with 3 or 4 players. 
+
+Additional Credits to   : Ilari Kajaste (kajaste@proffa.cc.tut.fi). Thanks
+                          for beta-testing. You did a great job!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No (There is a player 1 start but no exit)
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, BSP 1.2x
+Known Bugs              : None.
+
+
+* Copyright / Permissions *
+
+Authors  MAY use this level as a base to build additional
+levels, if my name is included in a text file distributed
+with the level.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc)  as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu

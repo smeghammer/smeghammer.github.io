@@ -1,0 +1,86 @@
+================================================================
+Title                   : HOT.WAD (Halls Of Terror)   
+Author                  : Reaper (just call me Grim)
+Email Address           : Well....Uh....Oh....like None
+			  (mail to savage@cedar.univie.ac.at -
+			   I'll forward comments to the author)
+Misc. Author Info       : This is my 1st PWAD.
+			  
+Description             : E1M1 replacement PWAD.
+
+Additional Credits to   : Authors of DEU and BSP.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes 
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No (Why don't you just add some deathmatch spots ?) 
+Difficulty Settings     : No (Why bother ? Real DOOMers play it the tough way.)
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : From Scratch
+Build Time              : To live is to DOOM, so who cares ?
+Editor(s) used          : DEU(GCC) 5.21, BSP 1.1x
+Known Bugs              : None. Well, there's one small bug. In the hall of the
+                          of the priestess some candles like to jump up one
+                          floor SOMETIMES(?), but I have absolutely no idea why.
+ 
+* Copyright / Permissions *
+
+Use, alter, copy it as much as you like.
+
+---------------------------
+The story so far ...                   
+===========================
+
+After your escape from the Inferno Of Hell you are picked up by a team of 
+marines. The site where you returned is secured and you are taken to a 
+military facililty to report about your strange adventure. After many days of 
+psychological tests and interrogation the investigators decide to believe your 
+story (you don't have the feeling that they believe everything, but they gather
+a team of scientists and special investigators for further research on that 
+case). Your senior officers grant you a vacation of three weeks....
+After your return from the vacation you are summoned to the office of the 
+officer in charge of the special investigation team. He tells you that they 
+have found the entrance to what they believe is some kind of catacombs. There 
+they ran into a badly injured marine who claimed that he had escaped from a 
+horrifying temple.
+Before he died he said that many of his fellow soldiers are held as prisoners 
+by a spider-like priestess, right under the site where you returned from the 
+Inferno Of Hell. While unholy rites take place some marines have been tortured
+to death, others are imprisoned in cells and are starving to death. After they
+died their lost souls are still kept in these cells oozing in pain. He also 
+reported about experiments, which turned the men into braindead creatures, who
+spit fire and acid.
+When he and some of his mates were brought to a room, which looked like a 
+laboratory they managed to grab a gun and fought against the guards, marines
+turned into zombies. Most of them died in this battle, only a small number of
+them survived and tried to make their way out of the temple. But only he 
+reached the surface and was picked up by the special investigation team.
+The officer tells you that the man's wounds were deadly and that he died before
+he could describe the way in and out. But the team has learned that there is
+some kind of celebration room with stairs leading to a gate where the priestess
+appeared to perform the terrifying rites. There must be some way to open this
+gate to gain entrance to the area below.
+As you are the only one experienced with these enemies your orders are to lead
+a team of the best marines into this temple (and out again ?!). If there are 
+still soldiers held as prisoners try to free them. Also try to get hold of 
+those who have been turned into monsters. If this shows up to be impossible,
+well, at least make them rest in peace. But your primary mission goal is to 
+capture or kill the spider-like priestess.
+You and five more marines are at the entrance to the catacombs, this time you 
+are well armed and ready for action. However, your hands shake and you wish to 
+be somewhere else far away from this place, but you are a marine, a marine with
+orders, and you were taught to obey orders.
+You climb down into the darkness of the catacombs and run along a corridor.
+Everything seems to be fine when you and your team suddenly feel dizzy and
+disoriented. After you regain control over your senses, your comrades lie dead
+at your feet and almost all your weapons are gone. You hear an evil laughter
+echoing in your head.
+'Okay, bastards !', you say to yourself, 'Let's play it the tough way.'
+You are ready to GIVE THEM HELL !!!

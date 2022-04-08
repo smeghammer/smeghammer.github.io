@@ -1,0 +1,104 @@
+ORDER AND CHAOS
+ A solo or two player cooperative level for id Software's
+ QUAKE 2 by Zdim.
+
+ Release 1: 8/26/98
+ Release 2: 8/27/98 - added clip brushes
+
+--------------------------------------------------------
+
+Title                   : Order & Chaos
+Filename                : o&c.bsp
+Version                 : v.96
+Author                  : Richard Dale Carlson
+Email Address           : rich@ionstorm.com
+                          zdim@onramp.net
+
+Homepage		: Zdim's Weapon Rack
+
+ http://www.stormtroopers.com/ZWR/index.htm
+
+
+Description             : Aqquire the pyramid key
+                           and leave this accursed
+                           place. Simple.       
+
+Clues:                  : There are no dead ends in
+                           this level.   = )
+
+Additional Thanks To    : id Software
+
+                          Robert Duffy for QERadiant
+
+                          everyone at ION Storm
+
+                          everyone at Stormtroopers
+
+                          Stef, Karen & Brian
+
+
+Info about the Author	: Rich (Zdim) Carlson works
+                          for ION STORM as a mappie;
+                          current project: Tom Hall's
+                          A N A C H R O N O X....  = )
+
+
+Other Levels by Zdim    :
+
+DOOM     demon13/demonse, fiendish,
+          lasthope/lhsplit/zdimhope
+
+HERETIC  gren10, chaosian/mandor11, bigred12, wizwars,
+         orbqv12, wrevenge, cold10/cold20/cold40,
+         hwhite2
+
+DOOM2    cit10
+
+HEXEN    arch10
+
+QUAKE    crypt, hunter, rathole2, fane11, pand01a,
+          carnage, iondm2/hoppnmad, panoptic,
+          lavalord
+
+QUAKE 2  umbriel
+
+--------------------------------------------------------
+
+* Play Information *
+
+Single Player           : yes
+Cooperative             : yes (2 players)
+Deathmatch              : yes (6 starts)
+Skill Levels            : yes		  
+
+
+* Construction *
+
+Base                    : original level
+Editor                  : QERadiant (based on Carmack's
+                           QE4)
+Build Time              : 40 hours
+Compile                 : full vis / "extra" qrad
+
+
+========================================================
+
+Thank you for playing ORDER AND CHAOS !!!
+
+========================================================
+
+
+*** Copyrights/Permissions ***
+
+This map design (o&c.bsp) is copyright 1998
+by Richard Dale Carlson.
+
+This map MAY NOT be used as a base for other levels.
+
+This map MAY be distributed on bbs sites or the
+ WWW, as long as this text file is included, intact.
+
+This map MAY NOT be distributed on CD or floppy
+ unless you have the author's permission.
+
+*XYZZY!*

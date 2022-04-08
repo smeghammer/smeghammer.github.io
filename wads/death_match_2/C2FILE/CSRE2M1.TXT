@@ -1,0 +1,58 @@
+==============================================================================
+Title                   : CSRE1M1.WAD   
+Author                  : Clint Russell
+Email Address           : Can be reached at Software Creations BBS
+Misc. Author Info       : Southeast Oklahoma
+
+Description             : You have just returned from Hell and find yourself
+                          somewhere worse. That's right in Oblivion, you must
+                          have iritated someone in Hell, so strap on your
+                          pistol and follow where other marines have failed.
+                          You find yourself in oblivions long hallway with 
+                          a dead marine at your feet, you grab up the
+                          weapons he dropped and charge ahead full.
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : 1&2, 3 and 4&5 each has a different set of enemies
+                          and weapons, so you may want to try them in order.
+                          This is a great level and is meant to be played
+                          in single, co-op or deathmatch. Equally balanced.
+New Sounds              : Yes (Seperate Wad)
+New Music               : Yes (T2 Theme)
+New Graphics            : No (well some light texturing on a spiral staircase)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : oh, about 23 hours
+Editor(s) used          : DEU and DOOM CAD
+Known Bugs              : None
+
+Additional Credits to   : The authors of DEU52G and DOOM CAD, and
+                          Playtesters Robert Thornton and Shawn Hermes
+
+* Permissions *
+
+Authors may use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with no
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+* Where to get this WAD *
+
+Software Creations (need i say more)
+
+** NOTE **
+
+To see the spiral staircase you must find your way into the secret areas!
+this staircase has full light texturing, meaning the closer you get to a
+light source the brighter it gets in the stairway. An excellent optical
+illusion.

@@ -1,0 +1,37 @@
+				S O F T   B O I L E D 
+
+
+  Level title  		SOFT BOILED
+  Level designers  	M.Gumdrop & M.Sparky
+  Level type  		Single,Coop & Deathmatch
+  Level content         Exploration, bit puzzley & strategic fighting.
+  Recommended min spec  2 Voodoo Cards, PII 300, 64MB(maybe 32)
+  Build time  	  	40 hours (approx)
+  Editor used 		WorldCraft 2.0		
+  Prefabs used		A few tables and bits from world craft but 
+			mostly our own.
+  Rules or Guidelines   Attempt to do the level without saving (The realistic approach)z
+	
+	Level Outline
+
+This level is very loosely based on HardBoiled, by Hong Kong action director John Woo. 
+The brief story line goes as so... Big crime boss type bloke is using a hospital as a front
+for criminal operations. You are the number one type super cop fella, and thus your job is to
+find said nasty man, and spread a little 9mm joy his way. 
+
+	Level notes
+
+I find this level pretty tough. Theres not much health, and theres quite a few nasty types to
+get rid of. So all in all its a hard level. Be wary the coop level has a couple of possible 
+paths and isnt obvious, so stick with it, hopefully you will enjoy it.
+
+Ok this level is a cool coop level, which is what I really enjoy playing. But would also make
+a pretty good deathmatch level with four people or so.
+
+	Level info
+
+This is the first level we have ever built in the cool Half Life engine. It would have been
+a bit more detailed and visually more stimulating but the level is just to damn big. Making
+this level as it got bigger was a nightmare. By the end of building I had a ton of vis groups and
+a mass of entities.
+

@@ -1,0 +1,184 @@
+================================================================
+Title                   : The Apocalypse Project
+Filename                : APOCALYP.WAD
+Author                  : Daniel Hornbaker
+Email Address           : hornbak1@student.msu.edu
+
+Background              :
+
+You pull back on the throttle and begin your decent.  Below, the Io
+military special projects base appears peaceful.  You know otherwise.
+High Command lost contact with the secret outpost several weeks ago and
+dispatched the spacecruiser STALWART to investigate.  Failing to
+establish direct-contact communications, it has become your duty to
+journey down to Io and assess the situation.
+
+During your mission briefing, High Command revealed some disturbing
+information to you concerning problems with the now defunct UAC bases on
+Mars.  H.C. gave no details, mentioning a highly classified project that
+"didn't quite work out as expected".  All they would say is that you
+should exercise extreme caution when approaching Io, as similiar
+research was in progress there (The Apocalypse Project).
+
+As you thumb the retro-thrusters on, you notice a lot of commotion near
+the landing pad.  You breathe a sigh of relief, glad that at least
+everyone appears to be all right.  Their transmitter is probably down.
+You reach for the com link to radio STALWART to send down a tech team . . .
+
+Your shuttlecraft lurches violently.  You drop the com link and grab the
+controls, trying in vain to bring the craft back in line.  No use -
+you've lost engine control.  Your ship is all ablaze.  You focus all of
+your strength and concentration, willing your ship to crash/land near
+the landing pad, where help will be quickly available.  With a
+ear-splitting cacophany of tearing metal, your shuttle comes to a rest.
+You fight to maintain consciousness, moving through the flames and smoke
+toward the hatch.  It opens up, letting in the feeble light of a sun
+hundreds of millions of miles away. You stumble through.  Coughing
+violently, you look up and see . . .
+
+"WHAT IN THE HELL . . .?!"
+
+You fall unconscious.
+
+You awake, only to find yourself alone in a gloomy prison cell.  From
+the looks of the decaying bodies around you, the chances of rescue look
+slim. However, you didn't get into special forces by depending on others
+to solve your problems.  A few minutes later when a guard walks by your
+cell, you reach out and grab the poor fool, instantly breaking his neck.
+You take his pistol, and begin your fight to freedom . . .
+
+Mission Seques
+Mission 2         : You've managed to escape imprisonment, only to
+                    discover that the Io base has been completely
+                    overrun by the enemy.  And where are the thousands
+                    of personnel who were stationed here?
+
+Mission 3         : You've routed the enemy, and they've retreated into
+                    the underground waste disposal system. However, you
+                    can find no trace, dead or otherwise, of the men and
+                    women who were stationed on Io.  Alone, and without
+                    transport or communications, you're only chance to
+                    make it off this rock anytime soon is to give chase
+                    to the demons, in hopes of locating the missing Io
+                    personnel.
+
+Mission 4         : You've battled it out with the forces of evil down
+                    in the treacherous waste disposal system beneath the
+                    Io base, and kicked their collective asses.  But
+                    you've only won a small victory - and the bad guys
+                    are looking to even the score.  As you walk through
+                    the pressure door and emerge from the sewers, you
+                    find yourself in a large underground cavern.
+                    Exhausted and wounded, you gather your courage and
+                    determination and prepare to face your toughest
+                    challenge yet.  If you are to have any hope of
+                    surviving this ordeal, you must take the greatest
+                    leap of your life - and plunge into THE ABYSS.
+
+Mission 5         : You have arrived at the doorstep to hell, and the
+                    mat does not say "Welcome".  You are between
+                    dimensions, no longer in your own universe, but not
+                    yet in that evil place.  The gateway to hell is just
+                    around the corner, but first, you must defeat the
+                    maze.  Who would have thought hell would be this
+                    hard to get into?
+
+Mission 6         : Finally - you've reached your destination: HELL. You
+                    drop through the dimensional gate and find yourself
+                    on a mountain.  The air is hot and humid, the sky
+                    filled with a thick blood-red smoke.  You scramble
+                    up the hot, rocky slope to the crest of the
+                    mountain.  And you see it - the great Palace of Hell
+                    - and you lose all hope.  Amassed at its gates is
+                    the largest army you have ever seen assembled:
+                    thousands of imps, demons, and barons . . . you'll
+                    never defeat them all.  Looks like all your effort
+                    has been for naught . . . The rock beneath your feet
+                    shifts as a temor rattles the mountain.  The ground
+                    crumbles beneath you, and you slide down the
+                    mountainside. With a bone-shaking THUMP, you land in
+                    a small crevice in the mountainside, just missing a
+                    deadly landing on a brown stub.  Slowly, you pick
+                    yourself up.  Doesn't appear to be anything broken .
+                    . . say, what's that behind that tree??
+
+Mission 7         : You've learned the fate of the personnel from Io,
+                    and now it's no longer a matter of survival - it's a
+                    matter of revenge.  But before you can seek out the
+                    pit boss of this particular hell, you have to find
+                    some way of sealing the front gate to prevent his
+                    vast army of darkness from coming to his aide.
+
+Mission 8         : You're almost there - you can feel it in your bones.
+                    Ahead is the antechamber to the throne room, where
+                    the demon has stockpiled his treasures. You wonder -
+                    what kind of hideous being would be trusted to
+                    defend the WAGES OF SIN??
+
+Mission 9         : You climb the stairs for what seems an eternity.
+                    Finally, a door appears up ahead. You wonder what
+                    kind of abomination you'll find on the other side...
+
+
+Additional Credits to   : Chris Peters, without whom I would have no
+                          computer to waste my time building missions
+                          for DOOM!, and whose advice was of great help.
+                          Also, for helping find the bugs (see below).
+
+                          id Software, of course, and the makers of DEU,
+                          BSP, DMGRAPH, and REJECT.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Episode 1 (all levels)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No (But feel free to set it up if you feel the need)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, DEU 5.21gcc, BSP 1.1x, REJECT, DMGRAPH
+Known Bugs              : Centipedes, spiders, mosquitoes, chiggers, and ticks.
+
+                          But seriously:
+                          One HOM in mission 1
+                          Two HOM's in mission 2
+                          It is possible to trap yourself in mission 3
+
+                          Many, many bad wall textures in mission 4, due
+                          to oversized sectors.  However, most of these
+                          are concealed by the fact that you can't reach
+                          the walls.  They are surrounded by a river of
+                          lava, and to keep people from killing
+                          themselves in long, treacherous falls into the
+                          lava, I have inserted several impassable lines
+                          (conveniently, these lines also conceal 99% of
+                          the bad walls).  There are still bad walls (I
+                          believe the effect has been dubbed the "veil"
+                          effect), and only one or two HOM's.  Overall,
+                          I do not think it affects play much.  But, if
+                          you are one of those types who can't stand
+                          HOM's or bad walls, then I advise not playing
+                          this wad.
+
+                          One HOM in mission 5, plus a door that takes a few
+                          tries to open.
+
+                          One HOM in mission 8
+                
+* Copyright / Permissions *
+
+You may do whatever you want with this file, just don't blame me when
+your computer melts down.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indians.edu

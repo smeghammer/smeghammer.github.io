@@ -1,0 +1,67 @@
+================================================================
+
+Title                   : Liberati Mei
+Completed               : August 28, 1998
+Filename                : liberatimei.zip
+Author(s)               : Noah Grey
+Email Address           : noah@noahgrey.com
+Web Page                : http://www.noahgrey.com/
+Description             : Deathmatch/Botmatch level for Unreal
+Players/Bots            : 8-16ish
+Other levels by author  : The Push (Quake deathmatch level)
+
+================================================================
+
+--- Construction ---
+
+Editor(s) used          : UnrealED
+Base                    : Created from scratch
+Construction time       : 3-4 days
+Constructed on          : A P2-400 with 128 MB's RAM and
+                          a Voodoo II 3DFX card
+
+================================================================
+
+--- Installation ---
+
+Unzip this file and place DMLiberatiMei.unr in the directory
+where your Unreal maps are stored (most likely
+C:\Games\Unreal\Maps\ or somesuch).
+
+================================================================
+
+--- Description ---
+
+A large, circular, mystical arena.  A fair amount of players
+(8-32, depending on the desired level of action, and how much
+your system can handle) is recommended.  Due to the nature of
+this level and its lighting, running it on a 266+ MHz Pentium
+II system with a 3DFX (Voodoo 1 or 2, especially 2) card is
+probably best for optimal performance.
+
+This is my first (and possibly last?) attempt at making an
+Unreal level, so please, be kind.  ;)  If this level managed to
+provide you with a little enjoyment, I'd love to hear from you!
+
+================================================================
+
+--- Copyright notice ---
+
+This level is copyright (c)1998 by Noah Grey.  All rights
+reserved.  This level may be redistributed only in its original
+unaltered state.
+
+================================================================
+
+--- Dedication ---
+
+To my husband ... amori omnia eternam.
+Visit his site at http://www.sanven.com/
+
+================================================================
+
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.
+Distributed by GT Interactive Software, Inc. under license.
+UNREAL and the UNREAL logo are registered trademarks of Epic
+Megagames, Inc.  All other trademarks and trade names are
+properties of their respective owners.

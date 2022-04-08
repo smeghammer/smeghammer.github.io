@@ -1,0 +1,6 @@
+This is a modified level 1,1. It's meant only for deathmatch, remember.
+Most of the stuff is around when playing single, however. It's made with
+newdeu 4.31. Enjoy.
+
+                        -Osku Salerma
+                         osku@muncca.fi

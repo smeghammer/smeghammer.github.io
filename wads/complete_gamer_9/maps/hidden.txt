@@ -1,0 +1,42 @@
+================================================================
+Title                   : The Hidden Tower Complex
+Version                 : 1.0
+Release Date            : Jan 10th 1999
+Filename                : HIDDEN.bsp
+Author(s)               : Molotov
+Email Address           : molotov@99main.com
+Web Page                : n/a
+Description             : Deathmatch
+
+Where to get this map   : HL Map Sites
+Other levels by author  : its my 1st map		         
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : The Hidden Tower Complex
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : None i know of
+
+--- Construction ---
+Editor(s) used          : WorldCraft 2.0
+Base                    : Made from scratch w/ exception of some prefab objects
+Construction Time       : 19 hours
+
+
+Installation
+------------
+
+Unzip the file Compound.bsp into your \valve\maps directory
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Tom Butkiewicz 1998.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive intact.

@@ -1,3 +1,0 @@
-To use Ambush.wad with the registered version of Doom type the following.
-DOOM -FILE AMBUSH.WAD
-Then start a new game on e1m1 with whatever skill level.

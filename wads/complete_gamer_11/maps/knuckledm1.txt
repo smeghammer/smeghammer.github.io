@@ -1,0 +1,74 @@
+===========================================================================================
+Title                   : knucklehead's DM1
+Filename                : knuckledm1.bsp
+Version                 : 8/10/98
+
+Author                  : Ken Nichols "knucklehead"
+Email Address           : knucklehead@planetquake.com or kvnichols@mindspring.com
+Icq #                   : 7416678
+Home page               : http://www.planetquake.com/thecoven
+                        : Please feel free to give me your thoughts on this level. 
+                        : This is only my second map released. I hope you like it.   
+                        
+                        
+                        
+Additional Credits to   : id, All the level editor authors.
+                        : My bud's Ray loggins, Owen Marlowe, Eric vonRothkirc,
+                        : For helping test.   
+
+
+Other levels by author  : First Try - firstry01.zip
+                        : Several levels for the Disposable Heroes
+                        : MOD for Quake2. 
+                        : I am currently a member of "The Coven",
+                        : Please stop by our web site http://www.planetquake.com/thecoven
+                        : and check out our current project. 
+                        : Why not buy a copy of Disposable Heroes while your there.  : )       
+===========================================================================================
+
+* Play Information *
+
+Game                    : Quake 2
+Single Player           : No sir            
+coop                    : No
+Deathmatch              : Yes sir
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+# of players            : probably good for 8-16
+* Construction *
+
+Base                    : From scratch
+Build Time              : I have no idea, i worked on it off and on, 
+                        : and in between The Coven project. 
+Editor(s) used          : Quark 4.07 mainly, brief encounters with Qoole, and QER.
+Known Bugs              : None 
+QBSP3			: 20 seconds. 
+QVIS3			: Around 30 minutes.
+Qvis extra ambient 0.12	: Me thinks about another 30 minutes...
+Machine Specs		: PPro 233 with 160 Mb ram, Win 98 
+                        : SLI Voodoo2's
+
+
+
+
+
+* How to use this level *
+
+Make a "maps" directory in ../quake2/baseq2 and copy the level into it.
+In Quake2, bring up the console and type in "map knuckledm1".
+
+ 
+* Copyright / Permissions *
+
+This level is (c) by Ken Nichols 1998.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+

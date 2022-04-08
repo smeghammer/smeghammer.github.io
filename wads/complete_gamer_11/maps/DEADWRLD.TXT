@@ -1,0 +1,56 @@
+01/30/1998
+================================================================
+Title                   : Dead To The World
+Filename                : deadwrld.bsp
+Author                  : Ben Caston
+Email Address           : expel@i-55.com
+Description             : Quake2 single player and deathmatch level.
+                          Fits about 4 people.
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : No
+Deathmatch              : Yes, 6 respawn spots
+Player load		: 2 - 4
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Worldcraft 1.5b
+Build Time              : 4 weeks
+
+
+* Credits *
+
+- id Software
+- Ben Morris for Worldcraft.
+
+
+* Author *
+
+Name  : Ben Caston
+E-mail: expel@i-55.com
+URL: www.i-55.com/ninvaderz/expel
+aka: 3xp3l.AI
+
+* Copyright / Permissions *
+
+You may distribute this level and include it in any deathmatch compilation
+etc., as long as you: 
+
+1. Include this text file untouched and give me credit.
+2. E-mail me and let me know what you're doing with it.
+
+^-- I stole this verbage from Sten Uusvali.  Creator of 'ztn2dm1.bsp',
+otherwise known as "Painkiller", a q2 deathmatch level I really admire.
+I didn't have a .TXT template.. so I stole it from him.  Sorry.
+
+Thanks
+Ben Caston
+

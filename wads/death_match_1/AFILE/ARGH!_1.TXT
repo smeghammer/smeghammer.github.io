@@ -1,0 +1,21 @@
+Argh! Level 1
+
+This level was created as a simple demonstration of the capabilities of
+Renegade Graphics Doom Editor.  It was created with version 1.0b.
+
+I suggest you play through it once without looking at the map.  See if you 
+can figure out what original level it is based on.  You will find it
+difficult.
+
+This level was designed for single or cooperative play, not deathmatch,
+though it could be used.  It is not really suitable as there are a number
+of traps which are one-way.
+
+This will work with the registered version of Doom 1.2 only.
+
+
+For more information on RGDMED, call Renegade Graphics BBS (615)337-9198
+or download the file RGDMED1B.ZIP wherever you can find it.
+
+-Joe Pantuso
+ Author of RGDMED

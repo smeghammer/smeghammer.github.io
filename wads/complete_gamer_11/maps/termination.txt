@@ -1,0 +1,84 @@
+            * THIS LEVEL IS NOT MADE BY OR SUPPORTED BY id Software *
+                    * REQUIRES REGISTERED VERSION OF QUAKE2 *
+
+Date - 7th May 1998
+========================================================================
+
+Title                   : Operation: Termination
+Filenames               : termination.bsp  op2.bsp  op3.bsp 
+Author                  : Paul(Sector)Sandler
+Email Address           : ISAND@prodigy.net
+Description             : Medium sized, 3 hub first attempt at a Quake2 level.If you dont like
+                          like the level then please dont send any hate mail,i am very new 
+                          to level editing.
+
+THE SECTOR              : http://www.geocities.com/TimesSquare/Lair/1644
+
+========================================================================
+Previous and current work:
+
+Quake:
+
+Only did did two small Introductory levels wich i never realeased.
+
+Quake 2:
+
+Worked for a few Conversions but never realesed any levels :\
+
+========================================================================
+
+
+* Play Information *
+
+Game			: Quake II 
+Single Player           : Yes
+Cooperative             : No
+Deathmatch              : Nope
+Difficulty Settings     : Medium only :\
+New Graphics            : No
+
+* Construction *
+
+Base                    : New Map from scratch
+Editor(s) used          : Registered Qoole v 2.40
+Construction Time       : I worked on it 3 days a week,about 2 hours a day for 3 weeks.(Just didnt have time to 
+                          fully work on it,so it is a little rushed)
+Known Bugs              : Yes.....in the 1st Hub,in the big area the walls sometimes become "see through" walls :\
+Compile Machine         : P200, 32MB RAM.
+Brushes                 : didnt count........
+Entities                : didnt count........
+Build Time              : 12 hours for the 1st Hub,3 hours for the 2nd Hub,7 hours for the 3rd Hub.
+       
+=========================================================================
+                           <<< MISSION >>>
+	Your Base has been taken over by Strogg troops.Take back the Base 
+by Terminating all resistence,and escape through laser locked elevator.
+=========================================================================
+Installation:
+-------------
+Unzip the file into your quake2\baseq2\maps directory and 
+then on the console type MAP DESERTED
+=========================================================================
+Special thanx to ID Software for the most realistic 1st person view shooter.
+More thanx to the creators of Qoole,maybe in the future they will make Qoole 
+bug free :)
+=========================================================================
+Greetings to my friends ShatterFace,SnazBaz,The Serpent Lord,BAD BILL,and 
+others.........
+=========================================================================
+* Copyright / Permissions *
+
+This level must be distributed freely. The contents of the original 
+.zip file must not be modified. Do not use this as a base for building new maps.
+You are *not* allowed to distribute this for your own profit by
+electronic means (like putting it on a CD-ROM and selling it) 
+without my permission...! 
+
+-----
+
+QUAKE II c1997 Id Software, Inc.  All Rights Reserved.  Distributed by 
+Activision, Inc. under license.  QUAKE is a registered trademark of Id 
+Software, Inc.  QUAKE II, the Id Software name, the Q II logo and the id 
+logo are trademarks of Id Software, Inc.  Activision is a registered 
+trademark of Activision, Inc.  All other trademarks and trade names are 
+properties of their respective owners.

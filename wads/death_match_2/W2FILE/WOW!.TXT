@@ -1,0 +1,70 @@
+WAD Authoring Template V1.4   (Clip this line)
+================================================================
+Title                   : The word you will say after playing this!   
+Filename                : !WOW!.WAD
+Author                  : Jon Landis	
+Email Address           : alandis@delphi.com 
+Misc. Author Info       : 
+
+Description             : This is the chilling finale to The Shores
+			  of Hell, but with a few extra twists.
+			  There are many more enemies and things
+			  to figure out.  There is an entire section
+			  that cannot be reached without TWO people
+			  playing.  Here is a warning... Even on the 
+			  easiest skill setting, this level will be 
+			  challenging.  Here's another warning... 
+			  I created this level on a 90 MHz Pentium
+			  with 16 Meg of memory.  There are loads and
+			  loads of enemies running around.  I do not 
+			  recommend playing this level on your old
+			  386.  My 486 66 with 32 Meg of memory was 
+			  even a little sluggish. I am happy to tell you
+			  that I just completed the original music
+			  for this level-- my sequencing software is crummy!
+			  
+Additional Credits to   : Deu 5.21, an excellent level editor
+			  BSP 1.1, an excellent compiler
+================================================================
+
+* Play Information *
+
+Episode and Level #     : ExMx (2,8)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu 5.21, BSP 1.1
+Known Bugs              : When playing networked, all my green torches
+			  disappear because there are too many things
+			  visable at once. Deal with it!
+			
+			  The big area where the cyber-guy is, has a
+			  spot where HOM effect is visable.  I do not
+			  want to drastically alter the level, or else I
+			  would fix this one.
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+Duh? I guess you found it!
+

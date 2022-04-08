@@ -1,0 +1,71 @@
+                ***         Hades' House of Horrors          ***
+                * Part One: "...And Here Your Troubles Begin." *
+
+==============================================================================
+Title			: HHH-21.WAD
+Author			: Robert Zubek
+Email Address		: clegg@rci.ripco.com
+Additional Credits to   : Those who made DEU (and BSP).  May their programs
+			  grow and multiply...
+
+Description		: As usually at that time of the year, Hades was
+			  really, really bored.  Aside from the usual job of
+			  taking care of the poor dead people, there was not
+			  much else he could do -- all of the goddesses
+			  were on vacations in far away lands, and Persephone
+			  herself was too busy watching the soap operas to
+			  even look at him.  And that's when he came up with
+			  an idea how to entertain himself -- to build a maze-
+			  like house, put one of those unworthy mortals in it,
+			  and see if he'll be able to find the way out.  Sadly
+			  enough, you happened to be the only person Hades
+			  could find before the sunlight started to hurt his
+			  eyes.  And thus you have been dragged into the
+			  underworld, placed in the House, and the game began.
+			  The grand prize is your life.
+
+
+* Play Information *
+
+Episode and Level #	: E2 M1
+Single Player		: Yes
+Cooperative 2-4 Player	: Yes (implemented, although not tested...)
+Deathmatch 2-4 Player	: Yes (implemented, although not tested...)
+Difficulty Settings	: Yes (tested!)   :-)
+New Sounds		: No
+New Graphics		: Menu and the acknowledgements at the end.
+
+
+* Construction *
+
+Base			: New level from scratch
+Built Time		: Few days...
+Editors used		: DEU 5, DEU 5.1, BSP 1.0
+Known Bugs		: There are none; only a few unexpected features. :-)
+                          (seriously now, let me know if you find any)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, as long as
+credit is given.
+
+You MAY distribute this WAD, provided you include this file, with no
+modifications.  You may distribute this file in any electronic form (BBS,
+diskette, CD, etc.) as long as you include this file intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+   ocf.unt.edu (and mirror sites)
+
+BBS numbers:
+   Omega:   (312) 573-1989
+
+
+* Note from the Author *
+
+This is the first part of the "Hades' House of Horrors" series.  Part two,
+HHH-22.WAD, is in the making right now.  I'm planning to create a complete 
+"Hades'" episode (L1-8).  More on the story as it develops.

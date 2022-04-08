@@ -1,0 +1,69 @@
+================================================================
+Title                   : Jailbreak (for want of something more original)
+Filename                : jail1.bsp, jail2.bsp, jail3.bsp and jail4.bsp.
+Author                  : Brendan MacLean
+Email Address           : riffraff@netcomuk.co.uk
+Description             : Although I've messed about with some ideas in
+                          both Quake 1 and 2, this is the my first Half-Life
+			  level.
+Thanks to               : Revolver for the container prefab. You can e-mail 
+			  at: Revolver@gpm98.freeserve.co.uk
+
+ 			  Brian J. Audette AKA Lord Dakushna for the scanner.
+			  Very cool prefab. I changed some textures and added 
+			  a light, but the clever bit is all Brian's. E-mail
+			  at: Dakushna@aol.com
+			  See his readme below for details. 
+                          
+                          Maxta. 
+                          24/12/98
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : No
+Deathmatch              : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No
+New Demos               : No
+New Models              : No
+
+* Construction *
+
+Base                    : New level
+Editor(s) used          : Worldcraft 2.0 from the Half-Life CD
+Known Bugs              : Things may slow down a little just before you reach the 
+			  main warehouse. I think this is because there are too many bad 			  guys....he he. Also, I can't the bad guys to climb stairs using 			  graph node points. I'm working on it, but if anyone can help, let 			  me know.
+Build Time              : On and off, between working and sleeping, about two weeks.
+			  I suppose the compile took a couple of hours in total.....so far.
+
+Comments                : Ain't Half-Life cool.
+			: 30/12/98. This readme is from a new zipfile containing
+			  4 maps; jail1 - jail4. The first 3 sections are more 
+			  or less complete, and the remaining section will follow shortly.
+			  
+Installation		: Installation.
+			  You'll need all four .bsp files or things may get a touch weird.
+			  You have been warned! 
+
+			  After downloading, unzip, and copy the jail1.bsp, jail2.bsp, 			  	  jail3.bsp and the jail4.bsp files into a folder called 'maps' in 			  your half-life/valve directory. (Overwrite/delete any earlier 			  versions of these files) You may have to create the 'maps' folder  			  if you haven't all ready got one. 
+
+			  Run the game from a shortcut on your desktop (or wherever) that 			  has the following command line:
+
+			  C:\SIERRA\Half-Life\hl.exe -console +map jail1
+
+			  If C:\SIERRA\Half-Life\ is not the path to your hl.exe file you 			  will have to make changes accordingly. You can also leave off the 			  '+map jail1' command but you will have to type map jail1 at the 			  console.
+
+			  When the game starts, Half-Life will give you a message that reads 			  something like 'node graph data out of date. Updating.' This is 			  meant to happen. It will only happen once and it just lets the 			  game know where the navigation points for the bad guys are.
+
+ 
+
+			  I had a report that the node graph data contained in my levels 			  screwed up someone's installation of Half-Life. I'm not sure what 			  this is down to. As I already mentioned, node graph data gives the 			  bad guys a route to follow within the level, so I am at a loss to 			  how this can screw things up. Anyway, mucho apologies to Draconis.  			  Let me know if this happens to anyone else. Thanks.
+
+			  I have to add, somewhat inevitably, that I can not reasonably be 			  held responsible for anything that happens to your system as a 			  result of running these files. My intentions are honourable and I 			  certainly don't intend any problems. I will help if I can but 			  please don't shout too loud.
+
+						
+					©1998 bpm productions

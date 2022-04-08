@@ -1,0 +1,68 @@
+* General Information *
+============================================================================
+
+Title                   : HEVNHELL.WAD (Heaven and Hell)
+Author                  : Kenneth S. Forte
+Email Address           : fusioncon@cup.portal.com
+Additional Credits to   : The authors of DOOM, DEU, and BSP, of course.
+Description             : Literally Heaven and Hell. If you can't figure
+                          out which way to go to get to Heaven when you
+                          start this level you need help. Heaven is simply
+                          a large stockpile of weapons, armor, and health
+                          bonuses (Apparently the NRA was right). There are
+                          also a few of Hell's more putrid denizens placed
+                          in cages for your safety and viewing pleasure, so
+                          take the opportunity to waste them. Every type of
+                          weapon is available in Heaven except for the BFG
+                          (is there one? Go to Hell to find out). Hell is a
+                          fairly linear place. In Single Player Mode if you
+                          die in Hell you are dead and thats that, but for
+                          Multi-Player mode, measures have been taken to
+                          ensure that any players that die can re-enter
+                          Hell safely many times over. This level isn't
+                          meant to be tricky or witty, it is purely kill
+                          kill kill kill kill kill jump kill.....
+
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E1M1 (Uses textures not in Shareware Version)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (Anything below "Ultra-Violence" has about
+                               half the monsters and no Boss Monsters.)
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : My first level ever, about a week while learning.
+Editor(s) used          : DEU 5.0 and BSP 1.0
+Known Bugs              : None, at least not fatal ones. It is a very large
+                          level, and probably shouldn't be attempted on some
+                          slower systems. "Disappearing Things" effects used
+                          to occur on this level, until I found out that
+                          DOOM really doesn't like too many objects (I had
+                          at one point over 900 things, and that was cut in
+                          half), but it may still occur occasionally. Also
+                          in the corridor with the large skull key doors
+                          the game seems to like to inflict damage on you
+                          even if you have a radsuit and there aren't any
+                          monsters around. This is not a result of paper
+                          thin walls, and seems to happen randomly, but
+                          it does happen quite often in that particular
+                          area. If anyone knows what causes this to happen
+                          even when walls are two linedefs thick, please
+                          let me know.
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

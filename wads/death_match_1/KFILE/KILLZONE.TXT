@@ -1,0 +1,80 @@
+================================================================
+Title                   : KILLZONE.WAD
+Author                  : Craig J. Dudle
+Email Address           : craig.dudle@aquila.com
+Misc. Author Info       :
+Description             : Completely new version of Episode 1 Level 1
+Additional Credits to   :
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Over 60 hours
+Editor(s) used          : DEU 5.1, BSP1.1
+Known Bugs              : A few quirky display problems at end of level.
+                          (see NOTES)
+
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc.) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+
+BBS numbers: AQUILA BBS 708-820-8344
+
+Other:
+
+** NOTES: **
+
+This level will only work with registered versions of DOOM.
+
+     To play this level unzip the files to your DOOM directory.
+
+type DOOM -FILE KILLZONE.WAD
+
+to start DOOM.  Then just play episode 1 level 1.  There is also a demo
+of this level included in the pwad.  It will play if you start doom as
+stated above and then do nothing.  Just like the real doom!  This level is
+fairly easy at lower levels but is difficult on the hardest levels.  There
+are two "secret" areas in the level.  If you can find them, the level is much
+easier.
+
+This pwad was constructed using DEU5.1 and then run through BSP1.1x
+The level works great except for a few quirky display problems in the last 
+area of the level.  This is caused by one of two things.  Either this area 
+is too complicated for any of the node builders I have found, or it is too 
+complicated for the DOOM engine itself.  It may be that there are too many 
+2S linedefs on the screen at one time.  The problems only manifest themselves 
+when crossing some sectors.  I chose to leave it the way it was rather than 
+change it because I liked the way the level played.  If anyone has any 
+ideas on this leave a message at my E-mail address.
+
+I have put many hours into this level, I hope you enjoy it.  It turned out 
+that some of my ideas were very complicated for me to translate into a 
+seamless looking and playing level.  They may not look complicated during 
+game play, but were during the creation of the level.  There also was a big
+learning curve for me in learning how to use the editor, and the structure
+of the wad.  DEU5.1 is great, get it.  Also, this level would never have
+worked without the BSP1.1 node builder. Special thanks to Colin Reed for
+creating it.
+
+Any comments or suggestions send to me at craig.dudle@aquila.com.
+
+Thanks,  Long live DOOM!

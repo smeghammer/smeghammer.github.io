@@ -1,0 +1,169 @@
+================================================================
+* Level Information *
+Title               : The Rescue of PaNunu
+Author              : GreyGore
+Email Address       : greygore@unrealized.com
+Web Site            : http://www.unrealized.com/greygore/
+Misc. Author Info   : I'd love to do this for a living, hint, hint ;)
+Other Works         : None yet (worth mentioning)
+Filename            : panunu.zip
+Contents            : PaNunu.unr
+Description         : PaNunu, leader of a band of Nali resistance has been
+                      captured by the Skaarj while attempting to locate
+                      an ancient city... you must rescue him
+Additional Credits  : My loving fiancee who didn't yell at me *that* much
+                          while I was working on this.
+                      Myscha, for helping me and other level desginers to
+                          get started using UnrealEd
+                      Epic MegaGames and Digital Extremes for Unreal[Ed]
+
+================================================================
+* Play Information *
+Single Player       : Yes
+Cooperative         : No (Maybe next release)
+Deathmatch          : No
+Dark Match          : No
+Difficulty Settings : Easy - Unreal
+
+* Think  *
+New Graphics        : No
+New Models          : No
+New Sounds          : No
+New Music           : No
+New UnrealScript    : No
+
+Directions          : Just put the map into your Maps (or UserMaps directory).
+                      Then double click or open from the console
+                      ('open PaNunu' or 'open ..\UserMaps\PaNunu')
+
+Notes               : This is my first map, unless you count the recreation of
+                      my apartment in Worldcraft in the early days of Quake :)
+                      This is also my entry into Myscha the Sled Dog's Level
+                      Design Charette (July '98). I'll let you know how well it
+                      does!
+                      
+                      I'm planning on rereleasing this map at some point in
+                      time as it's my hope to make a series of maps based on
+                      this one. In addition to the addition of teleporters
+                      between maps, I really want to fix the end of this map.
+                      Without a working 3D modeller, the ending is a bit of a
+                      hack. Although the node/poly counts still fit into the
+                      contest rules, it's slower than it needs to be and I
+                      intend to fix this eventually.
+                      
+                      Please fill out the feedback form that accompanies this
+                      level! If you liked it, please let me know where it was
+                      good and not so good. If you hated it, let me know so I
+                      don't keep producing crap ;)
+                      
+* Construction *
+
+Base                : None... all from scratch
+Build time          : Three weeks on and off
+Editor(s) used      : UnrealEd
+Known Bugs          : None
+
+* Copyright / Permissions *
+
+You MAY distribute this level, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact and get my permission.
+
+This level is copyright 1998 by Gregory Wood.  Permission to use, 
+copy and distribute unedited copies of this file (panunu.zip)
+is hereby granted, provided that no fee is charged for the use or 
+availability of this file (other than the normal connection costs for 
+on-line services, if applicable). The above copyright notice and this 
+permission notice must be left intact in all copies of this file.
+
+By using this file, you have agreed to the terms and conditions 
+set forth in this document.  If you do not wish to abide by these 
+terms, you must delete this file from any and all storage devices 
+(regardless of the specific media involved) immediately.
+
+Commercial distribution of this file, in whole or in part, requires 
+prior agreement with the author. Commercial distribution includes any 
+means by which the user has to pay either for the support (e.g. book, 
+newsletter or CD-ROM) or for the file itself.  Unauthorized commercial 
+distribution is prohibited.
+
+If you wish to commercially distribute (see definition above for the
+explanation of "commercial distribution") this file, note:
+
+(1)  This file contains intellectual property (including, but not 
+     limited to, textures and other artwork) owned by Epic MegaGames
+     (http://www.epicgames.com), and is subject to any and all 
+     copyrights held by them.  This author does not have the 
+     authority to grant usage of Epic's copyright, and, by granting
+     permission to use this level in a commercial release, does 
+     not waive their rights thereby.  By commercially distributing 
+     this file without the express written consent of Epic MegaGames, 
+     the publisher faces the risk of potential legal action from Epic 
+     MegaGames and has been so advised by this author.
+
+(2)  Permission is granted by this author for the one-time commercial
+     distribution of this file if all of the following conditions are
+     met and agreed to by the publisher:
+
+     (a)  The author is notified by email or conventional mail PRIOR 
+          to the file's inclusion on ANY commercial release.
+     (b)  The author is provided with one (1) "contributor's copy" of
+          the finished product upon it's release.  This copy is to be
+          mailed to the author using the shipping address specified by
+          the author in his/her reply to the publisher's initial email
+          notification, and is to be provided at no cost to the author.
+     (c)  The author's file (including this copyright notice) is not to
+          be modified in any way, and shall be distributed as the author
+          intended.
+     (d)  The author recognizes that copyrighted material is present 
+          in the file and is aware that said material is not copyrighted
+          or copyrightable by the author.  The author also recognizes that
+          this file is a Permitted Derivative Work when freely distributed,
+          and that, by commercially redistributing the file, the publisher
+          agrees to bear the entire legal burden, should it become necessary.
+     (e)  The author retains all copyrights to this work both prior
+          to and subsequent to the commercial release of this file.
+
+(3)  By requesting a shipping address from the author, the publisher
+     signifies acceptance of, and agrees to abide by, these conditions.
+     By returning a valid shipping address to the publisher, the author
+     thereby grants the publisher one-time usage of the author's copyrighted 
+     work for commercial purposes.
+
+Thank you for your interest in this work.
+
+I.  To make copies of this work in original form, so long as
+
+      (a) the copies are exact and complete;
+      (b) the copies include the copyright notice and these paragraphs
+          in their entirety;
+      (c) the copies give obvious credit to the author, Hank Leukart;
+      (d) the copies are in electronic form.
+
+II. To distribute this work, or copies made under the provisions
+    above, so long as
+
+      (a) this is the original work and not a derivative form;
+      (b) you do not charge a fee for copying or for distribution;
+      (c) you ensure that the distributed form includes the copyright
+          notice, this paragraph, the disclaimer of warranty in
+          their entirety and credit to the author;
+      (d) the distributed form is not in an electronic magazine or
+          within computer software (prior explicit permission may be
+          obtained from Gregory Wood);
+      (e) the distributed form is the NEWEST version of the article to
+          the best of the knowledge of the distributor;
+      (f) the distributed form is electronic.
+
+You may not distribute this work by any non-electronic media, including
+but not limited to books, newsletters, magazines, manuals, catalogs, and
+speech. You may not distribute this work in electronic magazines or
+within computer software without prior written explicit permission. These
+rights are temporary and revocable upon written, oral, or other notice by
+Gregory Wood. This copyright notice shall be governed by the laws of the
+state of Georgia.
+
+* Where to get this file *
+
+FTP sites:  ftp://ftp.unrealized.com/greygore/panunu.zip

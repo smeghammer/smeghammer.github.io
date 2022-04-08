@@ -1,0 +1,58 @@
+================================================================
+Title                   : CSRD2-01.WAD
+Author                  : Clint Russell
+ 
+Description             : A drop in for level one in DOOM ][ 
+                        : You were relaxing after freeing the earth 
+                        : from the clutches of hell, when an alert
+                        : sounded. You were instructed by Admiral
+                        : Dwight Smithy to proceed to a formerly
+                        : unknown demon infested area. You arrived
+                        : pumped up for some more action when the
+                        : teleport cycle engaged early and in a flash
+                        : you and your comrades were thrown of course
+                        : meaning all your supplies would not be there
+                        : someone or something must have changed your
+                        : transport destination. You stand now finding
+                        : only your sidearm and a double barrel shot-gun
+                        : at your feet. You lunge for the gun and....
+                        : Found yourself in the Home of the lost Demons!
+
+Additional Credits to   : Robert Thornton, Playtesting!
+================================================================
+
+* Play Information *
+
+Level #                 : One
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+* Construction *
+
+Base                    : New level
+Build Time              : 23 Hours (doesn't include playtesting)
+Editor(s) used          : DEU 2 (for DOOM 2)
+Known Bugs              : None Known!
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers:
+    JYER BBS (405) 286-5937  - Say DOOMATRON sent you 
+                               for next day DOOM files ACCESS!
+
+

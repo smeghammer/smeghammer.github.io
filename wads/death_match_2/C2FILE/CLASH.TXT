@@ -1,0 +1,61 @@
+================================================================
+Title                   : CLASH.WAD
+Author                  : Steen R. Steiniche
+Email Address           : eilskov@dfi.aau.dk
+Misc. Author Info       : I´m a high school teacher and a game addict
+
+Description             : This is a very small wad, but it´s extremely hectic 
+			  with three or four players. No extra ammo, just 
+			  pick up your weapons and kill your friends. You 
+			  are bound to get hit yourself, so you may have to 
+			  commit suicide in the two suicide pits. Hint: play 
+			  the wad until one of the players has, say, 10 or 15 
+			  kills. (That should take about 10 mins.) Then exit 
+			  and restart.
+
+Additional Credits to   : Torben Eilskov Leth, Jakob Mortensen and 
+			  Kristian Alkjærsig
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : no
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : YES!
+Difficulty Settings     : no
+New demos               : no
+New Sounds              : no
+New Graphics            : no
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : two hours
+Editor(s) used          : DEU 5.1, BSP 1.1x
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP site: INFANT2.SPHS.INDIANA.EDU
+
+
+    Until it is moved to the proper directory. Look
+    for the file:
+			      CLASH.ZIP
+
+* Previous PWADS made by author *
+
+GORE1.ZIP at FTP site: INFANT2.SPHS.INDIANA.EDU
+ 
+================================================================

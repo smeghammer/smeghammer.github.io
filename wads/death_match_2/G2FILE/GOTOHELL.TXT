@@ -1,0 +1,43 @@
+To play this new level, type:
+doom -file gotohell.wad
+================================================================
+Title                   : Go to HELL!!!   
+Filename                : gotohell.wad
+Author                  : Jawed Karim
+Email Address           : karim002@maroon.tc.umn.edu
+Misc. Author Info       : Male 15. Plays DOOM 25 hours a day.
+
+Description             : Awesome...
+
+Additional Credits to   : Dan for showing me how to build a 
+                          sector in a sector.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M!
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU521
+Known Bugs              : None!
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.

@@ -1,0 +1,33 @@
+Well, after many hours of learning how to run the deu5.0 editor, this
+is the level that I came up with.  This is the first level of the first 
+mission.  To load up the level just type 'doom -file upliftng.wad' and
+choose 'Knee deep in the dead'(and the appropriate skill level). There 
+are about 40+ hours into making this level so if someone does change this
+level any, I would at least like some credit shown.
+
+This level was made using the patched 1.2 version of the registered game
+and was also run through the bsp node builder, ver. 1.0.
+
+The level is geared for more for a multiplayer mode that just one player.
+However, this level is playable for just one player.  
+
+Deathmatch mode is supported.
+Skill levels do change.
+
+Tips:
+   Watch out for the green river....20% health loss.
+   It may bog down on slower computers when the ceilings are raised to
+allow the ability to exit the level.  Be patient.
+   Many of the same ideas are used, so don't be suprised.
+
+I did this on a 386dx-40(scary, isn't it!) and this is the second level
+that I have created.  The first level I made is not quite done yet but it
+was also more of a deathmatch level.  I may get it on internet someday.
+
+Enjoy,  
+  
+   Bart Wilson
+   
+   E-MAIL
+   wilsonb@handel.cs.colostate.edu
+

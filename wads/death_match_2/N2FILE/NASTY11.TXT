@@ -1,0 +1,80 @@
+WAD Authoring Template V1.2   (Clip this line)
+================================================================
+Title                   : Nasty11.wad
+
+Author                  : James Ojaste
+
+Email Address           : jojaste@descartes.uwaterloo.ca
+
+Misc. Author Info       : 
+
+
+Description             : A nice/nasty deathmatch with the big weapons
+
+			  (rocket/plasma) being easy to get to, but *VERY*
+
+			  hard to use to any effect (ie. you can't see
+
+			  where you're shooting).  Lots of frags, lots of
+
+			  shooting people in the back.
+
+
+			  There isn't a level exit, so don't look for one.
+
+Additional Credits to   : Authors of DEU and BSP
+
+================================================================
+
+* Play Information *
+
+ 
+Episode and Level #     : E1M1                    
+
+Single Player           : Yes (but pretty boring)
+
+Cooperative 2-4 Player  : No  (no point, really)
+
+Deathmatch 2-4 Player   : Yes (3/4 works best - never stop running)
+
+Difficulty Settings     : Yes
+
+New Sounds              : No
+ 
+New Graphics            : No
+
+Demos Replaced          : None
+
+
+
+* Construction *
+
+
+
+Base                    : New level from scratch
+
+Build Time              : A couple of work days to perfect
+
+Editor(s) used          : DEU 5.0, BSP1.1 (I did this a while ago...)
+
+Known Bugs              : None
+
+
+
+* Copyright / Permissions *
+
+
+Do whatever you want, but if you base something on this, I want credit.
+
+
+* Where to get this WAD *
+
+
+FTP sites: infant2.sphs.indiana.edu
+
+
+BBS numbers:
+
+
+Other:
+

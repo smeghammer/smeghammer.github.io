@@ -1,0 +1,41 @@
+====================================================================
+Title                   : DB10.WAD
+Author                  : Donald Bray
+Email Address           : bray@cel.cummins.com
+
+Description             : A pretty straight forward level 
+                          it shouldn't be too difficult
+                          for anyone. 
+
+====================================================================
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A couple of weeks, on and off...
+Editor(s) used          : DCK ver 1.1
+Known Bugs              : none
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+
+
+

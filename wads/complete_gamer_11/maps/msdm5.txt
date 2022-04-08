@@ -1,0 +1,65 @@
+================================================================
+August 5th 1998
+================================================================
+Title                   : The Oppressor
+Filename                : Msdm5.bsp
+Author                  : Michael Shand
+Email Address           : shand@pangea.ca
+Description             : Quake II deathmatch level
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Player load		: 3-9
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+
+Base                    : none
+Editor(s) used          : Virtus/Qeradiant 
+Build Time              : 9 days
+
+* Other Maps*
+ -The Cistern 2 
+ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/d-f/dm5-2.zip
+ 
+-The Rocket Lab
+ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/m-o/msdm4.zip
+
+-Twofold
+ftp://ftp.cdrom.com/pub/quake/quake2/levels/deathmatch/s-u/twofold.zip
+
+-Saving Private Bitterman (single player)
+ftp://ftp.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/planetquake/ltdan/spb1.zip
+
+* Credits *
+
+-Xine
+-Very special thanks to Guf.
+
+* Author *
+
+Name  : Michael Shand
+E-mail: shand@pangea.ca
+Alias : Asscrisps
+
+
+* Copyright / Permissions *
+
+You may include this level in any type of non-commercial release so 
+long as you include my text file and give me proper credit. 
+
+  ____________________________________________________________
+
+   ------------another trance in the fugue state------------
+
+                               +
+
+              http://fugue.terrafusion.com/state/
+  ____________________________________________________________

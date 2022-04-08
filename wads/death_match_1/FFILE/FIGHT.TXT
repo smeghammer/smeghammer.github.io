@@ -1,0 +1,81 @@
+================================================================
+Title                   : The Final Fight
+Filename                : FIGHT.WAD
+Author                  : David McGruther
+Email Address           : david.mcgruther@freddy.supernet.ab.ca
+Misc. Author Info       : 17 year old high school student way up
+                          North in CANADA!!  Looking at going into
+                          a systems analyst program.
+
+Description             : After fighting your way through the
+                          Shores of Hell (man were you ever Knee
+                          Deep in the Dead at the time), you think 
+                          back on the Inferno.  That was kinda cool
+                          you think to yourself.  Oh well, nothing
+                          left for me to do except go home and watch
+                          T.V.  All of a sudden you hear the voice
+                          of death itself!!!  "NOT SO FAST HUMAN!!"
+
+                          You find yourself fighting for your life once
+                          more.  Let's hope this is the final fight!!
+
+Additional Credits to   : Makers of DOOM, DOOM II, etc.
+                          Ben Morris  (author of DCK)
+                          Author of Reactor2.wad  (inspiration)
+                          All my beta testers.
+                            -Kelly Roberge
+                            -Kevin Barton
+                            -Robert McCauley
+                            -Chris Sartison
+                          Anyone else who gives a damn!!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M5    (best music IMHO)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes  (you wimps may need the help) <G>
+Deathmatch 2-4 Player   : Yes  (way too big to be that good)
+Difficulty Settings     : Yes
+New Sounds              : No   (only the screams of anguish you'll make
+                                trying to win!!)
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None  (there is one included though.  It is 
+                                 of me doing it on Ultra-Violence)
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DCK all the way  (thanks Ben)
+Known Bugs              : None known, please let me know if you see any
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you do decide to upload this elsewhere, please add the site name
+or BBS name along with all the important information as to where this 
+wad is available from.
+
+Also, if you use this as a base to build additional levels, please say
+so in your .TXT file with proper credit given.  Thanks
+
+
+* Where to get this WAD *
+
+FTP sites:
+             alt.bianaries.doom
+
+BBS numbers:
+             Freddy's Place  456-4241
+             Cyber Demon 447-3734
+
+Other:

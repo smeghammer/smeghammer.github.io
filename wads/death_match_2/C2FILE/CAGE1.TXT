@@ -1,0 +1,59 @@
+================================================================
+Title                   : The Cage 1.0
+Filename                : CAGE1.WAD
+Author                  : Liam Feldman & Brandon Fish
+Email Address           : st911227@pip.cc.brandeis.edu (LF)
+                          gr8white@camelot.bradley.edu (BF)
+Misc. Author Info       : LF: TMBG addict and thespian/improver extra-
+                              ordinaire
+                          BF: Doom2 junkie (aren't we all?), and loves
+                              northwestern missouri cookies
+Description             : A nasty little Deathmatch WAD.  For Deathmatch
+                          only.  Simple, yet elegant.  Sleek, yet intricate.
+                          Simple, yet deadly.  Sweet, yet sour.. (oh wait)
+                          You'll see.  *NOTE* Use it with the -timer option,
+                          as there is no exit.
+
+Additional Credits to   : iD Software
+                          Matthew Ayres for Waded
+                          Ren & Stimpy
+                          Beavis & Butthead
+                          Biscuits n' gravy
+                          Yakko, Wakko & Dot
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Level 01
+Single Player           : No. No exit, but if you want to look around...
+Cooperative 2-4 Player  : NO WAY! (In fact it was made to crash this way)
+Deathmatch 2-4 Player   : Yes (What are you new?)
+Difficulty Settings     : No (But if you want 'em put in there.. Just do it!)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Waded 1.42, Edmap 1.23
+Build time              : 5 hours
+Known Bugs              : None.  (Except that we haven't made 2.0 yet)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  (Just give us a little credit ok?)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+ftp.cdrom.com (Or at least it will be soon)

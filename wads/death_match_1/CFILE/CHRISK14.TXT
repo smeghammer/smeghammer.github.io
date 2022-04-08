@@ -1,0 +1,44 @@
+================================================================
+Filename                : CHRISK14.WAD
+Author                  : Christen David Klie
+AOL Screen Name         : OlivrSuttn
+Additional Credits to   : Gerrilynn Klie
+                          Mark Borczon
+                          Matt Borczon
+                          Mal Blackwell
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M4                      
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2.1; BSP 1.0; REJECT 1.0
+Known Bugs              : Bugs shmugs!
+Quote                   : "If there's bugs in this PWAD, why...
+                          why, I'll eat John Romero's stinky gym
+                          shorts!" 
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+America On Line PC Games Forum

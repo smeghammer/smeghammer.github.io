@@ -1,0 +1,81 @@
+   *THIS LEVEL IS NOT MADE OR SUPPORTED BY ID SOFTWARE*
+       *REGISTERED VERSION OF QUAKE 2 REQUIRED*
+
+Date - April 5, 1998
+===================
+
+Title           	: Destructive Powers
+Filename        	: dpowers.bsp
+Author          	: Ian '[SnAzBaZ]' Packer
+Email           	: snazbaz@quake2.co.uk
+ICQ             	: 5469261
+Description             : My second SPQ2 level, also supports DM.
+
+Other Credits           : Id software, Jim Lowell for compiling this map for me.
+
+SnAz SPQ2       	: http://snaz.quake2.co.uk
+
+Destructive Powers      : http://snaz.quake2.co.uk/files/dpowers.zip
+Deserted                : http://snaz.quake2.co.uk/files/deserted.zip
+===================
+Previous and Current work:
+
+Quake
+-----
+
+Pure Evil (SPQ)
+Emolt Quanta (SPQ)
+Fuzz (DM)
+Ovumbra (DM)
+Earthquake (TC)
+
+Quake II
+--------
+
+Deserted (SPQ2)
+Destructive Powers (SPQ2)
+Earthquake II (TC)
+
+=====================
+
+Game                      : Quake 2
+Single Player             : Yes
+Co-op                     : Yes
+Deathmatch                : 8 Starts
+Difficulty Settings       : No
+CD Track                  : 9
+
+======================
+
+Base                      : Scratch
+Build Time                : hmm, about 60 hours
+Bugs                      : Lots, the worst being the end area is not as dark 
+                            as I meant it to be. Oh well. There is also some
+                            bad HOM as you enter the big area.
+
+=========================
+Story:
+------
+
+Strogg scum have been producing a corrosive chemical call 'Radal'. They are using this
+substance in mass destuction weapons which could destroy the human race in one blast.
+This substance is made up of lava, human organs and an unknown chemical.
+You mission is to infiltrate the strogg Proccesing plant and stop those damn strogg.
+
+=========================
+Installation:
+-------------
+
+Put dpowers.bsp into your quake2/baseq2/maps directory and
+on the console type 'map dpowers'
+
+=========================
+
+All the architecture in this level is made by me, so I have
+the rights to do anything I want with it. 
+
+CD-ROM publishers and other commercial people need my permission before
+they can distribute this level. 
+
+Public distribution via Internet/BBS's without charging money is accepted,
+of course.

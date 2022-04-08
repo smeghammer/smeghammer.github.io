@@ -1,0 +1,71 @@
+
+DOOM: War Games
+=======================================
+Title: DOOM: War Games
+Filename: dmwarg.wad
+Author: Emil Eisenhardt
+E-Mail Address: Compuserve - 72610,2100
+
+Description: During your intergalactic surveillance for UAC, you
+stumble upon an abandoned alien facility which has been taken
+over by the various inhabitants.  In order to free themselves
+from the constant boredom of isolation, they have learned to
+genetically enhance and clone themselves, and now they conduct
+special games in which teams of monsters fight to the death in a
+large arena.  This is where you come in.  You have full access to
+the facility (of course), and must put an end to the carnage. 
+You can play this as a regular level, or you can conduct your OWN
+matches between the monster teams. There are four teams: The
+Incredible Imps (AKA: the Incredible Pantsless Wonders), the
+Sadistic Sergeants, the Tormenting Troopers, and the Demons of
+Destruction.  You can release them at your own will by pressing
+the four switches (each switch releases one team to the playing
+field) which you can find in the control room.  It is best to
+"instigate" by using the teleports in the control room which lead
+to the playing field, and then teleport back to watch the chaos
+unfold beneath your eyes.  This is all you need to know in order
+to conduct your own mini-brawls. You should also notice the
+various facilities at your fingertips: the Four-Star Cafeteria
+(complete with some shrimp on the barbie), the deluxe owner's
+boxes, and the underground cloning chambers.  Make sure you try
+Deathmatch too (if you can); lots of great hiding places and
+ambush points. 
+
+Additional Credits: All the people at iD, the almighty and        
+        
+supreme DEU creators, Colin Reed (BSP                  creator),
+and all my friends who helped me                  with their
+ideas.  
+
+*Play Information*
+Episode/Level: E1M1
+Single Player: Duh
+Cooperative: Sure
+Deathmatch: Yup
+Difficulty: Not implemented
+New Sounds: None
+New Graphics: None
+New Music: None
+Demos Replaced: None
+
+*Construction*
+Base: New level from scratch
+Editors used: DEU 5.1/5.2, BSP 1.1
+Known Bugs: NONE!
+
+*Copyright/Permission* 
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Last and most important: PLEASE GIVE ME CREDIT! I had to balance
+my time between schoolwork and making this level (although it was
+not a hard choice), and I at least deserve some credit for my
+time.  
+
+     Have fun!!!  

@@ -1,0 +1,84 @@
+                          -Flame Thrower Graphics-
+                            By:Patrick McBride
+==============================================================================
+
+Requires have DeHackEd by Greg Lewis
+    and DMADDS by Bernd Kreimeier
+                             
+Files included with flamthwr.zip:
+
+DMFLAME.TXT     -this text file
+FLAMETHR.TXT     -text file by Night Child
+FLAMETHR.DEH     -Dehacked patch by Night Child
+FLAME.WAD        -Graphics file by Patrick McBride
+
+I have added graphics to Night Child's original DeHackEd flame thrower patch.
+There are two new graphics, which are:
+
+Side view pic of Flame Thrower
+Pic of FT while you are holding it
+
+-- Instructions: 
+
+*Warning* before doing this, make sure DOOM.EXE is backed up!
+
+
+-To read the Flame Thrower DeHackEd patch by Night Child type:
+
+Dehacked c:\doom -load flamethr.deh     
+("c:\doom" can be substituted with the directory where the DOOM.EXE you want 
+to use is)
+
+
+-To put FLAME.WAD graphics into Doom using DMADDS type: 
+
+Dmadds flame.wad fire.wad
+
+FIRE.WAD will take a few minutes to be created, and will take up about 2 megs 
+of memmory.
+
+-To run Doom with the graphics type:
+
+Doom -file fire.wad
+
+
+-To get Doom back to normal just copy your backup of DOOM.EXE over the one
+you changed
+
+
+For additional info read Night Child's text file,  FLAMETHR.TXT
+
+
+Flame Thrower graphics by Patrick McBride:  CIS 74454,1421
+Flame Thrower DeHackEd patch by Night Child:   night@iastate.edu
+
+If you have questions or comments please write to me on Compuserve at the
+address above.  Please write to Night Child on the InterNet at the address
+above if you have a question about the Dehacked patch.
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

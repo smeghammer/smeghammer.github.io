@@ -1,0 +1,84 @@
+
+******************************************************
+*** A list of all the lifts etc. is at the bottom. ***
+******************************************************
+
+================================================================
+Filename                : GONZO.WAD
+Author                  : Erik K. Quinn
+Email Address           : CIS:72440,2724
+Misc. Author Info       : Long Live Tobacco.
+                        : Don't smoke additives.
+
+Description             : Kill.
+
+Additional Credits to   : Thanks to Tom B. for the many hours
+                        : of patient playtesting!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2
+Single Player           : Yes but only so you can look around.
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes but only tested on 2 player.
+                        : The -altdeath parameter should be used
+                        : or the game will be a very short one!
+                        : Also try -turbo 250...much wilder!
+
+Difficulty Settings     : Ever noticed that if you start
+                        : a Deathmatch on skill 5 you pick up
+                        : double the ammo?
+New Sounds              : No
+New Graphics            : No (I had some but the damn file is
+                        : big enough already for Deathmatch)
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, BSP 1.2
+Known Bugs              : NONE...After this long there better not be any!!!!
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. Mercy Buckets. 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+CIS: Gamers' Forum.
+
+FTP sites:
+
+BBS numbers:
+
+Other: *** GUIDE TO LIFTS & SUCH ***
+
+1) In the Blue and Red rooms there are lifts up to the side halls
+   at each end of the room. You can get up in the slits looking out to 
+   the center by standing at the slit facing out and hitting the spacebar.  
+   The glowing red and blue squares teleport you to the center.  
+   (The door out to the center also works).
+
+2) In the center:  See the large black hole in each of the long dark gray walls?
+   The floor is a lift from the center into the hole.
+
+3) If you fall in the radioactive muck, your three options are as follows:
+   1) Run under one of the floating teleport pillars.
+   2) Run to the center...each side of the center is a lift.
+   3) The red and blue walkways leading out from the red and blue doors
+      are lifts.
+
+Have fun & let me know how you like it...
+
+EQ
+

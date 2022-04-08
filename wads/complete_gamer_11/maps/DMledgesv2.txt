@@ -1,0 +1,122 @@
+================================================================
+Title                   : Unreal Ledges, Version 2
+Version                 : 2.0
+Release Date            : 07.07.98
+Filename                : DMLedgesv2.zip
+Author(s)               : Klaus Breuer & Mark K. Gresbach Jr. (see Info below)
+Email Address           : sz0759@rrze.uni-erlangen.de
+Web Page                : (none)
+Description             : Some time ago, a chap called Mark. K. Gresbach Jr. created
+			        a map for DOOM I, calling it LEDGES. It became rather
+		   	        famous rather quickly - not because of its textures (which
+                          were not terribly hot) but because of its brilliant layout.
+			        One of ids map designers called it his very favourite private
+                          DM level - high praise indeed.
+
+                          I ported it straight to Quake II, but found the play to be
+                          rather slow (the big arena in the middle asked too much of the
+                          Quake engine). Anybody interested anyway can look for 
+                          'Quaking Ledges'.
+
+                          Now I ported it to Unreal, and it plays like a dream - 
+                          especially the Razorjack is rather lethal...
+
+New in this version     : I received quite a bit of feedback, and thus the following has 
+                          been changed in this map:
+                          
+                          * Bot PathNodes - BotMatch in this map is great fun :)
+                          * SkyBox added (how embarassing to forget this)
+                          * Better lava and slime animations, prettyfied the lavapool
+                          * In software mode, the hidden items showed through the doors - fixed.
+                          * Invisibility removed (too much paranoia for you?) and weapon 
+                            placement slightly changed.
+                          * Some minor texture problem fixed (yes, I'm a texture perfectionist).
+                          * Adopted standard Unreal description template 
+                            (much recommended, guys!)
+
+                          Things that won't change and why:
+
+                          * Lightsources: the rooms are already rather cramped, and the 
+                            additional brushes would only slow the engine down. This is a pure
+                            DM map, after all.                         
+
+Where to get this map   : ftp.unreal.org
+Additional Credits to   : id, who are really great at customer relations :)
+                          Epic, who aren't.
+		              Mark K. Gresbach Jr, for a brilliant layout.
+                          Wendy Leighton, for everything.
+
+================================================================
+--- Play Information ---
+Game                    : Unreal
+Level Name              : Unreal Ledges v2
+Single Player           : No (Original Ledges had SP, but it was somewhat pointless)
+Cooperative             : Teamplay, yeah.
+Deathmatch              : Yes!
+Dark Match              : Nope.
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+NewUnrealScript         : No
+External DLLs           : No
+Known bugs              : None (yay!)
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta (worst Vertex editing I ever saw, ugh)
+Base                    : Original
+Construction Time       : Including v1, about 5 days.
+
+
+Installation
+------------
+
+Well, as usual, really. May I suggest not cluttering up your UNREAL\MAPS directory itself?
+Instead, edit UNREAL\SYSTEM\UNREAL.INI, and add your very own map directory into the 
+[Core.System].Paths description. Much neater.
+
+As the filename is 'DMLedgesv2', you can easily select it from within the game itself.
+
+Extended description:
+--------------------
+This is *the* all-time great DM map - a pity I didn't think up the layout
+myself, but I kept as close to the original as possible. I purposefully
+kept everything very simple, leaving out lamps and the like because this
+level has to play as fast as possible.
+
+Ladies and Gentlemen, this level shows you history: for example, the lava
+pit was originally used to suicide - in the times before suiciding cost
+you frags :)
+
+About UnrealEd Beta: Ugh, this program is responsible for more screams
+of rage per minute than Windoze95, and that's not a compliment. Vertex
+editing is chock full of bugs, and I draw my hat and bow before Epics
+level designers, who had to use this concoction for all their maps.
+And I kick the behind of the UnrealEd programmer. Hard. (Okay, it's Beta.
+But still.)
+
+Author's Notes
+--------------
+
+I'm extremely interested in feedback. Please email me with any ideas, suggestions,
+comments, complaints, etc about this map. Even if you just enjoy playing it, I would
+like to hear from you.
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Klaus Breuer, 1998.
+
+Authors may use this level as a base to build additional levels (have fun!).
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Interactive Software, Inc. under license.  UNREAL and the UNREAL logo are
+registered trademarks of Epic Megagames, Inc. All other trademarks and trade
+names are properties of their respective owners.

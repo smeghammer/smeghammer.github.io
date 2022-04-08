@@ -1,0 +1,42 @@
+January 1, 1999
+(It's my birthday, so I thought I'd give everyone a present!)
+=======================================================================
+Title: Shafty
+File: hudsondm1.bsp
+Author: Hudson
+Email: derm0@hotmail.com
+Web Page: www.nwlink.com/~grahamd
+	  (Not very exciting at the moment, but stop on by if you want)
+=======================================================================
+Installing:
+Just copy the .BSP file into your half-life/valve/maps directory.
+=======================================================================
+The skinny on playin' the map:
+SINGLE PLAYER: There aren't any monsters... I guess if you like playing 	with yourself...
+
+DEATHMATCH: Hell yeah. 9 Player starts. I don't know how many people 	you'd want to play with on this map, I'm into total anarchy 	games with like 20 players, so I'd be a bad judge.
+
+COOP: Why are you reading this? I already said there weren't any 	monsters!
+
+KNOWN BUGS: The ladder in the outside room starts to look funky from 	afar.
+
+COMMENTS: This is my first map ever (well, aside from some Doom single 	player maps...), but I promise better next time. All of the 	weapons are included except the hornetgun (I didn't feel like 	putting it in) and the crossbow (I hate it). I also tried to 	make sure there weren't any places where "snipers" could 	dominate the game with their "strategic play".
+	
+	Your input is appreciated. Send your flames/compliments
+	/comments to: derm0@hotmail.com
+=======================================================================
+Buildin' Stuff:
+
+Construction Time: About a month and a half. I wish I had the free time 	to crank out a level in a week like everyone else, but, alas, I 	don't.
+
+Compile times:
+Compiled on a P2-350 128M RAM
+	CSG: 28 seconds
+	BSP: 29 seconds
+	VIS: 738 seconds
+	RAD: 1425 seconds
+	Total: 2220 seconds. About 37 minutes.
+=======================================================================
+Legal Nonsense:
+
+(c) copyright 1999 Graham DeYoung. You may distribute this level on any electronic network (internet, BBS, etc.) as long as this file (hudsondm1.txt) is included and no fee is charged for membership to the web site or BBS or for access to the file. You must obtain permission from me to distribute this level comercially (and I wouldn't bother asking, because the answer will most likely be no).

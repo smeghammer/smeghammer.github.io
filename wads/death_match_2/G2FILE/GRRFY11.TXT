@@ -1,0 +1,48 @@
+================================================================
+Title                   : GRRFY.WAD
+Author                  : Greg B.
+Email Address           : s236@stat.berkeley.edu
+Misc. Author Info       : In highschool.
+
+Description             : My first level (But not inferior). 
+                          Great for Deathmatches.  Pretty well
+                          Balanced.  It's a take of some of the 
+                          original levels--- my favorite parts
+                          and how to improve them.  It also 
+                          has some original things.
+
+Additional Credits to   : id level creators, Sam M.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Weak
+Cooperative 2-4 Player  : Weak
+Deathmatch 2-4 Player   : Yes 
+Difficulty Settings     : Minor Implementation
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20 hours??? My first one.
+Editor(s) used          : Deu 5.0, Bsp 1.0
+Known Bugs              : Slight graphic glitch in brown room, 
+                          above door, almost invisible.
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file, but give me credit, 
+and let me know, please.
+
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+
+BBS numbers: (510)-935-1085
+
+Other:
+

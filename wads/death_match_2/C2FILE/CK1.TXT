@@ -1,0 +1,71 @@
+==============================================================================
+Title                   : Catch'em and Kill'em I
+Filename                : CK1.WAD
+Author                  : Geoff Symanczyk
+Email Address           : gasymanc@nucleus.com
+                          (Comments and suggestions encouraged!)
+
+Misc. Author Info       : Engineering dude who plays WAAAAAY to much
+                          DOOM ][!
+
+Description             : This DOOM II pwad was designed with 2/4-player 
+                          deathmatch in mind.  It's got no monsters UNLESS 
+                          you use -SKILL 4 or 5.  This will present you 
+                          with a "Final Enemy" like the dude on level #32 
+                          (I'm to lazy to put monsters in, so this way, 
+                          it'll randomize it for me :)  Lots of dark 
+                          corners/rooms to hide in to surprise your buddy.  
+                          All weapons except the Plasma Gun and the BFG9000 
+                          are there, you've just got to look for them 
+                          (I dont like the P.G. or BFG in deathmatch...  
+                          spend a long time getting ammo and one flukey shot 
+                          from the BFG and your SCReWeD! and the P.G. is a
+                          stupid weapon! (:-)
+
+                          Also, if you're wondering what the "jail" is for,
+                          well, notice the door can only be OPENED like 
+                          normal.  It has to be closed from another spot and
+                          CANT be opened from the inside.  You take it from 
+                          there...  >:-)
+
+Additional Credits to   : Id Software  - AWESOME GAME!
+                          Alan J. Post - for FRAGME.WAD which gave me a basic
+                                         design idea for CK1.WAD (Good Job!)
+                          Greg Fudger  - You and your Plasma Gun - Get a 
+                                         real man's weapon!
+                          
+==============================================================================
+
+* Play Information *
+
+MAP #                   : MAP 01
+Single Player           : Yes (-SKILL 4/5 for monsters & practice)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!! (-SKILL 4/5 to INCLUDE monsters!?)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : FRAGME.WAD by Alan J. Post
+Editor used             : DEU 2 Complete v6.66á
+Build Time              : 15 +/- 100 hours.
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. (please give me credit)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.  (if you do, please notify me)
+
+* Where to get this WAD *
+
+FTP sites:  FTP.CDROM.COM

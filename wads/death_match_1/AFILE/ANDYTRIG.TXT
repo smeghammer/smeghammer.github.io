@@ -1,0 +1,71 @@
+================================================================
+Title                   : Trigger Happy   
+Filename                : ANDYTRIG.WAD
+Author                  : Andy Horne
+Email Address           : a.horne@uk.ac.napier.central (Please let
+			  me know of any comments you have about the
+			  level, both good and bad, I could keep them
+			  in mind for later levels I create.
+Misc. Author Info       : 
+
+Description             : E2M1 :- Trigger Happy !!
+
+			  This level is a semi-hard, very brain
+			  tasking level, it is the sort of level
+			  that you rip your hair out trying to
+			  find the secret doors/rooms, keys, etc.,
+			  very bloodthirsty, if you like kick'n
+			  DEMON BUTT, this level is for you !!!!
+
+Additional Credits to   : Thanks VERY much to Greg Lewis for the
+			  loan of the status bar graphics, also
+			  if you are in the area, pull a copy of
+			  TREE3.WAD from the site at the end of
+			  this file, it is a very good set of levels
+			  and well worth a copy, so, thanx again
+			  to Greg.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (BUT DEATHMATCH is more fun, kill your 
+			  friends aswell)
+Deathmatch 2-4 Player   : Yes (Kick Human BUTT aswell as DEMON BUTT !)
+Difficulty Settings     : Yes (are you man enough for NIGHTMARE ???)
+New Sounds              : Yes (Thanx to makers of most films, cartoons, etc.)
+New Graphics            : Yes (BIG, BIG, thanx to Greg Lewis for the status 
+			  bar) Taken from his level TREE3.WAD, a MUST for 
+			  all DOOMERS !!
+New Music               : Yes BUT No, I took the music from e1m1, Personally
+			  I think it sound quite cool, also couldn't find a
+			  program to manipulate and play .MUS files.
+			  If anyone knows of one, PLEASE E-MAIL ME !!!
+Demos Replaced          : All
+
+* Construction *
+
+Base                    : New level from scratch 
+Editor(s) used          : DEU 5.21, dmgraph, dmaud
+Known Bugs              : None, that I know of, Let me know if you find any
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels. 
+
+(BUT give me some credit and mention for it !!!!!) 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:     infant2.sphs.indiana.edu
+	       (pub/doom/incoming) UNLESS MOVED !
+
+BBS numbers:
+
+Other:

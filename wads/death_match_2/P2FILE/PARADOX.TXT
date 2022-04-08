@@ -1,0 +1,62 @@
+Welcome back! (For those that played Showdown, that is...) This file was 
+originally intended to contain the file SHDN2.WAD, which would have been
+a combination patch with both the Showdown and Paradox levels played in 
+sequence as replacements for levels 1 and 2 of "Knee Deep in the Dead". 
+However, as Paradox grew, it became obvious that such a file would have
+probably exceeded 100K. If anyone can appeciate the hazzards of making
+large downloads on a pay-as-you-go basis, it's me. 
+ So here it is: Paradox, E1M2. Where Showdown only included my favorite four
+of the baddies, Paradox has them all. (With the exception of the bosses.)
+Also present are some interesting plays on the usual constructs. As before,
+I spent exhaustive (No joke there!) man hours playing and playing to bring 
+the difficulty to just the right point. It CAN BE WON, providing you bear 
+in mind the following points:
+
+1: DOOM has a save game feature...
+
+2: Monsters shoot too, so watch your ass!
+
+3: What sometimes looks peaceful and innocent is probably a trap! Spare no 
+   caution!
+
+4: Ammo is quite transient; use only what you have to and be careful what
+   type you use.
+
+5: Moving objects are much harder to hit than ones that just stand there and
+   let themselves be shot...:)
+
+ Once again, this level gets much easier with practice, making it fun to come 
+in on a fleshing rampage once you get good at it! 
+
+To play, just copy or move the PARADOX.WAD file to your DOOM directory and 
+call up doom like so: doom -file paradox.wad (followed by pressing enter)
+This level has no multi-player mode, but if you have DEU you can solve that 
+yourself. Once in the game select "Knee Deep in the Dead", skill level won't
+matter. (Only real men beyond this point!) Now you can either play out level
+one, or go directly to level two (Paradox) by typing IDCLEV12. Enjoy and be
+cautious!
+
+---------------------------------Credits-------------------------------------
+Extreme thanks to Raphael Quinet and Brendon Wyber for creating DOOM EDITOR
+UTILITIES and to id Software for creating that awesome gaming experience;
+DOOM!
+
+Special thanks to Colin Reed, who created BINARY SPACE PARTITIONER. Without 
+this, Paradox would have indeed been an unsolvable puzzle.
+
+Thanks to the creators of "Hellraiser II" for inspiration on the 3-D
+labyrinth and to the creators of "Star Trek-The Next Generation" for 
+inspiring me to create the "Holographic Wall".
+
+Thanks also to Ian Surhstedt for creating such an impressive work (EVIL_E) and 
+inspiring me to push on and create this level.
+
+------------------------------------------------------------------------------
+Well, that's about it. Any comments, questions, or suggestions may be sent 
+via E-Mail to me at:
+
+Rick DeMar  74354,1421 (CompuServe)
+
+Remember :"Real heroes don't use cheat codes!"
+
+DOOM:HELL ON EARTH this summer!! Yeah!!!

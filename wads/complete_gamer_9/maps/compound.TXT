@@ -1,0 +1,45 @@
+================================================================
+Title                   : The Compound
+Version                 : 1
+Release Date            : 25th Dec 1998
+Filename                : compound.bsp
+Author(s)               : Mark 'Oz'Austin
+Email Address           : mark.austin@btinternet.com
+Web Page                : http://www.btinternet.com/~ozland/oz
+Description             : Deathmatch
+
+Where to get this map   : Decyber - http://www.decyber.solgames.com
+Other levels by author  : This is my 1st Half Life map		         
+
+================================================================
+--- Play Information ---
+Game                    : Half Life
+Level Name              : The COmpound
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : You can climb over the fence and leap out of the level.
+			  But that's if your chicken shit and use it as an escape route ;-)
+
+--- Construction ---
+Editor(s) used          : WorldCraft 2.0
+Base                    : Made from scratch
+Construction Time       : no idea
+
+
+Installation
+------------
+
+Unzip the file Compound.bsp into your c:\sierra\halflife\valve\maps directory
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Mark Austin 1998.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+

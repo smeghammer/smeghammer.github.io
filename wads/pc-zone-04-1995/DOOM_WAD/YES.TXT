@@ -1,0 +1,49 @@
+
+================================================================
+Title                   : Yes!.zip   
+Filename                : yes!.WAD
+Author                  : NDS  (Look for NDS.wad in the future for the best 
+                                 deathmatch ever!)
+Email Address           : Don't worry about it, man.
+Misc. Author Info       : Loser with too much time to waste.
+
+Description             : T3.wad spinoff, sort of. Great Deathmatch!!!!!!
+
+Additional Credits to   : No one
+================================================================
+
+* Play Information *
+
+Episode and Level #     : e1m1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *        : Took five or so minutes to build.
+
+Base                    : New level from scratch
+Editor(s) used          : Doomcad
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites: Infant2.sphs.indiana.edu 
+
+BBS numbers:
+
+Other:

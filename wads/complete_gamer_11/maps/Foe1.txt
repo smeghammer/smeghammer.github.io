@@ -1,0 +1,88 @@
+===============================================================================
+Title                   : Forces Of Evil I
+Filename                : foe1.bsp
+Version                 : 31/07/98
+
+Author                  : Chris Spain
+Email Address           : cspain@eutelsat.fr
+
+Description             : A prequel to the events in Quake2.
+
+Other levels by author  : Doom: Trilogy, BigCity
+                        : Quake: Badlands, BadLand1, BadLand2
+
+===============================================================================
+
+* Story *
+
+Background: This level is set before the events in Quake2. To most people the
+existence of the Strogg is merely a wild rumour. The only people who know more
+are those who work for the Top Secret "Alien Counter-Insurgency Bureau".
+
+Investigating unexplained UFO sightings, alien abductions and other seemingly
+unlikely events, the Bureau has come to the conclusion that behind some of these
+events there lies a frightening reality.
+
+It is the Bureau's opinion that a malignant alien force (known as the Strogg) intend
+to invade the Earth at some point. Current investigations indicate that the alien's
+home planet Strogg lies many light years from Earth, but that they have sent one or
+more spacecraft here in order to set up some kind of interstellar wormhole device,
+thus allowing a full scale invasion of Earth from Stroggos.
+
+In the last few days contact has been lost with the Freedom Space Station.
+
+All attempts to locate a Strogg earth-side H.Q. have been fruitless. However news has
+just come in that a group of agents sent to scout-out one suspected site have not
+returned, raising the possibility that the captured agents might reveal the location
+of the Bureau's H.Q. under torture...
+
+Now: It's the end of a worrying day at the Bureau. You're just getting ready to
+leave the Top Secret headquarters building when the Strogg attack! Using overwhelming
+force, and the element of surprise, the Forces Of Evil eliminate practically every
+agent within minutes. By chance you were in the basement bathroom when they attacked.
+Hearing the FOE approaching, you grab your blaster and get ready to fight...
+
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake 2
+Single Player           : Yes
+Cooperative             : Yes, 4 coop starts 
+Deathmatch              : Yes, 16 starts
+Difficulty Settings     : Yes (Hard recommended)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : From scratch
+Build Time              : Way too long.
+Editor(s) used          : QuArK
+Known Bugs              : None
+QBSP3                   : 61 seconds elapsed
+QVIS3                   : 5874 seconds elapsed
+QRAD3 -extra            : 829 seconds elapsed
+Spec                    : P166
+
+* How to use this level *
+
+Copy the .bsp files into c:/quake2/baseq2/maps
+Copy the .wal files into a new directory c:/quake2/baseq2/textures/foe
+NB: If you use a different directory name, the textures won't load.
+In Quake2, select a difficulty level, bring up the console (~) and type in
+"map foe1".
+
+
+* Copyright / Permissions *
+
+This level is (c) by Chris Spain 1998.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission.
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+

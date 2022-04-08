@@ -1,0 +1,67 @@
+WAD Authoring Template V1.2   (Clip this line)
+================================================================
+Title                   : WELCOME.WAD   
+Author                  : Neal Rayner
+Email Address           : Compuserve 73631,311
+Misc. Author Info       : My first level...no problems found [P.S just 
+                          because an item is there doesn't mean you are
+                          going to get it!!  :-) ]
+
+Description             : You can tell that the keepers of Hell are toying
+                          with you, making you go around in circles as they
+                          welcome you back to hell....
+Additional Credits to   : Raphael Quinet, Steve Bareman, J.S. Gagnon and all
+                          other creators of excellent editing utilities. And
+                          of course, as always, to Id.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes, 1-3 are the same, 4 is harder
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 20 - 30 hours 
+Editor(s) used          : Deu 5.1, DoomEd, BSP
+Known Bugs              : Very minor mirroring...especially in teleport room
+                          but it doesn't happen often, otherwise none known, 
+                          but I may be wrong
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications (aside from Thing editor use).  You may distribute this file 
+in any electronic format (BBS, Diskette, CD, etc) as long as you include this 
+file intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: Compuserve
+
+
+Would love to hear any comments or suggestions on this map and its structure.
+I've tried to make it a real jump in your seat level even though it is not very
+big. Secret doors are limited (there are only 2) and their contents are really 
+just bonuses and not vital to completing the level. Quite difficult in Skill 4
+ but still good if any other skill. Remember to leave a trail of bread crumbs 
+because you are going to go in circles......
+

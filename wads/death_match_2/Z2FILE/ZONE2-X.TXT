@@ -1,0 +1,55 @@
+
+================================================================
+Title                   : Zone2-X.wad   
+Filename                : Zone2-X.wad
+Author                  : Rod Ho                  
+Email Address           : Grover@jolt.mpx.com.au
+Misc. Author Info       : Grover on IRC
+Description             : Designed specifically for DoomII, DM 2.0 with 
+                          respawning monsters. (but if you get sick of your
+                          friends becoming the suicide king play without 
+                          respawn)
+Additional Credits to   : Alan Peng for Beta Testing
+
+Additional Notes        : Send all comments to me at the above address
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 1
+Single Player           : Yes (For all you Despo's that need to check the map)
+Cooperative 2-4 Player  : No  (That wouldn't be fun anyway.)
+Deathmatch 2-4 Player   : Yes (You better believe it!)
+Difficulty Settings     : No  (Normal Doom engine difficulty settings apply
+                               i.e. less ammo with weapons, more aggressive 
+                               monsters etc.)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build time              : Too long, don't ask.
+Editor(s) used          : Doomed 2.6, DEU 5.2, Doomcad 3.0, BSP 1.2, DeuII
+Known Bugs              : Not that i know of, if you find one tell me :)
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.  
+
+What am i gonna do? Sue ya?
+(Be nice e-mail me if you do, and give credit where credit is due :)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu  
+
+Other: Alt.Binaries.Doom
+       Off me in IRC or i can e-mail ya.

@@ -1,0 +1,87 @@
+This is my first WAD and the first level in a strictly Deathmatch
+episode that Gil Morales and I (Lou Garcia) are creating. Have fun!!
+========================================================================
+Title			: "IN YO FACE"
+Filename		: INYOFACE.WAD
+ZIP FILE		: INYOFACE.ZIP
+Author			: Lou Garcia
+Email Address		: none at present (see bottom for contact)
+Misc. Author Info	: Doom Deathmatch addict and PC Demo freak.
+
+Description		: INYOFACE is a deathmatch only level without
+			  any monsters except your friend-become-prey.
+			  It's stricktly move fast and kick ass from
+			  begining to end. The level consists of a
+			  darkened arena in the center with an upper
+			  level all around the rectangular perimeter.
+			  The players start in one of four rooms at each
+			  corner of the upper level. They will each find
+			  a Health Supercharge, Blue Armor, Shotgun,
+			  Chaingun, Plasma Rifle and Rocket Launcher. The
+			  BFG 9000 is located in a pool in the middle of
+			  the arena where lighting is bright enough to be
+			  seen clearly. There are Teleporters in each of
+			  the top and bottom corners so that you can travel
+			  between the upper and lower level. This level is
+			  great in DEATHMATCH 2.0 as well as regular
+			  Deathmatch. Although there are no hidden rooms
+			  there is plenty of opportunity for ambush.
+			  This is the first level in a new Deathmatch only
+			  episode Gil and I are developing, so keep an eye
+			  out for future levels.
+
+Note			: There are no lame traps in any of my Deathmatch
+			  levels (I believe the purpose of Deathmatch is to
+			  pit yourself against your opponent, not fall in
+			  some stupid acid pit without a way out.
+			  There's also a clearly marked exit in each of my
+			  levels in preparation for the episode or if you
+			  just want to continue playing on the next level.
+
+Additional Credits to	: Authors of DoomED, Deu, DoomCAD, BSP and of course
+			  id Software (Kick-Ass Game)...
+			  Thanks to Gil Morales Jr., Gilbert Morales III, and
+			  Gabriel (Gaby) Valenzuela for chasing each other
+			  around until the wee hours beta testing.
+==========================================================================
+
+* Play Information *
+
+Episode and Level #	: E2M1
+Single Player		: Yes, but only to test level (no fun without prey)
+Cooperative 2-4 Player	: No
+Deathmatch 2-4 Player	: Yes, absolutely the name of the game.
+Difficulty Settings	: There's only one speed here, and it's kick-ass.
+New Sounds		: No
+New Graphics		: No
+New Music		: No
+Demos Replaced		: None
+
+* Construction *
+
+Base			: New level from scratch
+Build Time		: Don't ask stupid questions...
+Editor(s) used		: DoomED 2.60 b2, Deu 5.21, DoomCAD 4.3 and BSP 1.2x
+Known Bugs		: H.O.M.s in long distance viewing.. Engine Bug,
+			  not texture bug. Does not detract from play.
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this and other WADs or leave me a note *
+
+BBS numbers:
+
+	    Ivory Tower BBS (Miami, Fl) (305) 860-0307
+	    Home to one of the largest collections of PC SB/GUS Demos
+	    and Doom File Areas in South Florida.
+	    Sysop: Gabriel (Gaby) Valenzuela
+	    Leave private Email to Lou Garcia
+
+Enjoy it, have fun, kill your friends and keep on DOOMing!!
+

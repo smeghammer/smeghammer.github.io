@@ -1,0 +1,72 @@
+================================================================
+Title                   : PRIMUS.WAD 
+Author                  : C.John Thompson
+Tel                     : 1 - 506 - 325 - 9140
+Author System           : Pentium 60 - PCI Local Bus
+			  8 Mb RAM - PCI Lite SVGA and Sound Blaster
+
+Description             :      This is my first WAD ever,so it is noticeably 
+                          lacking some of the more sophisticated features like 
+                          rising staircases etc.I wrote it as a learning 
+                          experience.
+				There are lots of monsters,and the play level 
+			  is moderate.There are also a number of secret rooms
+			  and no shortage of weapons.                          
+
+Additional Credits to   : The folks at id Software ... (Brilliant work guys!)
+			  Matthew Ayres ... Waded designer to whom I owe not 
+                                            only thanks but also a registration 
+                                            fee (its on the way!)
+			  Bill Neisius  ... Dmaud author
+			  Ian Hamilton ...  The first player/victim of primus.wad
+					    and also the person with the Internet 
+                                            access allowing me to obtain Waded 
+                                            and to make primus.wad available to 
+                                            everyone. email: hamilton@nbnet.nb.ca
+		
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes                                
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : 1 - 4
+New Music               : No
+New Sound Effects       : Yes
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : None
+Build Time              : About 60 hours (40 hours frigging and 20 hours 
+                          productivity) 
+Editors used            : Waded and Dmaud
+Known Bugs              : A small section of wall allows the player to walk 
+                          through it. I couldn't figure this out so I 'solved' 
+                          the problem by putting four pillars in front of it... 
+                          Also, there is a slight glitch in one of the corridors.
+                          I couldn't figure this out either, but since it is 
+			  barely noticeable unless you know where to look I just 
+                          said the hell with it!
+			  I have a sneaking suspicion that these problems
+                          represent bugs in Waded (although this is otherwise a 
+                          fine product).
+
+Usage                   : Put Primus.wad into your 'DOOM' directory and type:
+
+				doom -file primus.wad
+
+
+* Copyright / Permissions *
+
+You may do whatever you want with this WAD.
+
+
+
+* Where to get this WAD *
+
+ Wherever you found it in the first place! 
+

@@ -1,0 +1,54 @@
+
+Age1.txt  3/20/98  J.F.Gustafsson
+
+Map name        : Bring the pain, Age of panic1 Preview
+
+Map description : Single player Quake2 map, my first attempt :)
+                  This is a preview of a level pack called Age of panic, which will be
+                  out in a couple of weeks, hopefully. 
+                  It is a small map, but it will most certainly be fun to play. 
+
+Single Player	: Yes
+Coop		: Yes
+DM		: Yes, 4-6
+Difficulty set	: Yes
+
+How to Play     : Unzip the file into your quake2\baseq2\maps dir. 
+                  Then simply start quake2 normally and choose 
+		  your difficulty setting. After the game starts
+		  hit the ~ key and type map Age1 and enter.
+
+Construction:
+
+Worldcraft v1.6 reg, new level built from scratch. Not a remake.
+
+
+
+Known bugs	: None known
+
+Construction 	: 4 days  p 233
+
+		  bsp     23   sec
+		  qvis3   4017 sec
+		  qrad3   660  sec
+
+Designer	: J.F.Gustafsson
+		: soulcrusher@swipnet.se
+		  
+
+Credits 	
+	        : id software for quake2
+		: Quake2 Workshop
+		: The guys at Valve for Worldcraft 1.6 !!
+		
+
+* Copyright / Permissions *
+
+This level is by J.F.Gustafsson 1998.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.

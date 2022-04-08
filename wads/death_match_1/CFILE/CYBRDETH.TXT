@@ -1,0 +1,100 @@
+================================================================
+Title                   : Cyber Death
+File Name               : CYBRDETH.WAD
+Author                  : Scott A. Smith
+Email Address           : scott@gate.net
+Misc. Author Info       : er... Size 9.5" boots.
+
+Description             : This level has been designed with a 
+                          similar theme to E2M8. It's a huge
+                          outdoor area with scores of large
+                          pillars scattered randomly about;
+                          there is a fairly large open area in the
+                          center of the level... There are quite a
+                          few lost souls flying around, but the
+                          main adversaries (for single play) are
+                          CyberDemons. Yes, that "s" belongs 
+                          there! Here's what you will face with
+                          the various skill levels:
+
+            Skills 1 & 2: Tons of lost souls...
+                          1 Imp (you'll see...)
+                          1 CyberDemon
+
+                 Skill 3: Tons of lost souls...
+                          1 Imp (he does serve a purpose!)
+                          3 CyberDemons
+ 
+            Skills 1 & 2: Tons of lost souls...
+                          1 Imp (something about this room...)
+                          6 CyberDemons ;-D
+
+
+                          Each skill level has enough ammo to
+                          defeat all of the monsters (this *has*
+                          been tested!). Thjs level should
+                          seperate the men from the boys...
+ 
+                          There's a smashing exit! This was in my
+                          first PWAD (E2M1SAS.WAD) which (as far
+                          as I know, was only distributed on AOL)
+                          and fits in quite nicely.
+
+                          The level has also been set up for Death
+                          Match (a primary design feature!). Skill
+                          3 is probably best for this. There are
+                          hidden teleporters and a few other hidden
+                          goodies for when the ammo is low and
+                          your opponent is close...
+
+Additional Credits to   : id Software and the authors of DEU and
+                          BSP. I'd also like to thank all of the
+                          people on ALT.DOOM.GAMES who were arguing
+                          the best way to kill a single CyberDemon,
+                          which is what gave me the idea for this
+                          level. Have fun with 6, guys!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (Designed with this in mind...)
+Difficulty Settings     : Yes
+New demos               : As seperate files...
+New Sounds              : Nope
+New Graphics            : well... a new level of graphic *violence*,
+                          perhaps. No new images...
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : 'Bout a day... (it's not that big...
+                          Doesn't need to be!)
+Editor(s) used          : DEU 5.21, BSP 1.2x
+Known Bugs              : There's a hidden weapon that can sometimes
+                          be picked up without having to find the
+                          area that it is hidden in. It leaves you
+                          wondering "Now where the hell did this come
+                          from!?"...
+                          No other *known* bugs...
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels
+without including this unmodified text file and a list of the changes
+made to the level...
+
+You MAY distribute this WAD to any BBS or online service, provided you
+include this file, with no modifications.  You may mass distribute this
+WAD in any *other* electronic format (Diskette, CD, etc) *only* with my
+approval (which will be quite easy to get, I imagine).
+
+* Where to get this WAD *
+
+America Online: PC Games Forum
+
+FTP sites:  infant2.sphs.indiana.edu, in /pub/doom/incoming
+            or wherever it's moved to.

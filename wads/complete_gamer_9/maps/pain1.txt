@@ -1,0 +1,41 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Title : Basics
+Filename : PAIN1.bsp
+Author : Erkki "Trooper Pain" Remes
+Email Address : remes.erkki@hkol.fi
+Page: none
+Description :	back to the basics...
+    		HL deathmatch map
+                I dont like open spaces, and normal lights are boring
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Play Information
+
+Single Player : n/a 
+Cooperative : n/a
+Deathmatch : yes
+
+
+Construction
+
+Base : 	from scratch
+Editor(s) used : Worldcraft
+Build Time : 50 hours (well what did you expect, it was my first)
+bugs: not that I know, if you find one let me know!
+
+Copyright / Permissions
+
+If you like it, use it.
+
+************
+Visit Troopers site at 
+www.netlife.fi/virtual.troopers 
+or 
+www.alien.dna.fi/virtual.troopers
+************
+
+Thanks to Trooper CountZero for testing the map... damn you next time let me win :P
+and thanks to Trooper Suortti, Captain of the clan Virtual Troopers (TF-section)
+
+-Trooper Pain
+

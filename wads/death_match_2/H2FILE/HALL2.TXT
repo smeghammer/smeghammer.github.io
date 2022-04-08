@@ -1,0 +1,65 @@
+================================================================
+Title                   : More Twisting Halls
+Filename                : HALL2.WAD
+Author                  : Mark Riel
+Email Address           : roc@eskimo.com
+
+Misc. Author Info       : Just Another Doom Enthusiast.
+
+Description             : This is another level featuring a large hall.
+                          Of course there's lotsa neat stuff to get there.
+                          Also, this is the second level I sketched on 
+                          paper before building. The first was ying1.wad, 
+                          check it out. Built most of the level with DEU2
+                          hack for doom2. Furnished it with DCK 2.0 
+                          
+                          Like my first wad (eyestorm) this one has some
+                          extra stuff for deathmatch- secret passages, 
+                          teleport, extra weapons and such.
+
+Additional Credits to   : Creators of DEU, DCK, RMB (reject builder). 
+                          And, of course, id Software.
+                          
+                          Thanks to E.R. for playtesting & ideas.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes- HMP and UV. 
+New Sounds              : No
+New Graphics            : Yes, falling water.
+New Music               : No
+Demos Replaced          : 0 - hall2.lmp external for 1.9.
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : Deu2,DCK2.0,RMB,DEUTEX
+Known Bugs              : Zippo
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+  ftp.cdrom.com?
+
+BBS numbers:
+
+Other:
+
+

@@ -1,0 +1,157 @@
+==============================================================================
+Title                   : RIP-OFF .99(although the level is called Dimension 42)
+                        -affectionately known as rip-off deu to the quantity
+                         of things stolen from other pwads-
+Author                  : Mordak
+Email Address           : pcsmith@kadets.d20.co.edu (during the school year)
+Misc. Author Info       : A lazy guy that knows how to do a job RIGHT!
+Files Included          : RIP-OFF.WAD  RIP-OFF.TXT  RIP-OFF.GIF BARNEY.TXT
+                          KICKIT.DEH DEHACKED.EXE DEHACKED.TXT
+
+Instructions for Losers : read the barney story, look at the gif, to install
+                          edited Suprwepn patch (added automatic BFG -caution=
+                          don't fire the BFG 9000 in the war room on ID) type:
+                          dehacked -load kickit.deh
+                          Save your doom.exe FIRST.  Then run doom with the
+                          -file extension.  If you want the grafix with another
+                          patch, use the -file rip-off.wad ??????.wad extension
+                          with the "new" level AFTER my patch (so it overwrites
+                          my level but not the sprites).
+
+Description             : Well, it's a little bit of everything (as you can/
+                          will see).  As far as I know it's the biggest pwad 
+                          I've ever seen (if you find something bigger please 
+                          tell me, and I'll add something to mine to keep it 
+                          number one :).  I've been running it on my 486DX33 
+                          and UV has a pretty good speed, but ID (hehehe -see 
+                          for yourself) slows down if you leave any monsters 
+                          behind (486DX50 recommended for ID).  Reject screws 
+                          it up a little... its kinda like every monster has 
+                          the "deaf/ambush" bit set, but you get more speed.  
+                          
+                          With this PWAD you can exterminate the Energizer 
+                          Bunny, blast Beavis, blow up Butt-Head, bezerker 
+                          punch Barney, cook the charging Cacodemon, and 
+                          phscorch the Phsykick (KICK IT! KICK IT! KICK IT!) 
+                          Phskull!  That's right, it has sprites (and sounds,
+                          and grafx, and a cool level).  You can also kill a
+                          Spider Demon with a chainsaw -no worries.  And
+                          because the BFG 9000 is so hard to get, I recommend
+                          you use the dehacked patch to make ID quasi-fair
+                          (or those Cyber Demons might getcha).  Whatever 
+                          else would you expect from Dimension 42, the answer 
+                          to the universe?  In the final confrontation you 
+                          must enter the Barney (read barney.txt) House and 
+                          kill Barney and all his clones.  -Good Luck-  That's 
+                          the only theme in this PWAD, all else is just chaos.  
+                          I hope you like it.
+                          
+                          I might expand later to make a whole episode, tell
+                          me how you like this level.
+
+                          Thank you very much, 49 inch nails.  Goodnight.
+
+                          BTW, if you are playing a coop. game there is a
+                          way to kill all players in the game (if they don't
+                          have an invuln of course).  Hint:  Close the eye....
+
+Additional Credits to   : Rob `Cisco' Sarsorito (cisco@mhv.net) 1_ON_1
+                          Aaron Blackwell (aaron525@denver.relay.ucm.org) Barney 3D ver 2.0
+                          Josh Saavedra (doctor@lacerta.unm.edu) Beavis aNd Butthead DOOM
+                          Colin Reed (colin@argonaut.com) BSP ver 1.1x
+                          David Lobser (lobser@csn.org) Energizer Bunny 3D
+                          Raphael Quinet (quinet@montefiore.ulg.ac.be) Deu 5.1 Deu5.2
+                          Brendon J Wyber (b.wyber@csc.canterbury.ac.nz) Deu 5.1 Deu 5.2
+                          Bill Neisius (bill@solaria.hac.com) DMAUD ver 1.1
+                          Bill Neisius (bill@solaria.hac.com) DMGRAPH ver 1.1
+                          Subsector  Evil Dead Sound WAD
+                          Aaron Tiensivu "A-BOMB"  HELLNET Sounds WAD
+                          L. M. Witek (lee@trousers.demon.co.edu) REJECT ver 1.0
+                          Chris `Lithium' Hopkins (chopkins@peinet.pe.ca) Star Wars Music and SFX ver 2
+                          Leo Martin Lim (leo@cae.wisc.edu) UAC_DEAD
+                          SPACKLE LTD. (SPACKLE.LTD@genie.geis.com) Yak World (DUH!)
+                          
+I recomend (in my own sort of twisted way) all of the wads above.  
+They are worth the download.
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes (of course...)
+Cooperative 2-3 Player  : Yes (if you really want to)
+Deathmatch 2-3 Player   : Yes -KICKITKICKITKICKITKICKITKICKITKICKITKICKIT!!!
+Difficulty Settings     : -*Warning*- ID should be played with god mode
+New Sounds              : AaaHAHAHAHahahahahaa!
+New Music               : If you recognize the jingle please tell me what it is!
+New Graphics            : WO!  It's Letterman!
+New Sprites             : AAAAAAHHHHHH!!!!! IT'S BARNEY!!!!!
+New Skill Levels        : You better WATCH OUT!
+New Deadly Situations   : Damn Straight!
+Various Spider and Cyber Demons: re!re!re!re!re!re!re!re!re!re!re!re!re!re!
+Demos Replaced          : For wussies only
+
+* Construction *
+
+Base                    : An idea Insane in the Membrane
+Build Time              : 4 weeks + ...  Iiieeeeee!  That IS a long time.
+Editors used            : DEU 5.1, DEU 5.2 (and those in additional credits)
+Known Bugs              : Will not not work on a 386, wait that's not a bug-
+                          that's a feature -buy a real machine!
+                          You cannot save <PERIOD>
+                          Sometimes, when you stand right between to sectors,
+                          in the center of a linedef, you get this endless
+                          texture of ceiling... ETC (or floor ... ETF)
+                          Major HOM behind teleporter in Pyramid room (like
+                          you'll ever find it anyway)
+                          If you're not using 1.2 some funky stuff may happen,
+                          I'll release version 1.0 for 1.5/1.6/1.7 -whatever-
+                          (be about 1 meg smaller)
+
+
+* Hints/Other *
+
+*Look before you leap, but have faith.
+*PLAY THIS GAME DEATHMATCH!!!  There are special sectors where you can only get
+to in Deathmatch.
+*Be very careful with the spiral "staircase", you might get STUCK!
+*The beginning is opposite THE END.
+*At the top of the pyramid lies Heaven (or was that Hell?)
+*Watch out for the fire shooting columns.
+*In the Barney room "use" the north side of the column to bring it down.
+*Don't turn around or you'll see the sign and that's all that she wants because
+you're living in danger playing wheel of fortune.
+*ABOVE ALL - DO NOT CLOSE AN EYE!!!!   (They kill -whether that's lights or lives
+you'll have to find out >evil grin<)
+
+* Copyright / Permissions *
+
+Authors may NOT use this LEVEL as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with no 
+modifications.  You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+-=>* IMPORTANT *<=-
+If you decide to rip something off from me (like the "unknown death/voodoo"
+thing), be SURE to PRAISE me (In your text file) and the ORIGINAL DOOM 
+RIP-OFF pwad. -If you're not that religious (HAHA!! You play DOOM right?)
+then you can just tell people where you got it from and tell them to play
+RIP-OFF-
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: Computech 1-719-260-6279
+
+                             Special Thanks To
+               Lightning and Shadow - Supreme Beta Testers
+                                  
+                                  Credits
+
+              Designer Imposters Body Sprays - Oooohhh, Aaahhhhh
+                  The Flying Skull - That Flying Skull Rules!
+           Ross Perot - "When a problem comes along, you must whip it!"
+  Spackle Limited - If you haven't played Yak World, go get it and play it NOW!
+                  Army of Darkness (~evilsnd.wad) - "Grooovy"

@@ -1,0 +1,76 @@
+December 19, 1997
+
+================================================================
+Title                   : The Forsaken Base
+Filename                : q2dm3.bsp   
+Author                  : Mike Daugherty (aka Jerkoff)
+Email Address           : ninbroke@silcon.com
+Homepage		: http://www.geocities.com/sunsetstrip/alley/8921 
+				-or- http://silcon.com/~ninbroke/
+Description             : Deathmatch level for Quake 2
+Additional Credits to   : id Software, for Quake
+                          Ben Morris, for Worldcraft
+			  Thanks to all who helped test this out.
+================================================================
+
+
+
+
+---------------Play Information---------------
+
+Level Name              	: The Forsaken Base
+Single				: To explore
+Deathmatch 2-12 players		: YES.. I haven't tested that many players, but 
+				the map has 12 spawns.
+
+
+Comments                : This map is based on the original "Abandoned Base(DM3)" 
+			by id Software. This is not a COMPLETE ripoff of dm3. 
+			There are MANY things that are alot different, some for 
+			better, some for worse. I basicly just kept the overall 
+			layout of the level, and added things as I went. 
+			As far as I know, this is the largest Quake2 DM level so far...
+			NOTE: This is built ENTIRELY from scratch. :)
+
+
+---------------Construction---------------
+
+Base            : built from scratch 
+Build Time      : about 3 days (avg. 4 hours a day)
+Entities	: 226
+Brushes		: 691
+BSP file size	: 1.15mb            
+
+---------------Compile Info--------------
+qbsp3 : 21 seconds
+qvis3 -level 4 : 1436 seconds
+qrad -extra : 4852 seconds
+
+On a Pentium 200 MMX running win95 with 32mb ram.
+
+-----------------------------------------
+Editor(s) used  : Worldcraft 1.5b Reged and the 3 q2 texture wads
+Known Bugs      : None that I know of.
+
+
+
+---------------Legal Stuff---------------
+
+You may NOT include this map in ANY sort of compilation.
+But go ahead ask me anyway :)
+
+**** Where to get this MAP and my others ****
+
+http://www.geocities.com/sunsetstrip/alley/8921 
+	-or- 
+http://silcon.com/~ninbroke/
+
+
+----INSTALLATION----
+Copy the .bsp into a subdirectory of quake2\baseq2 called maps,
+(ie c:\quake2\baseq2\maps)
+Then run quake2.
+Go into the console by pressing the key left of the 1 key (~), and type in
+"map mapname".
+The .bsp extension should not be typed in, and neither the inverted commas.
+--------------------

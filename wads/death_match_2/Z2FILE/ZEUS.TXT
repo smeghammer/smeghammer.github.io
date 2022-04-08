@@ -1,0 +1,43 @@
+================================================================
+Title          : ZEUS.WAD 
+Author         : Stephen Renton
+Description    : The ZEUS Level is a showpiece for what can be achieved 
+		 with a colour scanner and a little (ha!) patience. Not a
+		 technically stunning level design-wise, but a good taster
+		 of things-to-come when other people pick up the idea of new
+		 textures seriously. Music score not composed by anyone, 
+		 Graphics and original idea by yours truly, 
+		 and WAV sound effects by Nic Dyde at the Post Cafe,
+		 rue de Bern, Geneva.
+
+Additional Help: Christian Gerlier for beta testing, and shutting-up long 
+		 enough for me to concentrate on the tricky bits, and Dave 
+		 Hanson for something or other.
+================================================================
+
+* Play Information *
+
+Episode and Level #    : E2M5
+Single Player          : Yes
+Cooperative 2-4 Player : Yes
+Deathmatch 2-4 Player  : Yes
+Difficulty Settings    : No (too lazy)
+New demos              : No (ditto)
+New Sounds             : Loads of FX, but let down by some bozo on soundtrack
+New Graphics           : You better believe it !!!
+
+* What to do *
+
+Unzip DMZEUS.ZIP into your doom directory. Run ZEUSME.BAT to start the level. 
+
+* Construction *
+
+Base                            : New level from scratch
+Build Time                      : God knows!
+Editor(s) used                  : DEU 5.0 & 5.1b, BSP 1.0 and 1.1x
+
+* Copyright / Permissions *
+
+Do whatever the hell (on earth) you like with it - 
+I'm off for a long holiday .....
+================================================================

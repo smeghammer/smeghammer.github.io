@@ -1,0 +1,104 @@
+======================================================================
+Title                   : The Death Star
+Filename                : STARWAR2.WAD
+Author                  : Matt Falk
+Email Address           : mfalk@netrats.dayton.saic.com
+Misc. Author Info       : junior MIS major at University of Dayton
+
+Description             : The DEATH STAR!!!  Based on blueprints of a
+                          set built for the movie and as well as 
+                          information contained in the SW RPG. These
+                          are the first of many Star Wars levels I
+                          will do, and I will eventually replace 
+                          these levels' textures with my own.  Doors
+                          needing keys aren't marked by colors 
+                          primarily because I wanted the levels to 
+                          look as much like Death Star as possible.
+                   -----> If the game runs to slowly, just run an 
+         IMPORTANT!-----> easier setting to limit the number of 
+                   -----> monsters (they slow down slower machines).
+                          This isn't as bad as it used to be now that
+                          I've used a reject compiler.
+
+                          Level 1 includes the chasm Luke and Leia 
+                          swang across, the elevators Luke, Han, and 
+                          Chewie entered on their way to the detention 
+                          level, and the large corridor with the 
+                          blast doors.  The blueprints covered 1/6 of 
+                          the level, so I had to make up the rest.  
+
+                          Level 2 consists of the detention level, the 
+                          trash copmactor, and the security station 
+                          from the RPG.  I copied some of the sections
+                          for deathmatch reasons.  
+                          
+                                HINT: follow Leia's technique on 
+                                      getting to the trash compactor
+
+Additional Credits to   : Lucasfilm LTD
+                          West End Games
+                          ID
+                          The makers of DEU, BSP, and REJECT
+======================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : Yes
+New Graphics            : None - use SWGFX4.ZIP 
+New Sounds              : None - use SWMUSFX2.WAD
+New Music               : None - use SWMUSFX2.WAD
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : E1M1 - Modified STARWAR1.WAD
+                          E1M2 - New level from scratch
+
+Editor(s) used          : DEU 5.2 GCC; BSP11x; REJECT10
+
+Known Bugs              : DO NOT SAVEGAME IN LEVEL 2!  The number of
+                          vertices, objects, etc. overruns the 
+                          savegame buffer.  If you die, it's still
+                          possible to finish the level from scratch.
+                          Anyways, life in the Doom/Starwars world is
+                          supposed to be a bitch! :-)
+
+                          Minor HOM at ends of tunnels in level 2; I
+                          trimmed as much detail as I could to bring 
+                          this down, and didn't think the remaining 
+                          HOM was bad enough to take out any more 
+                          detail.  Sorry!  
+
+                          If you find any others, please let me know.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu
+            wuarchive.wustl.edu
+            wpi.wpi.edu
+
+* How to use this WAD *
+
+1. You must have the registered version of DOOM. (duh)
+2. Put starwar1.wad in your doom directory
+3. type: DOOM -FILE STARWAR2.WAD
+
+If you have swmusfx2.wad as well, (found at infant2.sphs.indiana.edu 
+under /pub/doom/music)
+
+   type: DOOM -FILE STARWAR2.WAD SWMUSFX2.WAD

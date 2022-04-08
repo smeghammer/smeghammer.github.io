@@ -1,0 +1,38 @@
+================================================================
+Title                   : BONUS.WAD   
+Author                  : Thilo Beuke, Alexander Dost 
+Email Address           : beuke@student.uni-kl.de 
+                          dost@student.uni-kl.de
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No 
+Deathmatch 2-4 Player   : No 
+Difficulty Settings     : No 
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu5.2GCC, BSP1.1
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors may do whatever the hell they want to with this package.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+==================================================================
+
+This is a VERY small level, designed for use as a bonus level like
+E?M9. Whoever needs more time than 14 seconds might be too slow...
+
+

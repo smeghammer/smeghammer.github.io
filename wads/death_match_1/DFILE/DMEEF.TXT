@@ -1,0 +1,35 @@
+================================================================
+Title                   : DMEEF.WAD
+Author                  : Ed Froste
+Email Address           : COMUSERVE - 70534,171
+Misc. Author Info       : Doom Addict
+
+Description             : REMAKE OF E2L1 WITH MANY CHANGES, AND
+                          ADDITIONS. REQUIERS THOUGHT AND SKILL.
+
+Additional Credits to   : -
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (BEST)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : MODIFICATION OF E2L1
+Build Time              : 22 hours
+Editor(s) used          : DEU, BSP
+Known Bugs              : Can become traped in single play
+                          if all keys are not colleted at once
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+

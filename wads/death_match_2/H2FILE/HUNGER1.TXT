@@ -1,0 +1,77 @@
+
+================================================================
+Title                   : HUNGER1.WAD   
+Author                  : David & Kathy Bruni
+Email Address           : 74353,357
+Misc. Author Info       : After I did the Texas WAD, people started asking me 
+                          if I was from Texas. Yes, we live about 20 miles 
+                          north of Houston. This WAD was basically designed by 
+                          my wife. I did the blue room and the outside area, 
+                          with her approval, of course. I added some subtle 
+                          little touches to a few of the rooms, also.
+
+Description             : There's no real theme to this WAD file. It's just a 
+                          good ole fashioned shoot-em up. I hope you've 
+                          practiced killing the Barons of Hell with the chain 
+                          gun because you'll have to do that in one spot. Lots 
+                          of guys to shoot and lots of places to see. Revised 
+                          to support deathmatches.
+
+Additional Credits to   : id Software for DOOM, Geoff Allan for DoomED
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              :  60+ HOURS
+Editor(s) used          : DoomED-The Real Thing version 2.60
+Known Bugs              : There's one. At the beginning there's a nukage 
+                          trench. No big deal. There's a radiation suit to 
+                          help you make it through. The problem is that 
+                          sometimes you'll still lose some health eventhough 
+                          you've got the radiation suit on. Makes it 
+                          interesting. Don't know why it does this.
+
+
+* Copyright / Permissions *
+
+Authors (MAY NOT) use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: CompuServe, Action Games Aids Library (Lib 8).
+           Modem Games Forum (GO MODEMG).
+
+============================================
+To play this WAD, put the WAD file in your DOOM directory.
+At the command prompt type: doom -file hunger1.wad.
+Pick episode 1, skill level doesn't matter. Be ready to start 
+shooting right when the game starts.
+============================================
+Any and all comments welcome. Thanks.
+============================================

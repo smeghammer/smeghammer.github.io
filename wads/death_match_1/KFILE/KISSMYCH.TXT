@@ -1,0 +1,68 @@
+================================================================
+Title                   : Kiss My Crosshairs
+Filename                : KISSMYCH.WAD
+Author                  : Timothy A. Harris a.k.a. JedaiYet
+Email Address           : whiplash@jax.jaxnet.com
+Misc. Author Info       : First deathmatch-focused PWAD
+                          Second PWAD ever - first was a single-player
+                          focused level called ZAPHOD11.WAD which included
+                          new graphics, sounds, and special effects.
+                          Should already be available at most Doom FTP sites.
+
+Description             :       This one should be good for a change.  
+                          So many PWADs I've seen look like they've 
+                          been thrown together in a couple hours.
+                                Dark circular arena with large spiral staircase
+                          in center under main skylight.  Various concentric
+                          corridors, rooms, and lifts at different heights 
+                          and vantage points.  Detailed texture mapping and
+                          original architecture.  When I put the monsters in,
+                          they looked right at home!  Especially that sun-
+                          sucking, fire-wielding Arch-vile and those sniper-
+                          like heat-seeking missile-launching Revenants!
+                                
+
+Additional Credits to   : Id of course!
+================================================================
+
+* Play Information *
+
+Level #                 : 01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes - NOTE: skill 3 is meant for deathmatch
+Difficulty Settings     : Yes - NOTE: skill 4 is chainsaws only
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU2c (may be just a crack but its still
+                          better than the other editors out there!)
+                          IDBSP 1.1b, RMB 2.0
+Known Bugs              : Slight HOM once in a while by main skylight
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: Main Doom FTP sites/mirrors
+
+IRC #doom: I may be around when you are to DCC it to you.
+
+BBS numbers: The Modem Games BBS (904)725-8103 or 7913 
+
+Other: May be distributed in my local (904) area

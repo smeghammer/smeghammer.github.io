@@ -1,0 +1,60 @@
+================================================================
+Title                   : Insane Idiits
+Filename                : insane.bsp, download insane.zip
+Author                  : Jeda, JEsper DAnielsen
+Email Address           : peda@dalnet.se
+Description             : insane idiits
+                          
+                          This is my first Quake2 map so take care of
+                          your critic.
+                          Made it with QuArK 4.07 and QuArK 5a3 alpha
+                          and i think that's a great editor!
+                          I was lissening to Marilyn Manson, nine inch
+                          nails, underworld, Pet Shop Boys DISCO2
+                          remix CD and some Ministry when I did the level.
+                          Ok, now you know that. what else should i
+                          say...
+                          Well play the damn level and have fun!!
+================================================================
+
+* Play Information *
+
+Single Player           : Yes, good one... (huhu)
+Cooperative             : Njet. (no)
+Deathmatch              : Get me. (no)
+Difficulty Settings     : I'm to "slapp" for that... (no)
+New Sounds              : I got no mic. (no)
+New Graphics            : Not this time.
+
+* Construction *
+
+Base                    : New from scratch
+Editor(s) used          : Quake Army Knife, Version 4.07 and 5a3 alpha.
+Known Bugs              : Some textures on some boxes are in wrong
+                          direction but in the editor it looks right.
+                          (wierd or what???)
+Build Time              : Wont tell ya. (does it help you???)
+
+Comments                : Check my homepage for the newest levels on
+                          the net and for my own newest levels.
+                          You can also download eariler levels from me
+                          that are made for Quake, The game.
+
+                          www.vortexq.com/quaked2/
+
+================================================================
+* Leagal (shit) *
+
+Ok lets start...
+
+- "You may NOT use this level as a base to other levels and NOT
+   play it on comercial servers without my permision and NOT
+   put this level on any CD and NOT, and NOT, and NOT... bla, bla...
+
+   Why write something you already know? In a little shorter
+   way to say this:
+
+   Just play the level and do not use it at other ways!
+
+   - Your friend and fiend JEDA
+================================================================

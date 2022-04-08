@@ -1,7 +1,0 @@
-To install Clinton v3.0 copy clinton.wad to your doom dir
-and type 
-                 doom -file clinton.wad clinsnd.wad
-or you can use doomenu to load an external wad file.
-
-any questions e-mail        teegarde@ucssun1.sdsu.edu
-Robbie Teegarden

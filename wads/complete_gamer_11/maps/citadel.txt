@@ -1,0 +1,71 @@
+================================================================
+Title                   :  Citadel of Slaying
+Version                 : 2.0
+Release Date            : 7/9/98
+Filename                : dmcitadel.zip
+Author                  : Dustin "Debacle" Reinsmith
+Email Address           :debacle@angstrom.net
+Web Page                : 
+Description             :  A fairly large dm.  I tried to keep it interesting and keep fps up there.
+	The most unique thing about this map is that everything was made with 2d lofter, except
+	stairs.  
+Where to get this map   : ftp://ftp.cdrom.com/pub/unreal/maps
+Other levels by author  : DMpillars DMDkeep DMHopeStation
+Additional Credits to   : More thanks to Snarf and Dip for their input to improve this map.
+
+Epic Megagames (http://unreal.epicgames.com/)
+                          Bostich, Keneda, Rakta, rdreaper, Nem, forge, Rabbit and anyone who was involved in trouble 
+	shooting and I forgot.
+
+================================================================
+--- Play Information ---
+Game                    : Unreal 
+Level Name              : DMCitadel of Slaying
+
+Single Player           : Yes   (w/ Bots)
+Cooperative             : No
+Deathmatch              : Yes
+Dark Match              : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Known bugs              : None known.
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta and 2d lofter mostly
+Base                    : none
+Construction Time       : 3 days  + days for update
+
+
+
+
+Installation
+------------
+   Unzip the the files and place them into your maps directory under the unreal
+   directory. Type in "open <mapname>" to run the map. Alternatively, double-click
+   the map.
+
+
+
+Author's Notes
+--------------
+Stay off drugs or don't ask me for money to support your nasty habbit.
+
+Copyright / Permissions
+-----------------------
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

@@ -1,0 +1,58 @@
+================================================================
+Title                   : KEEP.WAD   
+Author                  : Ordos Dracos of the Temple of Sand
+Email Address           : 1 @ 1704039 VirtualNET
+Misc. Author Info       : Sysop of Temple of Sand
+                                24 HRS 704-543-1611
+                                Charlotte N.C.
+
+Description             : Your in the Keep, having been teleported
+                        there from a level somewhere inside of the 
+                        control room.Where are you? What lies ahead 
+                        in the keep and beyond....
+                              ....More Levels to come soon...
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : Coming Soon
+New Graphics            : Coming Soon
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 12 or so hours 
+Editor(s) used          : DEU 5.2
+Known Bugs              : Some nodes still haven't formed correctly
+                        When the new DEU comes out hopefully it will
+                        handle the nodes even better, but I have to give
+                        created to the makers...DEU is one helluva nice
+                        editor!
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels, provided credit is given of the Original Maker. This WAD will  
+be given out later with a whole new series of WADs, hopefully with new
+Graphix and Sound FX as well, making a complete 9 map level Episode.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers: On file available to first time callers at the Temple of
+        Sand BBS (T.O.S.) 24hrs 704-543-1611 or if you mail me on the
+        VirtualNET, 1 @ 1704039, the file is small enough to send over
+        the net in zipped format.

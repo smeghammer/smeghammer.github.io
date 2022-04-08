@@ -1,0 +1,49 @@
+                   ⁄ƒƒƒƒƒƒƒƒƒƒƒƒ[ MK DOOM ]ƒƒƒƒƒƒƒƒƒƒƒƒƒø
+                   ≥  ‹‹  ‹‹‹‹   ‹‹‹ ‹    ›   ‹‹  ‹‹‹‹‹ ≥
+                   ≥ €  ﬂ  €  €  ›€  €ﬂ‹  €  €  ﬂ €   ﬁ ≥
+                   ≥ﬁ€     €€ﬂ    €  €  ﬂ‹€›ﬁ€ ‹‹ €ﬂﬂ   ≥
+                   ≥ €  ‹  € ﬂ‹   €  €    €› €  € €     ≥
+                   ≥ ﬁﬂﬂ   ﬁ   ﬂ ﬂﬂﬂ ›     ›  ﬂﬂ› ﬁﬂﬂﬂﬂ ≥
+                   ¿ƒ[ DOOM PWAD EPISODE 2 REPLACEMENT]ƒŸ
+                         For DOOM REGISTERED version
+
+3 simple questions, 3 easy answers:
+---------------------------------------------------------------------------
+1. WHAT IS CRINGE!?
+---------------------------------------------------------------------------
+CRINGE! is a full replacement for the entire 2nd episode of id Software's
+DOOM.  All modes of play and all difficulty levels are available in CRINGE!
+---------------------------------------------------------------------------
+2. WHO MADE CRINGE!?
+---------------------------------------------------------------------------
+Levels 1 through 8 were constructed from scratch by Mark Klem, the
+Secret Level was made by Eric Sargent.  All music contained in CRINGE!, 
+except the 2nd DEMO music, are all original works by Mark Klem and are  
+copyrighted material.  All graphic changes/enhancments were made by Mark Klem.
+---------------------------------------------------------------------------
+3. HOW DO I GET CRINGE! TO WORK WITH DOOM?
+---------------------------------------------------------------------------
+To play CRINGE!, put it in your DOOM directory and simply type:
+ 
+ DOOM -file CRINGE.WAD   <enter>
+
+If you have all three CRINGE! files, type:
+
+ DOOM -file CRINGE.WAD CRINGFX.WAD CRINGSND.WAD  <enter>
+
+It might be wise to make a batch file to do this for you, or just use your
+favorite DOOM MENUing program to it.  There are a ton of them out there. Just
+make sure it can load external WAD files.  Remember that CRINGE! is totally
+external and never touches your original DOOM files.
+
+-------------------------------
+A HUGE THANKS TO THE FOLLOWING:
+-------------------------------
+CRINGE! would not be possible if not for the creators of DEU52, BSP, DOOMVIEW
+and of course, id Software for the hottest PC game ever built. 
+
+All other miscellaneous utils used for CRINGE! were written by Eric Sargent.
+
+Hope you enjoy the new episode!  Have fun...
+
+The name DOOM is a registered trademark of id Software.

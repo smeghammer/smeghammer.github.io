@@ -1,0 +1,46 @@
+
+================================================================
+Title                   : BAD DREAM   
+Filename                : BADDREAM.WAD
+Author                  : Rick Lowder aka Rooster
+Email Address           : Future Concepts BBS (719) 527-9587 (they don't 
+                          have their SLIP yet but will soon...). They do
+                          have tons of DOOM add on files, the latest wads
+                          and utilities, give them a call.
+
+Description             : Blood, Blood, and watch your back. You wake up, or 
+at least think you're awake after a falling asleep at your desk. You were 
+playing DOOM death matches till the wee hours last night. Fight your way to 
+the exit, what ever you do, don't die in your sleep, you know what happens if 
+you do...
+
+Additional Credits to   : JumPiN' JoE, T-Wood, Chris at Future Concepts.
+================================================================
+ 
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : You will see...
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : none, finally...
+
+
+ Copyright / Permissions 
+
+Even if I told you guys not to edit this level, you would... I would. 
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+BADDREAM.txt, intact with the BADDREAM.wad.
+
+* Where to get this WAD and more *
+
+BBS numbers: Future Concepts, as listed above. If you have any questions or 
+comments leave mail to Rooster, or ask Chris, he is usually online after
+7:00pm.
+
+Other: If you have trouble finding the exit, keep your head up!

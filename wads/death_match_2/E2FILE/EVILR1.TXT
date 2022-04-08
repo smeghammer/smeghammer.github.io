@@ -1,0 +1,51 @@
+WAD Authoring Template V1.4
+================================================================
+Title                   : Evil Realm 1  
+Filename                : EVILR1.WAD
+Author                  : Christopher Thomas Richardson
+Email Address           : YFHB29B@PRODIGY.COM
+Misc. Author Info       : A 17 year old in Houston,Texas
+                          E-Mail me, and tell me what you think of the WAD
+Description             : A very difficult WAD, but 100% possible
+
+Additional Credits to   : none
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : One
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd version 2.06 BETA 4
+Known Bugs              : none
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  If you include this WAD on a CD please E-Mail me first.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: Bits and Pieces (713)537-2219
+                             (713)537-0702
+Other: Ask me for a copy over E-Mail, and I will send you one over F-Mail
+       (if possible at the time).

@@ -1,0 +1,19 @@
+LMP File Name        : TEMPLE11.LMP
+Wad File Name        : TEMPLE11.WAD (NOTE: WAD FILE NOT INCLUDED!!)
+LMP Author           : Bob Tausworthe
+Email Address        : tozz@cup.hp.com
+DOOM Version         : 1.2
+Skill Level          : Ultra Violent
+Running Time         : 13m50s (486 66MHz, 16MB)
+Number of Players    : Single Player
+Comments             : Only one minor gotcha missing (Hint: sometimes praying
+                       leaves you in the dark). So far this has been the
+                       hardest WAD to get an LMP file for. Beautiful WAD
+                       though.
+
+Copyright/Permissions: This LMP file may be freely distributed, replicated
+                       on bulletin boards or combined with other files
+                       in compilations, CDs, etc as long as this file
+                       is included in its entirety. Any screenshots derived 
+                       from these LMP files must include credit to the author.
+

@@ -1,0 +1,169 @@
+WASTELAND: DEAD BASE (version 1.0) (position E2L1)
+
+
+INTRODUCTION
+
+It had been four hours since Lt. Morrison left the starship and still the
+receiver's screen stayed blank. Maj. Barowsky, sitting in front of the
+communication terminal, pressed some keys and called the mother ship.
+
+``Maj. Barowsky reporting. Four hours ago Lt. Morrison teleported to
+the planetary surface, near the Prometeus Base. I haven't yet received
+any transmission from him nor from the base.''
+
+``Gen. Vitesse here, you are ordered to take all the weapons on board
+and descend to the surface. Investigate the base and locate the causes
+of the loss of transmission. Should you encounter any hostile presence
+you should track its origin and eliminate it.''
+
+``I'm sorry, sir, but Lt. Morrison left equipped with all the high-power
+energy weapons, including the latest BFG 9000 gun. The only weapons
+on board are some archaic shotgun and chaingun....''
+
+``We all know your battle skills are far superior to those of Lt. Morrison,
+I have no doubt you are the best soldier to deal with whatever lies
+in the Prometeus Base. Your orders are to proceed to the command center,
+which is a large square building located at the eastern end of the base and
+enter through the main door which is on the western wall.
+Should anyone down there be still alive the command center is the place
+where he will stay. Gather as much information as you can,
+eliminate hostiles and re-estabilish transmissions. Good Luck!''
+
+`Oh fuck!' Maj. Barowsky thought.
+`Well, someone will have to fix it sooner or later. I'll make sure
+that whatever took control of the base will regret this.' he said
+equipping himself with a megaarmor and several weapons. `Good,
+there is also a rocket launcher.....'
+Then, looking again at the base diagram, he bravely stepped into
+the teleporter......
+
+
+WELCOME!
+
+Welcome to the first mission in the Wasteland series: Dead Base.
+In this mission you play the role of Maj. Barowsky as he cleans
+the lost Prometeus Base from alien creatures and locates the
+information which will eventually allow him to proceed towards
+the origin of all the evil.
+
+
+WAD INFO
+================================================================
+Title                   : DEADBASE.WAD - `Wasteland: Dead Base'
+Author                  : Alberto BARSELLA
+Email Address           : alberto@astrpi.difi.unipi.it
+Misc. Author Info       :
+
+Description:
+the setting is open-field/city-like, bright light, many buildings,
+high demand of processing power.
+
+This is my first attempt at creating WAD files for DOOM.
+The creation of this WAD was made possible by the two great programs
+called DEU 5.1 and BSP 1.1.
+In this WAD I made my attempt at the creation of multi-floor buildings
+using teleporters along staircases. The only 'true' teleporter is the
+one in the beginning, all subsequent teleport effects should be ignored
+(if you don't look at the map too often the illusion of multi-floor
+is better....) The jammed door that you will find helps creating the
+effect of two separate floors.
+I also tried to concentrate in creating a realistic (and also playable)
+lighting conditions, I wanted to have buildings cast shadows, but that
+would require more hours of sector hacking and many more 2-sided LineDefs
+which would slow down the game a lot, so I dropped the idea.
+As for the difficulty, this is an average level, the experienced player
+will have no problem to complete it.
+
+Additional Credits to   : Ben Jos Walbeehm for testing the level and
+			  for corrections to the English text,
+                          everyone else who sent me comments about version 0.9.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes - not at its best
+Deathmatch 2-4 Player   : Maybe - I have no deathmatch experience
+Difficulty Settings     : Partially implemented (Hurt me plenty/Ultra-violence)
+New Sounds              : No
+New Graphics            : Yes (3 128x128, 2 128x96)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Tooooo much!
+Editor(s) used          : DEU 5.0 and DEU 5.1 + BSP 1.0 and BSP 1.1 and dmgraph
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: //
+
+Other: my hard drive
+
+
+SENDING FEEDBACK
+
+I would like to know what you think of this level, what did you like,
+what you disliked, suggestions, ideas, multiplayer/deathmatch comments,
+anything else. Just mail me at
+
+alberto@astrpi.difi.unipi.it
+
+Ah, before you ask, there's no underground residential area.....maybe
+in a future wad.....
+
+
+
+EPILOGUE (read after you completed the level)
+
+
+(scroll down one page)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EPILOGUE
+
+Maj. Barowsky, his face covered with sweat and blood, climbed up the
+red mountain, following the smell of the evil which had turned the
+Prometeus Base into a graveyard. After a few minutes he came to a cave,
+the trail was clear, this was the source of the devastation.
+Firmly holding his fully loaded Plasma Gun he entered the dark mouth
+of the cave, ready to face everything that might lurk inside.
+The tunnel proceeded upwards, towards a large room lit by flaming
+torches, he leapt forward and......
+
+......entered the second mission of the Wasteland series: Mountain of Fire.
+
+Alberto

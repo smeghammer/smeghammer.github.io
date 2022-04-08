@@ -1,0 +1,53 @@
+================================================================
+Title                   : QUATRO.WAD   
+Author                  : Nils Jakobsons (Quatro) & Janis Jagars (Disaster)
+Email Address           : jakobson@rsf.rtu.lv & jagars@rsf.rtu.lv
+Misc. Author Info       : 
+Description             : Much ammo, weapons, monsters (especialy 
+                          cacodemons - I like them), spider boss on 
+                          skill >=3 in multiplayer game. Different exits
+                          for singleplayer and multiplayer games. In
+                          multiplayer one player must press switch to open
+                          doors to exit and another go thru this door.
+                          Level was originally designed as a deathmatch
+                          level, but also good for cooperative and singleplay.
+Additional Credits to   : people on IRC #doom
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : 1
+
+* Construction *
+
+Base                    : New level
+Build Time              : very aprox. 1 week
+Editor(s) used          : DEU 5.2 gcc, BSP 1.1x
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Authors MAY use this level as a base to build additional
+levels (please mention that your level came from Quatro).
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           bear.montefiore.ulg.ac.be
+
+BBS numbers:
+
+Other:

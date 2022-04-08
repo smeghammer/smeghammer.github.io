@@ -1,0 +1,55 @@
+================================================================
+Title                   : Remake of HIPDM1 for Quake II
+Filename                : q2hipdm1.bsp v2.1
+Orginal Author          : ID SOFTWARE / HIPNOTIC
+ 
+Modified & Converted by : Antonio V.
+Email Address           : pittbull2@hotmail.com
+Description             : This is a converted HIPDM1 
+			: map from Quake.
+
+Additional Credits to   : All the people at ID Software for the
+			: release of Quake II.
+                        : Smyken, (smyken@swipnet.se)
+
+Notes                   : Quake2 teleporters sucks like hell!!!
+                        : I have added a extra ramp to the upper
+                        : platform, for preventing campers at there
+                        : now you can't hide anywhere :)
+
+                        : If you wants this map to restart after time
+                        : or fraglimit, don't rename this BSP file!!
+                        
+
+Special notes:          : Now you can take the BFG :)
+                        : Beware for the airstrikes :))
+
+
+
+================================================================
+
+* Play Information *
+
+Single Player           : Just for checking things
+Cooperative             : No
+Deathmatch              : Yes
+3Wave CTF               : No
+CD Track		: 0
+
+* Construction *
+
+Base                    : Remake of HIPDM1
+Finish Date             : December 31, 1997
+Version                 : 2.0
+Editor(s) used          : Worldcraft 1.5 (Modified for Q2)
+Known Bugs              : not any
+Build Time              : 7 days
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.

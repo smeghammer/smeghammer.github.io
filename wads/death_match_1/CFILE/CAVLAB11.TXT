@@ -1,0 +1,54 @@
+================================================================
+Title                   : CAVLAB11.WAD
+Author                  : Dave Sawford
+Email Address           : dws@ras.phy.cam.ac.uk
+Misc. Author Info       : Co-creator of Homers Doom sound patch
+
+Description             : My first WAD.  Designed for single player mode
+                          with some nice surprises in it.  Up until you get 
+                          the red key it has a strange resemblance to where
+                          I work. In fact that Baron seems to be in my 
+                          bosses office ;)
+
+Additional Credits to   : Andrew Gerrard and Jon Dyer for creative input.
+                          Hugh Gibson and Adrian for beta testing.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes, all of them
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : A few weeks
+Editor(s) used          : Deu 5.0, Bsp 1.1
+Known Bugs              : Funny patterns when you walk through 2 of the
+                          doors at the end (Why???)
+
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file as long as you put my name in
+it somewhere.
+
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+
+BBS numbers: The Shed BBS +44 (0)223 563468 (Tons of Doom stuff, go there!)
+
+
+* Additional *
+
+This is my first WAD.  If you like it let me know and I'll make another one.
+If there is no response I won't.  Making levels is fun but hard work.
+

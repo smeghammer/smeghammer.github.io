@@ -1,0 +1,189 @@
+March 7, 1998
+
+================================================================
+Title                   : Arkanian
+Filename(s)             : arkan0.bsp, arkan1.bsp, arkan2.bsp   
+Author                  : Mike Daugherty (aka Jerkoff)
+Email Address           : ninbroke@silcon.com -or- crucuiX@juno.com
+Homepage		: http://www.geocities.com/sunsetstrip/alley/8921
+Description             : Single player level(s) for Quake 2 (my first large SPQ effort)
+Additional Credits to   : id Software, for Quake
+                          Ben Morris, for Worldcraft
+			  Yahn Bernier, for BSP
+			  Thanks to all who helped test this out.
+
+================================================================
+
+DISCLAIMER: Software Quake2 sucks... and so will these maps if they 
+	    are played without a 3dfx card :)
+
+----INSTALLATION----
+Copy all three .bsp files (arkan0.bsp, arkan1.bsp, arkan2.bsp) 
+into a subdirectory of quake2\baseq2 called maps.
+
+(i.e. c:\quake2\baseq2\maps)
+
+Then run quake2.
+
+*Go into the console by pressing the key left of the 1 key (~),
+and type in "map arkan0" (yes, that is a zero).
+
+The .bsp extension should not be typed in, and neither the 
+inverted commas.
+
+--------------------
+
+::::::::::::::STORY:::::::::::::::::
+::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
+
+With Stroggos in ruins and Makron and his body destroyed, you have
+now crash landed on Afeitazar, a military base built into one
+of the barren rocks in a nearby asteroid feild. Fitting, this military 
+base is inhabited by Makron's twin brother, ARKANIAN. 
+
+ARKANIAN and his forces have but one mission:
+
+***To destroy planet Earth.***
+
+With Stroggos destroyed, Afeitazar is rapidly plummeting towards earth,
+as there is no gravitational pull holding Afeitazar in orbit.
+
+ARKANIAN is not located in the military base as we first thought, 
+but in a large Space Station that is using Afeitazar as a shield
+to get close to earth, where he will activate the doomsday device
+equipped on his station. 
+
+As long as ARKANIAN stays behind the asteroid, Earth forces will 
+not be able to stop him.
+
+**Your mission is as follows:**
+
+As Earth's only chance for survival, you must infiltrate the 
+military base on Afeitazar. There is only one point of entrance into 
+ARKANIAN's space station, and Intelligence reports that it is 
+heavily guarded. Find it, and enter ARKANIAN's lair.
+It is probable that you will encounter ARKANIAN and you *will* 
+have to kill him. From satelite images, we have determined that 
+once he is killed, you will have access to the doomsday device.
+
+Once you have disabled the device, the space station will become unstable. 
+
+This is all the information we have right now, and it is unclear 
+whether this station is equipped with escape pods. It is very 
+unlikely that they are present, as this station was built to 
+serve only one purpose. 
+
+Good luck, soldier - This mission may be your last...
+::::::::::::::::::::::::::::::::::::::::::::::
+
+**Some information that might help you in "The Final Trial":
+
+SAVE the quad that you get in "Ruins of Arkanian". It will help 
+GREATLY in the final level.
+
+---------------Play Information---------------
+
+Level Name(s)        	: The Arrival, Ruins of Arkanian, Final Trial
+Single			: YES.. this is what Quake2 is FOR
+Deathmatch		: NO
+Coop			: There are about 4 coop spawns.
+
+Comments                : This is well known by most, but let me say it anyway:
+				
+			  YOU NEED A 3DFX CARD TO FULLY ENJOY THIS...
+				  
+			  The r_speeds get pretty high in some places, and 
+			  the gameplay SUFFERS GREATLY in software q2.
+				  
+			  I know a lot of things in this map are not perfect, and 
+			  I've left it in this state for a reason:
+		
+				I've spent enough damn time on this already - I NEED to move on.
+			
+			  There are hundreds of things I could do to make this map better, but 
+			  I need to move on to other projects. This was never meant to be  a high 
+			  quality production, otherwise, I would have done many things differently.
+
+---------------Construction---------------
+Arkan0.bsp
+
+Base            : built from scratch 
+Build Time      : not very long
+Entities	: 316
+Brushes		: 111
+BSP file size	: 443kb
+
+Arkan1.bsp
+
+Base            : built from scratch 
+Build Time      : a while
+Entities	: 455
+Brushes		: 1725
+BSP file size	: 2.43mb
+
+Arkan2.bsp
+
+Base            : built from scratch 
+Build Time      : a while
+Entities	: 96
+Brushes		: 741
+BSP file size	: 1.62mb         
+
+
+-----------------------------------------
+Editor(s) used  : Worldcraft 1.5b Registered
+		  BSP .90b
+
+
+Known Bugs      : There are probably some bugs that I've overlooked,
+		but I've gotten rid of the real serious ones. 
+		There are a TON of places where r_speeds are terrible... 
+			especially in software q2.		
+
+		Note: In Arkan1.bsp, there are a couple "monster 
+		stuck in solid" errors, and those are simply caused
+		by the items standing on 8-unit-wide bars. 
+		I KNOW ABOUT THESE, so don't email me about them :)
+
+**The story behind the design:**
+
+There were several ideas that I had to abandon in Arkan1. First, after
+you shut down the comm center and the area becomes unstable, I had 
+originally created a realistic(IMO) effect of boulders bombarding the 
+area as you ran to seal off the area. There were several problems with this:
+
+1. It slowed down terribly in both software and GLq2 (too many goddamn boulders)
+2. Some brushes were not being drawn in software q2.
+3. After running qrad (before, I had just been running qbsp to check things out),
+   the boulders (all of them tied to different func_doors) caused an error, killing q2.
+
+For all of these reasons, I decided to get rid of the boulders and employ the
+"leaking atmosphere" idea. The boulders would have kicked ass, but I could 
+not surpass all of those problems. Especially the fatal error. If you have a 
+lot of experience with errors, contact me and I'll go into detail about it.
+
+---------------Legal Stuff---------------
+
+You may NOT include this map in ANY sort of compilation.
+But go ahead and ask me anyway :)
+
+**** Where to get this MAP and my others ****
+
+http://www.geocities.com/sunsetstrip/alley/8921 
+	-or- 
+http://silcon.com/~ninbroke/
+
+---------------Contacting Me---------------
+
+I have been having a great deal of trouble with ISPs lately, so
+you might not be able to contact me at ninbroke@silcon.com
+
+If you get no reply from that address after several days, 
+try crucuiX@juno.com or check out 
+
+http://www.geocities.com/sunsetstrip/alley/8921
+(I might post my latest email address here)
+
+Thanks,
+Mike Daugherty

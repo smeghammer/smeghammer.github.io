@@ -1,0 +1,117 @@
+MUU!
+This level was entered in to the 'Planet Unreal Level Design Contest'
+=======================================================================
+
+Title                   : Struck A Nerve
+Filename                : megsp1.unr (megsp1.zip)
+Game			: Unreal - Single Play
+Date                    : 26th June 1998
+Author                  : Marc 'MarcEG' Gravett
+Email Address           : marc@avatar.co.uk
+Home Page               : "MarcEG's: UNREAL UNIVERSE"
+			    http://unreal.org/muu/
+Additional Credits to   : EPIC/DE for an incredible game
+ 			  and brilliant editor - the 1 1/2 years of
+ 			  waiting was definatley worth it :)
+			  http://unreal.org 
+			  http://www.planetunreal.com
+			  http://www.unrealnation.com
+			  for being kickass Unreal sites.
+			  And all the OldSkoolers :)
+Other maps by author    : MEGSP1 - The Experiment (QUAKE2)
+
+=======================================================================
+
+* PLAY INFORMATION *
+
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch              : No
+Difficulty Settings     : Yes - HARD skill is best
+New Sounds              : No
+New Textures            : No
+New Music               : No
+Prefabs Used		: None....I do *ALL* my own work
+Textures Used		: Mainly the Starship.utx package
+=======================================================================
+
+* CONSTRUCTION *
+
+Machine made/tested on  : P200MMX - 48mb - Diamond Monster3D - 
+			  	  SoundBlaster AWE 64 Value
+Base                    : New level from scratch
+Editor(s) used          : UED of course ;)
+Known Bugs              : None known.
+Build Time              : Just under 2 weeks
+
+=======================================================================
+* LEVEL INFO *
+
+This is my first UNREAL single player map released for the 'PLANET 
+UNREAL Design Competition' - I had to learn UED and make this level 
+in less than 2 weeks, yes I do need sleep.....BADLY!!!
+
+Due to the short time limit I tried to do as much as possible, I'm 
+happy with the outcome and thats all down to UED which is a very 
+good and very powerful editor. I would spend at least 1 week 
+testing/tweaking a level until its perfect, but I did'nt have that
+much time.
+
+* FEATURES *
+
+Monsters - Some of them roam around at from the start, meaning this
+level NEVER plays the same twice. Some monsters are...shall we say...
+'different' than normal ;)
+Automag - I found out how to change certain settings with the weapons,
+so this weapon fires slightly faster but you dont really notice much.
+Scripted Events - Just one right at the very end, you'll know it when
+it happens to you :D
+Plus a special area for OldSkoolers :)
+
+* FEEDBACK *
+
+Please gimme as much feedback as possible:
+Play It - Hate It - Love It - Rate It
+All feedback is replied too and is essential to all us level designers.
+=======================================================================
+
+* Other Information *
+
+I would like to get into the games industry one way or another, mainly
+as a level designer/games tester/games designer etc. So if you know 
+anyone... ;)
+
+=======================================================================
+
+* Where to get this file *
+
+See my homepage (url at top) for all my maps and other stuff.
+ftp.cdrom.com - When its uploaded
+ftp.unreal.org - (see my homepage)
+
+=======================================================================
+
+* Copyright / Permissions *
+
+This level (megsp1.zip) is copyrighted by Marc Gravett 1998.
+
+Authors may NOT use this level as a base to build additional levels.
+You are NOT allowed to commercially exploit this level, i.e. put it 
+on a CD or any other electronic medium that is sold for money without 
+my explicit permission! (except for coverdisk's)
+
+You MAY distribute this file through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the 
+archive intact.
+
+=======================================================================
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed 
+by GT Software, Inc. under license.  UNREAL and the UNREAL logo are 
+registered trademarks of Epic Megagames, Inc. All other trademarks 
+and trade names are properties of their respective owners.
+
+=======================================================================
+
+
+
+

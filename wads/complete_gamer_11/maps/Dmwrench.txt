@@ -1,0 +1,53 @@
+================================================================
+Title                   : Wrench
+Release Date            : 8/07/98
+Filename                : DMWrench.zip
+Author                  : Randy G
+Email Address           : randy.g@zen.co.uk
+Home Page               : www.zen.co.uk/home/page/p.giblin (DM level reviews!)
+
+
+
+================================================================
+--- Play Information ---
+Game                    : Unreal
+Level Name              : Wrench
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Dark Match              : No
+Bot support             : Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              :
+	1. There are small gaps under the teleports which I couldnt fix!!
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : 2 days 
+
+Installation
+------------
+Unzip the the files and place them into your maps directory under the unreal
+directory. Then just run a multiplayer game as you normally would, DMWrench
+will be in the map select option.
+
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Randy G 1998.
+
+Authors may not use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money OR A CD THAT IS INCLUDED WITH A 
+MAGAZINE without my explicit permission!
+
+You MAY distribute this BSP through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+

@@ -1,0 +1,27 @@
+          PSYCHO DEATH LEVEL by Kyle Kenny	      7/11/94
+	
+	Thanks for downloading my level, which I call the Psycho Death Level.  
+To run this level, first copy it to your DOOM directory and type:
+			DOOM -FILE PSYCHO.WAD
+Then select Knee-deep In the dead (Episode 1), select any difficulty level, and
+PREPARE TO DIE!!! This level is the toughest I have seen.  I am convinced that
+it is IMPOSSIBLE to beat on the NIGHTMARE difficulty level (no codes!)
+	Even I can't beat this level without using cheat codes, and I consider 
+myself rather good at DOOM (plus, I made the level).  If you've played the level
+and can't get out, remember to try every wall.  You never know where you'll find
+a secret door...
+	I've made other DOOM levels, but this is my best one so far.  One is
+called BKWAD.WAD, and it is very small and tough, much like this one.  You can
+give this level to anyone you want (kind of like "shareware")  and if you want 
+you can even edit it.  I made this level from scratch using DEU 5.2.  It can be
+used as a DEATHMATCH level, co-operative, or single-player.
+	If you have questions, comments, or CONSTRUCTIVE criticism, you can 
+contact me by E-mail (please do!) at:
+				KyleKenny@AOL.COM
+	      
+	or maybe it's-->	Kyle Kenny@AOL.COM
+
+I'm not sure if there's a space in there...
+
+Thanks again and good luck,
+			Kyle Kenny

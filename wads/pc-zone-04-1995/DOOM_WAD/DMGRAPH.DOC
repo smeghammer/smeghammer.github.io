@@ -1,0 +1,83 @@
+DOOM Graphic Editor - version 1.1  May 1994
+
+SUMMARY:
+
+DMGRAPH graphic_name [-s graphic_file] [-e graphic_file] [-i insert_point]
+                     [-v] [-d] [-b] [-t type] [-f pwad] [-r] [-c]
+
+graphic_name:   Graphic name from DOOM directory
+-s          :   Store graphic_file into DOOM WAD
+                Input file resolution must be 320x200 or less
+-e          :   Extract graphic from DOOM WAD.  Will not
+                overwrite existing file
+-i          :   Insertion point (x,y).  Default is middle of bottom line
+                (x/2,y)
+-v          :   Verbose list of graphic size, insertion point, allocation
+-d          :   Display graphic on screen
+-b          :   Use black for background color
+-t          :   Graphic format type: GIF or PPM
+-f          :   Alternate WAD file (PWAD) *LIMITED*
+-r          :   Remove graphic from alternate WAD
+-c          :   List contents of WAD
+
+
+DESCRIPTION:
+
+	DMGRAPH will store graphics into or extract graphics from DOOM WAD 
+	and PWAD files, in GIF or PPM formats.  Graphic format type is 
+	controlled by the filename suffix, or by using the '-T' option on 
+	the command line.
+
+        Patch WAD files (PWAD) can be edited the same as WAD files by using
+        the '-f pwad' option on the command line; the PWAD will be created
+        as needed.  There are, however, some limitations.  Four	types of 
+	graphics are found in a WAD: 
+
+		type 0: miscellaneous
+		type 1: sprite
+		type 2: wall texture
+		type 3: floor texture
+
+	Only graphic types 0 and 2 can be put into a PWAD.  Sprites
+	and floor textures, if put into a PWAD, will either be ignored
+	by DOOM, or cause it to abort.
+
+	To remove a graphic from the PWAD, use the '-r' option.
+        For the PWAD to work correctly, the filename must end with .WAD.
+
+	Input graphics should have a resolution of 320x200 or less.
+	To indicate transparent areas in the graphic, draw with
+	Cyan (red:0, green:255, blue:255). 
+
+	Placement of the graphic can be adjusted with the '-i' option.
+	When a graphic is extracted, it's current insertion point
+	is stored in the GIF or PPM file.  Negative insertion points, 
+        used on some graphics, indicate an absolute coordinate from the 
+        top-left of the screen.
+
+	Some graphics are sensitive to size or placement.  For example,
+	TITLEPIC will generate a 'Bad V_DrawPatch' error if the 
+	insertion point isn't 0,0; STFGOD0 must be no larger
+	than 31x31; etc.
+
+	Please be sure to have a backup copy of the original DOOM WAD data.
+
+	
+	Some examples:
+
+	Extract SKY1 graphic in GIF format:
+
+		DMGRPAH SKY1 -e sky1.gif
+
+
+	Store SKY1 graphic in a PWAD:
+
+		DMGRAPH SKY1 -f graph.wad -s sky1.gif 
+
+
+
+
+COMMENTS/SUGGESTIONS:
+	
+	Bill Neisius
+	bill@solaria.hac.com

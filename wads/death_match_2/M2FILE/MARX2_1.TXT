@@ -1,0 +1,36 @@
+* General Information *
+============================================================================
+
+Title                   : MARX2_1.WAD
+Author                  : The Harbinger of Sorrow
+Email Address           : popick@acsu.buffalo.edu
+Additional Credits to   : The authors of DOOM, DEU, and BSP, of course.
+Description             : Pretty simple, no real puzzles, just action.
+
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (? Not tested)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : UV and Normal only
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : I have no clue... (dazed look)
+Editor(s) used          : DEU 5.0/5.1 and BSP 1.0
+Known Bugs              : Some misaligned textures, and 1 unintentional mean
+                          thing... (don't get too close to the blue door
+                          unless you have the key!)
+
+* Copyright / Permissions *
+============================================================================
+
+Do whatever you want, just leave my name on it somewhere.

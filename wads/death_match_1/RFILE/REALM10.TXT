@@ -1,0 +1,57 @@
+==========================================================================
+Title                   : REALM10.WAD
+Author                  : Darren K. McKeigan
+Email Address           : mckeigdk@newton.tuns.ca
+Misc. Author Info       : Comp. Sci. student who got really
+                          bored and decided to try this stuff.....
+                          Comments are welcome and appreciated.
+
+Description             : REALM is an additional level built
+                          for the registered version of DOOM.
+                          It has every monster (HARD setting)
+                          and every weapon can be obtained.
+                          Eventually I will add new graphics when
+                          I get the chance.  
+
+Additional Credits to   : Yann Nicolas for his help with beta testing :)
+==========================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New demos               : No
+New Sounds              : No
+New Graphics            : No (not yet...)
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : Don't really know - kinda picked at it
+                          for a week or so...........
+Editor(s) used          : DEU 5.0, 5.1 and BSP 1.1x (for node rebuilding)
+Known Bugs              : none known (may slow down at the occasional spot
+                          on slow machines - due to the large size of it)
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: gaaj.cosmos.uottawa.ca    in /public/doom
+           bear.montefiore.ulg.ac.be in /incoming/doom/wads/episode2
+           ftp.cdrom.com             in /pub/games/incoming
+           ftp.uwp.edu               in /pub/incoming/id
+           wuarchive.wustl.edu       in 
+                   /pub/msdos_uploads/games/DOOM/EDITED_LEVELS/episode2
+==========================================================================

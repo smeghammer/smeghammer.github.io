@@ -1,5 +1,0 @@
-  This is a simple Dehacked 1.3 patch which leaves blood marks 
-  on the ground where ever you've been shot at... see trails of blood 
-  where you just blasted your deathmatch opponent....
-                                                Eric
-                                                efisher@moose.uvm.edu

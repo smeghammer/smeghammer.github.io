@@ -1,0 +1,57 @@
+The Moebius Hub
+---------------
+
+Place this file in your valve/maps directory of half life.
+
+A half life deathmatch map by Nicholas "ProMagnoN" Lawson.
+
+This map is meant to be a more tactical deathmatch in the "lab" setting.  There are
+several piles of crates, instruments, and machines to hide behind, as well as 
+a bullet proof glass wall with an arched door in it.  From the top the map would
+look somewhat like a figure eight, but at a wierd angle.  There is a metal grating
+walkway running around the top and most places on the map have several methods
+of accessing them.  To get the rpg you have to jump into the water, making a 
+splashing noise and alerting whoever might be listening.  To get the snarks you
+have to jump from the top grate walkway to the crates beside it, likewise with 
+the hornet, but in that case you can also hop up the crates from the floor level.
+To get the crossbow you have to do the same but with a little extra bother... and
+ammo is scarce for the bow so you have to take each shot carefully.
+
+There is a reasonable amount of ammo, but not tonnes, I don't want wild crazy 
+bullet fests.  Ammo is spread out though, so you won't be able to camp in one 
+spot for very long without running out.
+
+There is no EGON.  The EGON causes heavy lag and as it is at this point
+it is in my opinion unsuitable for internet play.  The crossbow is in, but its not
+so easy to get it, and ammo is scarce.
+
+HINTS:  Use your ears!  Be especially alert when hearing splashing or metal foot
+        steps.
+        Take cover... theres usually a corner or obstacle nearby.  Play the brain
+        game and you will live longer.
+        Keep moving, as ammo is not usualy nearby the weapon that it belongs to.
+
+STATISTICS
+----------
+
+Design time:  about 30 hours, 3 of which were rebooting due to bugs that crashed 
+              win95 totaly from worldcraft 2 :(.
+Compile time:  About 2 hours, several times rebuilt while creating.
+Design machine:   Pentium 2-300 with 64 megs ram.
+Design Points:  It took me freaking AGES to do that red edging to the floors
+and it took me EVEN LONGER to align the girders textures, all around the middle
+piece.  The level contains plenty of gentler more curved rather than angled pieces.
+I also did most of the CSG _BY HAND_ by building the shape out of several neat and 
+precise brushes instead of allowing Worldcraft's CSG to go wild and make millions
+of wierd ass brushes.  Took a LONG time but its worth it.  Much nicer.
+Author:  Nicholas "PROMAGNON" Lawson, 
+Email: promagnon@home.com
+Music listened to while designing:  "Shearing The Pin of the Universe Within. - KFMF"
+Recommended players:  up to about 6 if you want a nice fight, but could probably do 8 or
+so if you want all hell to break loose.  The spawn spots are in such a manner that less
+respawn frags will happen, at least by the same person.
+Comments:  Enjoy it!!!!
+
+----------------------------=-=-=--------------------------------
+ProMagnoN
+promagnon@home.com

@@ -1,0 +1,73 @@
+================================================================
+Title                   : Have A Nice Day!   
+Filename                : HAPPYDTH.WAD
+Author                  : Jeff Mitchell
+Email Address           : Mitchjp@wkuvx1.wku.edu
+Misc. Author Info       : I am a Computer Science major at Western Kentucky
+                          University, and a long-time DOOM player.  This is
+                          my first venture into actually distributing the
+                          PWADs I make, as most of my other ones weren't
+                          good enough to be distributed.  If you have any
+                          comments (good or bad), suggestions, etc., please
+                          drop me a line at the address above.
+
+Description             : This level was designed as a deathmatch level.  It
+                          can, however, be very challenging if you play it
+                          one-player.  I was using a DeHacked version of
+                          Doom2 while I made this, and it's set up for use
+                          with it.  Without it, you'll probably want to use
+                          the IDKFA code for ammo, since you're gonna run out
+                          long before you kill the monsters.  This level lends
+                          itself to mostly arena-style combat, which is my
+                          favorite.
+
+Additional Credits to   : Chris "Red" Schneider and Jason "Potsy" Poncerolli, 
+                          along with the rest of the guys for their input, 
+                          play testing, and encouragement, and Id software for 
+                          making one of the best games on Earth (and in Hell.)
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Level 1 (Doom2)
+Single Player           : Yes, but it's a lot more fun with other people to
+                          blow up.
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Of course, wasn't this Id's purpose?
+Difficulty Settings     : Not implemented
+New Sounds              : No 
+New Graphics            : No <-- I am, however, looking for a good editor. 
+New Music               : No 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch  (Actually, I built from
+                          S1.wad, one of the PWADs included with DEU.)
+Editor(s) used          : ADE (an edited version of DEU)
+Known Bugs              : There are some minor texture glitches in the smiley
+                          rooms, and by the northeast teleporter in the square
+                          arena.  They shouldn't bother gameplay, but if
+                          anyone knows how to fix them, please send me some
+                          e-mail.
+
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD.  You can keep it to yourself.  You can burn
+it, and curse the day I was born, if you want to.  Authors MAY change, copy
+from, or add to, this wad in any way, provided they include my name in the 
+documentation.  If possible, I would like to get a copy of it also.
+
+
+* Where to get this WAD *
+
+FTP sites: doomgate.cs.buffalo.edu
+
+BBS numbers: This will begin to be distributed in the Grand Rapids area in
+             mid-March.  Please add the number of any BBS you upload it to.
+
+Other: If you really want it, and can't FTP it for some reason, e-mail me,
+       and I will attempt to get it to you. Of course, if you're reading this,
+       I can't figure out why you wouldn't have the file.

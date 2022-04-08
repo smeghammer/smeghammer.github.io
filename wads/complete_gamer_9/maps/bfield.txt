@@ -1,0 +1,75 @@
+December 4, 1998
+
+================================================================
+
+Title                   : Battlefield
+Filename                : bfield.bsp
+Author                  : Cho Yan Wong
+Address           	: pwong@pobox.leidenuniv.nl
+Description             : Halflife DM level for 4-8 players. This
+                          is a small battlefield with hills, bunkers,
+                          a turret and lots of carnage :-) Since
+                          everything is in view it's not a fast map,
+                          but hopefully people with fast computers
+                          on a LAN will enjoy it a lot.
+Special Thanks to       : Autolycus for comments, Valve for creating 
+                          Halflife, #3drealms Undernet for being a
+                          pain in the butt.
+Webpage                 : http://www.wi.leidenuniv.nl/~cwong/games
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : Halflife skies do not absorb bullets.
+                          Some projectiles will also make a 
+                          watery sound when going through the sky.
+Build Time              : One day :-)
+
+================================================================
+
+
+Installation
+
+To play this level, extract the file "bfield.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map bfield" or "changelevel
+bfield" in the console. To test it out in single player mode
+start Halflife with hl.exe -console -toconsole -dev. This enables
+you to try some stuff using the cheat codes.
+
+================================================================
+
+Copyright and Permissions
+
+If you enjoy playing this level, please send me an e-mail :-)
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name BFIELD.BSP and is supplied in a zip file called BFIELD.ZIP 
+that also contains this text document and no other files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 1998 Cho Yan Wong

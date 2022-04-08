@@ -1,0 +1,78 @@
+================================================================
+Title                   : KILLER Level
+Filename                : KILLER21.WAD
+Author                  : Mike Ruggles
+Internet Address        : rugglem@iia.org
+Misc. Author Info       : Computer Programmer by day/Deathmatcher
+                          by night!
+
+Description             : After playing many wads in deathmatch mode, I
+                          decided it was time to try to create one of my own.
+                          This level has many sniping places.  There is a 
+                          central teleportation room that takes you to the
+                          other areas.  Each area will almost always have a
+                          way to shoot at someone in another area.  There are
+                          switches that allow you to open an area previously
+                          unaccessable.  Sometimes they open shortcuts to 
+                          another area as well.  As I said, this was 
+                          originally designed to be a deathmatch level.  
+                          However, as I got further and further into making
+                          it, it got kinda big.  It's still a good deathmatch
+                          level for 3 or more players, with 2 players being
+                          a little bit harder to find the other person at 
+                          times.  There are quite a few smaller monsters, and
+                          several of the big guys as well (Most of whom you
+                          can avoid without having to fight them).  What can
+                          I say, the guys I play with like to have something
+                          to distract other players so they can sneak up on
+                          them even better!  It might make a good single 
+                          player level, but it would be pretty tough!
+
+Additional Credits to   : Kenan Dalley, Pat Shelton, and James Riley for
+                          Design suggestions and Playtesting.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Deu 5.21 and BSP 1.2 to fix the node problems Deu
+                          didn't quite clean up.
+Known Bugs              : None.  Occasionally it would crash if you happened
+                          to telefrag someone going into the Exit area. 
+                          Never could figure out why, though.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: ftp.uwp.edu  pub/games/id/home-brew/doom/wads
+                        pub/incoming/id
+
+BBS numbers: Software Creations (508) 368-7036 or
+                                (508) 368-4137
+
+Other:
+
+

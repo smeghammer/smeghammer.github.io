@@ -1,0 +1,58 @@
+================================================================
+Doom Version		: Doom ][
+Title                   : DOOM2DM1.WAD
+Author                  : Dan Cormack
+Email Address           : dancor@worldgate.edmonton.ab.ca
+Misc. Author Info       : WaD_MaN on IRC, Creator of WADODETH
+                         
+
+Description             : This is a NEW DEATHMATCH Only Level for Doom ][
+                          The first level for D][ was ok for 2 player DM
+			  but I found the rest were either too big or had too
+			  many powerful items in them.. This level has NO mega
+			  or supercharge spheres. ALL weapons are present.
+
+Additional Credits to   : VT102 (on IRC) for 1DEU2 (the modified Doom ][ editor
+			  ID for Doom ][ and Doom. Nabob for the great blend
+			  of Coffee (Milano Espresso) 8-)
+			  Jens Hykkelbjerg for the Beta of RMB13 so I could 
+			  build a Reject Map for Doom ][ PWADS.
+
+Additional Notes        : As stated above, it was designed primarily for
+                          deathmatch.  It really wouldn't be that fun
+                          in single user mode, and could probably be 
+                          completed in under 10 secs.. The Exit is behind you!
+
+                          Please send me any comments or suggestions for 
+                          improvement.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : If you want.
+Cooperative 2-4 Player  : If you want.
+Deathmatch 2-4 Player   : Yes!!!
+Difficulty Settings     : Not implemented
+New Sounds              : None
+New Graphics            : No
+
+* Construction *
+
+Base                    : New from Scratch!!
+Build Time              : 30 hrs? 40 hrs? Lots of time! 
+Editor(s) used          : 1DEU2.EXE (Modified DEU521), BSP 1.2x, RMB13
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. Ask me first through E-Mail.
+There will be more levels to come so keep an eye open!
+
+* Where to get this WAD *
+
+FTP sites: Infant2
+EMAIL:  If you don't have FTP access, email me a message and I'll send a 
+        message reply with the WAD included.  Email address included above.

@@ -1,0 +1,79 @@
+Title                   : Theatre of Doom   
+Filename                : theatre.wad
+Author                  : James Wilson (aka Shade)
+Email Address           : Cserve: 73651,2312
+
+Author Notes            : The author of this wad works in a movie theater, 
+                          so getting the chance to wield a shotgun in one
+                          of his own design was a form of therapy for him.
+                          This is my first level.
+
+Description             : All your buddies have gone to the movies and
+                          they've taken all the heavy weaponry with them!
+                          This level is designed as your average modern day
+                          movie theater, with a few twists.  Run through your
+                          local cinema blasting all those annoying patrons
+                          in your way, demanding that they decrease the
+                          popcorn prices.  Your buddies are in there, dead 
+                          or alive.  Can you find them and the weapons they
+                          brought with them?  Good luck!
+
+Level notes             : This level is big with lots of stuff.  It will run 
+                          slowly on slow computers.  I tried to design it to
+                          be difficult, but not impossible, with the theory
+                          that lots of killin' is a good thing.
+
+Misc.                   : My original design of this level was much more 
+                          complex, but I had trouble rebuilding the nodes
+                          when it got too large.  I have only seen one wad
+                          file that was larger than this one (significantly)
+                          but I don't know how it was done.  If anyone has
+                          any info regarding this please let me know.  A
+                          PIECE OF ADVICE TO PROSPECTIVE WAD BUILDERS.  You 
+                          might want to keep your creative urges in check 
+                          enough that you don't make your levels too big, 
+                          this one gave me many headaches.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2/4 Player  : Yes (not tested)
+Deathmatch 2/4  Player  : Yes (not tested, but extra objects have been
+                          placed with DM in mind.)
+Difficulty Settings     : Minor difference between UV and others.
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Construction time       : 90 to 100 hours + (I know, I know.  But most of
+                          this is the learning curb and accounting for 
+                          begginers screwups.)
+Editor(s) used          : DEU 5.2
+Known Bugs              : I originally made this level much more complex than
+                          it currently is, but HOM made me reduce the
+                          complexity.  There is a slight and distant HOM in
+                          certain parts of the lobby, and in the large theatre,
+                          but overall it isn't unbearable.
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  Authors (MAY) alter or play or do with this level pretty much
+anything they want, I only ask that you give me credit.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+Compuserve:  Gamer's Forum in the Action Game Aids section. 

@@ -1,0 +1,45 @@
+================================================================
+Title                   : ZZONE.WAD  
+Author                  : Ari Koivisto
+Email Address           : k139925@ee.tut.fi
+
+Description             : This level is designed for DEATHMATCH play.
+                          It's a room full of obstacles, lifts, ambush 
+                          places and rocket launchers. 
+                          
+Misc game info          : If you don't like the Cyberdemon and Cacodemons,
+                          start Doom with -nomonsters.
+                          The lifts (there are two) work by 
+                          using one side of them.
+                          Email any comments or suggestions.
+
+Additional Credits to   : My friends for playtesting and suggestions
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1            
+Single Player           : Yes - boooring  
+Cooperative 2-4 Player  : Yes - boooooring
+Deathmatch 2-4 Player   : Yes - FUN!
+Difficulty Settings     : No                        
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : 12+ hours
+Editor(s) used          : DEU 5.0, BSP 11x
+Known Bugs              : Texture alignment isn't perfect
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu
+

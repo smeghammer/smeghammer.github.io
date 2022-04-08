@@ -1,0 +1,83 @@
+==========================================================================
+Title                   : SKYCITY.WAD
+Author                  : Darren K. McKeigan
+Email Address           : mckeigdk@newton.tuns.ca
+Misc. Author Info       : Comp. Sc. student at the Technical University
+                          of Nova Scotia.  (Author of REALM.WAD)
+                          
+                          PLEASE, LET ME KNOW WHAT YOU THINK OF THIS WAD!!
+                          
+                          I didn't get much feedback last time (is that
+                          good or bad?? :) 
+                          But, I just want to know if I should bother 
+                          making any more..........
+
+Description             : Well, this is my second attempt at a pwad.  I
+                          think this one is a little better than my first
+                          attempt (which wasn't that bad - toot toot!! :)
+                          SKYCITY is just that - A semi-city stuck 1 mile
+                          high in the sky.  I created new textures to 
+                          simulate the effect.  It has all new wall textures 
+                          in it as well as a new sky/floor ...blah blah.....
+                          
+                          But, PLEASE, run the SKYCITY.BAT file so that
+                          you can temporarily put the floor textures into
+                          your DOOM.WAD file (yeah, sorry - Can't put new
+                          floors into pwads).  But, the batch file takes
+                          care of it and will restore the original floors
+                          when you're done.  Back it up if you don't trust
+                          me :)  
+                          I included a .lmp just in case you get a little
+                          PO'd trying to find the secrets (They aren't
+                          that hard, anyway...)
+                          
+
+
+Additional Credits to   : Yann Nicolas for his beta testing :)
+                          Shane Harnish for ideas (and the web texture)
+                          ...and of course, the creators of DEU and BSP.
+==========================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (but not designed for it)
+Difficulty Settings     : Yes
+New demos               : Yes
+New Sounds              : Yeah (a few new gun sounds - well, I didn't 
+                          create them - I just found them on the net)
+New Graphics            : Yup - new floors,walls, and sky and a new 
+                          godmode - heehee - check it out.  HE IS GOD!!
+                          I made a slight change to the map screen but
+                          I didn't screw around with the credits - outta
+                          respect for the DOOM guys.
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : Too F'in long!!  I just poked at it every once
+                          in a while.
+Editor(s) used          : DEU 5.21 GCC BSP 1.1x (for node rebuilding)
+Known Bugs              : none known (Maybe a bit of slowdown on slow
+                          machines but fine on a 486 DX-33 /no VLB card)
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  But, feel free to include it in a comilation or something
+like that - just let me know first :)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           ftp.uwp.edu             
+           wuarchive.wustl.edu 
+
+==========================================================================

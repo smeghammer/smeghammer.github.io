@@ -1,0 +1,89 @@
+                        ***  Hades' House of Horrors  ***
+                        * Part Two: "The Winter Palace" *
+
+================================================================
+Title                   : HHH-22.WAD   
+Author                  : Robert Zubek
+Email Address           : clegg@rci.ripco.com
+			  (PLEASE send comments!)
+
+Description             :   "Well, well, well..." started Hades, "You have 
+			  solved that little puzzle(*) with amazing speed...
+			  Good for you, my boy.  How about something tougher?"
+			  Answering your icy glance, he quickly added "Okay,
+			  just a _little_ tougher..."  His wide smile exposed
+			  strong and healthy teeth.  Suddenly it came to your
+			  mind that no one ever saw Hades smiling -- or did 
+			  not live to tell about it?  "The problem is," he 
+			  continued, "that I have one little palace I don't
+			  really like.  One architect designed it for me some
+			  time ago, he was trying to suck up to me, you know,
+			  so I would let him live another 50 years or so.  
+			  I didn't.  Anyway, the place didn't suit my taste,
+			  really; it's so small and tight, and definitely not
+			  warm enough for a winter palace.  So I decided that
+			  with some remodeling it would make an interesting 
+			  puzzle for you.  How about it?  Oh, come on, I know
+			  you start to like these puzzles, don't you?"  His 
+			  voice became more and more patronizing.  "It's good, 
+			  you know, for your body, mind... and speed!"  he said,
+			  and honoured you with another smile, clearly enjoying
+			  himself.  Impatience, however, overcame him, and he 
+			  quickly finished up his monologue -- "You are really
+			  good in conversations.  It's a pity we've got to go 
+			  now.  I can't wait to see you in that palace. I only
+			  wonder how quickly you'll get out of there...
+			  IF you'll get out...
+
+			  (*) see HHH-21.WAD   (HHH Part One)
+
+Additional Credits to   : Authors of DEU and BSP.  May their programs grow and
+			  multiply!  And not require a recompiling to work on
+			  a 486sx!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2 M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (not tested)
+Deathmatch 2-4 Player   : Yes (not tested)
+Difficulty Settings     : Yes (tested!)
+New Sounds              : No
+New Graphics            : Yes (menu and acknowledgements)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 56 hours. ;)  
+Editor(s) used          : DEU 5.1, BSP 1.1x recompiled
+Known Bugs              : There are some problems with the 2-sided linedefs
+			  in two tall rooms: the first room with the windows,
+			  and the one with the deep acid pit.  Sometimes when
+			  walking thru a linedef without any texture, it may 
+			  seem as if walking thru a gray wall.  It's a Doom 
+			  engine's problem, and not my or DEU's fault.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels, as long as
+credit is given.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+	ocf.unt.edu and mirror site(s)
+
+
+* Note from the author *
+
+This is, as you know already, the second part of the "Hades'" series.  
+I have started working on the third part, and it should be ready soon.

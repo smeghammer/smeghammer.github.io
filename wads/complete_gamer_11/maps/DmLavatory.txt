@@ -1,0 +1,70 @@
+================================================================
+Title                   : Lavatory
+Version                 : 1.0
+Release Date            : 7/5/98
+Filename                : DmLavatory.zip
+Author                  : Stephen Farrow "ROSWELL"
+Email Address           : sf2495@hgo.net
+Description             : Unreal Deathmatch map
+Additional Credits to   : Epic Megagames (http://unreal.epicgames.com/)
+
+================================================================
+--- Play Information ---
+Game                    : Unreal 
+Level Name              : Lavatory
+
+Single Player           : Yes(as botmatch)
+Cooperative             : No
+Deathmatch              : Yes
+Dark Match              : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Bot support             : Yes
+Known bugs              : None known.
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : Around two weeks
+
+Installation
+------------
+Unzip and place the DmLavatory.unr file into your Unreal/Maps directory and 
+run the game as usual.  Or double click the map.
+
+Description
+-----------
+This is a medium-size deathmatch level set in a run-down bathroom that has been overun and
+infested with little scurrying animals ( in this case, six inch tall unreal people :) ). So that you
+aren't limited to just the big world, you can venture into the constructions that the rats...err
+...I mean little people have built into the floors and walls.  There are plenty of traps for you to spring
+on your unsuspecting fellow wee folk... so have fun!  
+
+Author's Notes
+--------------
+This level combines two things that I love in a deathmatch level: Lots of height levels(sniper points)
+and accessibility(being able to get anywhere by a variety of different ways).  You won't find any real 
+dead ends in this level and even though it is fairly large, you can still get anywhere you want
+pretty easily.  Hope you like it!
+ 
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Stephen Farrow, 1998.
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level for profit in any way,
+including but not limited to, putting it on a CD ROM or any other medium that 
+is sold in or out of retail channels, for any amount of money.  You must obtain
+written permission from 3D Realms to exploit this level commercially.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file, leave the archive
+intact, and do not charge a fee for access to this file.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

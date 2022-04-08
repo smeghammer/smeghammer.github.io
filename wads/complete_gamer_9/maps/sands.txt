@@ -1,0 +1,70 @@
+December 10, 1998
+
+================================================================
+
+Title                   : Sands Of Sorrow
+Filename                : sands.bsp
+Author                  : Cho Yan Wong
+Address           	: pwong@pobox.leidenuniv.nl
+Description             : Halflife DM level for 4-8 players. 
+                          Desert/canyon area with weapons and a 
+                          cactus or two :-) Contains a fairly large
+                          area, therefore recommended for pimp
+                          computers.
+Webpage                 : http://www.wi.leidenuniv.nl/~cwong/games
+
+================================================================
+
+Play Information
+
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : Sky makes a watery noise. 
+Build Time              : Two days.
+
+================================================================
+
+
+Installation
+
+To play this level, extract the file "sands.bsp" into
+your sierra\half-life\valve\maps directory and then start the game.
+Start a deathmatch server and type "map sands" or "changelevel
+sands" in the console. To test it out in single player mode
+start Halflife with hl.exe -console -toconsole -dev. This enables
+you to try some stuff using the cheat codes.
+
+================================================================
+
+Copyright and Permissions
+
+If you enjoy playing this level, please send me an e-mail :-)
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name SANDS.BSP and is supplied in a zip file called 
+SANDS.ZIP that also contains this text document and no other 
+files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 1998 Cho Yan Wong

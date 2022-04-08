@@ -1,0 +1,88 @@
+================================================================
+Title                   : SURMONT.WAD   
+Author                  : Larry Schaudies
+Email Address           : lts@cais.com
+Misc. Author Info       : 
+
+Description             : X-Rated  This wad may be considered X-rated
+                          by some.  In my opinion, the nude shot in the 
+                          bedroom is no more X-rated than the violence of
+                          the game.  If it offends you don't play this wad.
+                          
+                          This was my home and horse farm...until a UAC
+                          C147 attempting to land at Dulles Airport, which I 
+                          unfortunately happen to be under the N-S approach,
+                          crashed here.  I'm not sure what happened but
+                          but apparently the C147 was carrying Toxic waste from
+                          the Spawning Pits which upon landing on my land began
+                          mutating all the animals who began spawning in my 
+                          house, barns and out-buildings. In addition, 
+                          the plants became mutated.... 
+                          well to make a long story short I'm fucked unless you
+                          can save the farm.
+
+Additional Credits to   : The Id team.
+                          The authors of the editors I used(see below)
+                          DEU, IDBSP 1.0
+                          Bill Lewis, for playtesting and gameplay ideas
+================================================================
+
+* Play Information *
+
+* Installation *
+
+Unzip everything into your Doom directory.  Run the batch file getsur.bat 
+which will place new things into your main doom.wad .  There is a batch file
+called getorig.bat which will put the things back as they were.  The wad will
+run fine without doing this but you will see red and green columns instead of 
+the cool cactus and desert trees.  Also included is a copy of dmgraph.exe which
+puts the things into and out of the main wad.  This is the only way I know of
+to get thingy's to you.  They will not transfer in a pwad.
+You may want to zip up a copy of your original doom.wad before doing this in
+case it scares you, otherwise all you have to do if you goof up is re-install
+the game.
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (tested)
+Deathmatch 2-4 Player   : Yes (tested I'm not a deathmatch player but...
+                          I did enjoy playing it in deathmatch mode with
+                          another player)
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+Demos Replaced          : Demo1,Demo2
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 1.680035E+39 
+Editor(s) used          : Deu and IDBSP
+Known Bugs              : Will play slowly on 386 40 machines. 
+                          Developed on 486 66.  Idbsp node builder makes it
+                          run much better on the slower machines, you should 
+                          of seen it before Idbsp.exe on a 386 40.
+                          
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, without
+modifications.  You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+
+FTP sites: infant2.sphs.indiana.edu
+        
+BBS numbers:  World Data Network 703-620-8900  and 301-654-2514 
+             
+Other: Using a difficulty levels less than UltraViolent decreases the number
+       of baddies outside the house which speeds the gameplay on slower machines.  
+       I hope you enjoy this as much as I enjoyed making it.
+       
+
+==============================================================
+

@@ -1,0 +1,54 @@
+================================================================
+Title                   : The Matrix
+Author                  : Donald Cathcart
+Email Address           : Leave a note in my mail box
+Misc. Author Info       : Ejoyed Doom so much thought I might try me hand at 
+                          writing my own level.
+Description             : This is my first Doom level. It's not too tough and
+                          not too easy! I hope you enjoy it as much as I
+                          enjoyed writing it. Please feel free to let me know
+                          how you liked/disliked it. All comment/suggestions/
+                          critizims welcomed!!  Tested on Doom Version 1.2
+                          Should work on 1.5 and 1.666 but did not test on
+                          these versions.
+Additional Credits to   : No one!!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : No 
+
+Deathmatch 2-4 Player   : No 
+Difficulty Settings     : all levels active 
+Difficulty              : 7/10
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : approx. one month plus playtesting
+Editor(s) used          : DoomEd versions 2.60B4 and 2.60
+Known bugs/problems     : Switch at end of the maze, you'll see!!!, is 
+                          repeated up the length of the wall. Switches
+                          in ceiling of Pillar room duplicated.
+                          Some ceiling textures not aligned.May run slow.
+                          Let me know if you find and addition problems.
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+
+

@@ -1,0 +1,77 @@
+
+Title                   Towers    
+Filename                Towers.WAD
+Author                  Mike Marino (A.K.A) (the Real) DARKMAN 
+Email Address           havoc@escape.com   
+Misc. Author Info       Okay Boys & Girls this my second wad and like the 
+                        Star Wars saga (It's Not the first Level) at least 
+                        not for me. I Hope to have at least 26 more levels 
+                        (thats right 26) to add to this one.This maybe (and 
+                        do mean MAYBE!!!) level 4 of this set. It "HAD" alot 
+                        of bugs in it but I think I got'em all. I have to 
+                        thank my friends for that. (see credits below)... 
+                        GOOD LUCK!!     (you'll NEED IT!)
+
+
+Description             The BIG BOYS of hell make another go of it by building
+                        a tower that goes for Earth to hell and back 
+                        (my own idea for DOOM!II Not that I'm not looking 
+                        forward to ID's release).  You, a highly skilled dog 
+                        of war, **at least you should be by now*** are armed 
+                        With nothing but your own skills and want for 
+                        REVENGE!!, must see your way into the few rooms of 
+                        this Monolith of Death, but beware the lords of Hell 
+                        made sure you had to push the right buttons to get 
+                        from level to level.
+ 
+                        So you set out to find the SCUMBAGS!! who took the 
+                        lives of your men. Even if It takes you to HELL and 
+                        back!!!! 
+                                                          DM
+
+Additional Credits to   My very best thanks to Spudize (who is my main 
+                        playtester), my bro Havoc (who I bounce ideas off of),
+                        Archer For All the cool .GIF's And a special thanks 
+                        to all the boys & Girls of LIONware (AMIGA Group)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                     New level from scratch
+Editor(s) used           DEU5.2 , BSP (node builder) 
+                             and viewed with 
+                               Doom master 2.1
+Known Bugs              The only bug I know of is a hall of mirrors 
+                        effect when you enter the first room, but that
+                        is because of the 16 sidedef rule and I didn't
+                        have the heart to change it  (sorry!!!)
+* Copyright / Permissions *     
+
+Authors (MAY) use this level as a base to build additional
+levels. I would be very happy to see where this turns up. 
+you may make any changes you like so long as you give credit
+where credit is due.
+You MAY distribute this WAD in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

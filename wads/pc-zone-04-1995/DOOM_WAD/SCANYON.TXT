@@ -1,0 +1,23 @@
+================================================================
+Title                   : Slaughter Canyon
+Filename                : SCANYON.WAD
+Author                  : Megaduck
+Email Address           : 
+
+Description             : Its a huge level.
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Two
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+This level needs to be modified to support multiplayer, but was not designed
+as a multiplayer level.  I know two players can do this level.  Just turn
+around when you begin.

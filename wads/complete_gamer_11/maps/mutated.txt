@@ -1,0 +1,104 @@
+Monday 23rd Febrary, 1998
+================================================================
+
+Title                   : Mutated!
+Filename                : mutated.bsp
+Author                  : YooShin Yang
+Email Address           : yooshin_yang@hotmail.com
+
+Map description         : Uhm.. my fourth small Quake 2 map for Single Play 
+                          and first for DeathMatch / Co-op Play.
+
+Blahs                   : This one's made for "Best Of The Net" Level Design Contest 
+                          and that's why it bears so much resemblance to id's original 
+                          Quake 2 levels. I had fun while imitating id's levels and adding
+                          some of my own. I hope you have just as much fun while playing.
+                          
+                          This map is made in gamma level 2 and *I* think it looks best in
+                          that brightness. Of course, if you don't like it, change it appropriately.
+
+                          As always, feedbacks are welcomed. Especially if anyone plays DM or Co-op with
+                          this map, I'll be appreciated if he could send me some demo of it. As this was
+                          my first planned-before-making level, I think it has much more inter-connected
+                          structures than my previous levels. Well, you're the judge. :)
+
+Other maps by me        : For Classic Quake
+                              - Sadistic Blue (sblue.bsp)  SP
+                          For Empires TC for Quake
+                              - Into the Empires (start.bsp)  SP/DM
+                              - Before Technophobia (emp1c4.bsp)  SP
+                              - Technophobia (emp1c5.bsp)  SP
+                          For Quake 2 
+                              - The Hideout (hideout.bsp)  SP
+                              - Death Is Not Worth Trying (deathis.bsp)  SP
+                              - Fatal Opportunity (fatalop.bsp)  SP
+                          * All maps can be downloaded from ftp.cdrom.com and its mirror sites*
+            
+Additional Credits to   : id Software (You know why..)
+                          Tim Willits (who made base?.bsp, which were the inspiration for this map.)
+                          Yahn Bernier (for BSP)
+
+Thanks to               : Matt (for all those great compliments he's given to me. Thanks, Matt ;)
+                              - www.planetquake.com/spq2/
+                          All the SPQ/SPQ2 Reviewers who've reviewed my humble levels.
+                          All the people who've sent me feedbacks on my levels.
+                          Every people who knows me - You, and you, and you, and you...
+                          And especially, those who'll die in this level. ;)
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes 
+Cooperative             : Maybe 
+                              - 3 co-op starts, but I'm not sure about the triggers & helps & items & etc..
+                                So, co-op play may not work. Sorry.
+Deathmatch              : Yes - 5 DM starts. Full DM support; all buttons/doors removed, all weapons
+                                present, Quad/Invul. present.
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Track No.               : 4
+
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor used             : BSP 0.90b - 0.93b / MS-Dos Editor / Notepad
+                              - BSP can be found on BSP Headquarters (http://bsphq.telefragged.com/), 
+                                so please don't ask me what editor I'm using and where to get it. 
+Known Bugs              : Mutants' hands(?) are sticking out through the walls.
+                          Some damn HoM (Hall of Mirror) effects, and clearly visible ones at that! :(
+                              - couldn't get rid of this one. Sorry. If anyone out there could clarify exactly
+                                what's causing this, please E-Mail me.
+Build Time              : A week.
+Texture WALs used       : Quake 2 .WALs - E1U1, E1U2, E1U3 and a little E2U1
+Compile machine         : P166, 32M RAM
+BSP Size:               : 1304 Brushes
+-----
+QBSP3                   : 74 secs
+QVIS3 -level 4          : 1940 secs 
+QRAD3 -bounce 40 -extra : 1374 secs
+
+
+* How to play this BSP *
+
+    1. Put mutated.bsp in 'baseq2\maps' directory under your Quake2 directory
+       (without quotes, create one if it doesn't exist.)
+    2. Start Quake2, set you skill level and enter 'map mutated' (no qutoes!) 
+       in your Quake2 console.
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+Empires TC is (c) by Empires TC Team, 1997. 
+(Visit 'www.mcs.com/~vharvey/empires/' for more details.)
+
+This map, mutated.bsp is (c) by YooShin Yang, 1998.
+You may distribute this .BSP freely via internet, provided you include this .TXT file
+and leave the archive intact. If you'd like to use this .BSP file in any other way, 
+please contact me via E-Mail. If you let me know and give me a credit, I'll probably 
+give you the permission to use.

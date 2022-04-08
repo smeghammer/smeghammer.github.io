@@ -1,0 +1,60 @@
+================================================================
+Doom Version		: Doom ][
+Title                   : DOOM2DM2.WAD
+Author                  : Dan Cormack
+Email Address           : dancor@worldgate.edmonton.ab.ca
+Misc. Author Info       : WaD_MaN on IRC, Creator of WADODETH & DOOM2DM1
+                         
+
+Description             : This is a NEW DEATHMATCH Only Level for Doom ][
+			  Having received high praise for DOOM2DM1.WAD (and
+			  also hving played it for hours and hours) I decided
+			  to get to work on the next in the series. This level
+			  is a bit bigger than DOOM2DM1 but it is so 
+			  interconnected that the frag count will be high. All
+			  weapons are present as is the MEGASPHERE but to get 
+			  it, you'll be easy meat for your enemies..
+Additional Credits to   : id for Doom, Doom][ , The DEU team (Where's DEU 5.3?)
+			  Jens Hykkelbjerg for RMB2 , Matthew Ayres for WADED 
+			  (needed it for the new flats. the DEU hack I have
+			  doesn't have them)
+
+Additional Notes        : What can I say? This is a DEATHMATCH **ONLY** level
+			  so shoot when you see your buddies and stop playing
+			  with yourself! (You'll go blind!)
+			  No HOM's, Medusa, or Tutti-Frutti effects..
+
+                          Please send me any comments or suggestions for 
+                          improvement.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : If you want.
+Cooperative 2-4 Player  : If you want.
+Deathmatch 2-4 Player   : Yes!!!
+Difficulty Settings     : Not implemented
+New Sounds              : None
+New Graphics            : No
+
+* Construction *
+
+Base                    : New from Scratch!!
+Build Time              : 30 hrs? 40 hrs? Lots of time! 
+Editor(s) used          : 1DEU2.EXE (Modified DEU521), BSP 1.2x, RMB20, WADED142
+
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. Ask me first through E-Mail.
+There will be more levels to come so keep an eye open!
+
+* Where to get this WAD *
+
+FTP sites: Infant2
+EMAIL:  If you don't have FTP access, email me a message and I'll send a 
+        message reply with the WAD included.  Email address included above.

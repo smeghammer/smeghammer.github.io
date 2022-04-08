@@ -1,0 +1,59 @@
+================================================================
+Title                   : morehell.WAD   
+Author                  : Josh Fallon a.k.a. Phallus
+Email Address           : Fallonjb95%cs14@cadetmail.usafa.af.mil
+
+Description             : This level is the revision of 11inhell.wad.
+                         If you are a fan of that one, then delete it and use
+                         this instead.  This level was built _just_
+                         for deathmatches. It has several _main_ rooms 
+                         with numerous sniper spots, teleports, and 
+                         visial effects.  It takes two people to open the 
+                         exit.  This level also has "hell" and a special 
+                         room that lets you look at all major areas.  It is
+                         also small enough to let you find the other player
+                         quickly to rack up the frags.  There are numerous
+                         connections between the rooms so you won't end up 
+                         running for miles.  Email me with any questions.
+
+Additional Credits to   : Fragmaster for helping with the 
+                          Play testing.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Not really.  (needs two to exit.)
+Cooperative 2-4 Player  : well. not as fun
+Deathmatch 2-4 Player   : Yes. The more the better!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch. fix from 11inhell.wad
+                          made by me. :)
+Build Time              : too many hours... 
+Editor(s) used          : Deu51
+Known Bugs              : not any that anyone found yet.  All previous 
+                          texture probs were fixed.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  Hell, go ahead and modify it.  Just let me know your ideas
+and all, and send me the mod.
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu... maybe more!
+
+Other: email me and I'll uuencode it. the address is up top.

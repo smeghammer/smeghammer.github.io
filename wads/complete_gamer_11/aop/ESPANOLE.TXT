@@ -1,0 +1,53 @@
+La historia
+Has viajado a través del tiempo, te has enfrentado a monstruos tan horripilantes, que la mayoría de los mortales se hubiesen muerto de miedo de sólo verlos. Parecía que todo había terminado y que por fin te podías jubilar. Pero nuestro universo nunca ha sido un sitio tranquilo, ¿verdad?
+
+La general de Quake, Dark Reaver Legond, acaba de regresar tras conquistar una dimensión más. Legond esperaba una bienvenida a lo grande, pero lo único que recibió fue una mala noticia; un habitante de la Tierra ha conseguido desbaratar el solito los planes de Quake no una vez, ni dos, sino nada menos que tres veces. Enfurecida, Legond contrata al malvado Dark Horde, que se encontraba en el otro extremo del universo, y juntos traman cómo destruir a este mortal.
+
+Legond te tiene preparada toda una serie de trampas nuevas y otras perversidades, que tendrás que superar antes de que te arrastre a una dimensión desconocida, donde os tendréis que enfrentar cara a cara. Ésta va a ser la misión más difícil y más aterradora de todas las que has realizado.
+
+Una vez más, tú eres el único que puede detener al ejército de Quake, pero esta vez, saben que vienes y te están esperando. Legond no descansará hasta que vea tu cabeza clavada en el trono de Quake.
+Objetivo del juego
+Al igual que en Quake, en Abyss of Pandemonium tienes dos objetivos principales. El primero es mantenerte con vida. El segundo, intentar salir del sitio donde te encuentras atrapado. Cada nivel termina en una puerta de acceso, o formación geológica, que indican que has entrado en otro sitio. No obstante, a diferencia de Quake, Abyss of Pandemonium se desarrolla de forma lineal, es decir, que tienes que completar los 10 niveles según están ordenados para llegar hasta donde se encuentra la general Legond, y enfrentarte a ella en la batalla final. El juego incluye 6 niveles adicionales de duelo a muerte, para que puedas jugar partidas con un máximo de 16 jugadores por mapa. 
+Cuestiones técnicas
+PC
+Si vas a jugar a Quake en modo MS-DOS, ejecuta el juego con la siguiente línea de comando:
+quake -game impel -winmem 12
+
+Macintosh
+Para que Abyss of Pandemonium funcione, tienes que asignar 13 MB de memoria a Quake. Para aumentar la cantidad de memoria asignada a Quake, pulsa una vez sobre el icono de Quake para resaltarlo, luego selecciona "File" y "Get Info". Aparecerá la ventana de información. En el recuadro "Memory Requirements" (requisitos de memoria), ajusta el tamaño preferido ("Preferred size") a 13000, y luego cierra la ventana de información.
+
+Nuevas armas, enemigos y peligros
+Las nuevas armas de Abyss of Pandemonium son el cañón de napalm (pulsa la tecla 6), el empalador propulsado por cohetes (pulsa la tecla 7), el prototipo LG-2 (pulsa la tecla 8), y el sistema de rayos láser acoplado en el blindaje (pulsa la tecla 9).
+
+Para luchar no sólo dispondrás de estas nuevas armas, sino también del generador de campo de energía, un escudo de energía montado en el cinturón, que puede absorber muchos ataques.
+
+Los nuevos enemigos a los que te tendrás que enfrentar son los grenlings, lightning enforcers, dark knights, juggernauts, The Blud y la propia Legond. Entre los nuevos peligros se encuentran la terrorífica trampa "cabeza de alfiler", y los suelos que explotan o se derrumban. 
+CONSEJO: Algunas armas son más eficaces que otras contra determinados monstruos. Si ves que te resulta muy difícil matar a los nuevos monstruos, cambia de arma e intenta cargártelos otra vez antes de que sea demasiado tarde.
+
+Partidas para varios jugadores (multiplayer)
+Abyss of Pandemonium es un juego en el que pueden participar varias personas. Seis de los nuevos niveles han sido especialmente diseñados para ello.
+Si utilizas la consola o el menú principal en la modalidad para varios jugadores, la acción no se detendrá. Es decir, que los jugadores y los monstruos irresponsables te podrán disparar las veces que quieran, y tu única opción será llevar a cabo una venganza sangrienta. La opción "Talk" (hablar) es muy útil en este tipo de partidas. Cuando un jugador manda un mensaje, aparece en la parte superior de la pantalla de los demás jugadores, junto al nombre de la persona que lo ha mandado.
+Para organizar, ejecutar o incorporarte a una partida de varios jugadores, utiliza la opción "Multiplayer" del menú principal. Si tu red o tu módem requieren una configuración especial, lee los archivos de texto incluidos en la versión original de Quake, ya que contienen información que te podrá ser útil.
+Partidas de cooperación (cooperative)
+En este tipo de partida, tú y tus amigos jugáis juntos para completar el nivel. Si uno de los jugadores abandona la partida, los demás jugadores tendrán que abandonarla también, independientemente del lugar donde se encuentren. Si te matan en una de estas partidas, volverás a aparecer en la zona de salida, y tendrás que alcanzar a tus amigos. Utiliza la función de conversación "Talk" para averiguar dónde se encuentran. Para obtener más información, accede a las opciones correspondientes a las partidas de varios jugadores desde el menú principal.
+Partidas de duelo a muerte (deathmatch)
+En este tipo de partidas, la competencia es feroz. No existe ningún monstruo, y cuando te matan, vuelves a aparecer en un sitio elegido al azar. Los objetos que recoges se regeneran (es decir, vuelven a existir) después de cierto tiempo. (Algunos objetos tardan más tiempo en regenerarse que otros.) Cada vez que matas a alguien, recibes un frag (punto). Ganará la persona que obtenga el mayor número de frags, así que siembra el terror entre tus amigos.
+Si mueres, ya sea accidentalmente o a propósito, perderás un frag. Esto incluye si mueres ahogado, aplastado, etc. Para obtener más información, accede a las opciones de las partidas para varios jugadores desde el menú principal.
+Para jugar en los niveles de duelo a muerte de Abyss of Pandemonium, el servidor deberá cargar los mapas antes o después de que se incorporen a la partida los demás jugadores. Para ello, teclea:
+changelevel  aopdmX (La X representa a un número del 1 al 6 que corresponde al uno de los nuevos niveles de duelo a muerte.)
+Servicio de ayuda al cliente
+Si tienes problemas con este producto, ponte en contacto con el servicio de ayuda al cliente de la empresa Instant Access International, llamando por teléfono, mandando un fax o un mensaje de correo electrónico, o escribiendo una carta. No olvides que éste es un servicio de ayuda en inglés.
+Cómo ponerse en contacto con el servicio técnico
+
+Teléfono		+44 (0)181 200 2596
+Fax			+44 (0)181 205 9882
+Correo electrónico	techsupport@instantaccess.com
+Dirección		Technical Support 
+			Instant Access International
+			The Technology Park	
+			Colindeep Lane
+			London
+			ENGLAND
+			NW9 6DU
+
+

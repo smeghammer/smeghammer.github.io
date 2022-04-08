@@ -1,0 +1,19 @@
+
+DMSEWER.WAD
+
+This WAD file was created from scratch with the DEU 5.1 Doom Editor.
+To play, copy DMSEWER.WAD to your Doom directory and enter:
+
+DOOM -FILE DMSEWER.WAD
+
+Then start in episode 2, level 1.
+(The WAD will only work with the the registered version by the way)
+
+This is the first WAD file I've made so please forgive me for any
+screw-ups you may encounter with it.
+
+Please send any tips, suggestions or comments to me at: SQUIBBLY@AOL.COM
+
+Thanks
+
+-Andy

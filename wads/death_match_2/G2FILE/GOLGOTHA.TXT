@@ -1,0 +1,7 @@
+I must admit I didn't make this WAD.  It was created by Ed Ricketts,
+a writer for the English PC FORMAT magazine, and was featured on the
+coverdisk.
+
+It does not work in multi-player mode, and the skill level setting
+is ignored.
+

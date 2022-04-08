@@ -1,0 +1,58 @@
+Name of creator         :    Antti Kuosmanen
+
+Correspondence          :    s931308@yallara.cs.rmit.oz.au
+
+Title of patch WAD      :    STEELS.WAD
+
+Episode and map         :    E1 M1         
+
+============================================================================
+
+Skill levels supported  :  Yes.    
+
+DEATHMATCH supported    :  Yep.
+
+
+============================================================================
+
+Difficulty of Map       :    Moderate to easy.  Plenty of ammo.
+
+Level basis             :    Built from scratch. 
+
+Editor(s) used          :    DEU 5.21 and BSP 1.2 
+
+
+Notes on Gameplay       :    This small wad is mainly ment for 
+                              Deathmatch play, but it can be 
+                              played as a one-player game too.
+                              Note that there is no exit in 
+                              multi-player game.       
+
+
+============================================================================
+
+Interesting  :    *In multiplayer game the exit has been made  
+ Features          unreachable (check out the wad to see how).
+                   In single play it is still possible to finish
+                   the Wad.
+                   This might result in interesting strategies 
+                   in DeathMatch.
+                  
+                  *No real place for players to hole-in.
+                  
+                  *All weapons upto plasma rifle.  Getting the 
+                   launcher might prove tricky though :).
+                   
+                  *Fairly small wad.  Well suited for Deathmatch.  
+
+
+----------------------------------------------------------------------------
+Time allotted for       :      Approx 15 hours.  This is my  
+creation of the wad            first wad, so it is a bit of
+                               an experiment.  I was pleased
+                               with it though, so I decided 
+                               to publish it. 
+
+
+----------------------------------------------------------------------------
+

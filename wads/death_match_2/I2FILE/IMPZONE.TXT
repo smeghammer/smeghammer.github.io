@@ -1,0 +1,107 @@
+================================================================
+Title                   : THE IMP ZONE 
+Author                  : John A Warren - Derby, England
+E-mail Address          : CIS:100270,1053
+                          or in the UK, leave a message on:
+
+                                 GREY CASTLE BBS 0332-756414
+ 
+                          PLEASE send me your comments, even if it's just
+                          to tell me I'm a Dumbo.  (Well it is my first attempt!)
+                          All E-Mail will be answered.  
+   
+Additional Credits      : Rosie (my wife), for looking after me Hand, Foot
+                          & Finger, whilst I spend so much time at the keys
+
+                        : Mick & Jodie (my kids) for coping so well since
+                          being orphaned, (did you really have to keep
+                          bringing your friends in and pointing at me?) 
+                         
+                        : Mathew Walker (Savannah, Georgia)
+                          Chief Play Tester (US)
+                          for also putting up with my crass E-Mail on a
+                          daily basis, (even answering it)   
+                          
+			: Paul Rowan (Nottingham, England)
+                          Chief Play Tester (UK)
+                          for also demonstrating his capacity at coping with
+                          Steep Learning Curves
+   
+
+Description             : You're `Acorn Hardas' and you're NO Green Marine.
+                          Problem is, the action ain't been too hot of late
+                          and you're not one for looking at yourself in a
+                          Hall Of Mirrors ;-)   You've been in nothing but
+                          trouble with a capital `S' mainly for being Late
+                          On Parade, but what do they expect when there's
+                          nothing to do but get `spaced out'?
+
+                          Bringing up the rear guard on yet another routine
+                          mission, you keep comming across the toasted remains
+                          of your buddy's.  Looks like this is the Big One,
+                          or is it a scene from that old Twentieth Century,
+                          2D Movie you recall, "Planet of the Apes".
+                          
+                          It's time to prove that you ARE a waster, just like
+                          your Captain said, but not quite as he meant...
+
+                                     ---------------------------
+
+                          The file is IMPZONE.WAD and is level E1M1, i.e. 
+ 		 	  episode 1 mission 1. It supports all levels of
+                          violence.  Should prove eminently suited to
+                          deathmatch play due to `circuits'.
+                          (Unable to test, please let me know).
+
+Instructions            : Do you really need any?
+  
+Disclaimer              : GET LOST!
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (Keys readily available in this mode)
+Difficulty Settings     : All
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+
+Build Time              : Don't Ask!
+
+Editors used            : DEU 5.2 by Rapha‰l Quinet & Brendon J. Wyber 
+                   
+                          DoomEd 2.60 B4 (The Real Thing) by Geoff Allan         
+                          (for steps & deleting sectors)
+
+Known Bugs              : ARE YOU KIDDING..  I've given up a significant
+                          chunk of my life straightening up Textures and
+                          checking for the dreaded HOM
+
+Unknown Bugs            : How the Hell do I know!
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+CompuServe, Gamers+ Forum, Library 8 (Action Game Aids).
+Any BBS you care to download it too.
+
+
+Here's to all the kisses I've snatched and....

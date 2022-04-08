@@ -1,0 +1,86 @@
+===============================================================================
+Title                   : Improvise, Adapt, Overcome.
+Filename                : IAO1.BSP, IAO2.BSP
+Version                 : June 14, 1998
+
+Author                  : Wiebo de Wit
+Email Address           : wdw@xs4all.nl (home)
+                          wiebo.de.wit@bkn.nl (work)
+
+Other levels by author  : Q2dm: 
+                           WdWdm1 / 5
+                          Q2sp:
+                           The Strogg Downfall
+
+                          visit my page at http://www.xs4all.nl/~wdw/q2
+                          for info, screenshots and future maps.
+
+Description             : This is a small episode, consisting of 2 maps.
+                          Play it on 'hard' setting, that's the way I do it.
+
+Story                   : Do we need one? oh well...
+                          You have been assigned a mission to locate and
+                          destroy a Strogg chemical factory.  The Strogg seem
+                          to have found a way to make fuel from slime.  If they
+                          manage to use this technology they will have infinite
+                          fuel for their war machine!  They must not succeed!
+
+                          Your mission:
+                          Locate the factory, infiltate and stop it.
+                          We have found the hangar the Strogg use to supply the
+                          factory.  Get in, follow the supply route and stop
+                          the pumps...  Good luck!
+
+Additional Credits to   : ID (for the game)
+                          Robert A. Duffy. (for the best possible support one
+                          could ask for. thanks!)
+                          all the other map authors for their inspiration,
+                          the level reviewers for their efforts.
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake 2
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch              : No (I just couldn't be bothered) :)
+Difficulty Settings     : Yes (hard = REALLY hard)
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : new maps
+Build Time              : I really don't know. too long :)
+
+Machine used            : P200, 64mb.
+
+Compile times           :     IAO1        IAO2
+                         ============     =======
+                         QBSP 1  mins     1  mins
+                         QVIS 12 mins     9  mins
+                         QRAD 1  hour     51 mins
+
+Editor used             : QeRadiant. (latest possible version)
+Known Bugs              : None.
+
+* How to use this level *
+
+Make a "maps" directory in ../quake2/baseq2 and copy the level into it.
+In Quake2, bring up the console and type in "map iao1".
+
+* Copyright / Permissions *
+
+These levels are (c) by Wiebo de Wit 1998.
+You are NOT allowed to commercially exploit these levels, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute these BSPs through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+* Where to get these maps *
+
+http://www.xs4all.nl/~wdw/q2, ftp.cdrom.com and mirror sites.

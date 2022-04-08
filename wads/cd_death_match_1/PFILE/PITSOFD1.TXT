@@ -1,8 +1,0 @@
-.WAD File for DOOM with the following level(s):
-E1M1
-E1M2
-E1M3
-E1M4
-E1M5
-E1M6
-E1M7

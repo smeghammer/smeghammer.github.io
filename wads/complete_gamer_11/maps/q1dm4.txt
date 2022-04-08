@@ -1,0 +1,41 @@
+================================================================
+Title                   : Bad Blue Place DM4 for Quake II    V 1.2
+Filename                : dm4q2.bsp
+Author                  : Cyprian "Smyken"
+Email Address           : smyken@swipnet.se       
+Description             : This is a remake of DM4 from 
+                        : Quake - Quake 2 
+			
+
+Additional Credits to   : Antonio "PittBull"      pittbull2@hotmail.com
+                        : All the people at ID Software for the
+                          best game ever made  ´---  Quake II.  ---` !!
+                        : To the original designer of "The Bad Place dm4 Quake 1" !!!!!!!
+
+================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+3Wave CTF               : No
+CD Track		      : 2
+
+* Construction *
+
+Base                    : Remake of DM4
+Finish Date             : December 17, 1997
+Current Revision        : December 21, 1997 v 1.2
+Editor(s) used          : Worldcraft
+Known Bugs              : Not any I know.
+                          Email me if you find Bugs, or if you have something to comment.
+
+
+* Copyright / Permissions *
+
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems as shareware.
+You may NOT use it in commercial porposes.
+
+You may give this bsp to whoever you want as long as you don´t sell it !!!!

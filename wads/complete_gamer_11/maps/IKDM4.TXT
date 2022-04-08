@@ -1,0 +1,64 @@
+================================================================
+Title                   : Fingers' 4th Quake2 Deathmatch level
+                          Revised edition
+Date                    : 5/28/1998 
+Filename                : ikdm4.bsp
+Author                  : Iikka "Fingers" Keranen
+                          (use "&auml;" for "a" in the last name in html)
+Email Address           : iikka@ionstorm.com
+Home Page               : www.planetquake.com/ikq/ (visit there!)
+Snail Mail Address      : Iikka keranen
+(send me your money!-)    ION Storm
+                          2200 Ross avenue, suite 5400
+                          Dallas TX 75201
+                          USA
+Description             : A deathmatch level for 4-8 players... 1on1 might
+                          get too slow. Use "weapons stay" DM flag to keep
+                          the game fair...
+
+                          Added more ammo and guns, fixed a texture 
+                          alignment problem, added clip brushes to avoid 
+                          getting stuck in some places.
+
+Additional Credits to   : ID software, all the people at ION Storm
+
+================================================================
+
+* Play Information *
+
+Single Player           : Look around only.
+Deathmatch              : Yes, preferably 4-12 players.
+Difficulty Settings     : No
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : QE4 from ID software
+Known Bugs              : No.
+Build Time              : about 3 weeks.
+
+Textures used           : e3u1 set from Quake2
+
+Compile machine         : P150 with 96M (NT4) 
+QBSP Time               : ~15 minutes
+QVIS Time (level 4)     : an hour or so
+QRAD Time (extra)       : another hour
+Brushes                 : 2000?
+Entities                : Not many
+Models                  : A few elevators
+
+* Other Info *
+
+Hey, is it better than the previous ones?
+
+* Copyright / Permissions *
+
+You may not do anything you'd regret afterwards...
+
+Actura Software MAY NOT do anything with these files.
+
+Public distribution via Internet/BBS's without charging money is accepted,
+of course.
+
+Magazine cover CD's are generally okay if you ask me first, and send me a
+free copy.

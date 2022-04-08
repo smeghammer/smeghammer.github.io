@@ -1,0 +1,139 @@
+Tuesday 6th October, 1998
+================================================================
+** Map Info ** 
+
+Title                   : Old Storage Area II - The Sequel
+Filename                : osa2.bsp
+Author                  : Juha Koiste
+Other Levels by Author  : Quake 1:
+                          The Temple of Torment, Dark Ages, The
+                          Forbidden Base, Death Church, Hell's Castle,
+                          Area 51, two Single Play levels and three
+                          DM levels in Impel Development Team's
+                          commercial Quake TC Abyss of Pandemonium.
+                          Also two additional DM levels for AoP. 
+
+                          Quake 2:
+                          Old Storage Area
+
+Email Address           : hannu.koiste@pp.inet.fi
+                          Please let me know what you think about this
+                          level. I really love feedback. Tell me your
+                          honest opinion, thanks.
+
+Description             : My second Q2 level. This level is a sequel
+                          to my highly successful (hehe) Q2 level Old
+                          Storage Area released in March 1998. I tried
+                          to make this level as simple as possible by
+                          using minimal amount of brushes but still
+                          providing some nice detail and playability.
+
+Additional Credits to   : Id software for Quake 2.
+                          Robert A. Duffy for QE4 Radiant,
+                          a nice Q2 level editor. 
+                          All the people around the world who've
+                          played my levels.
+                          Impel Development Team.                          
+                          Also thanks to all my friends.
+
+                          r u s t for useful info on Q2 entities.
+                          http://www.gamedesign.net
+                      
+=====================================================================
+
+** Play Information **
+
+Single Player           : Yes 
+Cooperative             : No
+Deathmatch              : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+CD Track                : 7
+
+
+** Construction **
+
+Base                    : New level from scratch.
+Editor used             : QE4 Radiant Build 047
+Known bugs              : No known bugs.
+
+Build time              : 5 days (approx. 30-40 hours).
+Texture WALs used       : Many.
+Compile machine         : Pentium II 233mhz w/32 MB RAM
+Test machine            : AMD K6-2 300mhz w/128MB RAM, Diamond Monster 3D
+
+QBSP3                   : 30-40 seconds
+QVIS3                   : About 3 hours
+QRAD3 -something        : About 30 minutes
+
+Brushes                 : 959
+
+** The Story **
+
+After Old Storage Area things have calmed down a bit, but the very heart
+of the Storage Area facility hasn't been explored yet. It has been said
+that there's a hidden portal lying somewhere deep within the facility but
+no one has dared to enter that part yet. As strange as it may sound, the
+only way for you to get rid of those memories that haunt you day and night
+is to seek out the hidden portal and escape the Storage Area for good.
+Your job won't be easy though... some have said that there are big and
+scary monsters guarding the portal, whether this is true or not we do
+not know. These things are up to you to find out.
+
+After a few days rest since the first battle at the Storage Area you step
+into the teleporter not knowing what you'll really be up against. In few
+seconds you have traveled a long way and find yourself standing just outside
+the facility. "This is it then", you think and load your weapons. Once again
+you are trapped in the Old Storage Area...
+
+** How to Play this Level **
+
+Just unzip osa2.zip into your \baseq2\maps directory (create, if necessary)
+by typing "pkunzip osa2.zip c:\quake2\baseq2\maps" or something like that.
+Then just start up Quake 2, bring down the console, and type:
+
+"map osa2" (without the quotes of course)
+
+===========================================================================
+
+** A Few Words from the Author **
+
+Well well... here I am again. Bet you all thought I was dead or something. :)
+Hehe, ok... I promised I'd do another level for Q2 and here it is then.
+I could have figured out a whole new... y'know, idea for a level, but when I
+actually started creating a level on a cold Friday morning, I thought "Why
+don't I just make a sequel level", which has always been on my mind. So this
+is what I came up with, a sequel level to Old Storage Area but this time with
+a different "environment". This level is more dark and gloomy in some ways
+than the original one and it also includes some moving achitecture. You
+wouldn't BELIEVE how many people emailed me after I released OSA and told
+me that the level would have been much nicer if there only had been moving
+conveyor belts in it. Well, this level DOES include one moving conveyor belt
+and some other moving stuff as well.
+
+I have been looking for a paying job as a level designer for quite some time
+now. If you have a job for or if you can help me to find one, please let me
+know (email to hannu.koiste@pp.inet.fi). I'd really appreciate it. Thanks.
+
+===========================================================================
+
+** Legal Stuff **
+
+Copyright by Juha Koiste 1998. All right reserved. This BSP file may not
+be sold. If you paid for it, you must report that to: hannu.koiste@pp.inet.fi
+You may distribute this level on a CD, disk, through the Internet, or through
+the BBS systems as long as it's free, and this text file with absolutely NO
+modifications is included!!
+
+Distribution of this level, or any part of it for commercial purposes without
+the authors, in this case Juha Koiste's permission is strictly prohibited.
+If you want to include this map on a TC, or whatever, please email to
+hannu.koiste@pp.inet.fi before you do anything! Thank you. 
+
+Juha Koiste, 1998.
+
+===========================================================================
+
+

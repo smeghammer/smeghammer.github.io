@@ -1,0 +1,95 @@
+================================================================
+Title                   : krhldm02  - for Half-Life
+Date                    : 8th December 1998 
+Filename                : krhldm02.bsp
+Author                  : Russell "Krusty" Hayward  
+Email Address           : russell@vision.net.au
+Home Pages              : http://www.games.vision.net.au/~quake2
+			  http://www.rmdsoftware.com
+			  http://www.vision.net.au/~russell/quake
+			  http://www.vision.net.au/~russell/genesis
+
+Mail Address            : Russell Hayward
+		          18 Vermont Rd
+			  Mowbray
+                          Tasmania 7248
+			  Australia
+
+Description             : Large open arena style level. 
+		
+
+Additional Credits to   : i)   ID software
+                          ii)  Valve/Sierra
+                          iii) http://halflife.gamedesign.com
+			  iv)  Hotfat and Shogun, game editing gurus.
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes (it involves running laps of the level)
+Deathmatch              : Yes, 2-6 players.
+Difficulty Settings     : No
+
+================================================================
+
+Make sure you put the .bsp file into the following directory:
+
+... \Sierra\Half-Life\valve\maps
+
+Run your hl.exe with "-toconsole +deathmatch 1" (no quotes) and 
+type in "map krhldm02" (no quotes) at the console. 
+
+================================================================
+
+* Construction *
+
+Base                    : From Scratch
+Editor(s) used          : Worldcraft.
+Known Bugs              : Probably.
+			  
+Build Time              : 2 days.
+
+Compile machine         : Cyrix 166, 64 meg ram, voodoo1 
+QBSP Time               : a hop
+QVIS Time               : a skip
+QRAD Time (extra)       : and a jump
+
+
+================================================================
+
+* Plug time *
+
+If you still have q1 on your hdd and haven't played
+"After The Fall" then its time you did. Some say it
+was the inspiration for Half-Life.  Try it out, and 
+judge for yourself.  
+
+http://www.planetquake.com/atf
+
+
+If you never played Painrift (DM mod for q2) then 
+thats ok, the servers were few and far between.
+Still you should download it cos it had some cool
+maps, weapon effects, etc. and it runs great on a 
+lan.
+
+http://www.rmdsoftware.com/painrift
+
+Both these games are free, weigh in at over 16 meg
+each (zipped) , and are worth your time.
+
+================================================================
+
+* Permissions *
+
+You MAY NOT sell this sucker for money, unless you work for Sierra
+or Valve, then I guess thats ok :)
+
+If a magazine wants it on its CD - that's fine - *BUT* you *MUST*
+send me a copy. OK!! Then we are quits :) My address is at the top!
+
+Feel free to swap it amongst your net friends.
+
+You MAY NOT alter or add to this level without my permission.
+

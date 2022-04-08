@@ -1,0 +1,86 @@
+===================================================================================
+ SPACE ODYSSEYS     
+===================================================================================
+
+Title                   : Space Odysseys
+Filename                : sody.bsp; sody1.bsp; sody2.bsp; sody3.bsp
+                          sody4.bsp; sody.txt
+Author                  : Yuri Davidov (DYV)
+Email Address           : dyv@users.ldc.net
+Date of release		: August 26, 1998
+Description		: Single Player Quake II maps 
+                          
+			 
+=========================================================================================
+                         Prologue.
+
+ So,we have won!
+ The war is over. A lot of enemy ships and bases are captured.
+Now we are extracting magic crystals at these bases.
+ I have been sent here to do the most peaceful job: to transport
+those crystals to Earth.
+ And I have a choice: to hibernate or to die of boredom...
+
+=========================================================================================
+ THANKS TO:
+id Software
+Robert Duffy for QERadiant  -  http://www.planetquake.com/qeradiant
+Ravages of Radiant  -   http://www.planetquake.com/ravage
+RUST  -  http://www.planetquake.com/rust
+
+=========================================================================================
+
+* Play Information *
+
+Game			: Quake II 
+Level Name       	: Space Odysseys; The beginning:
+                          Strogg battle cruiser; Strogg asteroid; 
+                          Strogg leaders in rock
+File name		: sody.bsp; sody1.bsp; sody2.bsp; sody3.bsp
+                          sody4.bsp  
+Single Player           : Yes.
+Cooperative 		: Yes.
+Deathmatch              : Yes. 
+Difficulty Settings     : Yes.(medium is recommended)
+New graphics		: No.
+
+* Construction *
+
+Base            : Crystal Planet (dyv1.bsp). It's my map for CTF mainly.
+Build Time      : sody1.bsp ~ 4-5 weeks; sody2.bsp ~ 3-4 weeks
+                  sody3.bsp ~ 1,5 weeks; sody4.bsp ~ 1 week;
+                  sody.bsp ~ 2 hours(I have used my prefabs)
+Editors used    : QERadiant.  
+Compilation     : sody.bsp - 30min; sody1.bsp - 5hours 32 minutes 1 sec
+	                            sody2.bsp - 2      30         17
+                                    sody3.bsp - 11     50         2	
+                                    sody4.bsp - 6      40         35
+============================================================================================
+Platform used   : P2-266MMX 128MB RAM, Matrox Millenium II AGP 4 mb
+                  and Monster 3D II 8mb
+Known Bugs      : None.
+
+--------------------------------------------------------
+
+
+* Loading information *
+
+- Put sody.bsp, sody1.bsp, sody2.bsp, sody3.bsp
+  and sody4.bsp  in the /quake2/baseq2/maps/ directory.
+- Start Quake2.
+- Pull down console, type "map sody". Press enter.
+
+		 
+
+* Copyright / Permissions *
+
+ This levels is (c) by Yuri Davidov, 1998.
+ FOR INTERNET DISTRIBUTION ONLY 
+ Do not put this levels in any sort of commercial product.
+You are free to copy this file for personal use, or to make it 
+available for redistribution in its electronic format, provided that: 
+(1) it remains wholly unedited and unmodified, 
+(2) no fee or compensation is charged for copies of or access to this
+    file, and
+(3) this copyright notice remain attached
+Commercial distribution requires prior agreement by the author.

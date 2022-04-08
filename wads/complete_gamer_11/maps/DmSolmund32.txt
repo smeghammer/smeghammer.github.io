@@ -1,0 +1,80 @@
+================================================================
+Title                   : DmSolmund32
+
+Release Date            : 24/8/98
+Filename                : DmSolmund32.Zip
+Author                  : Thomas "Solmund" Wollbekk
+Email Address           : wollbekk@online.no
+
+Description             : Suports 32 players/bots!
+                          Ultra Cool Dm level. Lo detail, so you
+                          can play up to 32 players.
+                          If your machine can handle it,
+                          I recomend 32 players/bots.                          
+
+Additional Credits to   : The wacko for making da
+                          utra cool music.
+                          
+================================================================
+--- Play Information ---
+Game                    : Unreal 
+Level Name              : DmSolmund32
+
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Dark Match              : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : No
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : 1 hour.
+
+
+
+Installation
+------------
+Unzip DmSolmund32.unr into the \maps folder under the Unreal folder.
+Unzip faenta.umx into the \music folder under the Unreal folder.
+
+------------------------------------------
+to allow more than 16 players do this:
+open unreal.ini in your unreal\system directory
+
+look where it says:
+
+[UnrealI.DeathMatchGame]
+
+copy this text ower the old one:
+ 
+MaxPlayers=32
+InitialBots=31
+
+
+
+Copyright / Permissions
+
+
+-----------------------
+This level is copyrighted by Thomas Wollbekk, 1998.
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level for profit in any way,
+including but not limited to, putting it on a CD ROM or any other medium that 
+is sold in or out of retail channels, for any amount of money.  You must obtain
+written permission from Thomas Wollbekk to exploit this level commercially.
+
+You MAY distribute this level through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file, leave the archive
+intact, and do not charge a fee for access to this file.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

@@ -1,0 +1,98 @@
+==MISSION BRIEFING==
+Listen up, soldier.  We have discovered the location of key Strogg tactical 
+information. This information is extremely valuable to us, as it contains the 
+locations and specifications of several major enemy bases, as well as enemy 
+positions and supply line routes. You must infiltrate the facility and transmit this 
+data to the Marine mothership. The Strogg have equipped the facility with transmission 
+scanners which monitor all transmissions and report back to a nearby major Strogg 
+military installation--if they get the alarm you'll end up scrubbed along with your 
+mission.  Shut down the transmission scanners, then locate the transmit-dish and align 
+it with the mothership's coordinates.  You must then find the central computer and 
+manually initiate the transmission.
+Intel confirms the facility is heavily fortified.  Good luck.
+=END TRANSMISSION=
+
+===================================================================================
+DATE 4/24/98
+===================================================================================
+
+Title                   : InfoKill
+Filename                : infokill.bsp  
+Author                  : Jack Davis aka 13bongtokes
+Email Address           : jackd104@primenet.com
+Date of release		: 4/24/98
+Description		: Single player Quake2 level
+
+				
+*Additional Credits:
+     Playtesters:  Tom Sella aka oddjob
+                   D. Thorslund aka Sherpa
+                   Frank Wucherer (fnw@gmx.de)
+                   Bob Christopher aka VoorfloN 
+                   Tim Smith (t-i-m@usa.net)
+                   Scott Withers
+                   arnoldhf@us.ibm.com
+                   jsmith@klondyke.net
+		   Thanks a million guys!
+                   
+     Prefabs used:
+                   Breaker switch (breaker.map) by EutecTic   
+                   Computer Switch (ffbuttion.map) by EutecTic 
+                   StroggPanzer Turret (spanzer.map) by EutecTic 
+                   Exploding Fuse switch (xplofuse.map) by EutecTic jfgrol@cam.org
+                   Eutec makes kick-ass prefabs, check em at www.planetquake.com/qpp/qpp2/
+
+*Thanks go to:
+id
+Robert Duffy for QERadiant www.planetquake.com/qeradiant
+Ravages of Radiant www.planetquake.com/ravage/
+RUST www.planetquake.com/rust
+Alex "Mad Rex" Richardson for schooling me on the info_player_intermission entity.
+
+
+=========================================================================================
+
+Play Information
+
+Game			: Quake 2 by id Software
+Level Name       	: InfoKill
+File name		: infokill.bsp
+Single Player           : Yes
+Cooperative 		: No
+Deathmatch              : No
+Difficulty Settings     : Yes
+
+* Construction *
+
+Base            : New
+Build Time      : ~150 hours
+Compile time    : 3 hrs 8 min
+Platform used   : P200, 32mb
+Editors used    : QERadiant build 048
+Map info        : Total brushes 2235
+                  Total entities 888
+                  Net brush count (non-entity) 1215   	  
+Known Bugs      : None
+============================================================================================
+
+
+Loading information
+Copy infokill.bsp to you quake2\baseq2\maps directory.  If the \maps directory doesn't
+exist just create it.
+In the console, select your skill by typing:
+'skill 0' = easy
+'skill 1' = medium
+'skill 2' = hard
+Then type 'map infokill'
+
+Comments on this level welcomed and appreciated.
+
+This Quake 2 level is (c) 1998 Jack Davis
+Don't put this level on any sort of commercial product.
+You may distribute this BSP through any electronic network, 
+provided you include this .txt file and it is free of charge.
+Do not modify this BSP without my permission. 
+
+
+
+

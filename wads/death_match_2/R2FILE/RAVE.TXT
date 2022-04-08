@@ -1,0 +1,71 @@
+===========================================================================
+Title                   : RAVE.WAD
+Date Finished           : 1/27/95
+Author                  : Todd Elsbernd
+Email Address           : mer@cc.gatech.edu
+Misc. Author Info       :
+
+Description             : This a DEATHMATCH level! This means no monsters, 
+                      death traps, or strange puzzles. The purpose of this 
+                      level is to have the most fun possible while slaying
+                      your friends. A great feature of this wad is one I 
+                      have not seen in any deathmatch wads to date. There are 
+                      4 sets of lightswitches, each set has a on and an off
+                      switch. Hear your buddies fighting down below? Hit the
+                      lights and leap down to join the fray!  
+                      Also, if you like leaping down dozens of stories, this
+                      is the wad for you. The central chamber has a floor 
+                      height of -511, and ceiling of 511. Two lifts access
+                      the chamber, as well as several corridors. Fun sniping 
+                      spots. One hard-to-get megasphere.
+
+Additional Credits to   : id Software for the game and the levels.
+                          Raphael Quinet and Brendon Wyber for DEU.
+                          John Lindsey for contributing the central chamber.
+                            (see AVRAX.WAD)
+                          Matt Di Iorio, John Lindsey, Chris Goodrum, 
+                          Erik Dreyer, and Sarah Berger for the numerous
+                          hours of playtesting and slaying that I have
+                          enjoyed.
+
+===========================================================================
+* DOOM 2 *
+
+New level WAD
+
+* Play Information *
+
+Map #                   : 01
+Episode and Level #     : NA
+Single Player           : No (Unless you like leaping by yourself)
+Cooperative 2-4 Player  : No way. Cooperate?? ha.
+Deathmatch 2-4 Player   : Oh yesssssssssss.
+Difficulty Settings     : Nope
+New Sounds              : No
+New Music               : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : Central chamber and corridor of AVRAX.WAD
+Build Time              : Over 40 hours
+Editor(s) used          : DEU2c, the only! editor.
+Known Bugs              : None. managed to fix em all.
+May Not Run With...     : Faint of heart.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+** Where to get this wad *********************
+
+ftp.cdrom.com
+ftp.idsoftware.com  
+

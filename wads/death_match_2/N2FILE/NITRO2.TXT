@@ -1,0 +1,101 @@
+=============================================================================
+Title                   : NITRO2.WAD
+Creation Date           : June, 1994
+Author                  : Nigel Wright (alias NiTrO)
+Email Address           : Don't have one, but please send any comments
+                          to:  raymondo@splat.paxnet.com.au
+                          mark attn: Nitro
+                          and he will pass them on to me.
+ 
+Description             : My Second WAD. Designed for single player, multiple
+                          player or Deathmatch modes (has 5 start points). All
+                          creatures appear in all dificulty levels.
+ 
+Playing Hints           : There is a switch that doesn't look like a switch.
+                        : My suggestion is get the keys in this order, Yellow
+                          Red, Blue. That way you would have covered all the
+                          areas needed to get the next key, and so on..
+                        : Where there is a "switch or trigger point" to turn 
+                          the light off, there is another to turn the light on
+                        : There are a few sets of steps that are ONE way. That
+                          sometimes makes it "sticky" to go the right way. 
+                          This is not a bug.
+                        : If you get stuck and can't work out what to do, have
+                          a look at the demo file.
+                          
+Additional Credits to   : Raymond Jennings for the DOOMinspiration and 
+                          testing of this level.
+
+How To Use this Level   : doom -file NITRO2.WAD                  
+                          (to run the level)
+
+How to See the Demo.    : doom -file NITRO2.WAD -playdemo NITRO2 
+                          (to see the demo)
+                          The demo shows ALL secret areas and I finish with 
+                          100% of everything.
+                          
+=============================================================================
+ 
+* Play Information *
+ 
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : All Monsters appear in all levels.
+New Sounds              : No
+New Graphics            : No
+ 
+* Construction *
+ 
+Base                    : New level from scratch
+Build Time              : approx 4 weeks, On and Off. Doing a bit when I could
+Editor(s) used          : Dmapedit for Map construction.
+                          VNB ver 1.050 for Node and Block map building 
+                          Deu Version 5.2 for adding textures and stuff.
+
+Known Bugs              : I haven't found any. Please let me know if you do.
+ 
+ 
+* Copyright / Permissions *
+ 
+You may do whatever you want with this file as long as you give Credit where
+Credit is due, ie put my name in it or the Associated text files. That's all
+I ask. Ie, "Original Map design by Nigel Wright"
+
+1 Limitation. This Level used in ANY form, Can NOT be Sold or used to generate
+profit. Even if you modify this, it Can NOT be sold. The Basic Map Design is
+still mine and the Limitation Still implies!
+
+P.S. (The inclusion of Nitro2.wad (or any "offspring") on a Shareware CD-ROM
+is acceptable and does not violate my limitation.)
+ 
+* Where to get this WAD *
+ 
+infant2.sphs.indiana.edu  (/pub/doom/incoming)
+ftp.uwp.edu               (/pub/incoming/id)   
+ 
+Created by the Sysop of "The GaraGe" BBS
++61-74-952379 (Running limited hours 9pm to 6am Australian EST)
+ 
+* Additional *
+ 
+Although this level is not "massive" like some that I've seen, hopefully it
+will be a little more enjoyable.  My theory is, Quality rather than Quantity.
+Some of the wad's I've played are massive and their maps look nice (ie form
+a shape or object), but due to it's size the authors don't seem to spend 
+enough time working on the small details, ie when a door opens the sides 
+should not move. etc etc. Also aligning the wall textures when moving over 
+uneven surfaces.  Now I'm no expect, this is only my second Wad, but I felt 
+I should just mention the above.
+
+Also I don't really worry about players that choose difficulty levels under
+Ultra Violent. My thoughts are if they are prepared to play around with add
+on levels, then they should be fairly fluent and interested in DOOM.  Well I
+don't have any users that play DOOM under UV anyway.  If you find that I 
+should incorporate lower levels then just let me know.
+
+Hope you enjoy it as much as I had fun making it.
+                 
+------------------------------------------------------------------------------
+

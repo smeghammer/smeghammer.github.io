@@ -1,0 +1,85 @@
+================================================================
+Title                   : Chambers   
+Filename                : CHAMBERS.WAD
+Author                  : Doug Branch
+Email Address           : branchd@cwu.edu
+Misc. Author Info       : To try and satisfy my Doom addiction I figured I
+			  would make some of new levels.  Often these
+			  levels tend to be good for deathmatch.  Let me 
+			  know what you think via e-mail.
+
+Description             : This level is set in 5 basic sections.  One is open
+			  aired, with some platforms.  One is a maze with 
+			  some nice sniping points.  The exit room has two
+			  sides.  If you can figure it out, there is a great
+			  trap to kill your opponent in deathmatch.  It may
+			  take some doing, but the result is well worth it.
+			  There is also one large secret room with a wide
+			  selection of baddies to mop up, as well as 
+			  numerous treats.
+
+Additional Credits To   : 
+Playtesters             : Sean Creed, Holly Patterson, Kurt Shockey, Chris
+			  Branch, Andy Gillespie
+================================================================
+* Play Information *
+
+Episode and Level #     : E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes*
+Deathmatch 2-4 Player   : Yes*
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* - Multi-player tested over serial cable/modem only.
+
+* Construction *
+
+Base                    : New level from scratch
+Editing time            : About 20 hours
+Playtesting time        : About 15 hours
+Editor(s) used          : DEU 5.21 
+Known Bugs              : None
+Other wads by           : Halls.wad
+this author             : Armory.wad
+
+* Copyright / Permissions *
+Authors may NOT use this level as a base to build additional
+levels.  
+This level's design is Copyright (c) 1994 by Doug Branch
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:      bear.montefiore.ulg.ac.be
+		/pub/doom/wads
+
+BBS numbers:    Oasis BBS (509) 962-8007  Ellensburg, WA  U.S.A.
+		In the Doom, GFX, Snds, WADS file area.
+		With an ever growing collection of Doom pwad files!
+		Not to mention 2 CD ROMS online and netmail access, all
+		of this and its FREE!!!!
+		
+
+I would also like to thank Rapha‰l Quinet and all those who worked with
+him, for making available DEU 5.21 (and previous versions).  Without this
+great editor, this pwadfile would not have been possible.
+If you don't have the latest version of DEU, you can get it via anonymous
+FTP from:
+	
+	bear.montefiore.ulg.ac.be
+	\pub\doom\deu
+		-OR-
+	infant2.sphs.indiana.edu
+	\pub\msdos\games\id
+
+I would like to thank ID Software for creating Doom, without it I would have
+far too much free time on my hands.  Now if they can just figure out a way
+for me to get college credit for playing!

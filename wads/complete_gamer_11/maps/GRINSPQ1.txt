@@ -1,0 +1,136 @@
+==================================================================
+Title                   : GRINSPQ1 - Castles of Stroggos 
+Filename                : grinspq1.BSP first level
+		          grinsp1b.BSP main level
+			  grinsp1c.BSP middle level
+Version                 : 3.6.98  
+
+Author                  : Brian Griffith 
+                          AKA Grin Reaper
+			  AKA Grin (in Deathmatch)
+
+Email Address           : grin_reaper@geocities.com
+Home Page		: http://grc.quake2.com/grin
+			  http://www.geocities.com/timessquare/alley/9812
+
+Other levels by author  : The Cryogenics Facility (Q2 DM) (it sucks :)
+
+Description             : This is my first single player level set, which is
+based in a castle/military complex on Stroggos.  There are 3 levels, but only
+because my computers couldn't handle compiling the whole thing in one level :(  
+I hope you enjoy this level set, and if you do (or don't) please feel free to email me
+your comments. I hope it doesn't end too abruptly, but it is supposed to lead
+into a sequel. Have fun!  
+
+=======================================                          
+THE STORY:
+
+INTEL BRIEF: A class C Viper Cargo ship will take you to the drop zone
+just outside a Strogg military and castle complex. It is suspected that
+the remaining Strogg are housing huge interstellar space-craft armed 
+with advanced biological weapons, and have plans to leave Stroggos and
+assimilate ours and other worlds. Your mission is to infiltrate the complex,
+locate the mothership on the ground, and board it before it takes off into
+hyperspace.  Several tools will be at your disposal: your marine issue
+blaster and shotgun, and all the Strogg weapons and ammo concealed at your
+destination. Also, USMC explosive devices have been dropped to critical
+points on the surface by Viper Stealth drop ships. Use these devices blow
+holes in walls to access new areas or to disable the Strogg armament.
+Just walk up to one to arm the charge, step back, and watch the show.  These
+explosive charges may be vital to completing your mission intact.
+
+SECOUNDARY OBJECTIVES: Over a dozen of our best soldiers have been
+dropped to the area on the same mission. None have returned. We suspect
+most have been killed or captured, and all survivors to be insane.
+If you encounter an USMC marine proceed with caution. Get all the recon.
+information you can from the marines and then execute them, believe me, its
+for their own good.
+
+And marine, there's a big reward in it for you, but
+that's IF you make it back to base alive. A successful mission will be a 
+critical blow to the Strogg collective, a failure may result in the
+slaughter of countless millions. And soldier, go give 'em heck!
+
+END BRIEF
+
+ 
+=======================================================================
+
+Additional Credits to : rust - www.planetquake.com/rust
+			Q2 Green Ribon Campain for 'cloaking' my site
+			Ben Morris for Worldcraft 1.6
+			Quake Prefab Park 2 
+			Robert Duffy for QERadiant :)
+			id Software for the most kickass games ever &
+			for letting us edit them.
+       prefab credits : AzrKnight - Fan prefab and others
+		        If I forgot others, sorry. I'll give you a plug
+			on my site. 
+
+
+The Playtesters       : 90% of playtesting by me.
+			also thanks go to:
+			Alex "Axel Dawg" McPhaden
+			Michael Salo
+			and Derek Heaman 
+
+=======================================================================
+
+* Play Information *
+
+Game                    : Quake 2
+Single Player           : YES
+Cooperative             : No  
+Deathmatch              : No (1 DM start in grinspq1.bsp)
+Difficulty Settings     : YES
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : new map from scratch
+Build Time              : Endless hours of design. I can't wait
+                          until I get better at this so I can release
+		          these levels faster. About 2 1/2 months.
+Editors Used            : Too many :). 
+                          WC 1.5b /w Q2 upgrade (crap) for initial
+                          construction.
+                          QERadiant (slow) at first to do surface props
+                          and WC 1.6 after I eventually registered :)
+Computers               : 166 MMX, 32 MB Ram, 1.6 gig hd. Pure3D (sloooo...)
+                          200 MMX, 32 MB RAM, 2.3 gig hd. (..ooooow.)
+	
+Known Bugs              : -At the very start, If you shoot the gunner,
+	                  the castle gate doesn't close, therefore
+			  ruining the first mission. I should have fixed
+			  this. 
+			  -Func_rotating entities seem to disappear in SW.              
+                          -If you pause the game after you set an explosive
+			   charge, the countdown sound will continue, but the
+			   actual time will not.  Moral: Once she's armed,
+			   step far back 'til she explodes.
+
+* How to use this level *
+
+Make a "maps" directory in ../quake2/baseq2 and copy the level into it.
+In Quake2, bring up the console and type in:
+		"skill %" (0=easy 1=medium 2=hard)
+		"map GRINSPQ1".
+
+
+* Copyright / Permissions *
+
+This level is (c) copyright by Brian W. Griffith 1998.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission. Just to make it CLEAR: To use this level on any medium other than
+the internet or BBS, you must email me and get my permission. I don't mind
+letting non-commercial publishers use my levels, just ask me first. You MAY
+distribute this BSP through any electronic network (internet, FIDO, local BBS etc.),
+provided you include this file and leave the archive intact.  
+
+* Where to get this map *
+
+ftp.cdrom.com and its mirrors
+visit http://grc.quake2.com/grin for download links. 

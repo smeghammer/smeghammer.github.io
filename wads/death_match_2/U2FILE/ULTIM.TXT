@@ -1,0 +1,47 @@
+*DOOM: THE ULTIMATE DEATHMATCH LEVEL*
+
+Title:  ULTIM.WAD
+Author: Emil Eisenhardt
+Compuserve address: 72610,2100
+Description:  I created this level with the intention of it being
+an extremely fun Deathmatch level.  There are many sniper towers,
+teleports, weapons, and places to explore.  I have play tested
+this with some friends and found it to be great.  I hope you
+think the same!  Includes the chainsaw lover's best dream! 
+Simple, short, but great fun.  Very different.  If you are
+looking for an intricate, mind boggling level, this is NOT one of
+them (but you can try it anyway).  On the other hand, if you like
+to have LOADS of FUN, please try this out!  
+
+  *Play Info*
+ULTIM.WAD works with:
+
+Episode 1, Level 1
+Single Player
+Cooperative
+Deathmatch (most fun)
+Difficulty settings:  I know that some people think that the
+BFG9000 is unfair in Deathmatch mode, so I have made it VIRTUALLY
+impossible to obtain in "Ultra- Violence."  If you DO like the
+BFG9000, play on an easier level.  There are very small changes
+between the first few difficulty settings.  
+   
+  *Construction*
+I built this level from scratch using the DEU editor 5.0 (and
+later, 5.1) and BSP Node Fixer-Upper (both which I obtained from
+Compuserve).  It took me a few weeks to construct (balancing
+schoolwork and sports), and the only "bugs" I know of are a few
+minor texture offset problems.  Otherwise, it should work fine.  
+
+     *Copyright Stuff*
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this WAD provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc.) as long as you include this file
+intact. 
+
+PLEASE: If you are going to edit this level or distribute it,
+PLEASE, PLEASE, PLEASE, give me credit.  I worked for many hours
+(too many to count) trying to make this level as fun as I
+possibly could.

@@ -1,0 +1,65 @@
+			     MANIC WAD FILE
+			    ----------------
+
+Filename   - MANIC.WAD E3M1
+Time taken - Too ****ing long.
+
+This picture was created using 3d Studio V3.  It used 27 procedural 
+textures and took 28 weeks to render on a Pentium 100 PC with 640k.
+It has over 200000000 faces and 30000000000000 vertices.  It was scaled 
+down from 100000 by 2000000 pixels to 50 by 40 in 45 days by Paint Shop 
+Pro V2 ....... Ooops sorry wrong file .... got a little bit carried
+away there.  Anyway back to the right file ....
+
+Dear Mrs Smith,
+		The estimate for the work carried out on the downstairs
+bathroom is 24 million pounds and 2p + VAT and p&p.  Sorry we couldn't do
+it cheaper but second hand solid gold baths from the Cleopatra era are
+hard to find.
+
+Ooops - sorry again (gettin to be a bit of a habit this!?)
+
+Where was I, oh yes. This Doom wad was created by me, only me and me alone 
+and no one else (not even my dog Sparky helped).
+
+By the way me is Andrew Harbour (not that I am a harbour thats my surname - 
+talk about unfortunate named after a place with lots of big boats.)
+
+
+The level itself is pretty large, to be quite honest I think it's huge!
+There's absolutely loads of monsters, if you like killing lots and 
+also enjoy a bit of a puzzle element to levels then you should love 
+this level.
+
+Multi Player (coperative) playing is supported on this level but due
+to the large size it was decided deathmatch would be exceptionally 
+boring and is therefore not implemented.
+					
+=============================================================================
+Programs Used - 
+	DEU V5.1 - For the level creation (Great program!)
+	BSP V1.0 - Cheers mines a pint
+
+Credits for this text file - Us, us being :-
+	  Col   -       The long haired one
+	  Neil  -       The other long haired one, 
+	  Mark  -       The not long haired but wants to be one, 
+	  Jane  -       Someone else with long hair, 
+	  Kev(aka spon349, aka kjb, aka kblake) 
+		-       Not with long hair!
+	  and Janes new kitten - it's soooooooo cute.
+
+If you should need to contact me with any problems or suggestions then 
+I can be reached by internet email at  kblake@cix.compulink.co.uk
+
+
+Now the part you've been looking forward to....The legal bits.
+
+[ Copyright / Permissions ]
+============================================================================
+
+Authors may use this level as a base to build additional levels but
+please give me a little credit, if only for inspiration.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

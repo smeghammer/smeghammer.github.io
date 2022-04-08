@@ -1,0 +1,61 @@
+Title                   : PEARLJAM.WAD   
+Author                  : Ian C Hay
+Email Address           : ian.hay@orange.hutch.co.uk
+Cserve Address          : 100432,1076
+Misc. Author Info       : 
+
+Description             : It's no secret, DOOMSDAY is a month away <BFG>
+                          The Final level for 1.2 from this author,
+                          Once again no fancy story line just a lot of
+                          traps and secrets and some REALLY hard bits. :-)
+                          BTW If it seems really impossible, look around
+                          there IS a way.
+
+                          If you wonder about the names it's just the name 
+                          of the group that's on when I finally finish
+                          creating a level <g>, if you haven't already, get
+                          my other level - Nirvana.wad
+
+Additional Credits to   : Creators of the various tools used.
+                          Dirk Bol, Dean Rocks for testing the level
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 15 hrs 
+Editor(s) used          : DJGPP 5.21 BSP 1.1x REJECT 1.0.0
+Known Bugs              : NONE
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:    0325 354105     The Happy Hippy 
+                0256 50060      Virtual Connection
+
+Other:          CSERVE GAMERS+ Forum Lib 8

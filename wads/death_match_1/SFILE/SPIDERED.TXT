@@ -1,0 +1,47 @@
+================================================================
+Title                   : The Spider Trap
+Filename                : SPIDERED.WAD
+Author                  : James V. Kracht
+Email Address           : jfuture@ix.netcom.com
+Misc. Author Info       : "Just one level... just one fix..."   
+Description             : A Marine "spider-trap" facility was overrun   
+                          be demonic rescuers when their master, the  
+                          Spider Demon, was caught. Now it is up to  
+                          you to inflitrate and re-take the facility.
+Additional credits to   : Playtester(s):
+                          fmccool@aol.com
+================================================================
+
+* Play Information *
+
+MAP #                   : E2M2 
+Single Player           : Yes 
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New; from scratch.
+Editor used             : DoomED (2.60b4), BSP 1.2x
+Build Time              : 15-20 hours.
+Known Bugs              : 0 (so far)
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. (please give me credit).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications. You may distribute this file in any electronic
+format (BBS, floppy, CD-ROM, etc) as long as you include this 
+file intact. 
+
+* Where to get this WAD *
+
+FTP sites:
+Other: AOL

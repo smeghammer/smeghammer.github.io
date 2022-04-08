@@ -1,0 +1,53 @@
+================================================================
+Title                   : Quit buggin' me!    
+Filename                : QTBUGNME.WAD
+Author                  : MATT SIMMON (AKA: RAD DUDE)
+Email Address           : None, sorry.
+Misc. Author Info       : My first WAD, more to come.
+
+Description             : Made for DEATHMATCH only on DOOM2! 
+
+Additional Credits to   : Rob, for being my deathmatch beta tester. 
+================================================================
+
+* Play Information *
+
+Level #                 : 1
+Single Player           : Yes, but you'll be very lonely.
+Cooperative 2-4 Player  : Yes, but you're not going to be as lonely. 
+Deathmatch 2-4 Player   : YES
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU2
+Known Bugs              : none known.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: Wherever you just got it from, dude!
+
+The story so far:
+        After another successful campaign of kicking alien butt you're
+        ready to head home, but all of a sudden your partner has a flashback
+        and believes you are the alien and must be killed!!!!
+        Your only option is to defend yourself at all costs.........

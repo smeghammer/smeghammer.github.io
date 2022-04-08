@@ -1,0 +1,26 @@
+Level: Rajal Castle
+
+Author: Jeffery "Capp" Miner
+
+E-mail: jminer@kconline.com
+
+Time Spent: 30+- hours Not including hummmm how do I do that
+
+Date Created 5/27-6/8 1998
+
+Notes: My first attempt at an Unreal SP level
+
+Other Notes: 
+	Brushes 369
+	Add 273
+	Subtract 96
+	Special 1 .... not sure this is right
+	Average Polys 2817
+	Points 15628
+	Vectors 1233
+	Sides 2644
+	Bounds 5332
+	Zones 23		
+
+Finaly: Please send any feedback (good or bad) to jminer@kconline.com
+

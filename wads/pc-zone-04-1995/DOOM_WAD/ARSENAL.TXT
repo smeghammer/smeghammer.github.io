@@ -1,0 +1,45 @@
+ARSENAL.DEH patch for DEHACKED 1.3
+Requires DEHACKED 1.3 and registered DOOM 1.2
+
+Thanks to Greg Lewis for DEHACKED and Id for DOOM!
+
+Remember to backup your DOOM.EXE before applying the patch!
+
+Here is version 2.0 of my ARSENAL patch - new weapons and sounds!
+
+This version includes a small PWAD file ARSENAL.WAD that has a 
+few replacement sounds - make sure you load this or the grenades won't 
+sound right.
+
+Included is a quick and dirty batch file that applies the patch and runs
+Doom with the PWAD. It works for me, use at your own risk!
+
+This patch modifies the graphics, sound and behavior of the weapons:
+
+Chainsaw -> unchanged (not much you can do with this sorry)
+Pistol   - Sub UZI (unchanged)
+Shotgun  - Automatic Assult Shotgun (unchanged)
+Chaingun - 2x Speed Chaingun like Arnold uses (unchanged)
+Rocket   - Hand grenades! (whole new strategy!)
+Plasma   - BFG750 Energy Cannon (improved explosion)
+BFG9000  - BFR-27 What does BFR stand for?
+
+Note: The BFG750 blast can hurt you, and if a mis-thrown grenade lands near
+you, don't hang around!
+
+Remember, picking up the rocket launcher will give you the ability
+to throw grenades (ammo = rockets). Picking up the BFG will actually give 
+you the rocket launcher (ammo = cells).
+
+Side effects: 
+    The Cyberdemon now throws grenades!
+    Grenades don't fall to the floor, they just 'hang' there. Sorry!
+
+Tell me what you think!
+Thanks to those who gave suggestions about ARSENAL version 1.0!
+
+Mark Sheldon
+Compuserv: 100032,1716
+If anybody sent mail to me via Internet, sorry, my account is stuffed and I'm
+currently not able to receive it!
+

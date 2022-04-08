@@ -1,0 +1,60 @@
+
+=====================================================
+Title			: TUNNEL.WAD
+Author			: Tim Cuozzo
+Email Address		: 
+Misc. Info		: This is my first attempt at a wad.
+			I sure hope you enjoy it... it took me forever to build.
+
+Description		: Lately, the sewers beneath the moonbase you are stationed at
+			have been acting oddly.  No plumbing works, the base is overheated,
+			something isn't right.  Then earlier this morning, a man was pulled 
+			through his shower drain by something... it wasn't a pretty sight.
+			Now something has to be done.  As you stand before the entrance to the
+			sewer tunnels you take a glance back at your watching comrades and 
+			wonder if you'll ever see them again...
+
+Additional Credits to 	: id, for DOOM, and DEU, for a GREAT editing program!
+
+====================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player		: Yes
+Cooperative 2-4 Player	:Yes
+Deathmatch 2-4 Player	:Yes
+Difficulty Settings	:Easy,Difficult
+New Sounds		:no
+New Graphics		:No
+Demos Replaced		:None
+
+* Construction *
+
+Base			:New
+Build Time		:A LONG time.
+Editor(s) used		:DEU
+Known Bugs		:none
+
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. But, plese credit me with creating the original.
+
+
+You MAY distribute this WAD provided you include this file, with 
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+*Where to get this WAD*
+
+FTP sites:
+
+BBS numbers:
+
+Other: Compuserve GAMERS forum

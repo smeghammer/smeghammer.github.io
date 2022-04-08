@@ -1,0 +1,67 @@
+
+Title                   : "The Gantry" 
+		           (You gotta better name? I tried my best...)
+Filename                : dante_i.bsp
+Author                  : Dante (mjash@cwcom.net)
+Other lvls by author    : !!Coming Soon!!
+Email address           : mjash@cwcom.net
+Home page               : www.radioactivesoftware.com 
+			  halflife.gameplex.net/007
+Description             : A neat little 1-on-1 level that I cooked up. It started off as an 			experiment to see if I could actually finish a map. It's a high-up, 			pipe station, somewhere in Black Mesa. 
+			  Be careful with those valves, the pressure in those pipes is 				dangerous!
+Additional Credits to   : LiveorDie @ 007, for play-testing, and final compile.
+			  Samurai @ Radioactive, for compiling when the going got tough for 			my little P133
+			  Serengeti @ 007, for, um, moral support...
+			  All the bods in the editing forums @ planethalflife.com 
+			  Valve for obvious reasons...
+Single Player           :Nope... you can try it in single to get a feel for it tho'
+Cooperative Player      :N/A
+                         Well, if Valve would get off their ... No.
+Deathmatch Player       :2-4
+                         It's a 1-on-1, but I've been told that it could hold 3 or 4.
+Difficulty Settings     :N/A
+New Textures            :Nope
+CD Track                :Nope
+
+* Construction *
+Base                    :Original Conception and Build.
+Editor(s) used          :Worldcraft v2
+Compile Machine         :P2-450, 192Mb SDRAM. But it's not mine...
+Compile time            :1/2hr
+
+================================================================
+                ::: ADDITIONAL INFO :::
+================================================================
+
+**Any map-authors wanting the source files for this are welcome to** 
+            **ask (they might just get something.)**
+
+  Some suggestions on play (if you want them):
+      
+      -Hiding behind stairs,
+      
+      -Putting tripmines on the valve controls to stop people from turning them off,
+      
+      -In tense 1-on-1 situations, listen for the footsteps of the other player, 
+	amplified by the metal flooring.
+  Other notes:
+      -This is my first ever released map. So be gentle.
+      
+      -R_Speeds are very, very annoying, especially for first-time authors. 
+	This map is a week late due to r_speeds and they're still not perfect. 
+	My apologies for anyone who is pissed off by this.
+      
+      -I had some great ideas for other DM levels and SP levels, too. 
+	But, I got picked up by Radioactive Sotfware, 
+	so I guess the next thing you'll be seeing from me will be HL:Level 5.
+
+* Copyright / Permissions *
+
+-Authors MAY NOT use this level as a base to build additional levels. 
+
+-You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+-This BSP may be distributed ONLY over the Internet and/or BBS systems.
+

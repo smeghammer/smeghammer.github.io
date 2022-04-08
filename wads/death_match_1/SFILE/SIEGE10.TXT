@@ -1,0 +1,70 @@
+================================================================
+Title                   : Siege 1.0 
+
+Filename                : SIEGE10.WAD
+
+Author                  : Vu Q. Le
+
+Email Address           : eabu1144@orion.oac.uci.edu
+
+Misc. Author Info       : Full time student at UCI with
+			  a lot of summer time on his hands
+
+Description             : You've agreed upon a site - the "old"
+			  remains of a castle.  Only in this 
+			  fortress shows signs of alien
+			  occupation-metalic walls, and a 
+			  radioactive moat juxtaposed with 
+			  ancient carved lion heads.  You scramble 
+			  to the front entrance, knowing that
+			  inside lies the weapondry you need to
+			  quash your opponents.  Only the castle 
+			  stands between you and victory.
+			  The siege is just beginning...
+
+Additional Credits to   : Cranium aka edge@csulb.edu
+================================================================
+  
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (untested)
+Deathmatch 2-4 Player   : Yes!!!
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : Yes
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : None
+			   
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels without my express written (or e-mailed) permission..  
+
+You MAY distribute this WAD file for deathmatch purposes on
+the condition that each recipient participate in the improvement
+of this level by e-mailing their comments to me.
+
+You WILL receive the lastest version of this wad upon request. 
+
+* Where to get this WAD *
+
+FTP sites:
+  infant2.sph2.indiana.edu
+  /pub/doom/incoming
+
+BBS numbers:
+
+E-mail the author for the latest revision
+  Vu Q. Le
+  eabu1144@orion.oac.uci.edu
+  Subject: Latest Siege

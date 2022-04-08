@@ -1,0 +1,49 @@
+================================================================
+EPISODE 1 MISSION 3:
+================================================================
+Title                   : Bloodkey
+Author                  : Mark Marusak
+Email Address           : 74372,3361
+Misc. Author Info       : Yes, there is a way to kill 3 Barons of Hell
+
+Description             : New design, great space, full of ammo
+			  and many monsters. Yes it's difficult
+			  but not impossible. Feedback would
+			  be appreciated.
+
+Additional Credits to   : My son Matt,AKA Laser who was my beta tester
+================================================================
+The Story So Far:	: Getting the key was easy, but I couldn't wash
+			  off my blood stained hands. Sure the bazooka
+			  helped but could not stop the nightmare I was
+			  living.  The walls got me dizzy and I had this 
+			  crushing feeling.  Just when I thought I was 
+			  in the clear, my feet started to heatup. I hope
+			  I live long enough to see Earth again.
+
+* Play Information *
+
+Episode and Level #     : E1M3
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Couple of Saturdays
+Editor(s) used          : The Real Thing
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.

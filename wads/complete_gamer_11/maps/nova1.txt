@@ -1,0 +1,88 @@
+Title                   : SuperNova
+Filename                : nova1.bsp and nova2.bsp
+Date                    : 7/14/98
+Author                  : Mark Pytel
+Email Address           : mletyp@hotmail.com
+Map Description         : My first map making attempt for any game, actually second but first 
+                          wasnt released cuz the r_speeds ranged from 3000 - 7000 ;)
+Story                   : 
+
+The war against the Strogg has made quantam leaps toward the goal of total annihilation of their
+vile pestilent existence. In dire hopes of acquiring some type of power source to rebuild and
+refit their military installations Strogg scientists have discovered and retrieved an ancient 
+alien artifact which our physicists tell us allows the Strogg to produce Anti-Matter at an
+astronomical rate. With such an abundant source of Anti-Matter the Strogg will have access to
+an unheard of amount of energy, and be able to create Matter Anti-Matter bombs of apocalyptic
+proportions. I'm talking about bombs that when set off within the vicinity of stars are capable
+of making the star go supernova in effect incinerating all planets in that particular system.
+According to intelligence the artifact is currently aboard a starship headed toward Stroggos.
+The Strogg are doing everything in their power in order to assure the artifact arrives fully
+intact, however if they feel for one second that we will intervene and possibly retrieve it,
+the Strogg have no quams about releasing the artifact back into space cloaked and undetectable
+to our sensors. As it is of the utmost importance that neither scenario takes place this mission
+is highly covert. Our best chance of sneaking aboard this ship unseen is with the smallest 
+possible vehicle, and its a one-seater. Good luck and God speed soldier the fate of the galaxy 
+lies in your hands!
+
+Additional Credits     : id software, Yahn Bernier for BSP, BSPHQ and all the numbskulls on the 
+                         message board, DeadMeat for nursing us newbies, and Rust.
+
+
+
+
+* Play Information *
+
+Single Player          : Yep
+Cooperative            : Nope
+Deathmatch             : Nope
+Difficulty Settings    : Nope (if anyone has any ideas how to get them to work E-Mail me)
+New Sounds             : Nope
+New Graphics           : Nope
+New Music              : Nope
+Track No.              : 3
+Performance            : Ran fine on my P2/400mhz, no seriously the r_speeds range from 200-800
+                         so it should run fine on most systems
+
+
+
+
+* Construction *
+
+Base                   : Brand spanking new level from scratch
+Editor Used            : BSP
+Known Bugs             : For some strange reason the only target_speakers that work are the ones
+                         that use brkglas.wav, they are all there but only brkglas.wav works.
+                         Also sometimes lasers that are switched on will be invisible. Don't ask me.
+Build Time             : 3 weeks
+Texture Directories    : All of them
+Compile Machine        : P2/400mhz 128mb SDRAM 
+Compile Time           : nova1.bsp - qbsp3                       36 seconds
+                                     qvis3 -level4               2975 seconds
+                                     qrad3 -bounce 40 -extra     1367 seconds
+                       : nova2.bsp - qbsp3                       14 seconds
+                                     qvis3 -level4               913 seconds
+                                     qrad3 -bounce 40 -extra     1516 seconds
+
+
+
+
+
+* How to play this BSP *
+
+    1. Put nova1.bsp and nova2.bsp in 'baseq2/maps' directory under your Quake2 directory
+       (without quotes, create one if it doesn't exist).
+    2. Start Quake2, and enter 'map nova1' (no quotes) in your Quake2 console.
+
+
+
+
+
+* Copyright / Permissions *
+
+QUAKE(R) and QUAKE II(R) are registered trademarks of id Software, Inc.
+
+You may distribute these .BSP's freely via internet, provided you include this
+.TXT file and leave the archive intact.
+
+Commercial distribution is prohibited.
+

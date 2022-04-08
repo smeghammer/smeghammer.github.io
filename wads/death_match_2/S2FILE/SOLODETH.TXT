@@ -1,0 +1,35 @@
+Hiya! 
+This cute little file set will give you sort of a deathmatch style game 
+without the modem for those who have no locals they can go multi-player
+with (or against! :> ). Basically it is the same layout as Episode 1 Level 6,
+but this level has only eight bad guys. Sound easy? Not when you consider that 
+those eight bad guys have 4000 hit points apiece! (Same as a cyberdemon) They
+are the eight types of non-boss bad dudes - trooper, sargeant, imp, demon,
+spectre, lost soul, cacodemon, and baron. The spectre, baron, and caco are 
+the same as always except for the 4000 hp figure. The others are modified
+for the effects found in the HYPRDOOM.DEH file (see DMHYPER.ZIP). Maybe ya 
+don't want to know what you're up against... Just the same, read the 
+HYPRDOOM.TXT file for complete details. Anyways, since these guys are so 
+tough, you'll probably find yourself running from a fight to find more ammo,
+thus allowing for a good chase scene or two. The E1M6 level is quite big, 
+making for an excellent deathmatch battlefield. Also, since the monsters are 
+tougher, if you can set them against each other the fights are quite 
+impressive.
+ To get to it, first make sure that all the files included in DMSDEATH.ZIP
+have been placed in with your DOOM.EXE and DeHackEd program files. Installing
+this will change your DOOM.EXE file so make sure to back it up beforehand.
+Then just run the included .bat file by entering SOLODETH at the command line 
+(assuming all the files are in your DOOM directory). Doom will start up. Pick
+any episode and skill level (except nightmare unless you're hot to die) and
+when the game starts up, type: IDCLEV16. After a little wait, you're ready 
+to go! Watch your butt, and don't be afraid to run from a fight if you don't 
+have the ammo or health to survive it. A real man can run from a fight so 
+long as he comes back to kick a-- on the bastard that wronged him! :> 
+Doom on!
+
+Rick Demar 74354,1421 CIS (Costly Information Service - Ha! Ha!)
+
+By the by, if you want to use any of my ideas in your stuff, feel free to 
+do so; just give me credit for the original idea. It's only fair :)
+
+

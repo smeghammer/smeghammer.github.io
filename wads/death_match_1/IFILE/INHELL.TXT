@@ -1,0 +1,51 @@
+
+================================================================
+Title                   : InHell.WAD   
+Filename                : InHell.WAD
+Author                  : Peter J. Gizzi
+Email Address           : slaeyer@ritz.mordor.com
+
+Misc. Author Info       : _stinger,Stinger,stinger_ or any 
+                          variation thereof on IRC (#doom)
+Description             : EErie music (Satriani) in a HEELLish
+                          environment
+Additional Credits to   : Sven Neuhaus (sven@fuzzy.ping.de)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Modified E1M1/Tinywad.WAD
+Editor(s) used          : DEU521;DMMUSIC
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+
+* Where to get this WAD:
+
+
+You may E-mail me directly at my above E-mail address.....

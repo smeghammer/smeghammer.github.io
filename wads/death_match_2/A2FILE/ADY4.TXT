@@ -1,0 +1,42 @@
+ADY4.WAD
+--------
+DOOM! PWAD Created by Adrian Speight in the Summer of 94
+I hope this is fun for you to play. I enjoyed making it
+
+Please do NOT use it as a basis for other levels - I design
+my levels as complete ideas and not building blocks
+
+Replaces E1M1 - registered version only due to weapons
+
+Skill levels ARE implemented
+Works well in single player
+Works very well in Cooperative play
+Designed also as a deathmatch arena, for an ideal all round level
+Works best on a FAST 486 - too much detail, monsters and open air
+
+Ady4.wad - An open air adventure featuring a castle, a pyramid, 
+a huge pit and a built in deathmatch arena. Have fun wandering around
+and do try it in deathmatch because the open air nature makes it
+more flexible than most.
+
+------------------------------------------------------------------------
+Author:
+        Adrian Speight
+        5, Summerville Road
+        Pudsey, LS28 6EL
+        U.K.
+
+Please do get in touch if you want to - I don't bite
+------------------------------------------------------------------------
+
+If you haven't already - Phone >>>INSIGHT BBS<<< on 0942 517097
+
+Convert all your WADs to ARJ and save half the space and still run
+them using DOOMRUN by Lawrence Staveley - Shareware from Insight BBS
+
+------------------------------------------------------------------------
+
+
+
+
+

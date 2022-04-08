@@ -1,0 +1,158 @@
+================================================================
+Title                   : DOOM II "Argus" Episode
+
+Filename                : ARGUS.WAD (ARGUS.ZIP)
+Authors                 : Ty Halderman and Robert Taylor 
+Email Address Halderman : CIS [70155,1125]
+                          Internet: thldrmn@sam.neosoft.com
+Email Address Taylor    : Internet: rtaylor@sam.neosoft.com
+
+Misc. Author Info       : 2 guys with patience and obsession.  Many
+                          testing hours in modem and single user
+                          play.  Yeah, it was *testing* ... 
+                          that's what it was!
+
+Description             : This is the first of a series of levels, some
+                          of which are completely revamped levels first
+                          released as Sacrifice levels 1-6 for DOOM I.
+                          These levels offer sophistication and 
+                          puzzle solving rather than just turning
+                          up the volume.  Children (you know who 
+                          you are) may be bored.  Definite consideration
+                          was given to consistency, theme and fairness.
+                          However, you should remember that these are
+                          levels for DOOM II, and that presupposes that
+                          you are an experienced player.
+
+Additional Credits to   : DEU (5.0, 5.1, 5.2GCC, 5.21), BSP (1.1, 1.2x),
+                          DEU-ii (5.21 hacked -- sorry but the official
+                          one isn't here yet!) and their many 
+                          contributors; the masses of Compuserve Gamers 
+                          who have unwittingly helped by allowing their 
+                          problems and ideas to further our productivity; 
+                          the WADmakers of the world for sharing their 
+                          ideas and examples with us; the folks at id for 
+                          making such a creative endeavor possible;
+                          all those who have made other tools and 
+                          nifties that make things a lot easier.
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes - every difficulty level different
+New Sounds              : No
+New Graphics            : Not yet
+New Music               : No - Use IDMUSxx to use music from episode xx
+Demos Replaced          : No
+
+* Description *
+
+Map 1 Description       : "Argus"
+                          Argus refers to the Greek mythological creature
+                          used by Hera to watch over Io.  You'll "see"
+                          what we mean.
+
+                          Several separate puzzles; be careful not to get 
+                          overanxious.  Brains are better than brawn.  
+                          Visual clues are important.
+
+
+* Construction *
+
+Base                    : Originally a new DOOM I level from scratch, 
+                          vastly redone and added to with new DOOM II 
+                          textures, monsters and features.  Was part 
+                          of the "Sacrifice" WAD series.
+
+Editor(s) used          : DEU 5.0 through 5.21+, plus BSP 1.2x
+
+Known Bugs & Limitations: None that we caused (we hope).
+
+* Philosophy *
+
+Appearance/Design       : A lot of effort was put into making things look
+                          good.  After your killing spree is over, take the
+                          time to look around.  Several levels have some 
+                          vantage points with grand vistas (or at least as
+                          grand as the DOOM engine would allow).  If you 
+                          want to see how fast you can get done, fine.  Then
+                          go back with the -nomonsters switch and just look.
+
+                          Not everything has a purpose.  Some things are
+                          just there for artistic or architectural interest.
+                          We think that is one of the things that made the
+                          original DOOM levels so good.  
+
+Traps                   : All levels were intentionally made so you should
+                          not get trapped irreversibly (though you may die 
+                          learning how to get out).  Please let us know if
+                          you end up stuck in a place you wouldn't think
+                          you'd fit.  We tried to be _real_ careful about
+                          this.
+
+Secret Areas            : You should not have to get into all secret areas
+                          to complete a level.  Keys or switches to open
+                          main path doors or areas should not be located in
+                          secret areas.  
+
+                          All secret doors should be slightly different or
+                          highlighted in a way that a casual stroll through
+                          the area (as opposed to a 70MPH screaming streak)
+                          should allow you to find them.  You should _not_
+                          have to resort to pushing everything in sight.
+                          However, if you miss Wolfenstein, go on and push.
+
+                          Secret doors will not show up on the map.  Sorry,
+                          but if we allowed that, we wouldn't need to make
+                          them subtly different, and that wouldn't be as 
+                          much fun.  For either of us.  Sometimes you'll get
+                          a computer map, and that will usually show the 
+                          areas.  But we'll hide that map in a secret area,
+                          so you'll still have to use the little gray cells.
+
+Monsters                : We prefer a few sneaky ones to a roomful that
+                          makes you prefer a date with Godzilla.  This also
+                          means that once you learn our levels, they become
+                          easier to play.  Don't like that?  Go Nightmare.
+                          That'll teach you.
+
+                          Levels were all built for Ultraviolence (skill 4).
+                          Then some of those bad & good things were changed
+                          for the lower levels (2 & 3--level 1 is the same
+                          as 2 except the goop doesn't hurt as bad).  Some
+                          areas are differently populated (different
+                          critters) and others are less densely populated
+                          with the same critters.  Whatever seemed 
+                          appropriate.  Sometimes "easier" levels just get
+                          more health and ammo, or guns are more readily
+                          available.  Since the original design was for
+                          UV, you'll probably get the best total feel for
+                          what we built if you play at that level.  Of 
+                          course, you have to live that long...
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  Let us do that.  Ideas are fair game, in the spirit 
+of synergy.  I'll steal yours if you'll steal mine...
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact (how about two free copies of the CD's.  Huh? Huh?).
+
+
+* Where to get this WAD *
+
+Compuserve GAMERS library 12 or 8 [subject to change]
+Internet: ftp.orst.edu:/pub/doom/doom2 initially, final
+          location depends on where infant2 relocation ends up.
+
+
+

@@ -1,0 +1,27 @@
+Somebody requested a deathmatch arena of huge proportions with a
+catwalk.  Well this is a close as I could get.  This is huge!
+
+Each player starts (deathmatch or cooperative) in a hall at each
+of the four corners.  Every weapon is present and a ton of monsters.
+Since this was designed specifically to be a deathmatch game, there
+is no exit.
+
+To run type:
+
+doom -file arena.wad
+
+If you don't want any of the monsters type:
+
+doom -file arean.wad -nomonsters
+
+This is a self-extracting archive called arena.exe.  It contains this
+text file and the wad file.
+
+This pwad was built with Deu 5.0 and bsp 1.0.
+
+Tony Hayes
+
+PS There is some oddness in one corner that makes walls appear that
+don't exist.  This happens when Deu and/or BSP are run on the file.
+I don't know why, if some one can tell me I'd be greatful.  I'm
+wondering if the level is too big?

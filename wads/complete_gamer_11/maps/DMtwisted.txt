@@ -1,0 +1,25 @@
+File Name:	DMTwisted
+Author:		Dirk Diggler
+E-mail:		DD@elite.dircon.co.uk
+ICQ:		9303076
+Date:		11/6/98
+
+Info:
+
+This is my first map for Unreal, and my first DeathMatch map for any game (I did a few SP's for Quake1/2).
+
+I tried to get some of the 'multiple pathways' feel of iD's maps in this one... I must admit I wasn't to impressed with some of the rather basic Unreal DM maps.
+
+This map should be considered _BETA_. I have only had Unreal for about a week and don't realy know the weapons as well as I should to make a decent DM level. If anyone has any ideas for weapon placement or other bug fixes please get in touch.
+
+This map has Bot pathways, although they still seem a bit dumb and don't go for some of the harder to get places. If anyone knows how to fix this, again I'd love to hear from ya!
+
+Look out for some SP maps coming in the future...
+
+Have fun.
+
+Dirk Diggler.
+
+P.S. Come say hello on #unrealed, EFNET.
+
+P.P.S You can do what you like with this level (rip it up, move weapons around etc) as a learning tool for PRIVATE use. If you want to do ANYTHING ELSE with this level you MUST ask me first.

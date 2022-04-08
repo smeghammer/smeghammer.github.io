@@ -1,0 +1,46 @@
+================================================================
+Title                   : DAVES2ND.WAD   
+Author                  : Dave Cameron
+Email Address           : 70734,172
+Misc. Author Info       : 
+
+Description             : This is my second WAD, hence the catchy title.
+                          It's smaller than I would have liked, but most of
+                          the construction was done in DEU 5 and I started
+                          running out of RAM. It's subsequently been 
+                          tidied-up in V5.2.
+                          I've tried to set it up as an alternative to E1M1
+                          that can be played through, i.e. you won't start
+                          E1M2 with any advantages over the original in terms
+                          of usable weapons etc.
+Additional Credits to   : Dawn, Ross and Michael for playtesting
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (untested)
+Deathmatch 2-4 Player   : Yes (ditto)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : SUCH a long time 
+                          Editor(s) used : DEU 5/5.2, BSP 1/1.2
+Known Bugs              : Occasionally bombs out in the pit room 
+                          near the end, too much going on perhaps?
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels. You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact and you never buy a Capella or 2 Unlimited album.

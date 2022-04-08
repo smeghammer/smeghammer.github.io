@@ -1,0 +1,70 @@
+================================================================
+Title                   : Drug Me   
+Filename                : DRUG_ME.WAD
+Author                  : Lore
+NEW Email Address       : lore@grex.cyberspace.org
+Note                    : please do not mail me lore@aruba.nysaes.cornell.edu
+                          any more. My old WADs (BIOTECH.WAD and KAIOWAS.WAD)
+                          had this e-mail address. Thanks.
+
+Misc. Author Info       : I tried to stay with the Sepultura theme of WAD
+                          naming here. Although Sepultura didn't write Drug
+                          Me, they did their own version of it, which is 
+                          kinda cool. Unfortunately, this WAD has nothing
+                          to do with drugs or me :) Hope you like it anyway.
+                          I really hate DEU. During the construction of this
+                          WAD, I managed to crash it a record (for me) 21 
+                          times. I finally had to get DoomCAD to repair the
+                          mistakes left by DEU. Whenever I tried to delete
+                          a single wall with DEU, the entire level would 
+                          crash and change almost all the walls to "DO NOT
+                          USE" or something like that. If anyone knows the
+                          cause of this or has any suggestions/solutions, I
+                          would greatly appreciate some e-mail. Thanks.
+
+Description             : A rather large level. I had it up past 300K, but  
+                          had to "trim" once Doom started crashing. Features
+                          many areas designed for multiplayer (deathmatch 
+                          or co-op), including windows and some sniping
+                          spots. Can be played completely with single player,
+                          though.
+
+Additional Credits to   : Weiner Dog (W.D.), makers of DoomCAD, IRC guys, id.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M5 (the music, obviously)
+Single Player           : Yep
+Cooperative 2-4 Player  : Yep
+Deathmatch 2-4 Player   : Yep
+Difficulty Settings     : No (sorry)
+New Sounds              : Nope
+New Graphics            : Nope
+New Music               : Nope
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Construction Time       : About 300,000 cans of Mountain Dew, give or take a 
+                          case :-)
+Editor(s) used          : DEU 5.21 (ARGH!), VNB 1.050, DoomCAD ?.?
+Known Bugs              : Sometimes (for me), the barrels blow up without 
+                          causing damage. Weird. Also, some of the enemies
+                          labeled DEAF don't seem to always stay deaf. 
+
+TO PLAY                 : Start E1M1, then IDCLEV (warp) to E1M5.
+
+* Copyright / Permissions *
+
+You may do whatever you want with this file, provided credit is given.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+           ftp.uwp.edu (if I get around to it)
+
+BBS numbers: 315-789-0556
+
+

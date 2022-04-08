@@ -1,0 +1,34 @@
+Title: Area Assault
+Filename: area1.bsp (part1), part 2 under construction.
+Author: Jes Goss (KaK)
+Email Address: turzone@hotmail.com
+------------------------------------------------------
+Information:
+
+Description             : Single player assault on an Area 51 type base.
+Cooperative             : No
+Deathmatch              : No
+Difficulty              : It's designed to be hard.
+New Sounds              : No
+New Graphics            : No
+New Monsters            : No 
+------------------------------------------------------
+Other Stuff:
+
+Known Bugs              : I think i've got rid of most of them!
+Installation            : Put the map in your ?:\halflife\valve\maps\ Folder.
+Make shortcut on your desktop (or wherever) with -console on the 
+end of the hl.exe command: hl.exe -console then when HL loads drop the
+console down and type: map area1
+
+Comments:
+The map is for people who like tactical firefights. I warn you now, run into 
+a room blasting will get you killed very fast.
+This is not my first level but it's the first i've "let loose" so i hope you it.
+As you may notice the level design is not the best but i hope the gameplay 
+makes up for this.
+-----------------------------------------------------
+Copyright: Distribute, decompile, cut and modify this map anyway you like.
+
+ 
+

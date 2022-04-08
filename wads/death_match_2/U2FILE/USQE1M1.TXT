@@ -1,0 +1,68 @@
+================================================================
+Title                   : USQ IRC goes Hogwild
+Author                  : Chris Willacy
+Email Address           : q9323162@helios.usq.edu.au
+Misc. Author Info       : Doom Legend and sexy linedef implementor.
+			: Oh..and drumming filthmeister.
+Description             : This WAD is a representation of the Uni
+                          of Southern Queensland refec/library/thingo
+                          builing in which i spend most of my time. 
+			  Yay! Now i can go places no student has been
+			  before. Ideal deathmatch wad if opponents
+		          can agree to stick to certain areas (ie. Don't hide
+                          out and be scardey-cats). 
+Additional Credits to   : Deadly Dave (master of the stakeout), Moory 
+			: (wide-area weapons specialist and piano-guitar legend)
+			: and anyone else i thrash.
+			: Also Geoff Allan and Id software.
+			  
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes but it's preeety hard (or do i suck?) I have finished
+			: it once or twice on skill 3 and once on skill 4.
+Cooperative 2-4 Player  : Yes..i guess.
+Deathmatch 2-4 Player   : Yes indeed! Mucho fun!
+Difficulty Settings     : Not really. A few less badies on hurt me plenty.
+Difficulty              : 9.5/10
+Sexiness		: Lots
+New demos               : None
+New Sounds              : No, but soon to be added.
+New Graphics            : No, but ditto.
+                        : Watch out for the next version which will include
+                          some cafeteria ladies instead of sargents plus
+                          others. Plus I may include more maps in the future
+                          in this wad. Time will tell.
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 20 hours, plus playtesting and destroying
+                          Moory, plus 45 hours swearing at windows after
+                          it locked up 1,873,744 times.
+Editor(s) used          : DoomED 2.60b2 & 3.0b and IDBSP 1.something.
+Known Bugs              : Few Graphical glitches towards refec entrance 
+                          while standing in window at southend room of level.
+			: This is due to limit of invisible sidedefs in 1.2
+			: Does not show up in 1.666
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels but whats the point? It's my creation not yours. Feel free
+to add items and monsters if you feel its too hard/not hard enuff.
+I concentrated on layout more than monster placement so shift the monsters
+around if ya want.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute  this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact. Tell me if you're gonna do so.
+
+* Where to get this WAD *
+
+From a friend, from someones bag, from your local DooM legend, perhaps even a bbs
+or the like. Someone may (should?) upload it to infant2.sphs.indiana.edu
+
+Comments, suggestions, etc appreciated. Email address above.

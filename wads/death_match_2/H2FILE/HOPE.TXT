@@ -1,0 +1,47 @@
+Title                   : HOPE
+Filename                : HOPE.WAD
+Author                  : Jorge Llubia
+Email Address           : 72627.2762@compuserve.com
+
+Description             : This is first I have created for DOOM II, hope you
+			  have fun.
+
+Additional Credits to   : Geckus, help me test the deathmatch mode.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : MAP01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : DEMO1
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU2 5.21
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+BBS numbers:
+
+    -Sly Target BBS: 34-3-263-44-66
+

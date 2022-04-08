@@ -1,0 +1,50 @@
+=================================================================
+Title                   : Pro-Data DeathMatch Wad For DOOM ][ #1
+Filename                : D_PDATA1.Wad
+Author                  : Jim Merritt
+Email Address           : jmerritt@probbs.cts.com
+
+Description             : A Big, fast-action DOOM ][ Deathmatch Wad.
+                          Good ambush spots, but don't stay in one 
+                          spot too long.  This is a frag-a-second 
+                          style wad.  With 4 players, someone will 
+                          always be getting fragged.
+
+                          Check out the MAP!!!!!!
+
+Additional Credits to   : ID Software, Co-Sysop on Pro-Data Computers
+                          BBS for Beta Testing.
+
+=================================================================
+
+Maps Replaced           : Map 1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!!!!!!  The only way!!!
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+Base                    : New level from scratch
+Editor(s) used          : DEU by R. Quinet, B. Wyber & Adler
+Known Bugs              : None I know of.
+Base                    : New level from scratch
+Build Time              : 50 hours.
+
+                          
+Authors may NOT use this WAD as a base to build additional levels.
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+      Pro-Data Computers BBS
+           619-461-1756
+ 4 Player Doom, Doom 2 & Heretic
+  22 CD Roms - 2 Gigs - 8 Lines
+
+FTP Sites:    ftp.cdrom.com, ftp.idsoftware.com, and all mirrors
+

@@ -1,0 +1,63 @@
+================================================================
+Title                   : E1M20010.WAD   
+Author                  : Albert Eric van der Most
+Email Address           : CompuServe: 73304,2357
+Misc. Author Info       : Sysop of MostWare(R)-BBS
+                          (intl+) 31 71 31 01 84
+
+Description             : This level is a nice one for multi-
+                          player cooperative monster bashing.
+                          It is not suited for deathmatch
+                          players. They will be dead allmost
+                          immediately.
+
+                          The layout of the area is quit simple.
+                          But the monster bashing is fun. Four
+                          supermonsters (one in single-user
+                          play). Hordes of imps, sargeants, and
+                          troopers. Allmost no bonusses, but
+                          lots and lots of weapons and ammo.
+                          Some small traps.
+
+                          This is the first DOOM-level I
+                          designed.
+
+
+Additional Credits to   : The wonderful people who built DOOM.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M2
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Build Time              : MAY 6, 1994
+Editor(s) used          : DEU 5.10
+Known Bugs              : None, but please let me know if you
+                          find any.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact. The author is not liable for any damages which might
+result from using or distributing this WAD.
+
+
+* Where to get this WAD *
+
+BBS numbers: MostWare(R)-BBS, (intl+) 31 71 31 01 84
+

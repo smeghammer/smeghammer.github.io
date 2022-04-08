@@ -1,0 +1,57 @@
+================================================================
+Title                   : Frag Fest 
+Filename                : Fragfest.wad 
+Email Address           : Bundcaro@cwis.isu.edu
+Misc. Author Info       : I like Doom...Nuff said!
+
+Description             : It's for Deathmatch.  This is an updated version of
+                          andywad.zip.  It contains some cosmetic changes that
+                          caused major HOM effects in the Dark Red Room(tm;).
+                          The doors are correct size (X and Y).  Fixed that
+                          one door where you couldn't open it up from the in-
+                          side (where the plasma gun is) because it was not a 
+                          repeatable linedef (could only do it once).
+
+Additional Credits to   : Jeff Rabenhorst (For Edmap), id Software (for Doom), 
+                          Colin Reed (BSP1.2).
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Nope (Unless you like to play with yourself) ;)
+Cooperative 2-4 Player  : Nope
+Deathmatch 2-4 Player   : Yup!  Pretty much all it's for!
+Difficulty Settings     : Nope
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None (yet!)
+
+* Construction *
+
+Base                    : I thunked it up myself! 
+Editor(s) used          : Edmap 1.02 and 1.10 (BETA), BSP 1.2
+Known Bugs              : None that I know of!  I think I got 'em all!
+                          
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels as long as you drop me some Email (don't need to.  Just be kinda
+neat to know if somebody is actually doing something with this).  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact and you get my permission.
+
+
+* Where to get this WAD *
+
+FTP sites:  Infant2.sphs.indiana.edu (THE Doom site)
+
+BBS numbers:  1-900-YOU-SUKR
+
+Other: My hard drive :)

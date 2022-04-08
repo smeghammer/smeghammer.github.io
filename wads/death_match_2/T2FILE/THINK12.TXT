@@ -1,0 +1,19 @@
+think.zip -- two brand-new doom levels, think11.wad replacing E1M1, and
+think12.wad replacing E1M2, developed using DEU5.0 and recompiled with BSP1.0.
+
+To play both levels, type "doom -file think11.wad think12.wad"
+To play think11, type "doom -file think11.wad"
+To play think12 without going through E1M1, type
+	"doom -file think12.wad -devparm -wart 1 2"
+
+These should be quite easy to complete even with 100 % kills for experienced
+Doomers. They should also be accessible to less experienced Doom players...
+If you make use of your mind, you can even make them trivial...
+
+They are also intended as doom-tricks 'libraries' for doom level makers,
+showing a few tricks that could be integrated to bigger Wads.
+
+For any comments, hints requests, etc... email to :
+
+					Denis Auroux
+					auroux@clipper.ens.fr

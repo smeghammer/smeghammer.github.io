@@ -1,0 +1,47 @@
+================================================================
+Title                   : DOUGH1.WAD   
+Author                  : Doug Haynes
+Email Address           : n/a
+Misc. Author Info       : :)
+
+Description             : First attempt
+
+Additional Credit to    : Whomever will accept it.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Approx 80 hours
+Editor(s) used          : DEU 5.0
+Node Builder            : BSP 1.2x
+Known Bugs              : 
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+Send questions, comments & advice to:
+        
+        Doug Haynes
+        237 N. Twin Pines
+        Haysville, KS  67060
+

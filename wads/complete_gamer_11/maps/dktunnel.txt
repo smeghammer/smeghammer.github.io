@@ -1,0 +1,32 @@
+
+Map: Tunnels (DK)
+Author: Joe A. 'Isolation' (isa@unrealed.com)
+FileName: DKTunnels.unr
+FileSize: 116kb
+PlayerStarts: 8 
+Construction Time: 6 Hours
+Building: No more than a minute
+
+--
+Welp here is my second map for Darkmatch. No Complex Architecture or kick ass Unreal effects like Mirrors
+or portals. Just basic narrow hallways for your enjoyment. This map isn't the best thing in
+the world but I am having *ALOT* of fun playing with bots, so try it out and please don't
+bitch and complain for not being Epic like. This map is not a beta.
+--
+
+Thanks to:
+ -Me, Myself, and I
+ -EviL
+ -inoxx
+ -Digital Extremes and Epic Megagames (*uNF)
+ -TheHound and RADKade1 (j00 guys are soo secksie)
+ -Oldskoolers and #UnrealED (Gameslink)
+
+Check out UnrealED.com
+
+Coming Soon: Wicked Development (Again)
+
+--
+No one can reproduce this level or something, or I will be forced to open up a can of serious 
+w00p ass...biatch.
+

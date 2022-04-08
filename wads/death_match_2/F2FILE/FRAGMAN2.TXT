@@ -1,0 +1,51 @@
+================================================================
+Title                   : FRAGMAN 2 
+Filename                : fragman2.WAD (modified DMCY1.WAD)
+Author                  : Robert T. Marentette
+Email Address           : 73632,3627@compuserve.com
+Misc. Author Info       : 
+
+Description             : GREAT DEATHMATCH WAD converted and re-edited for DOOM II.
+Additional Credits to   : ================================================================
+
+* Play Information *
+
+Episode and Level #     : Map 01
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : 
+New Graphics            : 
+New Music               : 
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : 
+Editor(s) used          : DEU 521 BSP 1.2X, DEU II
+Known Bugs              : NONE
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:
+

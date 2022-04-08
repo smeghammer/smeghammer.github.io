@@ -1,0 +1,60 @@
+***** FOR BEGINNERS  ******
+
+To play, from the doom directory type    doom -file icedeath.wad  
+When the game loads play Game 2 (Shores of Hell) Level 1.
+That all there is.  Have Fun!
+
+
+WAD Authoring Template V1.4   
+================================================================
+Title                   : ICEDEATH   
+Filename                : ICEDEATH.WAD
+Author                  : V.T. ICE
+Email Address           : Prodigy NHFF66A
+Misc. Author Info       : 
+
+Description             : Fairly tough with a lot of action.  Large level
+                          with many rooms and areas.
+
+Additional Credits to   : The Boys at Id
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes, Excellent
+Cooperative 2-4 Player  : Yes, Excellent
+Deathmatch 2-4 Player   : Yes, But not recommeded
+Difficulty Settings     : Yes, all difficulty levels
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21 and BSP 1.1
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+
+You may do whatever you want with this file.
+
+
+* Comments *
+
+This is my first attempt at building a complete level so all feedback would
+greatly appreciated.  A lot of time and effort went into this level and I 
+would like to know what you liked and didn't like about it so my next level
+could be even better.  Please send all comments good and bad to my
+Prodigy address (NHFF66).
+
+                                               Thank you,
+                                               V.T. Ice
+

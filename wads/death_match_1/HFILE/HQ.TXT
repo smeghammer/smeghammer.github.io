@@ -1,0 +1,90 @@
+================================================================
+Title                   : HQ.WAD
+Author                  : Patrick Pirtle
+Email Address           : c/o ark@halcyon.com
+Misc. Author Info       : Architect
+Description             : This level may be played all by itself
+                          as the second level of the second game,
+                          but is intended to be played as the
+                          second level after the "CANYON.WAD"
+                          (At the end of CANYON.WAD, you're loaded
+                          up with ammo, etc., which is particularly
+                          useful for less-experienced players who
+                          are playing at a higher-difficulty level)
+Additional Credits to   : Matt Tagliaferi for DoomCad and phone
+                          help.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M2 (Preliminary)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes  (Not tested)
+Deathmatch 2-4 Player   : Yes  (Not tested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 40 hours
+Editor(s) used          : DoomCad version 4.3, BSP version 1.1 for nodes
+Known Bugs              : I ran out of time to tweak all of the
+                          wall patterns, so pay attention to your
+                          map in order not to miss any secrets.
+
+                          Towards the end, at the bottom of two
+                          elevators, it exhibits the problem of
+                          flashing the ceiling pattern adjacent to
+                          a wall > 504 units. This is usually not
+                          noticable.
+
+                          There seems to be a problem saving this
+                          level from time to time. I've seen this
+                          same problem with other .WAD's, but don't
+                          know what causes it. Most times it saves
+                          just fine, but occasionally I have seen
+                          the message:
+
+                                SAVEGAME BUFFER OVERFLOW
+                                MEMORY ALLOCATION ERROR
+                                CANNOT LOAD COMMAND. SYSTEM HALTED
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels,
+provided:
+        1) Levels based upon this one are not distributed subject
+           to any type of fee,
+        2) You attribute credit to me for this .WAD,
+        3) You send me a copy of the modified .WAD so I can
+           play it.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+(*************)
+
+If you enjoyed this wad, please at least send me e-mail saying so. You
+can contact me at:
+
+                ark@halcyon.com
+
+I would enjoy any comments or suggestions as to ways in which this level
+could be improved. My address is:
+
+                Patrick Pirtle
+                6526 21st NW
+                Seattle, WA 98117
+                (206) 789-6526
+
+(*************)
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+

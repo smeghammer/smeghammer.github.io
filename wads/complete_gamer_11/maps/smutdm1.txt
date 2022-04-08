@@ -1,0 +1,40 @@
+================================================================
+Title                   : Cyanide Breath Mint
+Filename                : smutdm1.bsp
+Date of Release         : May 2, 1998
+Author                  : Patrick Bateman
+Stupid Nick             : Hillary Rotten Clinton
+Email Address           : hillary@smart.net.au
+Clan			: Sons of Quad - y'know the Impulse 97 guys...
+Website			: http://www.smart.net.au/~soq/
+Description             : Specially designed for Intense Quake 2 duel. With 4 it rocks on...
+Stimulants		: Varied		
+Build time		: About 2 and 1/2 months.  
+Version number		: 108
+	 
+================================================================
+
+* Play Information *
+Game                    : Quake II
+Single Player           : Course not
+Cooperative 2-4 Player  : Hell no		  
+Deathmatch 2-5 Player   : Ya
+Difficulty Settings     : Bugger off
+New Textures            : Not that skilled
+Exit			: deahmatch stupid
+
+* Construction *
+ 
+Editor used             : WorldCraft
+Credits			: Many... All SoQ - Borg, Necrobot, Mr Snow, Bezerka, Krazy Ivan, Nexus, Azathoth.
+			  Also Munckin (TR), Vomit God (AO), the girl with the stilletos and those who tested it at Clan Warz...
+			  Also anyone on #melbquake or the quakeworkshop mailing list who had to put up with
+			  my stupid questions. And of course thanks to all the people I forgot to mention. This map was throughly play tested, especially by me and
+			  Borg who I managed to whip silly on a number of occassions.	
+	 		
+
+This map is dedicated to the memory of Sylvestre Matuska...
+A business man, a revolutionary, the original trainspotter			
+================================================================
+
+

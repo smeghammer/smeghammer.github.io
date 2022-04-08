@@ -1,0 +1,71 @@
+================================================================
+Title                   : Deathmatch Cathedral
+Filename                : DMCATH24.WAD
+Author                  : James Dicke
+Email Address           : jdicke@carroll1.cc.edu
+Misc. Author Info       : DOOM Fanatic.  An employee of the Virtual Gaming
+                          Center (Milwaukee, WI).  Collects, plays, and rates
+                          most all deathmatch WAD's.  Co-Author of the
+                          Deathmatch WAD Ranking.  Finger my Email address
+                          for the most current ranking list.
+
+Shameless Plug          : The Virtual Gaming Center (Milwaukee, WI) uses
+                          several networks of fast computers with 27" screens
+                          and special controllers (steering wheels, flight
+                          sticks, etc) to play multi-player games IN-PERSON.
+
+                          The VGC is host to the Offical Mid-West DOOM
+                          Tournaments (about every 6 weeks).  You may contact
+                          them at:  VGCenter@execpc.com  or  (414) 476-1514.
+
+Description             : Designed to have a demonic presence about it.  You
+                          are locked inside an Unholy Cathedral- and only one
+                          of you shall survive!
+
+                          There are a couple of "secrets" - but not too many to
+                          make it unfair.  My favorate is watching someone
+                          burst out from behind the icon-of-hell with a newly
+                          aquired BFG 9000.  The placement of all the weapons
+                          and bonus items were all well thought out and fair.
+                          This wad plays very well in -ALTDEATH and the exit
+                          is co-operative.
+
+Additional Credits to   : VGC, ID, DEU
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M4
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes of course
+Monsters                : A few for fun and ammo
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU (or better known as "Editor-From-Hell")
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+BBS numbers: EXEC-PC  (414) 789-4210
+             A great 200+ line BBS with a free doom area.
+
+Other: The VGC.

@@ -1,0 +1,140 @@
+===================================================================================
+ March 23, 1998
+===================================================================================
+
+Title                   : The Azure Mine
+Filename                : azure.zip
+Author                  : James Parkman aka "gloom" 
+Email Address           : stdjhp@unx1.shsu.edu
+WWW Homepage:		: http://www.shsu.edu/~stdjhp/
+Date of release		: March 23, 1998
+Description		: My latest and probably last Q2 SP map for a while. This is the sequel
+			  to The BloodShrine, and the finale of what I've come to think of as a 
+			  trilogy of maps, including Abandon all Hope. This one's the largest,
+			  and IMO the cleanest of the three. There are 2 files, azure.bsp, and 
+			  eof.bsp. I split the map into 2 files for personal reasons, as it made 
+			  editing easier, and I'm not the type who likes to make alot of detail
+			  brushes, thus the vis data was getting too large.
+			  Enjoy it, and as usual, let me know
+			  what you think.
+
+
+Additional Credits to:	id - the best of the best.
+			Robert A. Duffy for QERadiant
+				http://www.planetquake.com/qeradiant/
+			RUST, the best editing site on the net:
+				http://www.planetquake.com/rust/
+			Felicia, my wife, for putting up with hours of non-stop 
+				editing oblivion.
+			Everyone who takes the time to play and write feedback 
+				on my maps!
+=========================================================================================
+
+* Play Information *
+
+Game			: Quake II
+Level Name       	: "The Azure Mines", and "The Edge of Forever"
+File name		: azure.bsp, eof.bsp
+Single Player           : Yes.
+Cooperative 		: Yes. (4 coop starts on azure.bsp)
+Deathmatch 2-8 Players  : Yes. (8 DM starts in azure.bsp, none in eof.bsp - it's not suited well to DM play)
+Difficulty Settings     : Yes. (easy, medium, hard)
+New graphics		: No.
+Anything else new:	: No.
+			  
+					 
+					    
+* Construction *
+
+Base            : new levels from the void.
+Build Time      : ~2 weeks. 
+Editors used    : QERadiant 1.0b (builds 45-48).
+		   	  
+
+Compilation:	Qbsp3 	      build time: 
+		Qvis3 (full)  build time: Too damn long.
+		Qrad3 -extra  build time: Way too damn long.
+		Brushes:  2454 (azure), 997 (eof)
+		Entities: 545 (azure), 131 (eof)
+		
+============================================================================================
+Platform used   : P-200 64MB RAM, 8mb Permedia2 OpenGL
+Known Bugs      : None. 
+
+
+
+(Note: The blue lights illuminating the crystals stick around when the crystals
+are destroyed. This isn't by choice, it's because of a tricky trigger/counter/targetname problem I 
+couldn't get around. This has absolutely no affect on gameplay, though so just ignore this unless 
+you're a mapper who knows what I'm talking about and thinks he/she could figure out a 
+workaround, in which case mail me your idea)
+
+
+--------------------------------------------------------------
+The Story:
+--------------------------------------------------------------
+Stroggos:
+
+The Strogg have regrouped since the destruction of the Psionic Nullification 
+generator on Charon 6(see BloodShrine). Fortifications
+and troop dispersement appear to be most intense around a mining compound within the heart 
+of Strogg territory. Scans report signals identical to those produced by the late PsiNull 
+generator, and we suspect that a certain crystal necessary to production of the weapon is
+located in the mine. We need a brave soul to infiltrate the compound, destroy any 
+stockpile of this crystal, and put a rest to this war once and for all.
+
+Guess who we picked?
+
+Your goal is to destroy every PsiCrystal deposit in the mining compound, then escape the vile strogg
+by retaking a stolen viper that spies have discovered in the vicinity.
+
+God speed marine!
+--------------------------------------------------------------
+
+
+* Loading information *
+
+To load this Q2 map:
+unzip both files in the archive to c:\quake2\baseq2\maps\
+start Quake 2 normally.
+run the mission by bringing down the console (~) and typing:
+"map azure"
+
+Enjoy :)
+
+If you need help just email me at ebonshade@unx1.shsu.edu 
+and I'll help you get it going.		 
+
+
+* Copyright / Permissions *
+
+This level is (c) by J. Parkman, 1998.
+Don't put this level on any sort of commercial product please. That would be
+uncool. If you want to pay me alot of money, feel free to drop me a line :)
+
+You MAY distribute this BSP through any electronic network , provided you include this file 
+and leave the level in it's original form.
+
+Don't use this map for a basis of another level, please, or at least tell me what you want to
+do with it.
+
+*Archive info*
+Archive filename:
+azure.zip 
+
+* Where to get this archive *
+http://www.shsu.edu/~stdjhp/
+ftp.cdrom.com and mirror sites
+Various map review sites.
+
+* Other levels by JHP *
+
+"AWF1-Infiltration" - awf1.zip
+"Abandon All Hope" - abandon.zip
+"The BloodShrine" - bshrine.zip
+
+---------------
+JHP, March 1998  
+---------------
+
+

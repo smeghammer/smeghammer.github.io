@@ -1,0 +1,58 @@
+
+================================================================
+Title                   : TORTURE!    
+Filename                : Torture.wad
+Author                  : Marc Norris
+Email Address           : msnorris@gibbs.oit.unc.edu
+INFO:                   : This is my first (and largest) level.
+                          
+Description             : This level was primarily intended for 
+                          solo. Deathmatch is supported. There are many ambush
+                          points and ways to double back on your opponent
+                          so you should use most of them when playing.
+                          (Especially helpful for those demons who like to
+                          follow you!) DONT GET LOST! 
+                          Happy Dooming! 
+
+Additional Credits to   : Matt Norris, Verlin => Playtesting
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1 M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : Too long. 80+ hours
+Editor(s) used          : DEU 5.21  BSP 1.1
+Known Bugs              : None. 
+                         
+
+* Permissions *
+
+Authors MAT NOT use this level as a base to build additional
+levels. 
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, etc) as long as you include this file 
+intact. I am not responsible for anything that might go wrong while
+using this level.
+
+
+* Where to get this WAD *
+
+ Well since your reading this, you must have gotten it from somewhere.
+ 
+ Note: If your have any questions, comments, <critisism> regarding 
+ this level feel free to e-mail me at the above address.
+                HAVE A "HELL" OF A GOOD TIME! #=^]

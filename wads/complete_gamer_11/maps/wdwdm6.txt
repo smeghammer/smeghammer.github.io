@@ -1,0 +1,69 @@
+===============================================================================
+Title                   : WdWdm6
+Filename                : WDWDM6.BSP
+Version                 : June 27, 1998
+
+Author                  : Wiebo de Wit
+Email Address           : wdw@xs4all.nl or wiebo.de.wit@bkn.nl (work)
+
+Other levels by author  : Q2dm: 
+                           WdWdm1, WdWdm2, WdWdm3, WdWdm4
+                          Q2sp:
+                           The Strogg Downfall, IAO
+
+                          Visit my page at http://www.xs4all.nl/~wdw/q2
+                          for info, screenshots and future maps.
+
+Description             : This map is suited for up to 4 players. I recommend
+                          1on1 also.
+                          If you have comments or suggestions about weapon
+                          placement/load, then tell me. thanks.
+
+Additional Credits to   : ID (for the game), Robert A. Duffy. (for the best
+                          possible support one could ask for. thanks!)
+				  Dark Monkey. (for the tips)
+===============================================================================
+
+* Play Information *
+
+Game                    : Quake 2
+Single Player           : No
+Cooperative             : No 
+Deathmatch              : 4 DM starts
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : new map
+Build Time              : 3 days
+
+Machine used            : P200, 64mb.
+Editor used             : QeRadiant. (latest possible version)
+Known Bugs              : None.
+
+* How to use this level *
+
+Make a "maps" directory in ../quake2/baseq2 and copy the level into it.
+In Quake2, bring up the console and type in "map wdwdm6".
+
+To start a deathmatch game either start it as usual and type "map wdwdm6" in
+the server's console or start a multiplayer server from Quake 2 and type
+"map wdwdm6" in the console.
+
+* Copyright / Permissions *
+
+This level is (c) by Wiebo de Wit 1998.
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.
+
+* Where to get this map *
+
+http://www.xs4all.nl/~wdw/q2, ftp.cdrom.com and mirror sites.

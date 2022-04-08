@@ -1,0 +1,52 @@
+================================================================
+Title                   : WILLE1M1.WAD
+Author                  : William Leslie
+Email Address           : william@ocf.berkeley.edu
+
+Description             : This is my first level!  I intend to
+                          create a "realistic" set of levels
+                          where the player SLOWLY builds up a
+                          good arsonal (is in ID's original
+                          levels).  This first level is
+                          relatively short.
+
+Additional Credits to   : My roommates & friends for play-testing.
+                          Raphael for DEU 5.0 - an awesome editor!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes <- Supported, but not tested
+Deathmatch 2-4 Player   : Yes <- Supported, but not tested
+Difficulty Settings     : Yes <- DEFINITELY!!
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : About 35 hours (Hey, it's my first one!)
+Editor(s) used          : DEU 5.0, bsp 1.1x
+Known Bugs              : None - I spent LOTS of time aligning
+                          textures
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  (Although I don't know why you would want to.)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: 
+        ocf.unt.edu             in pub/doom/wads/???
+                                (in pub/incoming until moved...)
+

@@ -1,0 +1,99 @@
+================================================================
+Title                   : The Forgotten Experiment	
+Version                 : 1.0
+Release Date            : 16/7/98
+Filename                : DMExperiment.zip
+Author                  : Marty Howe
+Email Address           : marty@sympac.com.au
+Web Page                : 
+Description             : Unreal Deathmatch Map    
+Where to get this map   : ftp://ftp.cdrom.com/pub/unreal
+                          http://www.sume.com 
+                          ftp://ftp.unreal/org/maps/deathmatch/
+ 
+Other levels by author  : Sinfonia (Unreal Deathmatch)
+                          The Once Great Temple (Unreal Single player)
+                          Waiting to Die   (Quake2 Sp)
+                          Heroic Bloodshed (Quake2 Sp)
+                          Exterior Infiltration (Quake2 Sp)
+                          Destiny (Quake2 Sp)
+                          Prelude (Quake2 DM)
+                          End of time (Quake Sp)
+                          Prey 2 (Quake Sp)
+                          The Disturbed (Quake Sp)
+                          Horror Erotique (Quake Sp)
+                          The Forgotten Experiment (Quake Sp)
+  
+Additional Credits to   : Epic Megagames (http://unreal.epicgames.com/)
+                          
+                          Randar for pathnode placement
+                          Randars Bot Page
+                          http://www.ionet.net/~mimpchnk/
+                           
+                          Tron  
+                          3D Gamer's Edge:
+                          http://members.harborcom.net/~solosoul
+ 
+                          SUME.com
+                          http://www.sume.com 
+                          
+                          Creative Carnage              
+                          http://www.creativecarnage.com 
+================================================================
+--- Play Information ---
+Game                    : Unreal 
+Level Name              : The Forgotten Experiment
+Single Player           : No
+Cooperative             : No
+Deathmatch              : Yes
+Dark Match              : No
+New Sounds              : No
+New Graphics            : No
+Known bugs              : No Pupae
+
+--- Construction ---
+Editor(s) used          : UnrealEd Beta
+Base                    : New level
+Construction Time       : About one week folks
+
+
+
+Installation
+------------
+   Unzip the the files and place them into your maps directory under the unreal
+   directory. Type in "open DMexperiment" to run the map. Alternatively, double-click
+   the map.
+   
+   You can also select this map whilst cycling through the DM maps
+   available from the Unreal Multiplayer menu.
+
+Extended description:
+--------------------
+
+Unreal DM map. Enjoy.
+
+Author's Notes
+--------------
+
+Violence is a Ballet.
+You can email about this level if like ;]
+
+Copyright / Permissions
+-----------------------
+This level is copyrighted by Marty Howe 1998.
+
+Authors may NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this UNR through any electronic network (internet,
+FIDO, local BBS etc.), provided you include this file and leave the archive
+intact.
+
+----------------------
+UNREAL (c)1998 Epic Megagames, Inc.  All Rights Reserved.  Distributed by
+GT Software, Inc. under license.  UNREAL and the UNREAL logo are registered
+trademarks of Epic Megagames, Inc. All other trademarks and trade names are
+properties of their respective owners.

@@ -1,0 +1,79 @@
+================================================================
+Title                   : DEEPS.WAD
+Author                  : Enrique Zamudio L¢pez
+Email Address           : zamudioe@risc.uia.mx
+Misc. Author Info       : I am a Computer Systems student in Universidad
+                          Iberoamericana, M‚xico. This is my first wad ever,
+                          I hope you enjoy it.
+
+Description             : I wanted to put a little of everything on this wad.
+                          There are a LOT of remote switches and secrets.
+                          Later on I will make some other wads and have a
+                          theme for them, but right now I want to know what
+                          do you think of this one. I was really careful to
+                          avoid HOM and misaligned textures, so if you find
+                          anything wrong, please let me know.
+
+Additional Credits to   : The makers of DOOM, the makers of DEU, Colin Reed
+                          (for the excellent node builder BSP) and Bill
+                          Neisius (for DMGRAPH and DMAUD)
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New demos               : No
+New Sounds              : Yes (see note below)
+New Graphics            : Yes (well, just the episode name and skill levels)
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : I didn't count it (Who cares anyway?)
+Editor(s) used          : DEU 5.2 GCC and BSP11
+
+* Copyright / Permissions *
+
+You may use this WAD as a base for additional levels, as long as you
+give me some credit.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+infant2.sphs.indiana.edu (you already know this, or you wouldn't be reading
+the note)
+================================================================
+
+About the sounds I replaced, they are the following:
+
+BGF9000 firing:
+  Pure Energy! (from Information Society's "TV Addicts")
+
+Cacodemon dying:
+  That's Nice! (from Rush's "Chain Lightning")
+
+Door Opening:
+  Another sound from Information Society ("Seek 200")
+
+Player Dying:
+  This is the way the world ends... (from EMF's "Long Time")
+
+Demon Nearby:
+  Intro from "Something to do" by Depeche Mode
+
+Former Human Spotting Player: 
+  Hey! (From Information Society's "We don't take")
+
+Baron of Hell spotting player: 
+  I'm going to cut you into little pieces...
+  (From Pink Floyd's "One of these days")
+
+Enjoy!

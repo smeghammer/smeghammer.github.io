@@ -1,0 +1,55 @@
+================================================================
+Title                   : AKKKMWAD
+Filename                : akmwad1.WAD
+Author                  : Paul Noble
+Email Address           : editor@elbon.demon.co.uk
+Misc. Author Info       :
+
+Description             : 5 levels varing types from mass destruction to run'n'jump
+				to teleporter sections.
+
+Additional Credits to   : My brother Alexander Noble
+				Authors of DCK and Deu2
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Maps 01-05
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch 
+Editor(s) used          :DCK 1.0, 1.1, DCK 2.0 Deu2
+Known Bugs              :Level 4 has a odd side def on the top of the main room
+			Level 5 has a dodgy half linedef in the winding staircase
+			Also the Switch to secret level just returns player to 
+			start again.
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites: ftp.cdrom.com
+
+BBS numbers:
+
+Other:
+
+Will be upgraded in time, there are plenty of unaligned textures which need correcting and such like. Any comments please mail me.

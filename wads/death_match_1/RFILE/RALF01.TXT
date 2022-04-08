@@ -1,0 +1,59 @@
+     ////////  /////       //         /////////      ////     /////
+    //     // //  //      //         //            //  //    //  //
+   ////////  //   //     //         ///////      //    //       //
+  //  //    ////////    //         //           //    //       //
+ //   //   //     //   //         //            //  //        //  //
+//    //  //      //  /////////  //             ////         //////
+
+===================================================================
+
+Title                   : Ralf01
+Filename                : RALF01.WAD
+Author                  : Ralf Naegele 
+Email Address           : naegele@nibelung.worms.fh-rpl.de
+Misc. Author Info       : nothing to say here ...
+
+Description             : Lots of monsters - lots of fun.
+                          RALF02.WAD runs with DOOM 1.2 and 1.666.
+                          It's not a very big level, because it's my 
+                          first PWAD I've created. Hope You enjoy it.  
+                          If You like it or have critics, please 
+                          email me.
+
+Additional Credits to   : Christian Karpf as beta tester of this PWAD
+                          and my favorit DOOM mate.
+===================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (but UV is the best)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21
+Known Bugs              : 2 little HOMs
+
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+
+
+

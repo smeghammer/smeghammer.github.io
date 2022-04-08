@@ -1,0 +1,57 @@
+================================================================
+Title                           : Bigtrap.wad   
+Author                          : Shof B
+Email Address                   : shof@crl.com
+
+We had information from a 'highly regarded' source deep inside enemy forces 
+that their main system could finally be penetrated by using a secret 
+maintenance password.  You and Dora were selected for this mission. 
+You were to penetrate the computer and  transfer of all of their data into 
+the Suckulator 2000 hybrid bio-silicon storage box. You made it deep into 
+the city and found a personal study terminal.  Dora hooked up the S2000 to 
+her head and the dark one's personal PC and began transferring data.  
+Almost instantaneously, she began to screaming, then dying in two minutes.  
+Before her eyes blew out of her sockets, she screamed, "HELP ME!!!  RUN!!!  
+HENRY, THEY ARE EVERYWHERE!!" 
+"Run!!! Remember, the barrels and computers are your fiends........HELP ME!!" 
+
+Quick, back down the secret tunnel!............................
+
+LOOK OUT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+For registered 1.666 only.
+					
+================================================================
+
+* Play Information *
+
+Episode and Level #             : E2M1
+Single Player                   : Yes
+Cooperative 2-4 Player          : Yes, but not advised
+Deathmatch 2-4 Player           : No
+Difficulty Settings             : easy and ultra ( use ultra or be a wimp )
+New Sounds                      : No
+New Graphics                    : No
+Demos Replaced                  : None
+
+* Construction *
+
+Base                            : New level from scratch
+Build Time                      : god only knows 
+Editor(s) used                  : DEU, BSP 
+Known Bugs                      : ???? Let me know if you find any.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.  
+You MAY distribute this WAD, provided you include this file.
+
+Email me if you love or hate or are somewhere inbetween.
+Any comments welcome!
+Look for the Raw Range Animals Web Page coming soon to a screen near you!
+
+A Raw Range Animals Production 1994
+
+

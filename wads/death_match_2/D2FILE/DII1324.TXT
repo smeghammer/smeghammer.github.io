@@ -1,0 +1,66 @@
+=============================================================================
+Title                   : DI1234.WAD
+Author                  : KENT the HACKER
+Email Address           : none
+Misc. Author Info       : This file was made by the creater of
+                        : DOOMLAB1.ZIP/KENTZLAB.WAD
+                        :
+Description             : 4-levels for DOOMII. First 3 are modified versions
+                        : of the original maps. There are some extra secret
+                        : areas, and lots of bonus items, a few minor errors
+                        : left by ID was fixed too. Level 4 is a PWAD that I
+                        : found, fixed, and modified to my liking, (expl: the
+                        : end-level switch was actualy an exit door.)
+                        :
+Additional Credits to   : The group here consists of ME, MYSELF and I!!!!
+                        : And let's not forget those folks at ID!!
+                        : Or the creater of DEU, and the guy who hacked it to
+                        : create DEU2.
+==============================================================================
+
+* Play Information *
+
+Level #                 : 1, 2, 3 and 4
+Single Player           : YES!!! (levels are ideal for this!!)
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+Demos Replaced          : None (The editor didn't work when I tried this.)
+* Construction *
+
+Base                    : New level from scratch/Modified ExMx/xxx.WAD
+Build Time              : FOREVER and then some!!!
+Editor(s) used          : DEU2
+Known Bugs              : None, (so far)
+
+
+* Copyright / Permissions *
+
+Authors CAN use this level as a base to build additional levels.
+              (What could I do anyhow? Sue you??? hehehe)
+(One of the following)
+
+You MUST distribute this WAD, provided you include this file, with all kinds
+of modifications.  You MUST distribute this file in any way, shape and/or
+format (BBS, Diskette, CD, etc) as long as you dont screw it up!!!
+
+
+You MUST distribute this WAD file to any/everybody you know, (that plays DOOM)
+You will do whatever you want with this file.
+
+* Where to get this WAD *
+
+FTP sites  : RIGHT HERE, WERE YOU JUST GOT IT FROM.
+           : You can always find my "DOOM-GOODIES" on-line at the.......
+BBS numbers: DIAMOND BAR BBS; (909) 861-1549
+           : Be sure to UL'd some good DOOM stuff if you have any!!!
+
+
+Other: I would appreciate ANY feedback you can provide me with about the
+       map levels, are they......to hard/easy, small/large, stupid/cool, or
+       whatever. (The bottom line is this....if no one gives a damn about it,
+       why bother in the first place??? but if ANY one digs it, that's what
+       I call "cause for motivation" and more stuff will surely follow.
+

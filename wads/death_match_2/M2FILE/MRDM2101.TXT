@@ -1,0 +1,50 @@
+================================================================
+Title                   : MRDM2101.WAD   
+Author                  : Michael Rapp
+Email Address           : 
+Misc. Author Info       : This is my fourth Pwad
+
+Description             : None
+
+Additional Credits to   : id, any author of a DOOM editor
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Get real
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Don't keep track
+Editor(s) used          : DoomCad,BSP
+Known Bugs              : None that I know of
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels. But why when you can build your own?
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: Posted on AQUILA BBS (Aurora, IL) (708) 820-8344
+
+Other: Download the other pwads of the MRDMxxxx series

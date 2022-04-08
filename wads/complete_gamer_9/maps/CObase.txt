@@ -1,0 +1,71 @@
+================================================================
+
+Title                   : Canyon Oasis
+Filename                : CObase.bsp
+Author                  : Brad
+Address                 : bladerunner@earthdome.com
+Description             : This is a re-make (or more of a "re-mix") of 				  an extremely popular Jedi Knight level: 				  "Canyon Oasis".  This was by no means 					  intended as a carbon-copy of the original 				  level, so JK purists may be a little 					  dissapointed with my effort.
+ 
+				  Those who played the original level will 				  notice quite a few differences, the main 				  being the proportions of the level and the 				  overall graphic style -this map is smaller 				  than the original.
+
+                          I have also tried to increase the realism by 				  incorporating some military-style buildings 				  into the rock (the original map was made up 				  entirely of mountain rock and really wasn't a 				  very realistic setting).  This map is also 				  set at night, whereas the original was set 				  during the daytime.
+
+				  While the overall visual appearance of the 				  level is much different, the overall layout 				  and weapon placement is very similar.  (Ammo 				  placement was altered in an attempt to add 				  some strategy to the map).
+
+				  One of the things I didn't wan't to change as 				  far as realsism is concerned were the "water 				  tunnels" that lead out from the central pool 				  (the oasis).   Obviously water wouldn't 				  behave this way, but the original level had 				  these as a major part of the way the level 				  played so I left them in.
+
+Special Thanks to       : My brother max and friends for helping to 				  playtest.
+			  	  Valve for a cool game, and id software for a
+			  	  kickass game engine.
+Previous maps           : Face/Off
+Coming soon			: An unamed map set on a space station, and 				  will feature new textures.
+================================================================
+
+Play Information
+  
+Single Player           : No
+Deathmatch              : Yes
+Cooperative             : No
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+================================================================
+
+Construction
+
+Base                    : New level from scratch
+Editor used             : Worldcraft v2.0
+Known Bugs              : 
+Build Time              : 12 hours (this was only meant as a diversion 				  from a slightly larger deathmatch map I'm 				  working on at the moment).
+
+================================================================
+
+Installation
+
+To play this level, extract this file "CObase.bsp" into
+your :\sierra\half-life\valve\maps directory and then start the 
+game.
+================================================================
+
+Copyright and Permissions
+
+If you enjoy playing this level, please send me an e-mail :-)
+
+This level may be distributed via any medium (ie: Internet,
+BBS, CD-ROM, compilation disk) as long as it maintains the
+name CObase.BSP and is supplied in a zip file called 
+CObase.ZIP that also contains this text document and no other 
+files.
+
+If the level is to be included on a CD-ROM or other profit-
+making medium, including but not limited to "Public Domain"
+collections or archives, the publisher / manufacturer must
+send me a copy of the product.
+
+I reserve the right to refuse permission for this level to
+be distributed via any CD-ROM or other profit-making medium.
+
+(c) Copyright 1998 Brad    bladerunner@earthdome.com

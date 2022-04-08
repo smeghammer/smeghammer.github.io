@@ -1,0 +1,80 @@
+Name of creator         :    Anonymous (creator of BEWARE.WAD)
+
+Title of patch WAD      :    HOLYMOLY.WAD
+
+Episode and map         :    E2 M3  (Part #3 of a separated pack wad)         
+
+Other Wads by the same  :    DRKSTAIR.WAD  (E2 M1)
+creator, or Wads that        GRYBLOOD.WAD  (E2 M2)
+can go along together        BEWARE.WAD    (E2 M6) --- The best one so far!
+
+============================================================================
+
+Skill levels supported  :  Don't even bother.... Play the level and see.    
+
+DEATHMATCH supported    :  YOU BET YER LIFE IT IS
+
+IBM model tested on     :  --486DX 33Mhz, 8Mb RAM, 512K graphics card
+                           
+                           --Low detail is smooth as silk with stat bar OFF
+                           --High detail is a bit choppy on "Ultra-Violence",
+                             but it's usually like that for regular DOOM levs
+
+============================================================================
+
+Difficulty of Map       :    Holy Moly! --- You're surrounded in a giant room
+                             of monsters with little ammo, and lots of weapon  
+                             choices!  It's going to be a long day...
+
+Level basis             :    Completely from scratch 
+
+Editor(s) used          :    DEU 5.0 and BSP 1.0 (binary space partitioner) 
+                             (Special thanks to the creators of both
+                             programs; Raphael Quinet and Colin Reed)
+
+Available where?        : --> OCF.UNT.EDU          
+                           at Doom home directory
+                             
+                          --> WUARCHIVE.WUSTL.EDU  
+                           at /pub/msdos_uploads/games or doom
+                             
+                          --> FTP.U.WASHINGTON.EDU
+                           at /pub/user-supported/byteman/?
+
+Quick Notes on Gameplay :    Enjoy.  Don't get killed.  Move on to next lev.       
+
+============================================================================
+
+Interesting  :    * Basically, an interesting twist on the old stand-by of
+ Features           "How many Cacos can I fit into this huge room without
+                     making the DOOM Object processing engine go bananas?"
+
+                  * Watch all the fire, electric and plasma balls fly over
+                    your head as you descend into your DOOM.... :)
+
+                  * Adrenaline rushes are fun.
+
+                  * Fear is only in real life-- THANK GOD DOOM AIN'T IT!!!
+
+                  * Any more monsters would mean too much slow-down, but
+                    YOU MARK MY WORDS-- you CAN survive easily.... you don't
+                    even have to SHOOT anyone to finish with an excess of
+                    life or armour (we're talkin' over 100 percent on both)
+
+----------------------------------------------------------------------------
+Time allotted for       :       Oh, God--  WHO cares, just play the level:
+creation of map                 you'll love it.  A short, quick adrenaline
+                                rush.
+
+
+                   FIND  B E W A R E . W A D  ---- THAT ONE 
+                   IS REALLY A CHALLENGING, WELL-CREATED, 
+                   THEME-BASED WAD.  JUST HARD ENOUGH TO 
+                   KEEP YOU FROM HAVING TO IDKFA, OR IDDQD IT!!!
+
+                         B E W A R E . . . .
+
+----------------------------------------------------------------------------
+** Special thanks to the creators of DEU 5.0 and BSP Node Builder--both
+   programs are really wonderful for making workable, interesting DOOM levels
+----------------------------------------------------------------------------

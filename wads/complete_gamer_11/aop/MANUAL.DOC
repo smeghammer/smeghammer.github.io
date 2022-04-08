@@ -1,0 +1,121 @@
+{\rtf1\ansi\deff0\deftab720{\fonttbl{\f0\fswiss MS Sans Serif;}{\f1\froman\fcharset2 Symbol;}{\f2\fswiss\fprq2 Arial;}{\f3\froman Times New Roman;}{\f4\froman\fprq2 New York;}{\f5\froman\fprq2 Times New Roman;}}
+{\colortbl\red0\green0\blue0;}
+\deflang1033\pard\plain\f2\fs24\cf0\b 
+\par \plain\f2\fs24\b Perfect Publishing\plain\f2\fs24 
+\par \pard\qc\plain\f4\fs48 Abyss of Pandemonium\plain\f4\fs24 
+\par \pard\plain\f4\fs24\cf0 
+\par \plain\f2\fs28\b Manual\plain\f2\fs36\b 
+\par 
+\par \plain\f2\fs32 Contents
+\par \pard\li240\tx8630\plain\lang1024\f2\fs20\cf0 The Story\plain\lang1024\f5\fs20 \tab 2
+\par \pard\li480\tx8630\plain\lang1024\f2\fs20\i Goal of the Game\plain\lang1024\f5\fs20\i \tab 3
+\par \plain\lang1024\f2\fs20\i Skill\plain\lang1024\f5\fs20\i \tab 3
+\par \plain\lang1024\f2\fs20\i Finding Things\plain\lang1024\f5\fs20\i \tab 3
+\par \plain\lang1024\f2\fs20\i Commands, Menu, and Console\plain\lang1024\f5\fs20\i \tab 4
+\par \pard\li240\tx8630\plain\lang1024\f2\fs20 Your New Environment\plain\lang1024\f5\fs20 \tab 5
+\par \pard\li480\tx8630\plain\lang1024\f2\fs20\i New Weapons in Abyss of Pandemonium (The Final Mission)\plain\lang1024\f5\fs20\i \tab 5
+\par \plain\lang1024\f2\fs20\i New Powerups in Abyss of Pandemonium\plain\lang1024\f5\fs20\i \tab 5
+\par \plain\lang1024\f2\fs20\i New Creatures in Abyss of Pandemonium\plain\lang1024\f5\fs20\i \tab 6
+\par \plain\lang1024\f2\fs20\i New Environmental Hazards and Effects in Abyss of Pandemonium:\plain\lang1024\f5\fs20\i \tab 6
+\par \pard\li240\tx8630\plain\lang1024\f2\fs20 Multiplayer Action\plain\lang1024\f5\fs20 \tab 7
+\par \pard\li480\tx8630\plain\lang1024\f2\fs20\i Cooperative\plain\lang1024\f5\fs20\i \tab 7
+\par \plain\lang1024\f2\fs20\i Deathmatch\plain\lang1024\f5\fs20\i \tab 7
+\par \pard\li240\tx8630\plain\lang1024\f2\fs20 Customer Support\plain\lang1024\f5\fs20 \tab 8
+\par \pard\li480\tx8630\plain\lang1024\f2\fs20\i Technical Support Contact Details\plain\lang1024\f5\fs20\i \tab 8
+\par \pard\plain\f2\fs20\cf0\b 
+\par \plain\f2\fs24\cf0 
+\par \pard\li80\plain\f2\fs24\cf0 
+\par 
+\par \pard\plain\f2\fs32\cf0\b The Story
+\par \pard\li80\plain\f2\fs20\cf0 You have been through time, faced monsters most mortals would have died just looking at. It would pretty much seem like your work was done and you could retire. But it's not a nice universe we live in now is it?
+\par Quake's general, The Dark Reaver Legond, has returned from conquering yet another dimension. Expecting great fanfare upon arrival, Legond receives only the sad news that a lone Earth denizen has stopped Quake not once, not twice, but on three separate occasions. Outraged, Legond gathers the now infamous Dark Horde from the far reaches of the universe and plots the destruction of this mortal.
+\par Legond has a whole slew of new traps and nasties in store for you before dragging you into an unknown dimension to do battle with you face to face. This is going to be your most terrifying and difficult mission to date.
+\par Once again it's up to you to stop Quake's armies, but this time, they know you're coming and they're ready for you. Legond will stop at nothing to see your severed head spiked above Quake's throne.\plain\f2\fs24\cf0 
+\par \pard\plain\f2\fs24\cf0 
+\par \plain\f2\fs32\b The Basics of Play
+\par \plain\f2\fs24\b Goal of the Game
+\par \plain\f2\fs20\cf0 Just like Quake, Abyss of Pandemonium has two basic goals. First, stay alive. Second, get out of the place you're in. Each level ends in a slipgate, or land formation\endash  these signify that you've entered another place.  Unlike Quake, however, Abyss of Pandemonium is played in a linear fashion, taking you through each of the 10 levels ultimately leading you to the Boss, Legond, in the final showdown. 6 Additional deathmatch levels are provided for exciting deathmatch play with up to 16 players per map.
+\par \plain\f2\fs24\b Skill
+\par \plain\f2\fs20\cf0 The Start Level has several different slipgates for each level of Skill you wish to play.  
+\par \plain\f2\fs20\cf0\b Easy\plain\f2\fs20\cf0 : This is meant for little kids and grandmas.
+\par \plain\f2\fs20\cf0\b Medium\plain\f2\fs20\cf0 :  Most people should start Quake at Medium skill.
+\par \plain\f2\fs20\cf0\b Hard\plain\f2\fs20\cf0 : Can you handle it?
+\par \plain\f2\fs20\cf0\b Hell\plain\f2\fs20\cf0 : Good luck even getting past the Pin Head traps that await you. 
+\par \plain\f2\fs24\b Finding Things
+\par \plain\f2\fs20\cf0\b Buttons and Floorplates:\plain\f2\fs20\cf0  Buttons activate with a touch, and floorplates must be stepped on. If you see a distinctive-looking button in a spot you cannot reach, it's probably a shootable button - fire at it. 
+\par \plain\f2\fs20\cf0\b Doors\plain\f2\fs20\cf0 : Most doors open at your approach. If one doesn't, seek a button, floorplate, or key.
+\par \plain\f2\fs20\cf0\b Secret Doors\plain\f2\fs20\cf0 : Some doors are camouflaged. Almost all secret doors open when they are shot or hit with an axe. Hidden pressure plates or buttons opens the rest. 
+\par \plain\f2\fs20\cf0\b Platforms\plain\f2\fs20\cf0 : Most platforms only go up and down, while some follow tracks around rooms or levels. Normally, when you step onto a platform, it rises to its full height, and lowers when you step off. Some platforms drop when you step onto them, and some don't work until you activate them via button or pressure plate. 
+\par \plain\f2\fs20\cf0\b Pressure Plates & Motion Detectors\plain\f2\fs20\cf0 : Invisible or visible sensors can open doors, unleash traps, warn monsters, etc. 
+\par \plain\f2\fs20\cf0\b Uncovering Secrets\plain\f2\fs20\cf0 : Secrets are hidden in many ways. You might need to shoot a button, kill a monster, walk through a secret motion detector, etc. 
+\par \plain\f2\fs20\cf0\b The Secret of Secrets\plain\f2\fs20\cf0 : All secrets in Abyss of Pandemonium are indicated by clues. Don't waste your time hacking at every wall. It's much more productive (and fun) to use your brain and your eyes. Look up. An angled texture, a light shining under a wall, a strange sound\'85 anything\'85 might be the clue. Something prominent in a room might be decoration\'85 or it might be the clue.
+\par \pard\tx189\plain\f2\fs20\cf0\b TIP\plain\f2\fs20\cf0 : Bouncing a grenade off a shootable button or secret door won't open it, but if the grenade's explosion goes off nearby, this may well activate such secrets. 
+\par \pard\li80\plain\f2\fs20\cf0 
+\par \pard\plain\f2\fs24\b Commands, Menu, and Console
+\par \plain\f2\fs20\cf0\b Keyboard Commands
+\par \plain\f2\fs20\cf0 Press F1 (the Help key) or select the Help option from the Main Menu to get a list of keyboard commands. 
+\par \pard\tx189\plain\f2\fs20\cf0\b NOTE\plain\f2\fs20\cf0 : Help lists the default keys. If you've customized your configuration, Help won't be totally accurate anymore.
+\par \pard\plain\f2\fs20\cf0\b The Main Menu
+\par \plain\f2\fs20\cf0 Tap the Escape key to pop up the Main Menu. While you are in the menu, the game is paused. The Main Menu is pretty much self-explanatory, but if you have questions, README.TXT explains all. 
+\par \pard\tx180\plain\f2\fs20\cf0\b TIP\plain\f2\fs20\cf0 : Abyss of Pandemonium saves your current key configuration when you quit, so that next time you play, you have the same configuration. 
+\par \pard\plain\f2\fs32\b Your New Environment
+\par \plain\f2\fs24\b New Weapons in Abyss of Pandemonium
+\par \plain\f2\fs20\cf0\b Napalm Gun\plain\f2\fs20\cf0 : These are definitely not your typical grenade launchers. Gameplay reaches new heights of strategic intensity with these scorching beauties. Launch them at your worst enemy and watch they burst into flames! Flames stick to walls, ceilings, and floors.  Use them strategically to lay waste or block the attack paths of your enemies.
+\par \plain\f2\fs20\cf0\b Rocket Powered Impaler\plain\f2\fs20\cf0 : This weapon fires rocket powered steel shafts that can gib or impale your enemy on contact. Be careful, it has quite a kickback!
+\par \plain\f2\fs20\cf0\b Prototype LG-2\plain\f2\fs20\cf0 : This is a prototype of an advanced weapon designed specifically for destroying The Dark Horde.  Electrical by nature, when angled of the cielings, walls, or floors, it ricochets out a scattered electrical force. Watch them in agony as they fry to a crisp!!. It takes a skilled warrior to master this weapon, since the electrical current can spread from one opponent to the next -even you. 
+\par \plain\f2\fs20\cf0\b Armor Mounted Laser System: \plain\f2\fs20\cf0 This powerful weapon has three different power levels, each more powerful than the next. When an upgrade is picked up, it is automatically installed, and the integrated on-board computer will let you know.  The system is mounted on the shoulder pieces of the armor, and features semi-auto targeting with Level II and III upgrades installed.
+\par Key 1 = Axe
+\par Key 2 = Shotgun
+\par Key 3 = Double Barrel
+\par Key 4 = Nailgun
+\par Key 5 = Super Nailgun
+\par Key 6 = Grenade Launcher / Napalm Launcher
+\par Key 7 = Rocket Launcher / Impaler
+\par Key 8 = Lightning Gun / Prototype LG-2
+\par Key 9 = Pulse Rifle\plain\f2\fs16 
+\par \plain\f2\fs24\b New Powerups in Abyss of Pandemonium
+\par \plain\f2\fs20\cf0\b Field Generator\plain\f2\fs20\cf0 : Upon activation, your utility belt will emanate an invisible field with automatic intensity levels that can shield you against many attacks, and absorb quite a bit of damage.
+\par \plain\f2\fs24\b New Creatures in Abyss of Pandemonium
+\par \plain\f2\fs20\cf0\b Grenling\plain\f2\fs20\cf0 : These creatures travel in packs attacking like bats. They are fast and dangerous, NEVER turn your back on one, or you WILL suffer the consequences!
+\par \plain\f2\fs20\cf0\b Lightning Enforcer\plain\f2\fs20\cf0 : These powerful versions of Enforcers will try to fry you with a blast of energy every chance they get. They don't have much range, but they pack a particularly powerful zap!
+\par \plain\f2\fs20\cf0\b Dark Knight\plain\f2\fs20\cf0 : Evil reincarnated knights, whose only purpose is death. These creatures travel in groups, and will join together to bring forth lightning. They're fast, but with the right weapon, you MIGHT survive!
+\par \plain\f2\fs20\cf0\b Juggernauts\plain\f2\fs20\cf0 : These humongous armor-plated robots will stop at nothing. There are 2 different kinds, each with extremely fast disruptor beam guns and advanced tactical rockets, so don't get too close or you'll be smashed down with a 4 foot steel blade!! 
+\par \plain\f2\fs20\cf0\b Blud\plain\f2\fs20\cf0 : This disgusting and vile creature is one of a kind. It hasn't been fed for a long, long time and is almost impossible to kill, you'll have to outsmart it if you want to stay alive. Not only will it suck the life out of you, but it will spit the bones of it's former victims at you to keep you at bay. 
+\par \plain\f2\fs20\cf0\b Legond\plain\f2\fs20\cf0 : She's the wickedest, meanest, and toughest babe you'll ever fight. Her only goal is to see you dead, so don't fool yourself - she's a killer. You better be good, 'cause she doesn't take prisoners!
+\par \pard\tx245\plain\f2\fs20\cf0\b TIP\plain\f2\fs20\cf0 : Some weapons are better vs. particular monsters than others. If a new monster seems really hard to kill, switch to another weapon and try again before it's too late.
+\par \pard\plain\f2\fs24\b New Environmental Hazards and Effects in Abyss of Pandemonium: 
+\par \plain\f2\fs20\cf0 
+\par \plain\f2\fs20\cf0\b Exploding walls/ Fallaway floors\plain\f2\fs20\cf0 : Floors can fall away instantly, and some walls and obstructions can be destroyed.
+\par \plain\f2\fs20\cf0\b Pinhead Traps\plain\f2\fs20\cf0 : Ever have the flesh RIPPED off your bones by a hundred metal claws?! Flesh or steel, these traps will unleash a devastating barrage of claws. If you want to get past one, you've got to be REAL careful. Use the Pinhead Trap to your advantage by leading monsters into them, and watch the gibs fly!!
+\par \pard\li80\plain\f2\fs20\cf0 
+\par \pard\plain\lang1024\f2\fs32\b Multiplayer Action\plain\f2\fs32\b 
+\par \plain\f2\fs20\cf0 Abyss of Pandemonium fully supports multiplayer mode.  There are 6 new levels designed specifically for multiplayer. 
+\par When you are using the console or Main Menu in multiplayer, the game does not pause. Irresponsible players and monsters can freely shoot you, and your only recourse is bloodthirsty vengeance. The Talk function is useful here. When you talk, the message appears at the top of all players' screens, preceded by the speaker's name. 
+\par To set up, run, or join a multiplayer game, use the Main Menu Multiplayer option.
+\par \plain\f2\fs24\b Cooperative
+\par \plain\f2\fs20\cf0 In a co-op game, you and your friends work together to finish the level. When one person exits, everyone else exits too, wherever they might be. If you are killed in co-op, you reappear at the start area, and have to catch up to your buddies. Use Talk to find out where they are. See the Multiplayer options on the Main Menu for more info. 
+\par \plain\f2\fs24\b Deathmatch
+\par \plain\f2\fs20\cf0 In a deathmatch, play is totally cutthroat.  No monsters exist, and when you are killed, you reappear in a random spot. After you pick up an item, it respawns (i.e. pops back into existence) after a while. (Some items take longer to respawn than others.) Every time you kill someone, you get a frag. The person with the most frags wins, so wreak slaughter amongst your pals!
+\par If you kill yourself, whether intentionally or by accident, you lose a frag. This includes drowning, getting crushed, and so forth. See the multiplayer options on the Main Menu for more info.
+\par To play the Abyss of Pandemonium deathmatch levels the server must load the maps either before the players have joined or after. To do this, type:
+\par \plain\f2\fs20\cf0\b\i map aopdmX\plain\f2\fs20\cf0  (where X is a number from 1 to 6 representing the new deathmatch levels).
+\par \pard\tx180\plain\f2\fs20\cf0 
+\par  
+\par \pard\plain\f2\fs32\b Customer Support
+\par \plain\f4\fs24 
+\par \plain\f2\fs20\cf0 If you are having problems with this product, please telephone, fax, email or write to technical support, run by Instant Access International. At this time technical support is only offered in English.
+\par 
+\par If you are experiencing difficulty with your original version of Quake, please contact id Software technical support.
+\par \plain\f2\fs20\cf0\b 
+\par \plain\f2\fs24\b Technical Support Contact Details
+\par \plain\f4\fs24 
+\par \plain\f2\fs20\i Telephone\tab \plain\f2\fs20 +44 (0)181 200 2596\tab \plain\f4\fs24 
+\par \plain\f2\fs20\i Fax\tab \tab \plain\f2\fs20 +44 (0)181 205 9882\tab \plain\f4\fs24 
+\par \plain\f2\fs20\i Email\tab \tab \plain\f2\fs20 techsupport@instantaccess.com\tab \plain\f4\fs24 
+\par \plain\f2\fs20\i Address\tab \plain\f2\fs20 Technical Support  Instant Access International The Technology Park Colindeep Lane London ENGLAND NW9 6DU\tab \plain\f4\fs24 
+\par \plain\f2\fs24  
+\par 
+\par 
+\par \plain\f2\fs22 Perfect Publishing and the Perfect Publishing logo are registered trademarks of Perfect Publishing Ltd.  This product is copyright Perfect Publishing Ltd.  All rights reserved. Microsoft, MS-DOS, Windows and Windows 95 are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. All other trade names, registered trademarks and trademarks are acknowledged as belonging to their respective owners.\plain\f2\fs24 
+\par }
+ 

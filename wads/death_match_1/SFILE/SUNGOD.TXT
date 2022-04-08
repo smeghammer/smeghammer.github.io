@@ -1,0 +1,158 @@
+----------------------------------------------------------------------------
+TITLE               :"Sun God"
+FILENAME            :SUNGOD.WAD   (version 1.0)
+AUTHOR              :D.R. Duncan
+E-MAIL ADDRESS      :b4boredom@aol.com
+MISC. AUTHOR INFO   :This is my first (and probably my last) PWAD creation.
+                   It is the direct result of the frustrating (or should
+                   I say "challenging") process of learning how to use DEU.
+                   Hopefully my perfectionism shows. If I get enough posi-
+                   tive response to this level (yes, I am asking for some
+                   feedback here!), I may be persuaded to try again. I hope
+                   this level is continuing proof that DEU is capable of
+                   enabling computer-retarded idiots such as myself to
+                   create quality levels.  :-)
+DESCRIPTION         :Although most of the sectors in this level began as
+                   experimentaion, I think you will find this level rela-
+                   tively consistant (notice the octagon fetish). Many of
+                   the architectural oddities I had in mind were abandoned
+                   due to nasty HOM errors, yet the aesthetics & atmosphere
+                   of this level remain in-tact. Theme?... Story?...
+                   Go read a book! I won't give you any dull excuses for
+                   plot. Your mission is to *survive*. The only thing the
+                   bad-guys need to whip your ass, is a reason.  So I gave
+                   'em a good "reason": They need a sacrifice to offer to 
+                   their God in a bizzarre sacrificial ceremony... some-
+                   thing only you have... a human heart.  Unfortuneately,
+                   your heart is something you might need, so you'll have
+                   to fight for it!
+VERSION INFO        :Changes in ver. 1.0 from 0.9: New rooms and escape
+                   routes added to rear of main complex;  Texture changes
+                   throughout; Improved texture alignment; Enemy & bonus 
+                   implimentation improved; New music; various bug-fixes.
+CREDITS             :Credit where credit is DEU! Much gratitude is owed to
+                   authors of DEU from all DOOM-heads everywhere. They have
+                   opened new BIGDOOR1's to the world of DOOM! (Heheh, get
+                   it? Never mind... inside joke.) Also to Colin Reed, the
+                   author of BSP (without which this level would not have 
+                   been possible!).  And of course, the geniuses at ID!
+ADDITIONAL CREDITS  :Big thanks go to Gendut, Comptrdude & others who 
+                   answered my pleas for help during this levels creation, 
+                   and to those who beta-tested for ver. 1.0.
+KEEPING ME SANE     :Fugazi, Godflesh, Tool, The White Album, Moussorgsky
+                   "Night On Bald Mountain", Snapple Ice Tea (spiked with
+                   Quervo Gold, of course), Camel Lights... 66MHz helps!
+----------------------------------------------------------------------------
+
+
+> PLAY INFORMATION <
+
+EPISODE & LEVEL #   :E1M1
+SINGLE PLAYER       :Yes
+COOPERATIVE         :Yes*
+DEATHMATCH          :Yes*
+DIFFICULTY SETTINGS :Yes (Easy skill is most enjoyable)
+NEW SOUNDS          :No
+NEW GRAPHICS        :No
+NEW MUSIC           :Yes
+DEMOS REPLACED      :None (E-mail for solution)
+
+                    *"SUN GOD" was designed with single-player and 
+                   cooperation play in mind. There are some great rooms for
+                   Deathmatch but, be warned, due to it's size & detail, 
+                   unless your hardware runs at warp-speed, this level 
+                   *will* be slow!  NOTE: In version 0.9 & 1.0, Deathmatch 
+                   and Cooperative play have been implemented, but not fully
+                   tested. 
+                   
+
+> CONSTRUCTION <
+
+BASE                :New level from scratch
+EDITORS USED        :DEU 5.21, BSP 1.2x, Reject 1.0, MIDI2MUS, DMMUSIC
+BUILD TIME          :I am ashamed to admit how long this level took to
+                   build; one might think I needed to "get a life".
+KNOWN BUGS          :Very small HOM in "living column" room. (otherwise HOMless)
+                   Due to the levels' size (& the amount of monsters therein)
+                   the save-game option often causes a buffer overload and will
+                   lock up the game.
+
+
+> COPYRIGHT / PERMISSIONS <
+
+In keeping with the spirit of DOOM, authors MAY use this level as a base
+to build additional levels, preferably for personal use only.  Please seek
+permission from the original author before distributing custom levels based
+on this level. (If I had to suffer through level editing, so should you, so
+get yourself some imagination and a cumfy chair, and start from *scratch*!)
+However, suggestions, criticism, and ideas for improvements are welcome. I 
+will glady add names to the credits. Cooperation/Co-author requests are also
+welcome.
+
+"Ideas are difficult to claim": Although the versatility of the DOOM engine
+and the DEU level editor allow for endless possibilites in the creation of
+custom levels, similarities are inevitable. In the event that ideas/sections
+are knowingly/intensionaly extracted/copied from this level, please credit the
+original author. This is nothing more than common freeware courtesy... :)
+
+You MAY distribute this WAD, provided you include this file with no
+modifications.  You are encouraged to distribute SUNGOD.WAD in any 
+electronic format (BBS, Diskette, CD, etc.) as long as you include this text
+file (SUNGOD.TXT) intact.
+
+The music contained in this file is original, and MAY NOT be copied, covered,
+extracted from this level, or saved into another level without the authors'
+E-mail consent.
+
+
+> WHERE TO GET THIS WAD <
+
+Online service- America Online
+USENET- alt.binaries.doom
+FTP site- infant2.sphs.indiana.edu
+BBS- Game Palace (305) 587-4258
+Requests by Email- b4boredom@aol.com, boredom@cris.com
+
+
+> OTHER <
+
+HINTS              :(DON'T READ THIS!)
+                  -Don't even bother trying to get past the Cyber-Demon until
+                  you have explored the main complex.
+                  -It is possible to trap other players, and likewise be
+                  trapped! However, in the interest of continuity during
+                  multiplayer games, I have added escape routes which are
+                  not always convenient or easy to find.  You may just have
+                  to wait for the elevator.  :-o
+                  -The "worship/sacrifice" room is the bridge to the end.
+                  -Blue teleport pads must close before activated. <- big hint!
+                  -Keep a lookout; especially in Deathmatch. Many areas
+                  provide perfect posts for picking off prime opponents
+                  (say that ten times fast).
+                  -Some of the "living" pillars may be sleeping. Push them
+                   to wake them up.  {:-)
+                  -Keys to the end are in the beginings...
+
+HOW TO RUN         :At the "DOOM>" prompt, type:  DOOM -FILE SUNGOD.WAD
+                  -Start a new game in episode 1, difficulty of your choice.
+                  -Plugging-> DOOM MASTER is a DOOM "shell" program avail-
+                  able online, which makes organizing & running WAD files a
+                  sinch! Check it out! 
+
+COMMING SOON...    :"Sun God"
+                  -Version 1.0; New rooms, new music, improved texture alignment.
+                  -Version 1.1; Fully beta-tested for DM play (available E-mail only)
+                  
+FINAL WORD!        :If you haven't done so already, register "DOOM"!
+                   A)It's worth it!
+                   B)You're missing a lot of great levels, including the
+                    new "Hell On Earth" due out in the fall (I think).
+                   C)You can't use SUNGOD or any of the other great custom
+                    levels available online.
+                   D)The authors of "DOOM" deserve imense amounts of recog-
+                    nition, and registering is the best way to show it!
+                   E)Be a sport! Call 1-800-IDGAMES!
+
+ABOVE ALL          :Enjoy "Sun God" and, for God's sake, get some sleep!
+
+                   B-)  ZZZZZZZzzzzzzzzzz

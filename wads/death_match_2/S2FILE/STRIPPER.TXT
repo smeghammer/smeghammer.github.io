@@ -1,0 +1,44 @@
+===============================================================================================
+Title:                          Strippers.wad
+Author:                         Marty Magnini
+Address:                        Compuserve ID # 75023,2663 Please write.
+Description:                    No- there are no strippers in this wad, but 
+                                I got you to look at this, didn't I?  As
+                                long as you got this far, you might as well 
+                                play it.  It works best as a deathmatch wad,
+                                but it's playable as a single player as well.
+
+Additional credits to:          Killowatt Kurt, who taught me to love (and
+                                hate) DEU. Check out his Kurt.zip files --
+                                dumb name but great wads.  Also to his wife 
+                                Carolyn -- a great wad builder, but needs
+                                work at actual Dooming.  Thanks guys.  
+
+===========================================================================
+
+* Play Information *
+
+Episode and Level #            :E1M1
+Single Player                  :Yes
+Cooperative 2-4 Player         :Yes (untested)
+Deathmatch 2-4 Player          :Yes (that's why I made it!)
+Difficulty Settings            :Not Implemented
+New Sounds                     :No
+New Graphics                   :No
+
+* Constuction *
+
+Base                           :New level from scratch
+Build Time                     :20 hours
+Editor Used                    :DEU
+Known Bugs                     :None
+
+
+Authors MAY use this level as a base to build additional levels, but
+WHY WOULD YOU????   
+
+
+* Where to get this WAD *
+
+Compuserve Gamers Forum
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ===========================================================================

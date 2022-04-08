@@ -1,0 +1,77 @@
+WAD Authoring Template V1.2   (Clip this line)
+================================================================
+Title                   : Pie.wad (Easy as...) 
+
+Author                  : James Ojaste
+
+Email Address           : jojaste@descartes.uwaterloo.ca
+
+Misc. Author Info       : 
+
+
+Description             : I got tired of all those levels with n cyberdemons,
+
+			  2n spiders and n^2 barons, so I created a little
+
+			  something for *real* Doom masters to beat.  Go
+
+			  ahead.  Punch out those cybers.  Or find a couple
+
+			  of helpful tricks...
+
+
+Additional Credits to   : Authors of DEU and BSP
+
+================================================================
+
+* Play Information *
+
+
+Episode and Level #     : E1M1
+
+Single Player           : Yes
+
+Cooperative 2-4 Player  : No  (no point, really)
+
+Deathmatch 2-4 Player   : No
+
+Difficulty Settings     : Yes
+
+New Sounds              : No
+
+New Graphics            : No
+
+Demos Replaced          : None
+
+
+* Construction *
+
+
+Base                    : New level from scratch
+
+Build Time              : A couple of work days to perfect
+
+Editor(s) used          : DEU 5.0, BSP1.1 (I did this a while ago...)
+
+Known Bugs              : None
+
+
+
+
+* Copyright / Permissions *
+
+
+Do whatever you want, but if you base something on this, I want credit.
+
+
+* Where to get this WAD *
+
+
+FTP sites: infant2.sphs.indiana.edu
+
+
+BBS numbers:
+
+
+Other:
+

@@ -1,0 +1,65 @@
+    Here's my very first complete original level ever.  It's episode 2
+level 1.  It was created using DEU 5.0, and the bsp11x nodes-builder.
+It has only had a few hours of play-testing.
+
+    These days I think deathmatch is the only game to play, and I
+think this level is a lot of fun in a deathmatch.
+
+    Most of you will not consider this level to be very difficult
+in single player or cooperative play.  The level's not large, but it's
+larger than the typical level-1.  There aren't many monsters.
+
+    This level is not especially aesthetic, either.  It's my first
+level, and I was messing around more with function than appearance,
+i.e. there's plenty of STARTAN3, and there aren't a lot of
+decorations.  But at least the mechanisms all work like I wanted them
+to.
+
+    I like secrets, so there are 7 of them, most of them worth
+finding.  The level can be solved without finding any of them.  Some
+have visual clues.  The best weapons are secret.
+
+    There were a few places where I had to diddle for hours with
+textures and X and Y offsets and such, just to make some secrets
+disappear.  I'm disappointed with the failure of the 'Secret' linedef
+flag to work in all the cases I'd like it to.
+
+    There aren't any instant-death threats; I don't believe in
+them.  There's one lock-you-in-forever threat, though.  I left it in
+because it's awfully easy to avoid, and I've seen it have quite an
+entertaining effect during a deathmatch.  And id did it to me once, so
+I can do it to you. :-)
+
+    I tried to follow a few rules for making a good deathmatch level.
+
+    There is always more than one exit from a room, usually obvious,
+but sometimes secret.  There are some doors that are superfluous for
+single player as a result, but I noticed that id's levels have a few
+of these extra openings as well.
+
+    Even though I think putting in a lot of expendables is a waste in
+a deathmatch level, I was a bit generous with armor and medikits.
+When you've just fragged your buddy in a shootout and you're down to
+8%, but now he's resurrected and up to 100%, I think there should be a
+place to go to get a boost, for a while, anyway.  Of course, he may
+anticipate this and meet you there.  Heh heh.
+
+    If you move around at all, and he's close enough, you'll generally
+make enough noise to clue your opponent to your location.
+
+    There's one good sniper spot, and several good ambush spots.
+
+    Since I don't have a good feel for the various skill levels, I
+didn't put much effort into that.
+
+    Two players must cooperate to exit in multi-player mode.  I did
+this as an experiment, based on a suggestion I read in
+alt.games.doom.  The exit can also be reached in single player mode.
+I'm interested to hear other methods of doing this than the one I
+used.
+
+    Well, anyway, hope you get some enjoyment form this.  Have
+fun!
+
+    Richard Krehbiel
+    richk@netcom.com

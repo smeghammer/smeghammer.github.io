@@ -1,0 +1,52 @@
+WAD Authoring Template V1.4 
+================================================================
+Title                   : Fort-1   
+Filename                : FORT1.WAD
+Author                  : Walt Barrett
+Email Address           : N/A
+Misc. Author Info       : 
+
+Description             : Take cover in dark bunkers while 
+                          creatures outside try to overrun you.
+                          After that, try to overrun their bunkers.
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes (Hurt Me Plenty/Ultra-Violence only)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU V 5.1
+Known Bugs              : None I know of.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: Software Creations BBS (508)368-7036 
+
+Other: Leave me mail on what you think.

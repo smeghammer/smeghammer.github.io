@@ -1,0 +1,60 @@
+================================================================
+Filename                : JOHANN1.WAD
+Author                  : Greg Cymbalist
+Email Address           : umwickbe@cc.umanitoba.ca
+Misc. Author Info       : Johann is my evil alter-ego ;)
+
+Description             : My first attempt at a level.  
+                          A good-looking, fun to play level
+                          with some very intense moments.  
+                          Somewhat challenging on HMP, though
+                          unforgiving on UV. Possible to get 100%
+                          kills, however.  New version; more polished  
+                          than "johann.wad".  Fairly linear with very little  
+                          in the way of "puzzle solving".  Featuring the
+                          IMP Gauntlet and the BARON Arena!  Send comments
+                          to above address.  Watch for TUNNEL.WAD in the 
+                          future...
+
+Additional Credits to   : Dave Wickberg, for various reasons, Cam McCartney,
+                          the guys on 6th floor UC Rez, the people who
+                          made DEU, the people at id Software.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (though not tested.  Too linear?)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes (HMP and UV only)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None (will do on request)
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, BSPtc, REJECT10
+Known Bugs              : None. (unless I missed something)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, just as long as you plaster my name all over it, and let me  
+know you're using it.  Thanks.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+infant2.sphs.indiana.edu
+
+Other:
+alt.binaries.doom, through e-mail.

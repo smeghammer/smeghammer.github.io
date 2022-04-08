@@ -1,0 +1,41 @@
+* General Information *
+============================================================================
+
+Title                   : MELANGE.WAD
+Author                  : Kenneth S. Forte
+Email Address           : fusioncon@cup.portal.com
+Additional Credits to   : The authors of DOOM, DEU, and BSP, of course.
+Description             : A fairly simple level with a couple of tricks in
+                          it, good for all modes of gameplay. Watch out for
+                          the Spectres in the darker areas...
+
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : About 1 day, much of it devoted to textures
+Editor(s) used          : DEU 5.0 and BSP 1.0
+Known Bugs              : None known. This level did have a secret sector
+                          that never seemed to get credited, but it was
+                          changed it to another sector in that area.
+
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

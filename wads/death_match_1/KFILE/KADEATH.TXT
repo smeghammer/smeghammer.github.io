@@ -1,0 +1,61 @@
+* General Information *
+============================================================================
+
+Title                   : MONSTER (monster.wad)
+Author                  : David Pezzato
+Email Address           : DavidPez@aol.com
+Additional Credits to   : The authors of DOOM & DEU.
+                          Special thanks to Michelle, Candice
+                          and my little girl Paige.
+Description             : A huge, fairly straight foreward level that is 
+                          is my second attempt at designing a new wad.  I
+                          do not have any real story behind designing this
+                          wad.  However, you should be able to complete this
+                          wad without the use of any "special commands".
+                          The reason I started building this is because I 
+                          have played most of the other wads out there, and 
+                          I thought I could do a better job.  Boy was I wrong.  
+                          Building a good wad, takes time and patience.  Neither
+                          of which I possess alot of.  Happy Hunting.
+
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E1M1
+Single Player           : yes
+Modem Play              : yes, I wouldn't recomend it, unless you use a 
+                          direct serial connection, the stage is too big. 
+Cooperative 2-4 Player  : yes 
+deathmatch 2-4 layer    : yes
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : 15 hours of designing. 15 hours of testing time.   
+                          I know this seems like along time (it is), but
+                          I made alot of mistakes along the way.   
+                          
+                          
+Editor(s) used          : DEU 5.2 
+                          
+Known Bugs              : None that I know of, please send a note if you find 
+                          one.
+
+Help Me Out             : Let me know what you think about this wad.
+                          You can send me a note on AOL, to "davidpez".
+                          If I get a positive response, I am sure I will
+                          build bigger, stronger, dangerouser, dirtier, 
+                          crazier and stanger wads than you have ever seen 
+                          before.  My mind is thinking of new ideas already.
+                          By the way, if it after midnight and your reading
+                          this; go to bed, doom players need their rest.
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in only the following 
+electronic format: BBS, disk, or CD rom as long as you include this file.
+

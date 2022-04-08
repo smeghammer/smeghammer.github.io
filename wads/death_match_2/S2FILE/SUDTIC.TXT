@@ -1,0 +1,104 @@
+================================================================
+Title                   : sudtic.zip
+Author                  : The Innocent Crew
+Email Address           : denis@doomsday.sh.sub.de
+Misc. Author Info       : ? - Doom fanatics ;)
+
+Description             : Slaughter Until Death, new episode
+
+Additional Credits to   : ID & Coca Cola
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1-E2M9 (9 levels)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (tested 2 Player)
+Deathmatch 2-4 Player   : Yes (tested 2 Player)
+Difficulty Settings     : Yes
+New Sounds              : No (changed music)
+New Graphics            : Yes (some)
+
+* Construction *
+
+Base                    : New episode from scratch
+Build Time              : A few weeks with pausing
+Editor(s) used          : DEU, BSP, Improces
+Known Bugs              : M2:only a few magic black lines
+
+* Copyright / Permissions *
+
+Authors may NOT (!) use this level (episode) as a base to build
+additional levels (episodes).
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+It may NOT be included with any other software product.
+
+NO fee or payment may be charged or accepted for this episode.
+
+* Where to get this WAD *
+
+???
+
+*****************************************************************
+               The Innocent Crew proudly presents:
+
+                  -=[ Slaughter Until Death ]=-
+
+                a completely new episode for DOOM
+*****************************************************************
+
+      First we want to thank ID for their great game DOOM.
+
+      Then, we want to thank all these cool guys, who are
+    developing utilities for DOOM, such as DEU or DMIMAGE...
+
+   At the beginning we wanted to create two episodes, but it
+   takes too long to make good levels, so we decided to pack
+             it into one, with additional graphics.
+   There are a few new walls and we changed the music of the
+                    levels - no new music.
+   We also wanted to change some floors or ceilings, but we
+    had many problems getting them into DOOM as PWADs...!?
+       Always they break the game with an error-message:
+
+           W_CacheLumpNum: [big number] >= numlumps
+
+                      Whatever that mean...
+
+      This episode is like the second original episode of
+   DOOM, maybe a bit harder. It is fully Multi-Player capable
+      and contains additional things only for Multi-Play.
+  It's also tested with 2 players - so there are no dead ends.
+
+                     Slaughter Until Death:
+
+                     E2M1: Flying Guts
+                     E2M2: Mysterious Halls
+                     E2M3: The Blazed
+                     E2M4: Death Pain
+                     E2M5: Mutilated Corpses
+                     E2M6: Damned Bastards
+                     E2M7: Dehumanization
+                     E2M8: Baphomets Throne
+                     E2M9: Arena Of Punishment
+
+     Level 1,3,7,8,9 and additional graphics by Grindcrusher
+                      Level 2,4,5,6 by Panza
+
+    There are also 3 single player demos in our big WAD-File.
+
+    We spend much time to create this, so please respond any
+                     error, idea or whatever...
+
+                            Have fun!
+
+                Contact: denis@doomsday.sh.sub.de
+
+                          June 21,1994
+
+

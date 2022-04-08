@@ -1,0 +1,63 @@
+================================================================
+Title                   : The Cage 2.0
+Filename                : CAGE2.WAD
+Author                  : Liam Feldman & Brandon Fish
+Email Address           : st911227@pip.cc.brandeis.edu (LF)
+                          gr8white@camelot.bradley.edu (BF)
+Misc. Author Info       : LF: Caffeine addict, improver extra-
+                              ordinaire, desperately seeking Ms. Right
+                              (but would settle for Ms. Right Now)
+                          BF: Doom2 junkie, loves cookies,
+                              Drinks Pepsi (no ice)
+Description             : It's new! It's improved! It's the next in the Cage 
+                          series!  For Deathmatch only.  Less Simple, More 
+                          elegant.  Sleeker, more intricate.  Less filling,  
+                          tastes great!  Deadly (try it with four).
+                          *NOTE* Use it with the -timer option, as there 
+                          is no exit.
+
+Additional Credits to   : iD Software
+                          Matthew Ayres for Waded
+                          To all those who responded to Cage 1.0
+                          Ash from Army of Darkness (click-click, groovy!)
+                          The Coors Light Channel
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Level 01
+Single Player           : No. No exit, but if you want to look around...
+Cooperative 2-4 Player  : NO WAY! (Somethings wrong with you, isn't there?)
+Deathmatch 2-4 Player   : Hell Yeah!
+Difficulty Settings     : Nope 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Built from Cage 1.0
+Editor(s) used          : Waded 1.42, Edmap 1.23
+Build time              : 8 hours  (Not including playtesting)
+Known Bugs              : None.  (Except we have no idea of what to do
+                          for Cage 3.0)
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  (Just give us a little credit ok?)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+ FTP sites:
+   ftp.cdrom.com (Located in the incoming directory for 3 months, and then
+               probably in NEWSTUFFx)
+ Usenet Newsgroups:
+   alt.binaries.doom

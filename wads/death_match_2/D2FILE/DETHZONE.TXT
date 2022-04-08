@@ -1,0 +1,54 @@
+================================================================
+Title                   : DETHZONE   
+Filename                : DETHZONE.WAD
+Author                  : David Davidson
+Email Address           : None 
+Misc. Author Info       : 
+
+Description             : A great deathmatch for Doom 2.                                                   
+                          Perfect size, lots of sniping spots,(check the walls                           
+                          straight across from the lamps),set up for 
+                          deathmatch 2.0 rules
+              
+Additional Credits to   : ID, Of course! ================================================================
+
+* Play Information *
+
+Level #                 : Map01 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : YES! (Deathmatch only)
+Difficulty Settings     : Not implemented
+New Sounds              : 
+New Graphics            : 
+New Music               : Map06 Music
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Uses modified first room from map06 Doom2
+Editor(s) used          : 1DEU-II, DEU 521GC, IDBSP 1.01
+Known Bugs              : NONE
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+You may do whatever you want with this file.
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:

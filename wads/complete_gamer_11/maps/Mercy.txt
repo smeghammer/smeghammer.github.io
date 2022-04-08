@@ -1,0 +1,72 @@
+MERCY.TXT  Feb 16, 1998
+
+Play information: Quake2 map; MERCY
+
+
+This is a MERCY mission. STROGGOS is gone, but the Penal Colony DETEN3 holds 50 POW's that are being
+tortured/interrogated.  They are beyond any hope of medical attention - the best we can do is end
+their pain.  As such, you will sent on a mission of mercy - to kill all of your captured
+mates and end their pain.  They have managed to secrete about their persons various items that you
+will find helpfull in your quest - weapons and ammo and such - so take care in ensuring 100% kills in
+this mission. Good luck.
+
+
+
+THIS IS MY FIRST QUAKE MAP AND AS SUCH HAD QUITE A FEW MISTAKES/LEARNING ADJUSTMENTS. I'VE CORRECTED
+THE MORE BLATANT ONES AND WORKED AROUND A FEW OTHERS. THERE ARE A COUPLE OF PROBLEMS WITH FUNC_AREAPORTALS
+THAT I'VE YET TO SEE ADDRESSED BY ANONE ELSE SO I WILL MENTION IT HERE.  DO NOT PUT A DOOR/PORTAL
+RIGHT NEXT TO A WINDOW ( TRANS 33/66 ) !  TRY IT AND SEE WHAT I MEAN - YOU GET A HALL OF MIRROR ABOUT 50%
+OF THE TIME DEPENDING ON TIMING AND YOUR ACTUALL VIEW THROUGH THE PORTAL - DON'T KNOW IF IT VIS OR RAD THAT
+HAS THE PROBLEM OR JUST THE QUAKE ENGINE INTERPRETATION OF THE BSP BUT IT'S DEFENITELY THERE. ALSO, ITS MORE 
+THAN HARD TO TRY AND GET THE AREA PORTAL TO NOT ERROR OUT WHEN YOU HAVE VARIOUS ARCHES AND ROOMS
+IMMEDIATELY ADJECENT TO YOUR DOOR. FOR INSTANCE - PUT A NORMAL DOOR AND FUNC_AREAPORTAL THEN ANGLE THE
+HALLWAY ITS ENCLOSED IN AND ADD A BUNCH OF OTHER BRUSHES AROUND IT AND HAVE IT COME INTO A WEIRD SIZED
+ROOM - NOW TRY TO ADJUST THE AREA PORTAL OUTSIDE THE DOOR - UP AND DOWN ETC TO FIND OUT WHERE ITS 
+SUPPOSE TO BE TO BLOCK VIS FROM SEEING INTO THE OTHER ROOM ! YIKES - ITS ROUGH DEPENDING ON THE COMPLEXITY
+OF THE BRUSHES SURROUNDING YOUR DOOR/FRAME ETC.  ANYWAY, MY NEXT 2 HUB LEVELS WILL BE CORRESPONDINGLY
+BETTER - BET ON IT !  I'VE LEARNED ENOUGH TO BE DANGEROUS.  ALSO, R_SPEEDS ARE ABOUT 800 AS YOU ENTER THE
+BIG ROOM - CHOPPED ENOUGH STUFF OUT OF IT ALREADY, SORRY.   AGAIN, I'LL KNOW BETTER NEXT TIME !
+
+
+
+Final Note :  This is being released as a Single Level but was designed with a hub in mind - I modified the 
+change Levels to teleport you to the proper spot that you returned to. Don't think I'm going to be able
+to finish the 2 jail levels since I'm now working on a new project. Have Fun !
+
+Single Player	: Yes
+Coop		: Yes
+DM		: NO
+Difficulty set	: Yes
+
+How to Play     : Unzip these files into your quake2\baseq2\maps dir. 
+		  Press the ~ key when the game starts and type  :   map mercy
+
+Construction:
+
+Worldcraft v1.5 registered until I needed to implement help, goals, lightramp, animated texture's etc.
+which was pretty quick; so I finished with QERadiant; a VERY GOOD EDITOR ! Take note.
+
+I'd love to see these 2 merged !  - after having used Radiant for a while I've come to appreciate it 
+more and more - besides, Robert Duffy seems just as adept as Ben Morris ( Worldcraft ) 
+at increasing functionality/speed while tightening everything else up. Keep up the GREAT work both of you !
+
+Known bugs	: What's a bug ?
+
+Construction 	: No Idea: PII 266MHz, 200 MB RAM
+		  bsp, vis, rad ~ 48 min 
+
+Designer	: Brad Kiefer
+
+Credits  	: id software for quake2
+		: Robert Duffy for QERadiant
+		: Ben Morris for Worldcraft ( where the hell is 1.6  !!??   :> )
+
+* Copyright / Permissions *
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium that is sold for money without my explicit
+permission!
+
+You MAY distribute this BSP through any electronic network (internet, 
+FIDO, local BBS etc.), provided you include this file and leave the archive 
+intact.

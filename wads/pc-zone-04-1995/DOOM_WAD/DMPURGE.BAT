@@ -1,0 +1,1 @@
+doom -file dmpurge.wad

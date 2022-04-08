@@ -1,0 +1,51 @@
+================================================================
+Title                   : THE_GRID.WAD   
+Author                  : Dave Owens
+Email Address           : owens@vu-vlsi.vill.edu
+Description             : Specifically designed 4 player 
+                          deathmatch level (Fun single player too).
+                          Lotsa nooks and crannies.
+================================================================
+
+
+PLAY INFORMATION
+----------------
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+Exit                    : Yes  (one)
+
+
+CONSTRUCTION
+------------
+
+Base                    : New level from scratch
+Build Time              : Seems like forever 
+Editor(s) used          : Deu 5.1
+
+
+DESCRIPTION
+-----------
+
+THE_GRID.WAD is a specially designed 4 player deathmatch level.  
+It's a large level, but you don't end up wandering around 
+looking for your opponent for hours on end.  (I hate that)
+The only advanced weapons that are available are the chain gun
+and the shotgun.  I added monsters to the level so single player
+play is enjoyable, but the level is really designed for multiplayer
+cooperative or deathmatch play.  It's a straight up, knock down, drag 
+out shooter.  Do whatever you want with this level, but if you really
+screw with it take my name off of it.  If someone decides to include 
+this in some special deathmatch episode or something, I'd like you 
+to put my name in some sort of documentation so I can feel important.  
+If you really like this level give it to someone who likes playing 
+four player DOOM or, if you feel the need, send me a WAD that you made.
+If anyone has any problems with this level, especially 3 or 4 players
+(I don't have access to a network) please drop me e-mail with the
+nature of the problem....maybe I can fix it.

@@ -1,6 +1,0 @@
-Author : Dave Hansford
-id: 100102,302
-
-This is a replacement for E2M2 of doom.
-Please  feel free to use this as a base for your own levels, I only ask that if you use it you send me a copy of the new level. and that i gain some acknowledgement.
-Thanks to Ed for play testing and ID for making such an excellent game engine.

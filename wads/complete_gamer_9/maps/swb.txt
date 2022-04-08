@@ -1,0 +1,36 @@
+================================================================
+
+Title                   : Slippery When Bloody
+Filename                : swb.bsp
+Author                  : TheRooster / Brian Bartlow
+E-mail                  : TheRooster@bigfoot.com
+Description             : 2-8 player DM map for Half-Life
+Special Thanks to       : Valve - Duh, Matt S & Mason V - Playtesting
+			  Everyone who helps others
+
+================================================================
+
+Map Information
+
+Type                    : Deathmatch
+# Players               : 2 to 8
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+================================================================
+
+Construction
+
+Editor used             : Worldcraft v2.0
+Construction Time       : About 2 weeks off and on
+Compile Date            : 01/06/1999
+
+================================================================
+
+This map may be distributed freely as long as this text file accompanies the bsp.
+
+There shouldn't be any bugs (texture or otherwise) but if there are, please let me know.  I hate things like that.  :)
+
+
+BTW, people who run into your car, don't have insurance, AND refuse to take responsibility suck!

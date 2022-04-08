@@ -1,0 +1,20 @@
+corr2 is a very small deathmatch level. being smaller makes it run much
+
+smoother via modem connections. it still works very well for
+
+two player deathmatch
+
+
+nomonsters
+
+only two player start points.
+
+four deathmatch starts.
+
+made with deu5.2 replaces level 1 1
+
+
+made by dan bekker. send comments to...
+
+briant@cie.uoregon.edu
+

@@ -1,0 +1,55 @@
+
+Title                   : Chris the titan
+Filename                : tac.zip
+Author                  : Jussi Tuononen 
+Email Address           : jussi.tuononen@mhs.studit.com
+                          (I got a new email address, "again")
+WWW Homepage:		: http://home.studit.com/~mhs00493
+                          (And a new homepage...)
+Date of release		: July 10, 1998
+Description		: -
+
+
+Additional Credits to   : id sofware and the makers of Quest.	
+			
+=========================================================================================
+
+* Play Information *
+
+Game			: Quake II
+Level Name       	: "Chris the titan"
+File name		: tac.bsp
+Single Player           : Yes
+Cooperative 		: No
+Deathmatch 2-8 Players  : No
+Difficulty Settings     : No
+New graphics		: No
+Anything else new:	: No
+			  
+					 
+					    
+* Construction *
+
+Base            : new level
+Build Time      : 2 weeks 
+Editors used    : Quest 2.27
+		   	  
+
+Compilation: -
+
+Platform used   : P-166 MMX 48MB RAM
+Known Bugs      : None. 
+
+* Copyright / Permissions *
+
+This level is (c) by J. Tuononen, 1998.
+Don't put this level on any sort of commercial product please. 
+
+You MAY distribute this BSP through any electronic network , provided you 
+include this file and leave the level in it's original form.
+
+Don't use this map for a basis of another level, please, or at 
+least tell me what you want to do with it.
+
+
+

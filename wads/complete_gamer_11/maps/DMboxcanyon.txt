@@ -1,0 +1,57 @@
+================================================================
+Title                   : Box Canyon
+Filename                : DMBoxCanyon.unr
+Orginal Author          : Jagwire X
+Email Address           : jagwire@aus-etc.com
+Group Affiliation       : N/A
+Description             : A deathmatch level that takes place in
+                          an walled in canyon area.
+Additional Credits to   : Epic Megagames and the Unreal team and
+                          all tutorial writers everywhere.
+                          Special thanks to my wife, Melanie,
+                          for putting up with my obsession.
+
+================================================================
+
+* Play Information *
+
+Single Player           : no
+Cooperative             : no 
+Deathmatch              : 2-8 players
+Botmatch                : 1-7 bots 
+
+* Construction *
+
+Base                    : Unplanned from scratch.
+Finish Date             : 6/5/98
+Version                 : 0.9
+Editor(s) used          : UnrealEd
+Known Bugs              : A few spots can get you stuck.
+                          Some slowdown with a lot of bots or
+                          players.  Skybox a little bit too low.
+Build Time              : 8 hours
+
+================================================================
+
+* Future Plans *
+
+I'd like to polish this level up a bit and add a few more
+features.  I have several ideas for other deathmatch levels and
+single player levels.
+
+================================================================
+
+* Other *
+
+Please email me with you comments or suggestions.
+
+Jagwire X
+jagwire@aus-etc.com
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+This map may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this map on any CD or distribute it in
+any way without my permission. 

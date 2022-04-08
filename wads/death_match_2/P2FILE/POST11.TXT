@@ -1,0 +1,42 @@
+================================================================
+Title                   : POST11.WAD
+Author                  : Ray Trochim
+Email Address           : trochim@rtt.colorado.edu
+Misc. Author Info       : student 
+                          
+
+Description             : *to play, just run the .bat file*
+                          Your outpost was over-run by monsters! You 
+                          wait for the shuttle by the landing pad but 
+                          a garbled message hints to you that it's going 
+                          to be a no show. You must clear out the post
+                          yourself! You know that there are two yellow
+                          keys to the armory and the blue key is for the
+                          exit. The red key is to get into the command
+                          center.
+
+Additional Credits to   : My trusty computer Napoleon
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : A long time, not sure on the # of hours
+Editor(s) used          : Doomed ver. 260b2, and DEU51 for debugging
+
+    
+                              
+================================================================
+
+

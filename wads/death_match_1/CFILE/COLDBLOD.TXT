@@ -1,0 +1,60 @@
+================================================================
+Title                   : COldblod.wad 
+Author                  : David J. Hill   
+Email Address           : Mentzer@aol.com
+
+Description             : This is for solo play only.  The next level in
+			  Wads.  Problem solving and skills are needed.
+			  
+	     	    	  You are in a four story building and things just
+			  don't seem right.  You have had it with this place.
+			  All you can think about is getting back home and
+			  downing a Samuel Adam's cream stout.  
+			  
+			  
+			  
+Additional Credits to   : First off my wife, a doom widower.  Also a 
+			  special thanks goes to Tom Doyle (TDdoyle)
+			  for his great help and suggestions.
+			    
+			  The authors of DoomCad and ID software. 
+			  I want my Quake! 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Yes, only 
+Cooperative 2-4 Player  : no
+Deathmatch 2-4 Player   : no - check out mentzer1 and mentzer2 for doom 2. 
+Difficulty Settings     : NO
+New Sounds              : NO
+New music               : NO
+Demos Replaced          : None
+Date Finished		: December 15, 1994  
+
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Around 25 hours.
+Editor(s) used          : DoomCad 4.3
+Known Bugs              : None
+
+===============================================================
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels, just give me credit for my effort.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+If you find any bugs or have question or comments, write to Mentzer@aol.com.
+
+* Where to get this WAD *
+
+Other: America On-Line, Compuserve

@@ -1,0 +1,51 @@
+Well, here it is: 9 completely new Doom levels all play tested and 
+ready to go. I have fixed the problem with multi-player games. They 
+are all set up for different difficulty levelsand multi-player games. 
+I suggest doing them all in order without using any cheat codes. 
+
+To play: 
+              Type DMSFG (I made a batch file for you)
+
+              They take over "Knee Deep in the Dead" (so pick that)
+
+              Then choose Ultra Violence (or whatever.....wimp!)
+
+Things to think about: 
+
+1) Most enemies fight each other! (Imperative for level 1)
+
+2) You can't get everything you see.
+
+3) You can't kill 100% of the bad guys on some levels.
+
+4) Don't use cheat codes!
+
+5) Don't spend all your time looking for secrets.  There aren't very many
+and they are mostly in obvious places.
+
+6) Try to get through without the temptation of cheat codes.
+
+7) You can kick major demon but on every difficulty level without using
+any cheat codes.
+
+8) Save the game a lot on level 8!
+
+Special thanks to:
+
+Raphal Quinet and Brendon Wyber (For giving us DEU 5.0)
+
+Rich Dersheimer "Blackfist" (For his Beginners Guides to DEU)
+
+John Kilgore (For "reluctantly" play testing all the levels)......10-15 times.
+
+Ben Jordan "ME" (For spending about 100 hours of his time to give you
+                 a complete set of levels)
+So go kick some major demon butt for me. And hey! I spent a lot of time 
+creating these levels for you so the least you could do is drop me a note
+with any questions, comments and suggestions.  (I hardly get any mail)
+CSERVE address 71564,2234
+
+And by the way.... I claim no responsability to whatever may happen
+to your computer or your brain while playing this game. Good Luck!
+
+P.S. Don't use cheat codes!

@@ -1,0 +1,52 @@
+============================================================================
+Title                  : FIVE REALLY INSANE ENVIRONMENTS in DOOM.
+Filename               : FRIED.WAD
+Author/Date            : Michael C. Davis - 10/94
+Email Address          : none!
+Misc. Author Info      : This is one big, solid wad file. Play tested and 
+			 "tuned" for all player skill levels. Fun for the
+			  whole family!!!! :->.
+
+Description            : This level pits you against five different enemies
+			 in five different environments... There are (roughly)
+			 five different types of enemies that you may encounter.
+			 The "tools" that may be useful for securing the next
+			 area are usually provided in the current area...
+			 Good luck, Colonel, We're depending on you.
+
+Additional Credits to   : DEU ver. 5.2, BSP 1.2, and of course, ID software.
+============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch.
+Editor(s) used          : DEU ver. 5.2, BSP 1.2. 
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD, (and many others).*
+
+FTP sites: none.
+
+BBS numbers: Software Creations - (508) 368-7036
+

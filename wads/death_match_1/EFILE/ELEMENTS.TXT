@@ -1,0 +1,90 @@
+=========================================
+ELEMENTS.WAD - The Four Elements of DOOM?
+=========================================
+
+ELEMENTS is a set of missions that replaces much of
+Episode 1.  Please read the storyline in the text
+file ELSTORY.TXT.   To use elements, run elements.bat
+or type "doom -file elements.wad elmusic2.wad".
+
+======================================================================
+Title                   : ELEMENTS.WAD
+Author                  : Neal Ziring
+Email Address           : nziring@aztech.ba.md.us
+
+Description             : UAC has been trying to stage a counter- 
+			  attack on Hell, via the realms of
+			  the four elements: Air, Water, Earth
+			  and Fire.  The effort has gone awry,
+			  the demons are winning, and you have
+			  gone in to eliminate all opposition.
+
+Additional Credits to   :  iD, for such a great open technology!
+			   R. Quinet & B. Wyber (Authors of DEU),
+			   B. Neisius (dmmusic, dmgraph, dmaud),
+			   R. Rossbach et.al. (idbsp), C. 
+			   Reed (BSP 1.2x), K. Wilkins (wacker),
+			   Jens Hykkelbjerg (Rmb), Pharses (Dshrink),
+			   S. Kearney (1 mus file), M. Coyne (2 mus),
+			   All my beta testers specially Joe and Mike, 
+			   Corel Corp., Digital Expressions, Aldus,
+			   Various sites on the net for MIDI files.
+			   (and my wife for putting up with this..)
+			   
+======================================================================
+
+* Play Information *
+
+Episode and Level #s    : E1M1 - E1M4, E1M9
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (designed for 2, mainly)
+Deathmatch 2-4 Player   : Yes (untested, E1M4 could be good)
+Difficulty Settings     : Yes (substantial variation)
+New Sounds              : Yes (all music, two sounds)
+New Graphics            : Yes (new textures, titles, startup)
+Demos Replaced          : None
+
+Notes                   : The Pwad file elements.wad does not contain
+			  the new music selections.  Selections of
+			  classical music are in elmusic2.wad, and
+			  pop music (sorta) is in elmusic1.wad.  All
+			  the graphics are in elements.wad.
+			  For more information, see elnotes.txt
+
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : 100 hours (whew!)
+Editor(s) used          : DEU 5.21
+Tool(s) used            : dmgraph, dmmusic, midi2mus, dmaud, idbsp, 
+			  bsp12x, rmb, wacker, dshrink,
+			  PaintShop Pro, SB Wave Studio, Music Sculptor,
+			  Aldus Photostyler, CorelDRAW, Corel PhotoPaint.
+		   
+Known Bugs              : Occasional dark vertical lines with joined
+			  partially transparent textures.  One instance of
+			  the veil effect (hard to find, doesn't hurt play).
+			  Funny transient falling floor effect in FIRE,
+			  just a quirk of the DOOM engine, not really HOM.
+			  [Note: Dshrink has been applied to these maps,
+			  that makes this Pwad unsuitable for map editing. 
+			  Anybody who wants the unshrunk maps to use, just
+			  contact me via email.]
+					   
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels.
+
+You MAY distribute this DOOM add-on in any electronic format (BBS, 
+Diskette, CD, etc) as long as you include this file intact.  
+
+The musical selections in Elmusic1.wad are copyrighted by the various
+musicians and are distributed for personal, private use only.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu (and mirrors)
+

@@ -1,0 +1,58 @@
+================================================================
+Title                   : Where?  The Warehouse!   
+Filename                : WAREHSE1.WAD
+Author                  : Jeff Gerstmann
+Email Address           : jgerstma@nermal.santarosa.edu
+Misc. Author Info       : I have hair.  I have never broken a bone.
+                          This is my first WAD.  I like eating meat.
+
+Description             : This level just screams 4-player deathmatch.
+                          Since the maze is so big, you may want to use
+                          respawn just to give yourself something to do
+                          while looking for the others.  I have a theme
+                          in mind, so this may become part of a 9 level
+                          episode.  But then again, everybody says that.
+
+Additional Credits to   : Everyone, everywhere.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yeah, but who ever plays in co-op mode?
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes, it was built for deathmatch, so it's kinda
+                          rough at UV.
+New Sounds              : No, although I thought about it.
+New Graphics            : No, I haven't started playing around with that yet.
+New Music               : Nope, couldn't find any good stuff to use.
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 8 hours, not including the time it took me to learn
+                          how to use DEU.
+Editor(s) used          : DEU 5.21, REJECT10
+Known Bugs              : Occasional object disappearances on UV.
+                          I took out a lot of objects, but it still
+                          does it.
+                          
+
+* Copyright / Permissions *
+
+Authors CAN GO AHEAD AND use this level as a base to build additional
+levels.  Just be a pal and at least credit me. 
+
+You CAN GO AHEAD AND distribute this WAD, provided you include this file, 
+with no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file intact.
+
+
+
+* Where to get this WAD *
+
+infant2.sphs.indiana.edu
+
+

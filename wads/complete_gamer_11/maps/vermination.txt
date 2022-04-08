@@ -1,0 +1,69 @@
+03/19/98
+================================================================
+
+Title          		: Versicolored Vermination
+File name		: vermination.zip
+All Related Files	: vermination.zip contains and should always contain:
+			  -vermination.bsp
+			  -vermination.txt
+
+Author                  : Roger Staines
+Email Address           : eas@interlog.com
+Description             : (Definitions extracted from Microsoft bookshelf)
+
+			versicolor (vûr´sî-kùl´er) also versicolored (-kùl´erd) adjective
+			1.	Having a variety of colors; variegated.
+			2.	Changing in color; iridescent.
+
+
+			vermination (vûr´me-nâ´shen) noun
+			Infestation by vermin, especially parasitic vermin.
+
+
+			
+
+================================================================
+
+
+* Play Information
+
+Single Player           : Yip
+Cooperative             : Nope
+Deathmatch              : Nope
+Difficulty Settings     : Yip
+New Sounds              : Nope
+New Graphics            : Nope
+Demos Replaced          : Nope
+Source Included         : Nope
+
+
+* Construction *
+
+Base                    : New level from scratch 
+Editor(s) used          : Worldcraft and QERadiant
+
+Build Time              : 50-60 hours
+Total compile time	: 3 hours 31 minutes
+
+
+
+*Thanks To*
+Id Software, 
+Ben Morris and Worldcraft, Joost Schuur at cdrom.com.
+A special thanks to all of my good friends in the Quake community who 
+hardly ever hear from me anymore...it's just been that sort of year so far.
+My great thanks to Gene, Neil, Igor and espesially Paul, you convinced me 
+that the target_speaker was a powerful tool as now I know it is. I now
+regret building this entire piece without that in mind.
+
+* HOW TO INTALL *
+
+If you don't already have a folder called maps in your quake2\baseq2 directory
+then create one in there.
+Place vermination.bsp in the maps folder and start quake as you normally do.
+Once Quake2 is running hit the (~) key and type in map vermination.
+
+This level may be distributed freely around the Internet providing
+this file remains attached. This level can not be included in a 
+cd/diskette compilation or any commercial product intended for public
+sale without written permission from the author.

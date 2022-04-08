@@ -1,0 +1,70 @@
+
+================================================================
+Title                   : Undergound Military Bunker   
+Filename                : BUNKER.WAD
+Author                  : Terry Hamel
+Email Address           : Care of somervi@rigel.cs.pdx.edu
+Misc. Author Info       : Stickler for detail
+
+Description             : Trapped in the enemy bunker, your only
+                          goal is to get out alive.  Such a simple
+                          plan, such an impossible feat.
+
+Additional Credits to   : Banished CPU for NetDoom testing
+
+Notes                   : We've seen an influx of DOOM PWADs due
+                          to the influx of editors, and they are 
+                          progressively getting better and easier,
+                          but clay in the hands of a novice still
+                          makes mud pies!  I've play tested over 
+                          50 such PWADs and it looks like the GOOD
+                          DOOM PWADs, ones that feel like they 
+                          meet ID's high standards, is going to be
+                          less than ten percent.  I'm proud to say
+                          that this PWAD has been fully tested, 
+                          critiqued, and "debugged".  When you play
+                          BUNKER.WAD, you will only ENJOY the 
+                          experience because it has been made with
+                          CARE!
+                          
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU v5.2, BSP v1.1x
+Known Bugs              : Slight HOM at twin staircase if looked from the
+                          right spot
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels, 
+but please mention that it was built from BUNKER.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu in /pub/doom/wads/a-c/bunker.zip
+
+BBS numbers: Banished BPU          (503) 232-5783   28.8k multi-line!
+             NW Computer Support   (503) 620-5910   36 lines
+             
+Other: (503) 497-6247 voice mail
+

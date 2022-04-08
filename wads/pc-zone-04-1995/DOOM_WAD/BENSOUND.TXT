@@ -1,0 +1,61 @@
+============================================================================
+Title                   : Ben's DOOM Sounds
+Filename                : BENSOUND.WAD
+Author                  : Ben Sze
+CompuServe ID           : 71202,1312
+Description             : These are some sounds I recorded and
+                          editted to replace ALL the creatures'
+                          sounds.  As well, the pistol fire sound
+                          has been replaced with a hollow sounding
+                          gun fire but it has a neat ending: the
+                          sound of bullet shells hitting the ground!
+                          I'm placing these sounds in
+                          a separate PWAD file instead of putting
+                          them into actual level PWAD files
+                          to allow users the option of including
+                          or not including the sounds (after all,
+                          you may get sick of the voices - I know
+                          I did! :).
+Additional Credits to   : Jen Tiffin (for doing the Baron's voice), 
+                          and James LeBlanc (for supplying a mysterious
+                          sounding pistol fire WAV file).
+============================================================================
+
+* Play Information *
+
+Episode and Level #     : None
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Difficulty Settings     : N/A
+New Sounds              : Yes - ALL creature sounds have been replaced.
+                                As well, the pistol's sound has been
+                                replaced.
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New sounds from scratch
+Editor(s) used          : SB16 Windows Utils, GoldWave v2.1, DMAUD v1.1
+Known Bugs              : When I used DMAUD to put the WAV files into a PWAD
+                          a noticeable "popping" sound was appended to the
+                          end of each sound.  This "popping" sound is NOT in
+                          the original WAV files.  I don't know why DMAUD
+                          does this.
+
+
+* Copyright / Permissions *
+
+Authors may NOT use these sounds as a base to build additional sounds.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+CompuServe:  GAMERS' Forum - In the Action Game Aids Library

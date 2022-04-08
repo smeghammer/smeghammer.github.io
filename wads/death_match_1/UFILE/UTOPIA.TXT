@@ -1,0 +1,41 @@
+================================================================
+Title                   : utopia.wad
+Author                  : Scott
+Email Address           : 7221,620
+Misc. Author Info       : 
+
+Description             : Fourth in a series.  You broke out of prison in 
+                          "Prison Escape. You took out "The Star Chamber", 
+                          The super secret organization That put you there. 
+                          You then went "Back to HQ", and found out it
+                          had been taken over by a one world group. After 
+                          regaining control of HQ, It's now time to take a 
+                          vacation.  So, you sign up for "Club Utopia".  It's 
+                          not exactly what you Expected. More creative 
+                          architecture, and still a challenge. 
+Additional Credits to   : David Bruni, and Paracelsus for all their time and 
+                          patience in teaching me how to create a pwad.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes (untested)
+Deathmatch 2-4 Player   : Yes (untested)
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 60+ hours 
+                          Editor(s) used : DoomEd 2.60
+Known Bugs              : None that I know of, but, may be slow. Sorry, I 
+                          have a Pentium. Future levels will be smaller.
+
+* Copyright / Permissions *
+
+I'd appreciate it if you would not use this level to build a new one.

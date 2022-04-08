@@ -1,0 +1,51 @@
+24th December 1997
+===================================================================
+Title                   : E1M7 for Quake2
+Filename                : q2e1m7.bsp
+Author                  : Kam3l3on
+E-Mail			: sanderq@xs4all.nl
+Description             : Quake 2 conversion of Quake 1's E1M7
+		  	  Only for deathmatch. (sorry, no Chton :)
+Additional Credits to   : ID for Quake and Quake2.               
+			  Armin Rigo for QuArK.
+			  
+================================================================
+* Play Information *
+
+Single Player           : No
+Cooperative             : No 
+Deathmatch		: Yes
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+New QuakeC		: No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : e1m7.bsp
+Editor(s) used          : QUake ARmy Knife 4.06
+Known Bugs              : None
+Build Time              : One day
+
+Compile machine         : Pentium 166/32Mb RAM
+QBSP3 Time              :  7 seconds
+QRAD3 Time              : 10 seconds
+QVIS3 Time		: 10 minutes
+
+* Other Info *
+
+Q2E1M7 is only for deathmatch, so I removed the lightning installation
+of the original and the path to the exit, wich is never used in deathmatch.
+I changed one super nailgun into a chaingun and the other into a machinegun
+There is no hyper blaster because then I would have to put another
+type of ammo in the level. The grenade launcher near the start of the
+level is now a railgun, but you'll have to do it with the 10 slugs that come
+with the railgun, there is no ammo for it.
+Enjoy the level, and mail me your opinion.
+
+* Copyright / Permissions *
+
+Copyright 1997 by Kam3l3on. Modifying or selling without
+written permission of the author is prohibited.

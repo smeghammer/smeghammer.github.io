@@ -1,0 +1,42 @@
+================================================================
+Title                   : The Pit of DOOM   
+Filename                : DOOM-PIT.WAD
+Author                  : THE BIG GUY
+Email Address           : 163:405/5
+Misc. Author Info       : The Big Guy, SysOp - H.H.L. SYSTEMS BBS
+                                               (204) 897-0751
+Description             : Nice clean level for DOOM Players
+                          Tried to make it fairly bright. 
+                          Lots of Ammo & Secret Doors etc...
+Additional Credits to   : Keith Scott for all the Beta Testing
+================================================================
+* Play Information *
+
+Episode and Level #     : E1 M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Doom Editor Utility v5.21
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+BBS numbers: H.H.L. SYSTEMS BBS @ (204) 897-0751
+
+Other: Most other "Good" BBSes that support DOOM.   :)

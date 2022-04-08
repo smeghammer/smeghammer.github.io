@@ -1,0 +1,349 @@
+================================================================
+Title                   : Cleimos (pronounced "clay-mos")
+
+			  A complete 9-level replacement for Episode 2.
+
+File Name               : cleim10.wad 
+  
+Authors                 : Rand and Steven Phares
+
+Email Address           : phares@dg-rtp.dg.com
+
+Additional Credits to   : id Software, Inc.
+			  & the authors of:
+				deu
+				dmgraph
+				bsp
+				wad_dwd
+				idbsp
+				the FAQ
+				the SPECS
+
+Special Thanks to       : Beta testers -
+			     In Houston, Texas:
+				Peter Brown
+				Beth Madry
+			     In Beaumont, Texas:
+				Chris Williams
+				Craig Williams
+				...and the punk next door to them
+
+================================================================
+
+THE STORY SO FAR...
+
+     It's the year 2112.
+     You're "Nuts" Kelton, crack mercenary, swift as hell and twice as
+tough.  Name your price and you get the jobs.  You've been to most of
+the scorched spots on Earth, as well as flareups on the Jupiter moons and
+the far side of Kladskar.  You've been in complete control of every
+situation, every time.
+     Except, at the moment, you're Nuts Kelton, crack mercenary,
+floundering on a rubber raft somewhere in the dark Caribbean night after a
+freak storm...
+
+				###
+
+     In the dim pre-dawn air, Kelton pulled the raft from the foaming
+water and collapsed on the gray sand of Cleimos Island.  "Jesus," he
+thought, eyeing the empty raft, "that damned storm took everything 'cept
+me 'n' you."  He touched his side, underneath the wetsuit, checking the
+single pistol and several clips of ammo.  "Lucky thing I didn't toss these
+babies in the supply box."
+     He rose and looked around--nothing but naked beach and scraggly
+vegetation.  He knew from the maps that a dense jungle lay further inland,
+as well as small snow-capped hills.
+     "Snow," he thought.  "In the Caribbean."  He shook his head.  What
+a goddam mission...
+     In the murky light, the sand was beginning to take on a dull red cast.
+He knew that when the sun reached its peak, the sky would be stark, raving,
+shitass red, an after-effect of the Moray Storm twenty years earlier.  Red
+sun, red sky, even a red friggin' ocean.  "Christ," he thought, as he
+removed the wetsuit, "I need to find a ticket off this planet.  The moon,
+Alpha-7, Mars, whatever."
+     He dropped the wetsuit into the raft and headed north, into the
+brush.  The maps had shown an outlying transport station in that
+direction, and the transports were the only way into the compound.  Keeping
+low to the ground, senses alert for anything, he slipped through the
+undergrowth, which was already tinged with red from the rising sun.
+     "Well, maybe not Mars," he thought.  "Too much damned red shit
+there, too..."  	
+
+				###
+
+     "Something's wrong at Cleimos," Connors had said.
+     They were in Connors' office.  Kelton stared hard at the other man,
+wondering why he'd been called back from Singapore just when things were
+getting interesting.
+     "Get down there and check it out," Connors said, tossing him a file.
+"Clean it up yourself, or let us know what we have to send in."
+     Kelton opened the file and skimmed through it. The Cleimos
+corporation ran an island training compound in the Caribbean, catering
+to anyone who could pay, to anyone who had a thirst for combat, to anyone
+who needed hands-on training with advanced weapons and tactics.  He
+flipped through several pictures of scientist-types standing next to
+complicated machinery.  The word DOOM jumped out at him from several
+glossy brochures.  "Shit," he said to Connors.  "Looks like a buncha
+babies run this place.  Bet a buncha babies fly in there, too."
+     "Shut up and read," Connors said.
+     Kelton tossed the file back at him and said, "Screw the file.  And
+screw you, too, Connors.  Just tell me what I need to do."
+     Connors sighed, looked briefly at the ceiling, and said, "A few years
+ago, Cleimos built this place using new technology in the field of
+holographic projection.  The idea was to give armies and mercenary-types
+somewhere to train that was tough on them, but wouldn't kill them."
+     "What's this DOOM crap in the brochures?"
+     "Back in the twentieth century, Virtual Reality was just getting born,
+and one of the earliest commercial efforts was a computer game called DOOM.
+It was just a game, but it took hold for several years, was followed by
+another game--more extensive than DOOM--called QUAKE, and then, just about
+the time we hit the millennium, QUAKE was followed by ONSLAUGHT.  *That*
+was the turning point.  Breakthrough technology and breakthrough gaming
+caused a mass exodus from reality.  ONSLAUGHT rippled through the
+population like a bad drug, and after four years, it had caused so many
+problems that governments around the world stepped in, banned it, and
+eventually succeeded in wiping out all traces of it.  That single act--
+governments cooperating at an unprecedented level to purge ONSLAUGHT--set
+up the World Order we know today."
+     "And Cleimos?"
+     "I guess the folks down there dug around in history a bit and came
+up with this DOOM angle, the thing that started it all.  They hired the
+best minds in holographic technology, built the complex, and WHAM!"
+     "How come I never heard of Cleimos?"
+     Connors looked down at his desk and pressed a button.  "Well," he
+said, "you've been out of touch for a while."
+     Kelton leaned forward and looked at him.  "What're you talkin' about?
+I've been back on Earth long enough.  I would've heard about this place."
+     "Forget it," Connors said.  An aide appeared at the door.  "Get
+Kelton whatever he needs," Connors said.  "He's going on a trip."
+     "Wait a minute," Kelton said.  "You haven't told me what's *wrong*
+down there yet.  I ain't no goddam mechanic.  I don't know nothin' about
+holograms!  Can't those weanies fix their own shit?"
+     Connors put both hands on the desk and leaned toward Kelton.  "What's
+wrong, Kelton, is that whatever safety devices these people installed--you
+know, stuff to keep the visitors from getting hurt--have apparently broken
+down.  They don't work worth shit any more.  Three days ago we picked up
+some transmissions from a bunch of guys screaming that the holograms had
+become self-sustaining, and were blowing away the paying customers, not to
+mention the staff.  I sent in a team to give me some first-hand
+intelligence, and nobody showed at the pickup point.  I have to assume
+they're dead."
+     "So I'm it, huh?"
+     Connors waved Kelton toward the door.  "You're it.  Go in, shut the
+place down.  If these things are running around under their own power, I
+don't want 'em wandering off.  If I don't hear from you in 24 hours, I'm
+just gonna nuke the whole setup."
+     Kelton paused in the doorway.  "Wait a minute.  Why don't you just
+save me a trip and nuke it now?"
+     Connors cocked his head and stared at him.  "You think about that
+for a while and I'm sure you'll come up with the answer..."
+
+				###
+
+     Kelton found the helicopter pads first.
+     There was no one around--at least no one still alive.  There were two
+pads, and it looked like a Victor-7 had been trying to lift off one of them
+when it was hit by something big--really big.  Scorched bodies littered the
+pad in all directions, and he could still feel the heat coming off the
+twisted remains of the chopper.
+     He followed the walkway toward the main set of  buildings.  Still no
+signs of life.  He edged into a low, flat building with a shredded WELCOME
+banner still strung across its entrance.  Something had blown a hole
+through the far side of what looked like a reception area, and through it
+he could see white transports sitting on their tracks, waiting to carry
+visitors into tunnels that led to the island's interior.
+     Something growled, and Kelton turned toward the sound, pulling his
+pistol from its sheath.  The sound had come from a hall to his left, and he
+slid along the wall in that direction.  He peered into the first room he
+came to, and caught sight of something big and pink disappearing through a
+blast-hole on the far side of the room.  "What the hell was *that*?" he
+thought, moving to the opening and carefully scanning the thick jungle
+growth outside.
+     Nothing.  Whatever it was, it had disappeared.
+     He turned back into the room, and moved quickly back to the reception
+area.  "Enough of this crap," he said out loud.  "Let's get your sorry tail
+down to the main event."  He made his way to the transports, keeping an eye
+out for anything that even *hinted* it was pink... 
+     He scrambled into the nearest transport, found the controls, and
+kicked on the power.  Overhead lights came on, and the transport began
+to hum.  He scanned the controls, hit a button marked MAIN STATION, and the
+transport started moving, quickly picking up speed.  The windows filled
+with passing green, then black as the transport entered an access tunnel.
+A few moments later, speakers in the transport came alive with the most
+godawful elevator music Kelton had ever heard.  Then the music faded,
+giving way to a nauseating droning voice...
+     "Welcome to Cleimos."
+     "Welcome, yourself," mumbled Kelton.
+     "If you know your destination environment," the voice said, "please
+proceed to that access hall, directly off the main gallery.  Please have
+your yellow keycard available."
+     Kelton patted his pockets.  "Seems I left mine home," he said.
+     "If you need help deciding which environment is most suitable for
+you, please proceed to the information desk at the end of the main gallery.
+A host there will assist you.
+     "If your skills need touching up, you may wish to proceed to the
+ADVENT environment, directly on your left as you enter the main gallery.
+     "We hope you have a pleasant stay.  For the continued health of our
+guests, we ask that you refrain from smoking or other substance abuse."
+     The music came back, and Kelton laughed.  "Jesus," he said.  "What a
+load of horseshit..."
+     The transport began to slow.  The tunnel walls, visible through the
+side windows, were no longer a blur.  Kelton began to see the sharp angles
+of the charcoal-like substance lining the tunnel.
+     He checked his pistol and ammo supply, and started for the front
+of the transport.
+     "Here we go," he said...
+
+================================================================
+
+* PLAY INFORMATION *
+
+Episode                 : Episode 2 (all levels)
+
+Dependencies            : DOOM v1.2 (registered)
+
+Single Player           : Yes
+
+Cooperative 2-4 Player  : Yes, though we've no experience with multi-
+			  player DOOM (poor us).  Feedback welcome.
+
+Deathmatch 2-4 Player   : Yes, same caveat.
+
+Difficulty Settings     : Yes
+
+New Sounds/Music        : No; you have enough already
+
+New Graphics            : Yes
+
+Demos Replaced          : Three.  The first 2 are from Cleimos, the last
+			  one is our version of an out-of-towner trying 
+			  to check into a big-city hotel...
+
+================================================================
+
+* CONSTRUCTION *
+
+Base                    : New episode from scratch
+
+Build Time              : Four months
+
+Tools used              :      deu - designing the levels
+			       bsp - building nodes, etc. (draft wads)
+			     idbsp - building nodes, etc. (final wads)
+			   wad_dwd - creating idbsp input
+			   dshrink - reducing sidedef info in wads
+				     (see below)
+			   dmgraph - graphics
+
+Known Bugs              : HOM in a few places because of DOOM v1.2 limits.
+			  No other known bugs.  If you find some, please
+			  let us know.  Unknown bugs might be found
+			  in multi-player modes (cooperative, deathmatch),
+			  since we don't play those and couldn't debug 'em.
+
+Caveat                  : There are a few dead-ends.  We know some players
+			  don't like these, but we put 'em in.  Taking
+			  the wrong turn may drop you into one, so save
+			  often.
+
+================================================================
+
+* LEVEL INFO *
+
+ADVENT                  : Arrival at Cleimos Island.  The staff has
+			  managed to shut down most environment entrances
+			  to prevent leaks, but they weren't able
+			  to finish the job; something invited them to
+			  dinner...
+
+TRAPPED                 : You can't seem to make any progress; you keep
+			  returning to the same room.  You hope you never
+			  see green marble again...
+
+TORMENT                 : Creatures to the left of you, creatures to the
+			  right...  Save, save, save.  Did we mention
+			  that you should save often?
+
+ENCLAVE                 : Easy to break into, tough to break out of.
+			  They've really dug in deep.
+
+HAZARD BASE             : One wide-open space and a bunch of tight
+			  situations.  Hazardous to say the least.
+
+VEIL OF BLOOD           : YOUR blood, so run like hell!  The architecture
+			  can kill you, so save often!
+
+ANNIHILATION            : Keep an eye out for the three teleport pads.
+			  Each gives you a different way through to the end.
+
+THE UNGATHERED          : They're scattered around the grounds of a
+			  castle.  Your choice of three different
+			  endings.  Better say your prayers while you're
+			  in the church...
+
+COMMAND + CONTROL       : Rumored to be the nerve center of Cleimos, this
+			  is where they spawn the 'grams.  Shut it down,
+			  PLEASE!  Trick is, you have to find it...
+ 
+================================================================
+
+* COPYRIGHT / PERMISSIONS *
+
+Authors may NOT use this episode as a base to build additional
+episodes or levels.  (The CAVEAT noted below in the dshrink text explains
+why you wouldn't want to do this anyway.)
+
+You MAY distribute this episode, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+================================================================
+
+* WHERE TO GET THIS WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+
+================================================================
+
+* DSHRINK *
+
+Dshrink is a program for removing redundant sidedefs from WADS.  It turns
+out that WADS don't need all the sidedefs they typically come with.
+If two sidedefs in the same sector are identical, DOOM
+can just as easily paint both walls using either sidedef, making the
+other redundant.
+
+Dshrink greatly reduces the size of WADS, typically removing over 50%
+of the sidedefs.  "The Ungathered", the eighth level of Cleimos,
+built with deu and run through wad_dwd and idbsp, weighs in at 300k before
+dshrink, and 244k after.  About 1850 sidedefs were redundant, thus removed.
+
+Also, since PWADS are examined dynamically as DOOM runs, smaller PWADS
+should mean a faster game.
+
+One caveat though: any WAD that's been run through dshrink is useless
+as input to a level editor.  The editor (deu in our case) reads the
+WAD just fine, but if you change a sidedef, any other linedefs using
+it will inherit the change.
+
+Reade the dshrink.txt file for more info.
+
+Source and binary included, no extra charge...
+
+================================================================
+
+* BYE *
+
+Well, that's it.
+
+Have fun.
+
+Feedback welcome.  We're going to go get some rest...
+
+
+						Steven Phares
+						Rand Phares
+						Raleigh, NC
+						August, 1994
+

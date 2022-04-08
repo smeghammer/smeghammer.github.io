@@ -1,0 +1,98 @@
+
+================================================================
+Title                   : Big Juicy Level.
+
+Author                  : Dave DeBaufer & Dennis Bergeron.
+                          (AOL-DeBaufer) & (AOL-AlbumKing)
+
+Internet address        : We got lost on the Info Superhighway.
+
+Misc. Author Info       : We oughta have our computers bronzed.
+
+Description             : Big rooms, lots of monsters on higher difficulty.  
+                          Hopefully a couple of new Ideas.
+                          
+Additional Credits to   : Margie DeBaufer for putting up with us. 
+                          The GODS at ID Software (were not worthy!)
+                          The deadliness of DEU and BSP. 
+                          All of you must be Geniuses!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (Is there any other way to play?).
+
+Difficulty Settings     : Implemented, "hey not too rough" is perfect for
+                          new DOOMERS.
+
+New Sounds              : Noneamie!
+                       
+New Graphics            : Not unless you use a marker to draw them on your
+                          Monitor!
+
+Demos Replaced          : And give away the secrets!?!?
+
+New Endoom              : No                                     
+                          
+* Construction *
+
+Base                    : New level from scratch. 
+Build Time              : 40-60 hours, we can't remember.
+Editors used            : DEU 5.1, 5.2, BSP 1.2
+                          
+Known Bugs              : The dark octagon room is blurred when you're not  
+                          standing close to the center. I think the room is
+                          just too big.
+
+Miscellaneous Stuff     : While travelling through the many homemade levels we 
+                          got pretty ticked off that so many authors created areas
+                          that you could fall into and never be able to get out. 
+                          That is the stupidest thing in the world!!!!  To all of 
+                          those authors--"Go to Shores of Hell".  We made this level
+                          with all of the things we like best:  Major Goat Dudes, 
+                          Big Clomping Guys, Huge Eyeballs, and Pink Bulls.  All of
+                          the weapons are here, you just have to find them.  We 
+                          didn't make it that difficult to do so.  Good strategy is
+                          a must. If you've played Wolfenstein then you know what we
+                          mean. If you haven't played Wolfenstein then you are a moron!
+                          This is probably far from the best level you have played, but 
+                          we think it's a lot better then some of the crap out there!
+
+                          If you hate this level let us know. If you like it do the same
+                          we want to hear from you.
+                          
+                          Well good luck-Cap two guards in a road gang!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Copyright / Permissions *
+
+You can modify this level, but, if you believe that you have improved upon it
+then E-Mail us because we want to play it again then!
+
+* Where to get this WAD *
+
+FTP sites:
+none
+
+BBS numbers:
+none!
+
+Other:
+AOL
+

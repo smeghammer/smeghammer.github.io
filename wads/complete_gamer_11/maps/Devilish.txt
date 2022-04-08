@@ -1,0 +1,61 @@
+================================================================
+Title                   : Devilish
+Date                    : 03/22/98 
+Filename                : devilish.bsp
+Author                  : Tiarnan Breffni
+Email Address           : JBreffni@dial.pipex.com
+
+Description             : My first Quake2 single-player level.  It has
+			  support for all difficulty levels, plus Deathmatch.
+
+Additional Credits to   : The creator of QERadiant, Robert A Duffy.
+			  Mike Malakhov for the CRBot, and of course the 
+			  mighty Id Software, for Quake 2.
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes.
+Deathmatch              : Yes.  I've included 6 starts.
+Difficulty Settings     : Yes.
+Cooperative support	: Yes.  4 starts have been included.
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : QERadiant v0.48
+Known Bugs              : None.
+Build Time              : Two weeks.
+
+Textures used           : e1u1 set from Quake2
+
+Compile machine         : P166 with 48MB 
+QBSP Time               : 20 sec
+QVIS Time (-level 4)    : 120 sec
+QRAD Time (-extra)      : 610 sec
+Brushes                 : 1146	
+Entities                : 422
+Models                  : 13
+
+* Other Info *
+
+Well, here it is, my first Quake 2 single-player level.  I think I did a pretty good job, and I
+hope you'll enjoy playing it.  I spent some extra time implementing and testing all the
+difficulty levels, plus Deathmatch has been included.  Look out for more single-player Quake 2
+levels from me in the future.
+
+As usual, if you have anything to say about the level, please let me know through the e-mail
+address I have given above.
+
+* Other levels by author *
+
+Check out my DeathMatch BattleGround series for some seriously brilliant multiplayer fun!
+
+dmbg1.zip, dmbg2.zip and dmbg3.zip are all available at cdrom.com.
+
+* Copyright / Permissions *
+
+You may download and play this level, give it for free to your friends and just enjoy it.
+If you want to do anything else with it, like make money from it, your going to have to ask
+me first. :)

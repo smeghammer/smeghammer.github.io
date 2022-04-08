@@ -1,0 +1,22 @@
+WoodY.WaD by Jeff Phillips
+++++++++++++++++++++++++++
+
+FILENAME: WOODY.WAD
+LEVEL(S) REPLACED: Map 1
+NEW GRAPHICS: NO
+NEW SOUNDS: NO
+
+COMMENTS: This is a fairly difficult .WAD file.  It took me about 3 weeks
+to make.  I think you'll like it.  It has the CyberDemon, Spider Boss, and
+The Final Enemy.  It also has every gun EXCEPT BFG 9000.  It is pretty good
+for deathmatch, although I made it with CooP in mind.
+
+
+
+For More .WAD files, DOOM and DOOM II utiliites, Misc. DOOM files -
+Call the biggest DOOM board in the state of Oklahoma -
+
+The Road Runner BBS   (405) 233-3117
+
+Call Today!
+

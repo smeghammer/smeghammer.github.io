@@ -1,0 +1,61 @@
+================================================================
+Title                   :The Big Temple    
+Filename                : TEMPLE_2.WAD
+Author                  : Thierry VERMAT
+Email Address           : vermat@biomserv.univ-lyon1.fr
+Misc. Author Info       : Just call me Alefith...
+
+Description             : You are entering the big temple of DOOM.
+			  This is the second and last version of TEMPLE
+
+			  After some reviews, I changed some rooms, added
+			  some others...
+
+			  I think it's a good single player WAD. It couls be 
+			  a good Cooperative WAD ('cause I think it's a little
+			  harder than ID levels), but an experimented DM player
+			  said me it was too big to make a good DM WAD.
+
+			  I enjoyer to build it... Hope you'll enjoy play it...
+
+                          Thanx. (and excuse me for my bad english...)
+
+Additional Credits to   : Manu (he would recognize himself)
+                          The authors of DEU !!!
+                          Stuart P. for his comments.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (incompatible with shareware version)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (Too big ??)
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Builded de novo.
+Editor(s) used          : The great DEU 5.21
+Known Bugs              : None (the Devil was with me... (*8 )
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels except for the big temple room. Please mail me if
+you do...
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+infant2.sphs.indiana.edu

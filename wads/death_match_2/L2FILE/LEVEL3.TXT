@@ -1,0 +1,62 @@
+================================================================
+Title                   : Modified level 3 (enhanced for major fragging 
+                          deathmatches)
+Filename                : level3.wad (DOOM2 WAD FILE)
+Author                  : Eric Varner
+Email Address           : 75460,612 compuserve
+Misc. Author Info       : 
+
+Description             :Modified level 3 for more challenging deathmatches. 
+                         Play tested and tested. Lots of fragging good time.
+
+
+Additional Credits to   : The awsome doomers at Id! 
+================================================================
+
+* Play Information *
+
+Level #     : 3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : YES! YES! YES! YES!
+Difficulty Settings     : Yes
+New Sounds              : no
+New Graphics            : NO
+New Music               : No
+Demos Replaced          : No
+
+* Construction *
+
+Base                    : Modified level 1
+Editor(s) used          : deu2, BSP
+Known Bugs              : None!
+
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+You may do whatever you want with this file. Yeh, that too!
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:Try Compuserve or The main ID #
+
+
+Any comments will be greatly appreciated. 

@@ -1,0 +1,67 @@
+Title                   : Waldorf wad
+Filename                : WALDORF.WAD
+Author                  : Josh Gunder
+Email Address           : fmellish@aol.com  modoomii@aol.com  
+                          jgunder@pwa.acusd.edu
+Misc. Author Info       : First time wad builder, Student USD CA
+
+Description             : A collection of 4 made from scratch levels 
+                          designed specifically for new deathmatch.
+                          One mini-episode covering maps 1-4 with 
+                          difficulty settings applicable for some 
+                          of the levels.  Meant to be played at skill
+                          3.  This is the level with the correct amount
+                          of baddies for deathmatch.  Make sure to have
+                          weapons and baddies respawn. This wad is good   
+                          for slower machines.  Nothing too complex 
+                          going on here, although they are very creative.  
+                          All levels have exits usable on single player,
+                          some are hard to find though.
+
+Additional Credits to   : Matt Ayers author of Waded, and Mike Moore 
+                          for testing.
+================================================================
+
+* Play Information *
+
+Game                    : DOOM II V 1.666 +
+Episode and Level #     : Maps 01-04
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes co-op for 2
+Deathmatch 2-4 Player   : Yes (4 player hasn't been tested yet)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Waded V 1.42
+Time                    : Many hours and many revisions.  Levels are 
+                          very simple, but are flawless in my opinion.
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels!
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: None yet
+
+BBS numbers: None yet
+
+Other: AOL; PCGames forum; Doom II libraries 
+
+Please contact me with any flames suggestions praises. Map 02 is a 
+revised version of my own drainage wad which was uploaded to AOL but
+never got put on.

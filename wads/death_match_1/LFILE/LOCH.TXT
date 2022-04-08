@@ -1,0 +1,95 @@
+================================================================
+Title                   : THE Loch
+
+Filename                : LOCH.WAD
+
+Author                  : Sam Judson
+
+Email Address           : ceespj@cee.hw.ac.uk
+
+
+Description             : You, must battle your way throught the
+
+			  hordes of beasties surrounding the loch
+
+			  and in the buildings that make its sides
+
+			  (i.e. YOU KILL THEM! (simple game when
+
+			   you think about it!) )
+
+
+Additional Credits to   :  Ian Mapleson (Doom Help Service Runner
+
+			  -mail mapleson@cee.hw.ac.uk)
+
+			   Thomas Luby ceetjl@cee.hw.ac.uk
+
+			  Both for there ideas and bugs
+
+			  (Ian - have a :D :D :D)
+
+
+================================================================
+
+* Play Information *
+
+
+Episode and Level #     : E1M1
+
+Single Player           : Yes
+
+Cooperative 2-4 Player  : Yes
+
+Deathmatch 2-4 Player   : Yes
+
+Difficulty Settings     : Yes  (VERY)
+
+New Sounds              : No
+
+New Graphics            : No
+
+Demos Replaced          : DEMO1
+
+
+* Construction *
+
+
+Base                    : New level from scratch
+
+Build Time              : WEEKS!!!!!
+
+Editor(s) used          : DEU5.1, BSP11X (come on DEU5.2 where are you!)
+
+Known Bugs              :
+
+
+
+* Copyright / Permissions *
+
+
+This wad MAY be used as a base to build additional levels.
+
+(cause I really don't care!) but DO give me credit for the
+
+original. 
+
+
+You MAY distribute THIS WAD, provided you include this file, with
+
+no modifications.  You may distribute this file in any electronic
+
+format (BBS, Diskette, CD, etc) as long as you include this file
+
+intact.
+
+
+
+* Miscellaneous Information *
+
+
+Where are my Cookie!   Eggs Eggs!
+
+
+Boing(!)  SSSPPPPLAT
+

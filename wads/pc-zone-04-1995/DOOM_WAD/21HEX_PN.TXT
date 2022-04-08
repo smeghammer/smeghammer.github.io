@@ -1,0 +1,59 @@
+================================================================
+Title                   : 21HEX_PN.WAD
+Author                  : Peter Naus
+Email Address           : petern@hparc0.aus.hp.com
+Description             : You look down a short corridor to a door. You
+                          fire a round - the air thickens with roars,
+                          hisses, and groans. What the HELL have you
+                          gotten into? As you hack your way through,
+                          you see shattered gardens, dimly-lit halls with
+                          sleeping chambers, a well...
+                          Good thing there's no pink munchers!
+                          This isn't the best level possible with the base
+                          I started mooching around with, but it *is* pretty
+                          interesting! It's possible to get through on UV if 
+                          you think about it!
+Feedback                  Please! What's good, what's bad (limit yourself
+                          to 6 pages or so), what extras you'd like...
+                          I'm more than happy to collaborate.
+
+Additional Credits to   : Brendon Wyber and Raphael Quinet for DEU
+                          My wife for putting up with 3 am sessions
+                          My boss for believing those excuses for the
+                          bleary eyed look every morning;
+                          And id. Of course.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Untested
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes, 1/2/3,4/5
+New demos               : No
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New levels from scratch
+Build Time              : About 15 hours total
+Editor(s) used          : DEU 5.0, 5.01 , 5.1, and 5.2; DOOMED 1.0, BSP 1.0
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels. But if you do - send me a copy. ;-)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites:
+           ftp.uwp.edu               in /pub/incoming/id
+
+                              21HEX_PN.ZIP
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_

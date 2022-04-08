@@ -1,0 +1,46 @@
+============================================================================
+Title                   : Arena123: DeathMatch Wad 
+Filename                : ARENA123.WAD
+Author                  : Joey Cato
+
+Email Address           : cato@orion.etsu.edu
+
+Description             : small arena with walls that can be dropped via 
+                a lift switch. Weapons: all, BFG hardest to get.
+
+Additional Credits to:    DEU 2 creators
+                          id software programmers
+
+                          beta testing: Michael Ricketts, David Cato
+
+================================================================
+
+* Play Information *
+
+Level #                 : MAP01
+Single Player           : Yes but no monsters/exit
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : easy - nightmare
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+
+* Construction *
+
+Base                    : None
+Editor(s) used          : Deu 2
+Known Bugs              : None
+
+* Where to get this WAD *
+
+FTP sites: 
+        haven't posted it yet, was going to put infant2 site, 
+        but the sysadm quit his job, and it's no longer the official one.
+
+BBS numbers:
+
+        Mach II BBS       (903)-785-5553
+        FarPoint BBS      (903)-785-8820
+        Wayne's World BBS (903)-784-7838
+

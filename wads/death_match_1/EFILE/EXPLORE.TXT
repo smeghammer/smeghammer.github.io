@@ -1,0 +1,74 @@
+================================================================
+Title                   : Exploring the Lost   
+Filename                : EXPLORE.WAD
+Author                  : Denver J. Curtis
+Email Address           : Blue Powder Enterprises (listed at the end)
+Misc. Author Info       : Currently a Final Inspection/Tester at American
+                          Meter in West Virgina and is also an all-around
+                          great guy. ;> 
+
+Description             : Dark, wide open, and enemies just wanting to 
+                          eat your flesh with a toothpick (if they had one)
+
+Additional Credits to   : 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.1 and final save DEU 5.21
+                          BSP 1.1
+Known Bugs              : A few texture flicks, but will cause no harm 
+                          in the play or look.
+
+* Copyright / Permissions *
+
+Authors looking to build a new .WAD file or want to use this one to modify
+may do so as long as you include this file.  But if you modify it all I 
+ask is that you send a copy of the modified file to Blue Powder Enterprises 
+(in care of Denver J. Curtis).  You MAY distribute this WAD in my name,
+provided you include this file, with no modifications.  You may distribute 
+this file in any electronic format (BBS, Diskette, CD, etc) as long as you 
+include this file intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers: Blue Powder Enterprises (304) 727-6733
+
+___ More ______
+
+
+    This is my first released .WAD file to the Public.  With this 
+I want to here from you.  I want to know what you think of this .WAD
+file (Problems, suggestions, ect..).  I also want suggestions and 
+possible floor plans to some places, this is for future .WAD files I 
+will be making.  If I use any part of your idea, your name will be 
+mentioned in that file's docs.  I would really like to here from you
+at anytime.  Call Blue Powder Enterprises at the number above and leave
+any messages addressed to DENVER J. CURTIS.
+            
+    
+                                    Thanks,
+                                    Denver J. Curtis
+
+P.S. 
+
+    Brendon Wyber and Raphal Quinet the authors of DEU need to have a 
+    great big round of applause.  For the hard work and the effort they 
+    have put in so the public can make their own levels for DOOM.
+
+                                CLAP CLAP CLAP.........

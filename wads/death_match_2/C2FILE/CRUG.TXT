@@ -1,0 +1,58 @@
+================================================================
+Title                   : CRUG.zip (Contains Crug.wad, Crug.bat Crug.txt)
+Author                  : Kevin Simpson / Paul Pyatt
+Email Address           : crug@cix.compulink.co.uk
+Misc. Author Info       :
+
+Description             : This is an example of your worst nightmare come
+                          true. It seems to be the impossible, frightening
+                          and just damned difficult. But wait, look at the
+                          map take a minute to consider the plan of action
+                          and see if you can end the level.
+                          
+Additional Credits to   : The totally wild imagination of the Author
+
+Disclaimer: CRUG (CD Rom User Group) accepts no responsibility or other
+            liability for the use of this .wad file. Mental or Physical
+            damage, either to player or equipment is entirely at the 
+            players own risk. 
+
+=====================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 2 Hours
+Editor(s) used          : DEU5.0
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional
+levels.
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other: crug@cix.compulink.co.uk
