@@ -1,7 +1,0 @@
-Incident At Nali Canyon- By Steve Arriola (Foggymyst@mindspring.com)
-
-After 3 days of work this level is finally complete thus setting me in history as the first person
-besides the Unreal team to finish a 1-player level.  I spent a lot of time on this level, and I 
-must say a lot of it couldn't be done if it hadn't been for the tutorials at www.creativecarnage.com/unreal.
-Not only is this my first level, but I've never made a level in my life of any kind. Taking that
-and looking at what I did, I must say that UnrealEd is a damn good level editor.  

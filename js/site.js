@@ -489,7 +489,7 @@ let engine = {
 						'file_data':JSON.parse($(this).attr('data-file_data')),
 						'path':$(this).attr('data-path')
 						};
-					
+					console.log( _path+_datafile);
 					$.ajax({
 						dataType:"text",
 						url: _path+_datafile,
