@@ -50,12 +50,7 @@ let engine = {
             {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[]},
             {'linktext':'IDGames','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]},  
             {'linktext':'Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
-                {'linktext':'Old cover CD WADs','url':'/links/old-cds.htm', 'parenturl':'/links/', 'pagekey':'0.2.3', 'childs':[
-					{'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""},
-					{'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""},
-					{'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""},
-					{'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""}
-					],visible:false},
+                {'linktext':'Old cover CD WADs','url':'/links/old-coverdisk-cds/', 'parenturl':'/links/', 'pagekey':'0.2.3', 'childs':[], visible:true},
                 {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true},
                 {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true},
                 {'linktext':"Doom fonts",'url':'/links/doomfonts.htm', 'parenturl':'/links/', 'pagekey':'0.2.2', 'childs':[],visible:true}
@@ -68,6 +63,7 @@ let engine = {
     copyright : 2021,
     imagebase : 'https://raw.githubusercontent.com/smeghammer/',
     repobase : 'https://github.com/smeghammer/',
+    thisrepo : null,
     imagesuffix : '?raw=true',
     repolist : [
         {'download':'https://github.com/smeghammer/hellbreach/blob/master/hellbrch.wad?raw=true',   'repo' : 'hellbreach',         'nicename':'Hellbreach',        'branch':'master','imagecount':12,'pagekey':'0.0.6',"summary":"Three maps (currently) and one secret map. My first crack at map building over lockdown...  Starts with a sort of techbase thing, followed by a large rocky outdoor type thing, and finally a big canyon featuring my first attempt at a 3D structure. The secret is a marble/lava/hell thing..." },
@@ -91,6 +87,8 @@ let engine = {
         let pagetype = $('body').attr('data-page');
         let pagekey = $('body').attr('data-pagekey');
         let ytvid = $('body').attr('data-ytvid');
+        
+        this.thisrepo = this.repobase + 'smeghammer.github.io/raw/master';
         
         if(ytvid){
             this.resizeVid();
@@ -122,6 +120,10 @@ let engine = {
             break;
             case "r667":
                 this.buildR667Browser();
+            break;
+            
+            case "maplists":
+            	this.buildMapsBrowser();
             break;
             
             case "map":
@@ -181,10 +183,8 @@ let engine = {
         let _initH = _iframe.attr('height');
         let _ratio = _initH / _initW;
         
-        
         let iframe_width = $('div.contents > div:nth-of-type(2)').width();
         let iframe_height = iframe_width * _ratio;
-        console.log(iframe_width);
         
         _iframe.removeAttr('width');
         _iframe.removeAttr('height');
@@ -200,75 +200,47 @@ let engine = {
     },
     
     buildHowtoSummaries : function(){
-    	console.log('building howto summaries:');
     	let _wrapper = document.createElement('div');
     	_wrapper.setAttribute('class','pure-g');
-    	//  https://github.com/smeghammer/snippets/blob/master/3d_floor/screenshots/1.png
     	let defaultImage = "default.png";
-    	/* get the correct sub-section: */
-//    	let _currpagekey = this.getPageKey();
-//    	console.log(_currpagekey);
     	let section = this.getNavSectionByPagekey(this.getPageKey());
-//    	console.log(_currpagekey);
-    	console.log(section);
     	
     	for(let x=0;x<section.childs.length;x++){
-    		console.log(section.childs[x]);
     		if(section.childs[x].visible){
     			let _path = this.repobase + "snippets/tree/master/" + section.childs[x].repopath;
 	    		let _summary = document.createElement('div');
 	    		let _summarytext = document.createElement('p');
-//	    		let _summaryimg = document.createElement('div');
 	    		let _title = document.createElement('h3');
-//	    		let _thb =  document.createElement('img');
 	    		let _link = document.createElement('a');
 	    		let _link2 = document.createElement('a');
 	    		
 	    		_summary.setAttribute('class','pure-u-1  pure-u-md-2-3');
-//	    		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
-	    		
-	//    		//get repoindex:
+				/* get repoindex: */
 	    		let _key = this.getRepoIndexByPagekey(section.childs[x].pagekey);
-//	    		let _img = null;
-//	    		if(section.childs[x].img)
-//	    			_img = this.imagebase + "snippets/master/" + section.childs[x].repopath + "/screenshots/"+ section.childs[x].img+".png";
-			
 	    		_link.setAttribute('title',section.childs[x]['summary']);
 	    		_link.setAttribute('href',section.childs[x].url);
 	    		
-//	    		if(_img){
-//		    		_thb.setAttribute('src',_img);
-//		    		_thb.setAttribute('class','thumbnail');
-//		    		_link.appendChild(_thb);
-//	    		}
 	    		_link2.setAttribute('title',section.childs[x]['summary']);
 	    		_link2.setAttribute('href',section.childs[x].url);
 	    		_link2.appendChild(document.createTextNode(section.childs[x].linktext));
 	    		_summarytext.appendChild(document.createTextNode(section.childs[x].summary));
-//	    		_summaryimg.appendChild(_link);
 	    		_title.appendChild(_link2);
 	    		_summary.appendChild(_title);
 	    		_summary.appendChild(_summarytext);
 	    		_wrapper.appendChild(_summary);
-//	    		_wrapper.appendChild(_summaryimg);
     		}
     	}
     	return(_wrapper);
-    	
     },
     
     /** render thumbs and summaries for maps */
     buildSnippetSummaries : function(){
-    	console.log('building summaries:')
     	let _wrapper = document.createElement('div');
     	_wrapper.setAttribute('class','pure-g');
-    	//  https://github.com/smeghammer/snippets/blob/master/3d_floor/screenshots/1.png
     	let defaultImage = "default.png";
     	/* get the correct sub-section: */
     	let _currpagekey = this.getPageKey();
     	let section = this.getNavSectionByPagekey(_currpagekey);
-    	console.log(_currpagekey);
-    	console.log(section);
     	
     	for(let x=0;x<section.childs.length;x++){
     		if(section.childs[x].visible){
@@ -284,7 +256,6 @@ let engine = {
 	    		_summary.setAttribute('class','pure-u-1  pure-u-md-2-3');
 	    		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
 	    		
-	//    		//get repoindex:
 	    		let _key = this.getRepoIndexByPagekey(section.childs[x].pagekey);
 	    		let _img = null;
 	    		if(section.childs[x].img)
@@ -371,6 +342,257 @@ let engine = {
     	return(repoIndex);
     },
     
+    buildMapsBrowser : function(){
+		$.getJSON('/data/cd_data.json',function(data){
+            engine.buildCDMapsTopNav(data);	/* render magazines as top level tabs */
+            engine.buildCDMapsListBrowser(data); /* render contents of sub-folders */
+        });
+	},
+    
+    /**
+     * construct a DOM entry representing the top level (category)
+     * */
+    buildCDMapsTopNav : function(data){
+		console.log(data);
+		let _navrow = document.createElement('div');
+        _navrow.setAttribute('class','pure-g toplevelitems');
+        /** set nav tab elements */
+        for(let item in data){  
+			console.log(item); 
+            //this.toplevelcount++;
+            let _tab = document.createElement('div');
+            _tab.setAttribute('data-topic',item.replace(/ /g,'').replace(/\//g,'').replace(/#/g,'').replace(/\&/g,''))
+            let _p = document.createElement('p');
+            _tab.setAttribute('class','pure-u-1 pure-u-md-1-4 pure-u-xl-3-24');   /* there are 8... */
+            _p.appendChild(document.createTextNode(item));
+            _tab.appendChild(_p);
+            _navrow.appendChild(_tab);
+        }
+        
+        /* now, _items can be used to generate DOM output: */
+        $('#sausage').empty().append(_navrow);
+        
+        /* append click handlers */
+        let _counter = 0;
+        $('#sausage > div.toplevelitems > div').each(function(){
+            if(_counter === 0) $(this).addClass('current');
+            _counter++;
+            $(this).click(function(){
+				console.log('clikkin on ',$(this).attr('data-topic'));
+                /* on click, hide ALL, and set visible the selected */
+                $('#sausage > div.toplevelitems > div').removeClass('current');
+                $(this).addClass('current');
+                $('#sausage > div.topic').addClass('hidden');
+                $('#'+$(this).attr('data-topic')).removeClass('hidden');
+            });
+        });
+        
+	},
+	
+	/**
+	A CD data set is defined like so:
+	{
+		'cd name':[
+			{
+				"path":"/wads/complete_gamer_9/maps/",
+				"datafile":"files.dat",
+				"game":"Half Life",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":"bsp",
+					"text_files":true
+				}
+		}
+			},
+			{},
+			...
+		]
+		
+	}
+	
+	It defines the filesystem path in which the files are stored, and some metadata about how to display.
+	It assumes there is a text file of the directory listing, as a data source, from which the download links 
+	will be made
+	*/
+	buildCDMapsListBrowser : function(data){
+		let _counter = 0;
+		let _target = document.getElementById('sausage');
+        for(let item in data){ 
+			//console.log(item);
+			let _topicWrapper = document.createElement('div');
+            _topicWrapper.setAttribute('id',item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,''));
+            _topicWrapper.setAttribute('class','hidden topic');
+			/* default to showing first topic */
+            if(_counter === 0) $(_topicWrapper).removeClass('hidden');
+            _counter++;
+            let _l2navwrapper = document.createElement('ul');
+            _l2navwrapper.setAttribute('class','l2nav');
+            let _counter2 = 0;
+            
+            /** loop over each item in the array. These are the equivalent of styles for R667  */
+			for(let a=0;a<data[item].length;a++){
+				let _cssId = data[item][a].path.replace(/ /g,'').replace(/\//g,'||').replace(/\&/g,'') + a;
+		//		console.log(data[item][a]);
+				/* build l2 nav: */
+                let _l2naventry = document.createElement('li');
+                _l2naventry.setAttribute('data-itemcategory',_cssId);
+                _l2naventry.setAttribute('data-datafile',data[item][a].datafile);
+                _l2naventry.setAttribute('data-path',data[item][a].path);
+                _l2naventry.setAttribute('data-alphabetic-subdirectories',JSON.stringify(data[item][a]['alphabetic_subdirectories']));
+                _l2naventry.setAttribute('data-file_data',JSON.stringify(data[item][a].file_data));
+        //        console.log(JSON.stringify(data[item][a]['alphabetic_subdirectories']));
+                _l2naventry.appendChild(document.createTextNode(data[item][a]['game']));
+                /** here, we can start pulling out data to populate the panel. We need to clear it first... */
+                console.log($('#generated_content_wrapper'));
+                $('#generated_content_wrapper').find('h2').empty().append(data[item][a]['game']);
+                if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
+        //        console.log(_l2navwrapper);
+                _l2navwrapper.appendChild(_l2naventry);
+                _counter2++;
+			}
+			/** end */
+        //    console.log(_topicWrapper);
+            _topicWrapper.appendChild(_l2navwrapper);
+            _target.appendChild(_topicWrapper);
+
+            /** and append click handlers */
+            console.log('#'+item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,''));
+            $('#'+item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,'')).find('ul > li').each(function(){
+				/**
+				Click handlers for second level map lists.
+				This needs to call AJAX routine to load data file
+				scraped from output of >ls > listing.dat 
+				 */
+				$(this).off('click').on('click',function(){
+					console.log('clikkin2');
+					$(this).parent().find('li').each(function(){
+						/** remove highlight class from all... */
+						$(this).removeClass('current');
+					});
+					/** and hightlight self */
+					$(this).addClass('current');
+					
+					/** The click handler here also needs to load and display the links to the WADs related to the current
+					CD dump: */
+					/** get the data: */
+					let _data = $(this).attr('data-itemcategory');
+					//console.log(_data);
+					let _path = $(this).attr('data-path');
+					let _datafile = $(this).attr('data-datafile');
+					//console.log(_path,_datafile);
+					
+					let _dataMapper = {
+						'subdirectories':JSON.parse($(this).attr('data-alphabetic-subdirectories')),
+						'file_data':JSON.parse($(this).attr('data-file_data')),
+						'path':$(this).attr('data-path')
+						};
+					
+					$.ajax({
+						dataType:"text",
+						url: _path+_datafile,
+						success : function(data){
+							let linksWrapper = document.createElement('ul');
+							let linkData = [];
+							/** 
+							this comes from outer block and is the format we are expecting 
+							(.zips, .wad + .txt, and whether there are A-Z subfolders 
+							[format TBD].)
+							*/
+							console.log(_dataMapper);
+							/** de-serialise the data: */
+							let workingData = data.split(/\n/);
+							let activeRowCounter = -1;
+							/** A file listing may have > 1 entry for each filename (e.g. map plus text file). Use this mapper to 
+							capture these: */
+							let duplicateMapper = {};
+							for(let a=0;a<workingData.length;a++){
+								
+								/** detect the start of the files output */
+								if(workingData[a].charAt(0,1)==='-'){
+									
+									if(activeRowCounter>=0){
+										/** lines are a constant length, so trim off trailing whitespace: */
+										let trimmedDataRow = workingData[a].replace(/\s+$/,'');
+										trimmedDataRow = trimmedDataRow.substr(trimmedDataRow.lastIndexOf(' ')+1,trimmedDataRow.length);
+										
+										/** key will be filename without extension 
+										I want to make something like:
+										{'filename_key',_dataMapper } */
+										let fName = trimmedDataRow.substr(0,trimmedDataRow.lastIndexOf('.'));
+										if(duplicateMapper[fName]){
+											duplicateMapper[fName]++;
+										}
+										else{
+											duplicateMapper[fName] = 1;
+										}
+
+										//linkData[trimmedDataRow.substr(0,trimmedDataRow.lastIndexOf('.'))] = _dataMapper;
+//										linksWrapper.appendChild(engine.buildListElement(engine.buildDownloadLink(_dataMapper.path + fName + '.' + _dataMapper.file_data.map_format,fName)));
+									}
+									activeRowCounter++;
+								}
+							}
+							/** one we have the mapper (assuming one id a .txt file - TODO: Sanitise data!) generate the download 
+							and, optionally, the textfile link/popup (TBD). */
+							for(thing in duplicateMapper){
+								console.log(thing)
+								if(duplicateMapper[thing] === 1){
+									/** build download link only */
+									linksWrapper.appendChild(engine.buildListElement(engine.buildDownloadLink(_dataMapper.path + thing + '.' + _dataMapper.file_data.map_format,thing)));
+
+								}
+								if(duplicateMapper[thing] === 2){
+									/** build download link and text file link/display */
+								}
+							}
+							console.log(duplicateMapper);
+							console.log(linkData);
+							/** I now need to parse out the relevant data from the CLI dump. This
+							will be different depending on the details: */
+							$('#generated_content_wrapper > div').empty().append(linksWrapper);
+							//$('#generated_content_wrapper > div').empty().append("<pre>"+data+"</pre>")
+						}
+					});
+				});
+			});
+			console.log('end')
+		}
+		console.log('rendering wrapper for selected content');
+		/** we also want a DIV panel for the selected content: */
+        let contentWrapper = document.createElement('div');
+        let contentTitle = document.createElement('h2');
+        let contentBodyWrapper = document.createElement('div');
+        contentWrapper.setAttribute('id','generated_content_wrapper');
+        contentWrapper.appendChild(contentTitle);
+        contentWrapper.appendChild(contentBodyWrapper);
+        _target.appendChild(contentWrapper);
+	},
+	
+	/** build a download link DOM element */
+	buildDownloadLink : function(url, linktext){
+		let _a = document.createElement('a');
+		console.log(url);
+		if(url.indexOf(this.thisrepo) === -1){
+			console.log('prepending URL...',this.thisrepo);
+			url = this.thisrepo + url;
+		}
+		_a.setAttribute('href',url);
+		_a.appendChild(document.createTextNode(linktext));
+		return(_a);
+	},
+	
+	/** build a list item, with optional DOM content */
+	buildListElement : function(DOMContents){
+		let _li = document.createElement('li');
+		if(DOMContents){
+			_li.appendChild(DOMContents);
+		}
+		return(_li);
+	},
+    
     buildR667Browser : function(){
         $.getJSON('/data/r667output.json',function(data){
             engine.buildR667Data(data);
@@ -406,8 +628,6 @@ let engine = {
             /* also, explicitly as name as a property: */
             this.R667Categories[ data[item]['topic'] ][data[item]['section']][item].name = item;
         }
-        console.log('built root data OK');
-        console.log(this.R667Categories);
     },
     
     /**
@@ -452,7 +672,6 @@ let engine = {
      * way I built it originally so probably not the most efficient...
      * */
     buildR667ThingBrowser : function(){
-        console.log('building thing browser...');
         _counter = 0;
         for(let topic in engine.R667Categories){
             let _topicWrapper = document.createElement('div');
@@ -511,7 +730,6 @@ let engine = {
                 $(_sectionwrapper).append('<h3>'+section+'</h3>');
                 $(_sectionwrapper).append('<ul>');
 
-
                 let _block = document.createElement('div');
                 _block.setAttribute('class','pure-q');
                 let _itemcol = document.createElement('div');
@@ -545,7 +763,6 @@ let engine = {
                         /* root credit. Occasionally the scrape fails to pick up details (M16)... */
                         for(let _count = 0;_count < engine.R667Categories[topic][section][thing]['credits']['entries'].length; _count++){
                             for(let thing2 in engine.R667Categories[topic][section][thing]['credits']['entries'][_count]){
-//                                if(thing2.replace(/:/g,'') === 'Submitted'){    /* tidy up entries - colon si sometimes not there... */
                                 if(thing2.toLowerCase().includes(('Submitted').toLowerCase())){    /* ES6 - tidy up entries - colon is sometimes not there... */
                                     _crds = thing2 + " " + engine.R667Categories[topic][section][thing]['credits']['entries'][_count][thing2];
                                 }
@@ -567,7 +784,6 @@ let engine = {
                     _a2.setAttribute('class','infolink');
                     _a2.setAttribute('title','Show info about "' + thing + '"');
                     _a2.setAttribute('data-thingname',thing);
-//                        $(_a2).dialog({});//make modal
                     _a2.appendChild(document.createTextNode(thing));
                     
                     $(_a2).off('click').click(function(){
@@ -579,7 +795,6 @@ let engine = {
                         }
 
                         let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' + _path +'/'+ currentThing['filename'].split(/\./)[0]+".png";
-                        console.log(imgUrl);
                         /* if it is a sound-effect, there is no associated graphic - therefore use  
                          * 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/sound-effect.jpg
                          * */
@@ -601,9 +816,7 @@ let engine = {
                         newDiv.append(_h3info);
                         
                         for(let a=0;a<currentThing.info.entries.length;a++){
-//                            console.log(currentThing.info.entries[a]);
                             for(let entry in currentThing.info.entries[a]){
-                                console.log(entry, currentThing.info.entries[a][entry]);
                                 if(entry && currentThing.info.entries[a][entry]){   /* sometimes empty due to scrape error */
                                     let _infoitem=document.createElement('div');
                                     let _infotitle=document.createElement('span');
@@ -622,7 +835,6 @@ let engine = {
                         newDiv.append(_h3credits);
                         
                         for(let a=0;a<currentThing.credits.entries.length;a++){
-                            console.log(currentThing.credits.entries[a]);
                             for(let entry in currentThing.credits.entries[a]){
                                 if(entry && currentThing.credits.entries[a][entry]){   /* sometimes empty due to scrape error */
                                     let _credititem=document.createElement('div');
@@ -637,21 +849,11 @@ let engine = {
                             }
                         }
                         
-                        
                         /* build credits */
                         newDiv.dialog({
                             modal: true,
                             closeText: ''
                         });
-//                        /* build title from topic/section/name */
-//                        $('#R667ItemInfoOverlay').attr('title',currentThing.topic +' - '+ currentThing.section +' - '+ currentThing.name);
-//                        /* now build DOM for content from the info and credits nodes */
-////                        console.log(currentThing['info']);
-////                        console.log(currentThing['credits']);
-//                        let _imgelem = '<img src="'+imgUrl+'">';
-//                        $('#R667ItemInfoOverlay').append(_imgelem).ready(function(){
-//                            $('#R667ItemInfoOverlay').dialog();
-//                        });
                         
                         return(false);
                     });
@@ -662,7 +864,7 @@ let engine = {
                 }
                 _counter2++;
             }
-            //https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child
+            /* https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child */
             _topicWrapper.insertBefore(_l2navwrapper,_topicWrapper.firstChild);
         }
     },
@@ -683,19 +885,13 @@ let engine = {
         return Math.floor(Math.random() * this.repolist[repoindex].imagecount);
     },
     
-    
     /*
-    *need to build: 
-    *https://raw.githubusercontent.com/smeghammer/CardinalSin/master/screenshots/10.png
-    *
-    *'https://raw.githubusercontent.com/smeghammer' + reponame + '/' + branchname + '/screenshots/' + imagenum + '.png'
-    *
-     */
+     * need to build: 
+     * https://raw.githubusercontent.com/smeghammer/CardinalSin/master/screenshots/10.png
+     *
+     * 'https://raw.githubusercontent.com/smeghammer' + reponame + '/' + branchname + '/screenshots/' + imagenum + '.png'
+    * */
     buildImageUrl : function(reponame,branch,imagenum){
-//    	console.log(this.imagebase);
-//    	console.log(reponame);
-//    	console.log(branch);
-//    	console.log(imagenum);
         return(this.imagebase + reponame + '/' + branch + '/screenshots/' + imagenum + '.png');
     },
     
@@ -708,14 +904,12 @@ let engine = {
      * set data-page to key to object (self/parent IDs?)
      * */
     buildNav : function(main){
-        console.log('build nav');
         let navWrapper = document.createElement('ul');
         navWrapper.setAttribute('class','pure-menu-list'); 
         let _currpagekey = this.getPageKey();
-        console.log(_currpagekey);
+        
         /* primary navigation */
         if(main){
-        	console.log('main nav');
             /* pull out correct data from page index data attribute */
             let _home = this.buildLink(this.navdata[0])
             navWrapper.appendChild(_home);
@@ -727,12 +921,10 @@ let engine = {
         }
         /* second level navigation */
         else{
-        	console.log('L2 nav',_currpagekey);
             /* where are we? */
         	let _navKey = _currpagekey;
             if(_currpagekey.split('.').length > 1){
             	let level = 2;
-            	console.log('generate L2 nav: ',_navKey);
             	if(_currpagekey.split('.').length > 2){
             		level = 3;
             		_navKey = _currpagekey.split('.')[0]+"."+_currpagekey.split('.')[1];
@@ -740,18 +932,8 @@ let engine = {
             	
             	/* now get the childs */
             	let section = this.getNavSectionByPagekey(_navKey);
-            	console.log(section)
-//                let l2Index = parseInt(_currpagekey.split('.')[1]);
-//                console.log(l2Index);
-//                navWrapper.appendChild(document.createElement('h2')).appendChild(document.createTextNode('Subnav'));
-                //console.log(this.navdata[0].childs[l2Index]);
-//                for(let a=0;a<this.navdata[0].childs[l2Index].childs.length;a++){
-//                    if(this.navdata[0].childs[l2Index].childs[a].visible){
-//                         navWrapper.appendChild(this.buildLink(this.navdata[0].childs[l2Index].childs[a],false));
-//                    }
-//                }
+                
                 for(let a=0;a<section.childs.length;a++){
-                	console.log(section.childs[a]);
                     if(section.childs[a].visible){
                          navWrapper.appendChild(this.buildLink(section.childs[a],false));
                     }
@@ -764,9 +946,7 @@ let engine = {
     /** get current nav subsection */
     getNavSectionByPagekey : function(pagekey){
     	for(let a=0;a<this.navdata[0].childs.length;a++){
-    		console.log(this.navdata[0].childs[a].pagekey);
     		if(this.navdata[0].childs[a].pagekey === pagekey){
-    			console.log(this.navdata[0].childs[a]);
     			return(this.navdata[0].childs[a]);
     		}
     	}

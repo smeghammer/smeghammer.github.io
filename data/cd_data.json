@@ -1,0 +1,99 @@
+{
+	"Complete Gamer #9" : [
+		{
+			"path":"/wads/complete_gamer_9/maps/",
+			"datafile":"file_list.txt",
+			"game":"Half Life",
+			"alphabetic_subdirectories":{
+				"used":false,
+				"pattern":null
+			},
+			"file_data":{
+				"map_format":"bsp",
+				"text_files":true
+			}
+		}
+	],
+	"Complete Gamer #11" : [
+		{
+			"path":"/wads/complete_gamer_11/maps/",
+			"datafile":"file_list.txt",
+			"game":"Quake 2?",
+			"alphabetic_subdirectories":{
+				"used":false,
+				"pattern":null
+			},
+			"file_data":{
+				"map_format":"bsp",
+				"text_files":true
+			}
+		},
+		{
+			"path":"/wads/complete_gamer_11/bsp/",
+			"datafile":"file_list.txt",
+			"game":"Quake 2",
+			"alphabetic_subdirectories":{
+				"used":false,
+				"pattern":null
+			},
+			"file_data":{
+				"map_format":"bsp",
+				"text_files":true
+			}
+		}
+	],
+		"PC Zone April 1995" : [
+		{
+			"path":"/wads/pc-zone-04-1995/DOOM_WAD/",
+			"datafile":"file_list.txt",
+			"game":"Doom",
+			"alphabetic_subdirectories":{
+				"used":false,
+				"pattern":null
+			},
+			"file_data":{
+				"map_format":"WAD",
+				"text_files":true
+			}
+		},
+		{
+			"path":"/wads/pc-zone-04-1995/DOOM2_PW/",
+			"datafile":"file_list.txt",
+			"game":"Doom 2",
+			"alphabetic_subdirectories":{
+				"used":false,
+				"pattern":null
+			},
+			"file_data":{
+				"map_format":"ZIP",
+				"text_files":false
+			}
+		},
+		{
+			"path":"/wads/pc-zone-04-1995/DOOM_ZIP/",
+			"datafile":"file_list.txt",
+			"game":"Doom",
+			"alphabetic_subdirectories":{
+				"used":false,
+				"pattern":null
+			},
+			"file_data":{
+				"map_format":"ZIP",
+				"text_files":false
+			}
+		},
+		{
+			"path":"/wads/pc-zone-04-1995/HERETCIS/",
+			"datafile":"file_list.txt",
+			"game":"Heretic",
+			"alphabetic_subdirectories":{
+				"used":false,
+				"pattern":null
+			},
+			"file_data":{
+				"map_format":"ZIP",
+				"text_files":false
+			}
+		}
+	]
+}
