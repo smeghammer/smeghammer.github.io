@@ -1,0 +1,47 @@
+Title                   : Cod2.WAD   
+Author                  : The Fishcake Federation
+Email Address           : paxjf@unicorn.ccc.nottingham.ac.uk
+Misc. Author Info       : Fish!!! Fish!!!! Fish!!!
+
+Description             : Ooooh Madam.....It's Fishy!
+
+Additional Credits to   : Sammy The Seal
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Sorted Guv'nor
+New Sounds              : Not really
+New Graphics            : Ummmm, don't think so!
+Demos Replaced          : Oh lots, well actually now you mention it, none!
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : all fucking nite, or approximately 3 bottles of wine 
+Editor(s) used          : Waded 1.17
+Known Bugs              : Frank the Termite!
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+* Where to get this WAD *
+
+FTP sites:I'll try and stick it on Infant2
+
+BBS numbers:?
+
+Other:?

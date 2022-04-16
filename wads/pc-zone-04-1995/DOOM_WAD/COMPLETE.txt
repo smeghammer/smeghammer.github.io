@@ -1,0 +1,54 @@
+================================================================
+Title                   : Death to all DOOMERS !!!   
+Filename                : COMPLETE.WAD
+Author                  : Simon Plant
+Email Address           : splant1@cix.compulink.co.uk
+			  redibrek@mail.on-line.co.uk
+			  redibrek@axposf.pa.dec.com
+Misc. Author Info       : Student at DeMontfort University, ENGLAND
+
+Description             : After INFERNO, the demonic creatures have arrived
+			  on earth.  You have been assigned to clear the
+			  US defence base at Atowa of its infiltraitors.
+
+Additional Credits to   : Martin Grisley, whos warped mind helped create
+			  this level. 
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DOOMED for Win, BSP11, DEU52
+Known Bugs              : None
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: None, unless someone wants to upload it to one.
+
+BBS numbers: Soon - Lightning BBS = 0223 571741
+				  = 0223 571742
+		  - Sound & Vision= 0932 252323
+Other: CIX - DOOM/FILES

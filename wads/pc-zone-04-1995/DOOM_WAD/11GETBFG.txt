@@ -1,0 +1,64 @@
+==============================================================================
+Title                   : 11GETBFG.WAD   
+Author                  : Eric Severn
+Email Address           : can be reached at  blum@ee.ryerson.ca
+Misc. Author Info       : Toronto, Ontario, Canada, Eh?
+
+Description             : "The United Allied Cooperative (UAC) has developed a
+                           new secret weapon, the BFG9000. Your assignment is
+                           to break into their headquarters and get it. We
+                           will place you at the entrance. Just go in, get it 
+                           and come back out (getting the BFG will lower a
+                           sector at the entrance, allowing you to exit the
+                           level from there). We don't know the layout of the
+                           building, but we do know that there is an armoury
+                           behind a red key door, and that the red key is kept
+                           in the computer room which itself is behind a 
+                           yellow key door. This is important as we suspect 
+                           that you may encounter some resistance, and the 
+                           only offensive equipment we can provide you with is 
+                           a lowly pistol. Good luck."
+
+==============================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1 (with apologies to ID for it being in E1)
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes, but setting 4 (Ultra Violence) is best
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : hours, days, weeks, months (a long time)
+Editor(s) used          : DEU and BSP, until they failed. There seems to be a
+                          limit to the size of the level. BSP11X did not help,
+                          and I've had to scale this level back. IDBSP seemed 
+                          to hang every time I tried it.
+Known Bugs              : One texture goes dark when you get close. Everything
+                          else seems to work properly. There's a lot of stuff
+                          so you'll need a fast machine (486 minimum).
+
+Additional Credits to   : The authors of DEU and BSP, and
+                          Playtesters Gord Tobias and Bruce Lum
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional levels.  
+
+You MAY distribute this WAD, provided you include this file, with no
+modifications. You may distribute this file in any electronic format
+(BBS, Diskette, CD, etc) as long as you include this file intact.
+
+* Where to get this WAD *
+
+FTP sites:      infant2.sphs.indiana.edu, archive.orst.edu
+
+BBS numbers:    CRS Online (416)213-6002, (416)213-6003
+
+

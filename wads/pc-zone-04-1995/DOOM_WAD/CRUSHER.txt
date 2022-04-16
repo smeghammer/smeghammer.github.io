@@ -1,0 +1,70 @@
+================================================================
+Title                   : Ultimate Crush (The Crusher)
+Author                  : Moldy Crouton (Matthew James) E1M1
+                          Terminator (Matt Bernard) E1M2
+Email Address           : Moldy Crouton (mjames@FileShop.COM)
+                          Matt Bernard (if you see Terminator on
+                          any board send 'em e-mail)
+Misc. Author Info       : Moldy: Doom-Head.. Eat,Sleep,Drink
+                          Doom.. thats it.
+                          Terminator: Enjoying playing all
+                          types of video games, bbs'ing
+                          playing all the sports and 
+                          picking up the women.
+                          
+                          
+Description             : Lots'o crushing ceilings.. lots
+                          of blood.. fun for the whole
+                          family..
+Additional Credits to   : ID Software.. for without them we
+                          would be doing something constructive
+                          AND for making the #1 game of all
+                          time...
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1, E1M2
+Single Player           : YES! But why?
+Cooperative 2-4 Player  : Hell NO!
+Deathmatch 2-4 Player   : HELL YEAH!
+Difficulty Settings     : Uhh.. well? NO!
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : Two Files.. Crush11.lmp (E1M1)
+                                      Crush12.lmp (E1M2)
+                          These'll show you the secret stuff..
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 7 Hours
+Editor(s) used          : DEU v 5.2 and 5.21 (thanks guys)
+                          BSP12x thingy
+Known Bugs              : None. E1M1 may be slow on some 
+                          machines.. was created on a 486dx2/66
+                          AND! There is no exit on E1M2!!!
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+* Where to get this WAD *
+
+INTERNET ADDRESS: infant2.sphs.indiana.edu
+BBS's: Take a look around.. if theres no DOOM file area
+       then we suggest you cancel your membership..
+
+
+WARNING! Look for other p-wads by us.. this is only the
+beginning folks so look out.. we are only gettin'
+started.. adios...
+
+NOTE! To play a demo you MUST do the following..
+doom -file crusher.wad -playdemo crush1x (x=1 or 2)
+

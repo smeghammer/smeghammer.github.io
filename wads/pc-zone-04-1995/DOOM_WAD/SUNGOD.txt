@@ -1,0 +1,27 @@
+
+      _/_/     _/   _/   _/_/     _/_/     _/_/    _/_/
+    _/   _/   _/   _/  _/   _/  _/   _/  _/   _/  _/  _/
+   _/        _/   _/  _/   _/  _/       _/   _/  _/   _/
+    _/_/    _/   _/  _/   _/  _/       _/   _/  _/   _/
+       _/  _/   _/  _/   _/  _/ _/_/  _/   _/  _/   _/
+ _/   _/  _/   _/  _/   _/  _/   _/  _/   _/  _/   _/
+  _/_/     _/_/   _/   _/    _/_/     _/_/   _/_/_/
+
+                     Version 1.0
+
+SUBJECT: SunGod 1.0 PWAD for DOOM (1.2 registered only)
+AUTHOR:  B4 Boredom (b4boredom@aol.com), (boredom@cris.com) 
+
+DESCRIPTION: SunGod is a *very* large level created with 
+DEU 5.21 GCC, BSP 1.2x, REJECT 1.0, MIDI2MUS & DMMUSIC. 
+The architecture is creative & eclectic. You'll find all 
+the weopons (eventually) and all the baddies to use them 
+on.  SunGod replaces E1M1 and supports all modes of play 
+& skill levels, but due to it's size & detail, may be 
+chunky on slower machines. 50-100Mhz reccommended.
+
+VERSION INFO:  Changes from 0.9 to 1.0 include: New music; 
+new rooms & escape routes added to rear of main complex 
+(about 90KB worth);  Texture changes & improved alignment 
+throughout; Various bug-fixes; Improved bonus & enemy 
+implimentation.

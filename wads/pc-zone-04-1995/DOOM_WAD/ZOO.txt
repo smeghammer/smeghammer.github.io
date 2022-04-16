@@ -1,0 +1,57 @@
+
+================================================================
+Title                   : DMZOO.WAD   
+Author                  : David Bruni
+Email Address           : 74353,357
+Misc. Author Info       : This is my 4th WAD file
+
+Description             : The DOOM Zoo has gone crazy. All the animals and 
+			  zookeepers have mutated into, you guessed it, DOOM 
+			  monsters. Your mission is to terminate ALL life 
+			  forms at the Zoo.
+
+Additional Credits to   : id for making DOOM, Geoff Allan for making 
+			  DoomED-The Real Thing Editor, and 5 year old son 
+			  Christopher for helping play test this level.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 50+ hours 
+Editor(s) used          : DoomED-The Real Thing
+Known Bugs              : none, only a few textures that I couldn't get to 
+			  align
+
+			   
+* Copyright / Permissions *
+
+Authors (MAY) use this level as a base to build additional levels, provided 
+you credit me with creating the original level.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+* Where to get this WAD *
+
+FTP sites:
+
+BBS numbers:
+
+Other:CompuServe

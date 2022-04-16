@@ -1,0 +1,5 @@
+In order to end the level, one player must push a wall in the caged   
+building.  This will bring down one of the crates, exposing a switch.
+The other player must be in the closet in the hallway of the house 
+(the door is striped).  When player 1 switches the switch, an lift 
+will go down in the closet.  

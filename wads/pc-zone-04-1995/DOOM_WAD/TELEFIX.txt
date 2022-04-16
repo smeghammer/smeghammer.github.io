@@ -1,0 +1,13 @@
+TELEFIX.DEH - A patch file for DOOM utilizing Dehacked and Dmaud to get
+rid of all traces of the teleporter sound and flash. *RECOMMENDED FOR DM*
+First and foremost: 
+This patch is intended to be compatable with deathmatch play.
+
+Teleportation sound has been killed. Period. Monsters, exploding corpses,
+telefrags, players, et. al. don't make a sound going through it.
+
+Teleportation is also completely invisible and nearly instantaneous.
+(this is great for creating invisible, unnoticeable teleports in
+stairways and such to simulate levels)
+
+*THIS IS HOW DEATHMATCH SHOULD BE - NO IDEA WHEN THEY ARE COMING FOR YOU!*

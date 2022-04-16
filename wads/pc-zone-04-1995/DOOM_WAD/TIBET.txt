@@ -1,0 +1,83 @@
+================================================================
+Title                   : TIBET.WAD   
+Author                  : Keith Sheehan
+Email Address           : upe2001@abdn.ac.uk
+Misc. Author Info       : Finished my exams !!! :)
+                        Also I made the K9 wad which got a 
+                        rating of 3.5
+
+Description             : The troops the UCA sent into the 
+                        Tibetan base failed to get past the 
+                        helipad. Therefore it's up to you to 
+                        crawl in through the caverns upon which 
+                        the base was built. Within the caverns 
+                        is a deserted monestary where the 
+                        scientists, working at the base, have 
+                        been testing with radioactives. Your 
+                        job is to find out what happened in the 
+                        base and TAKE IT BACK !!!!
+
+Additional Credits to   : Kieran Turner for the 'evil' mug shot.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Yes (More a case of altering)
+Demos Replaced          : All
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Two weeks less than my first 
+Editor(s) used          : Deu 5.1 (Excellent)
+                          BSP 1.0 (Without which .... )
+                          DMGRAPH (A god send)
+Known Bugs              : None as far as I know
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+
+
+
+DEATHMATCH SPOILER : DEATHMATCH SPOILER : DEATHMATCH SPOILER  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN DEATHMATCH:-
+
+There is a room in the wad which has some teleports to top of 
+lifts. These lifts come down when someone walks over a 
+'pressure pad'. The teleport sends you to a hidden location near 
+to where they are so that you can blow them away :) 

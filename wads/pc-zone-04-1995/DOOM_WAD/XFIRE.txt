@@ -1,0 +1,67 @@
+Title                   : XFIRE.WAD   
+Author                  : Marcus Westrup
+Email Address           : mawestru@okcins.okanagan.bc.ca (until Sept.)
+Misc. Author Info       : Just another student in a DOOMed world.
+
+Description             : A weird mix of half-baked ideas. (YOU try to
+                          come up with something original to compete
+                          with all those other new .WADs).
+
+                             Level one is just being cute, and gives
+                          you a chance to build up supplies.
+                             Level two is short, and is based on a
+                          simple idea. Better oil that chain saw! (Hint:
+                          experiment a little with the pistol...)
+                             Level three is big. The "crossfire" room
+                          (you'll know it when you see it) is a blast.
+                          For a treat, try walking through it backwards!
+
+                          
+
+Additional Credits to   : Someone who lent me a 486dx to do all this
+                          work on.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : Three new levels:  E2M1 to E2M3
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes  (not tested)
+Deathmatch 2-4 Player   : Yes  (not tested)
+Difficulty Settings     : Yes
+New Sounds              : No   
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From scratch.
+Build Time              : Too damn long.  I want my life back.
+Editor(s) used          : Deu51, Deu52, BSP11x, BSP12x, and a sharp pencil.
+Known Bugs              : The larger and more complex rooms may show some
+                          HOM in the distance; I expect this to improve with
+                          the release of DOOM 1.4
+                          (Because this was done on a 486, I can't say
+                           how well it will play on a slower machine; some 
+                           rooms may run slow).
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional levels. In fact,
+you can do anything you like with it. I didn't develop DOOM, so why 
+should I restrict what happens to these WADs.  Enjoy!
+
+I also welcome anyone who wants to replace any of the sounds/music.
+All I ask is you put a new version number on it before re-release.
+
+For that matter, these levels could also use a good REJECT resource table.
+Has anyone come up with a Reject builder that works?
+
+
+* Where to get this WAD *
+
+FTP sites: infant2.sphs.indiana.edu
+(Hey, if you can read this you already *know*).
+
+

@@ -1,0 +1,37 @@
+WADPAK1a.WAD by Gary Karnik (g.karnik@att.com)
+
+This is the second release WADPAK1. This is my attempt to take some of
+the best shareware PWADs for DOOM available and combine them together
+into reasonable new episodes. Each episode should be playable by a
+single player or deathmatch as in ID's own levels.
+
+Play using "doom -file wadpak1a.wad" (you must have the registered version).
+
+This is the source for this new wad pak:
+
+EPISODE1:              EPISODE2:               EPISODE3:
+
+E1M1 TNCROSS.WAD       E2M1 MAZE1.WAD          E3M1 STONES.WAD
+E1M2 TREE1.WAD         E2M2 LEWIS21F.WAD       E3M2 MELANGE.WAD
+E1M3 HUH.WAD           E2M3 11BONES.WAD        E3M3 MARX1_2.WAD
+E1M9 TEK.WAD           E2M4 LONGMTCH.WAD       E3M4 MARKROOM.WAD
+E1M4 FOREST.WAD        E2M5 666.WAD            E3M5 MOONBASE.WAD
+E1M5 FOREST.WAD        E2M9 CASTLE.WAD         E3M6 OCTAGON.WAD
+E1M6 FOREST.WAD        E2M6 CORTYR_B.WAD       E3M9 CHRIS.WAD
+E1M7 EVIL_E.WAD        E2M7 BEHOLDER.WAD       E3M7 FY1A.WAD
+E1M8 FORTRESS.WAD      E2M8 MEGAWATT.WAD       E3M8 FY1A.WAD
+
+My highest regard to all WAD authors, you did a fantastic job guys!
+
+Updated from version 1 to 1a:
+
+E1M4: Updated level from author
+E1M5: Updated level from author
+E1M6: Updated level from author
+E1M8: Removed a lowered ceiling which could preclude finishing the level
+      in cooperative mode.
+E1M9: Fixed numerous level problems
+
+If anyone has any problems playing these episodes, please let me know.
+
+Enjoy.

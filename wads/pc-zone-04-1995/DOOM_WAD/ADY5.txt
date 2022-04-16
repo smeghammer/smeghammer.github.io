@@ -1,0 +1,39 @@
+ADY5.WAD
+--------
+DOOM! PWAD Created by Adrian Speight in the Summer of 94
+I hope this is fun for you to play. I enjoyed making it
+
+Please do NOT use it as a basis for other levels - I design
+my levels as complete ideas and not building blocks
+
+Replaces E1M1 - registered version only due to weapons
+
+Skill levels ARE implemented
+Works very well in single player
+Works very well in Cooperative play
+Should work very well also as a deathmatch arena
+Guaranteed to run fast on a 386 - I dont like really slow WADs
+ - my most all round level yet!
+
+Ady5.wad - A tunnel maze with lots of traps in and a challenge to
+beat without loads of deaths even in 4 player, yet still possible in
+single player. Pretty in places, variable, hopefully fun, and don't
+play it if you get scared easily.
+
+------------------------------------------------------------------------
+Author:
+        Adrian Speight
+        5, Summerville Road
+        Pudsey, LS28 6EL
+        U.K.
+
+Please do get in touch if you want to - I don't bite
+------------------------------------------------------------------------
+
+If you haven't already - Phone >>>INSIGHT BBS<<< on 0942 517097
+
+Convert all your WADs to ARJ and save half the space and still run
+them using DOOMRUN by Lawrence Staveley - Shareware from Insight BBS
+
+------------------------------------------------------------------------
+

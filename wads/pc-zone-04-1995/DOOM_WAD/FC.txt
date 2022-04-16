@@ -1,0 +1,72 @@
+DOOM: The Final conflict
+========================
+Constructed by   : Cliff Pennock
+                   Haarlem, The Netherlands
+Compuserve       : 100067,2353
+Date             : June 16, 1994
+Original filesize: 392273 bytes
+
+Please give this DOOM PWAD to anyone who might be interested, but
+do not change anything in the file. This PWAD is so large, changing
+one tiny thing may totally crash your computer!
+
+Because of the size of the wad file, playing this may be a little slow.
+If so, change the size of your play-window with the - (minus) key or
+buy a 66 Mhz 486!
+
+Also on my machine, whenever a try to save a game I get the message
+"Savegame buffer overrun".
+As soon as I figured out how this happens and how to avoid it, I
+will upload a new version.
+
+This version is a beta version and has not been fully tested. Please
+drop me a note when you encounter any errors or strange things. Again,
+do not try to change this yourself!
+----------------------------------------------------------------------
+
+
+From Gredan's logbook:
+
+Day 389: Damn this place! We have been stuck here for over
+         a year! Last night Yudrin returned from his trip
+         to the north sectors. He said he heard about a place
+         on the far side of the mountains. This place is
+         supposed to be the home of all evil. Could this be it?
+         Could this be our destiny?
+
+Day 390: Dear god... Yudrin died last night of his wounds. Nobody
+         left but me now. I vow by the holy Comeshi I will kill
+         this pest from hell! I will wait no longer and begin
+         my crusade over the mountains.
+
+Day 395: Five days has past since my last entry. Some troopers
+         caught me and dumped me in some kind of labyrinth. Too
+         bad for them they left some Light-Amp's behind. Shouldn't
+         be that bad to find my way out of here.
+
+Day 396: A whole day it has cost me to get out of the labyrinth. It
+         turned out the exit was clearly marked! Outside the labyrinth
+         I found a heavily garded structure of which I do not know the
+         purpose. I'm tired now... I will rest and continue my quest
+         tomorrow.
+
+Day 397: It is true! This truly is the place where they dwell! I've been
+         able to capture a keycard to what might be the exit!
+
+Day 400: Disappointed... The card gave only access to a strange puzzely
+         place. The ports of blue light didn't gave the awnser easily.
+         Must have missed a clue somewhere...
+
+Day 401: I'm hesitant to say it but.. I have found another keycard for
+         the north gate. I will rest first.
+
+Day 402: The city is truly violent! It was however a place with great
+         resources. I'm now better equipped, better armed. The hospital
+         was able to cure my wounds for now. I've prayed my quest will
+         soon come to an end. They have been partly answered for I now
+         hold the key to the big structure.
+
+Day 405: I've rested long and good and will now enter the strange
+         structure. This will be my last entry for a while...
+
+         

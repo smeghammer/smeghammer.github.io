@@ -1,0 +1,61 @@
+================================================================
+Title                   : COLOSEUM.WAD 
+Author                  : Dean Ashley Svendsen
+Email Address           : DASVE1@AURORA.CC.MONASH.EDU.AU
+Misc. Author Info       : I've only got a 386SX-20 :(
+
+Description             : This has been designed with deathmatch in
+mind.  There's PLENTY of opportunity for suicides, and absolutely
+NO ambush points!  Rather, this is a "Keep moving and watch your back"
+WAD.  There are rooms outside the main arena, but the nature of these
+forces the player to spend very little time in them (or eternity :)
+so its unlikely that you'd have trouble finding the other player(s).
+And yes, since this is my first WAD, the Cyberdude makes an appearance.
+(By the way, I've managed to kill him twice, accidentally, without
+firing a shot at him.  Dontcha just love teleporters ;) 
+For those of you who hate the pistol, extra weaponry is provided at
+the start.  Just watch out for the pink things. :)  All the weapons
+are available in various places, you just gotta go look!
+
+Expect lots of fatalities in this WAD.  
+
+Additional Credits to   : Eric Staeberhofer & Luis Pampliega for
+                            playtesting, and Eric for providing
+                            some half-decent PC's.
+                          The authors of DEU.  Good work!
+                          Those nice people at id.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E3M1
+Single Player           : Only if you're very good.  (Is that a
+                                challenge? :)
+Cooperative 2-4 Player  : Implemented, but not suited.
+Deathmatch 2-4 Player   : Yes!!
+Difficulty Settings     : Not implemented.  UV all the way!
+New Sounds              : No
+New Graphics            : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : <Scratch><Scratch><Scratch>  *ahhhhh*
+Build Time              : Too long!  Approx two weeks. 
+Editor(s) used          : DEU 5 beta and 5.0, BSP10
+Known Bugs              : Dont think there's any....
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional
+levels.  I'd like to see what you come up with!
+
+You may do whatever you want with this WAD, except for UUENCODEing
+it and posting it on alt.games.doom :)
+
+
+* Where to get this WAD *
+
+FTP sites: ocf.unt.edu 
+

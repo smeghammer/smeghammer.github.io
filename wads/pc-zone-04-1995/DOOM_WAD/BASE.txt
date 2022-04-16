@@ -1,0 +1,48 @@
+================================================================
+Title                   : The REAL Military base
+Filename                : Base.WAD
+Author                  : Jon Paynter
+Email Address           : jon@halcyon.com
+
+Description             : This my idea of what the military base should
+                          have been on E1M9.  However, backup firepower
+                          is recomended.  Deathmatch should be a literal
+                          blast, but its untested.
+
+Additional Credits to   : Todd Long, Mark Paynter, The guys at iD
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes - Recomended
+Deathmatch 2-4 Player   : Yes (untested)
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.21, BSP, IDBSP
+Known Bugs              : 1 HOM Problem in mountian room in main base
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites: Infant2.sphs.indiana.edu
+
+Other: Me (jon@halcyon.com)

@@ -1,0 +1,82 @@
+======================================================================
+Title                   : Various Artists Music Wad
+Filename                : VAMUS1.WAD
+Author                  : Angelito So
+E-Mail                  : aso@ic.sunysb.edu
+======================================================================   
+Description             : Music from Various Artists. I got these from
+                          midi files I have downloaded from all over the
+                          internet.
+                          These midifiles are excellent reproductions of
+                          the actual recorded versions of the songs.
+
+                          Songs From:
+                               Nirvana, The Who, Seal, U2, Queen and others
+
+                          The D_INTER and D_INTRO were taken (and slightly 
+                          edited :) from the XWing midi files
+                          used in the swmusfx#.wad. I used these because it
+                          is what I would have used in the D_INTER and
+                          D_INTRO sections if I made the swmusfx#.wad series
+                          and it seemed to fit into my frame of mind at the
+                          time I decided to do this.
+
+                          NOTE TO Star Wars fans and Chris Hopkins:
+                             There is a new Star Wars song in this file that
+                          I converted from an Amiga SMUS file. It is a very
+                          well made recreation of the Empire Strikes Back
+                          finale song (Though it is only 4 channels it sounds
+                          great). You may want to use it in a future version
+                          of the swmusfx wad file. The song is on E2M4.
+
+Additional Notes        : This not really done but I really wanted to release
+                          it. I also ran out of songs that I felt belong in
+                          this wad file. If anybody has any other songs they
+                          think belong in this wad file let me know.
+                          Oh This sounds great on my GUS, I have never tried
+                          it on an other card so I can't tell you if it will
+                          sound OK on fm synth cards.
+
+Additional Credits to   : All the composers of the tunes.
+                          ID
+                          Bill Neisius creator of DMMUSIC.
+======================================================================
+
+* Play Information *
+
+Episode and Level #     : N/A
+Single Player           : N/A
+Cooperative 2-4 Player  : N/A
+Deathmatch 2-4 Player   : N/A
+Difficulty Settings     : N/A
+New Graphics            : None
+New Sounds              : None
+New Music               : E2M1-E2M9, E3M1-E3M6, INTER, INTRO, VICTOR
+Demos Replaced          : None
+
+* Construction *
+
+Editor(s) used          : DMMUSIC, MIDI2MUS
+
+Known Bugs              : None.
+
+
+* Copyright / Permissions *
+
+Authors may use this pwad as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact and DO NOT charge anything else but the price of downloading
+time and cost of the media.
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu
+
+* How to use this WAD *
+
+1. Put vamus1.wad in your doom directory
+2. type: DOOM -FILE VAMUS1.WAD

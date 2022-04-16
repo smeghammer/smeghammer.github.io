@@ -1,0 +1,16 @@
+
+WAD NAME: evil_e.wad
+WAD Description: My first attempt!
+Author: Ian Suhrstedt
+Contact: isuhrste@vtel.com
+
+NOTEs on the level:
+1. Try it first without any of the codes...you'll enjoy it more.
+2. All of the monsters appear on all levels, so changing the skill
+   levels won't help you there.
+3. Most objects are there for a reason, i.e. location of secrets.
+4. Level is compatible with deathmatch and co-op modes.
+5. Look closely at the faces on the ship...
+
+Please give me feedback on anything you deem necessary. Thanks.
+Have fun!

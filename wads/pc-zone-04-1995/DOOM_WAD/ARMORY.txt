@@ -1,0 +1,55 @@
+================================================================
+Title                   : The Armory v1.0   
+Filename                : ARMORY.WAD
+Author                  : Daniel Maas
+Email Address           : CIS:73063,1547 I-Net:73063.1547@Compuserve.Com
+Misc. Author Info       : This is my first cool DOOM level.
+
+Description             : The setting: UAC Weapons Armory, New York, Earth.
+                          A large arsenal. A cut-off distress call. 
+                          Tons of alien invaders. And the only force to stop
+                          them: YOU!
+Additional Credits to   : The authors of DEU.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes (But not very exciting)
+Difficulty Settings     : Yes (The HARD setting is best left to God-Mode)
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DEU 5.2
+Known Bugs              : Some texture alignments a tad off.
+                           Not very noticeable
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+CompuServe: GAMERS Forum, Lib 7
+
+* Instructions For Use *
+
+UnZip ARMORY.ZIP into your DOOM directory. To use this file, type:
+
+        DOOM -FILE ARMORY.WAD
+
+Have Fun!

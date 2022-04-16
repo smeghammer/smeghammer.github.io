@@ -1,0 +1,77 @@
+================================================================
+Title                   : urbnbeta.WAD   
+Author                  : Frederick J. Bradley
+                          with Robert Bradley
+                          & Ryan Louie.
+Email Address           : fjbradley@ucdavis.edu
+Misc. Author Info       : FJB: "Just a student..."
+                          RDB: "Huh?"
+                          RNL: "Why do you even talk, Robert?"
+Description             : (You might remember this level as 
+                          DETHE1M1.  I've finally decided on a
+                          theme for my episode, so I added some 
+                          graphics and here it is.  I changed 
+                          alot of stuff, and made the level a 
+                          little more interactive.  If you liked
+                          DETHE1M1, then you'll love Urban Wars.)
+
+                          The year is 2099 and V-Town has suffered
+                          from major incidents of gang related 
+                          violence.  All of America's resource 
+                          could not free V-Town from the gangs, 
+                          so the city is in chaos.  In an effort 
+                          to save yourself and your family, you 
+                          decide to fight for leadership of the 
+                          gangs.  You will battle many gang 
+                          members, and eventually your friends 
+                          (deathmatch partners) to become the 
+                          leader of V-Town.  You are now 
+                          enlisted into the URBAN WARS!
+
+                          (This is just the beta story, but is 
+                          really close to the real thing.)
+
+                          The war starts in your family's home
+                          just after you declare your leadership
+                          challenge.
+
+Additional Credits to   : TO: Shelly B. who will start the "real"
+                              story soon. 
+                          To: ID for an excellent game
+                          To: Raphael for deu.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : This beta only has E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes!
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Graphics            : Yes
+
+* Construction *
+
+Base                    : Modified DETHE1M1.WAD
+Build Time              : ? 
+Editor(s) used          : Deu & bsp
+Known Bugs              : none really....
+
+
+* Copyright / Permissions *
+
+Authors may NOT use this level as a base to build additional
+levels.  
+
+(One of the following)
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites: Infant2.sphs.indiana.edu
+Other: You may mail me for a copy....

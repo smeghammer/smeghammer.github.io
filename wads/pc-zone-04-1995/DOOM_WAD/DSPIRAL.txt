@@ -1,0 +1,56 @@
+* General Information *
+============================================================================
+
+Title                   : Death Match Spiral (DSPIRAL.WAD)
+Author                  : Kenneth S. Forte
+Email Address           : fusioncon@cup.portal.com
+Additional Credits to   : The authors of DOOM, DEU, and BSP, of course.
+Description             : A different kind of deathmatch level, based upon
+                          an idea conjured up by myself and Justin Powell
+                          (author of Death Match Prison). You only get to
+                          select on weapon per life, as does your opponent.
+                          The playing field is dairly simple: The better
+                          bonuses are harder to get, and there are some nice
+                          hiding spots, and a place to suicide if your
+                          situation seems hopeless. There are also a few
+                          pesky monsters to liven it up, and some more
+                          than pesky monsters guarding the bonuses (hint:
+                          take a chainsaw one of your times out) Oh, BTW:
+                          in case you didn't figure it out yet, this level
+                          is for Death Match only <g>.
+
+
+* Play Information *
+============================================================================
+
+Episode and Level #     : E2M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+============================================================================
+
+Base                    : New level from scratch
+Build Time              : About 6 hours, give or take a day.
+Editor(s) used          : DEU 5.0 and BSP 1.1x
+Known Bugs              : There are some areas where the ID engine hits
+                          its limit in terms of how many transparent
+                          sidedefs can be calculated in a row. This
+                          may cause some tiny spots of bleeding (or
+                          "Hall of Mirrors"), but does not indicate
+                          unassigned sidedefs or a major problem.
+                          Simply move a little in a direction and it
+                          will probably stop.
+
+
+* Copyright / Permissions *
+============================================================================
+
+Authors may use this level as a base to build additional levels.
+You may distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file.

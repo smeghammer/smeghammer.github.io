@@ -1,0 +1,60 @@
+========================================================================
+Title                   : DUO_1.ZIP
+Author                  : DOOMented DUO Team - Will Chapman, Chris Allis
+Email Address           : tpair@halcyon.com	
+Misc. Author Info       : Created with DoomED 2.6 b2, and Deu 5.0
+		
+Description             : Duo_1 is a deathmatch level set in an 
+			  abandoned Command & Control Center. There
+			  are no monsters here, but your buddy came
+			  down with DOOMentia must be hunted down & 
+			  killed.  BTW, he will be hunting you too.
+
+			  There a numerous windows, sniper positions, 
+                          and the entire complex is ringed with 60 
+                          rooms filled with extra ammo, shells, medpacks, 
+                          etc.  Two teleporters allow quick transit 
+                          between rooms.  Textures are simple to allow
+			  quick play (No Cement, or Tekwal slowdowns) 
+
+Additional Credits to   : DoomED, Deu, and DoomCAD authors.  Without them...
+
+==========================================================================
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes, but no fun without your DOOMented friend.
+Cooperative 2-4 Player  : No way.. Your friend is DOOMented, remember?
+Deathmatch 2-4 Player   : Yes 2 player RECCOMENDED
+Difficulty Settings     : Random starts change with difficulty sets.
+			  1&2 - Shotgun,Chaingun,Rocket launcher, powerups
+			    3 - Shotgun Changun, less ammo available
+			    4 - Shotgun only, even less ammo.
+
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : Horrendous.. (last build was numbered 105)
+Editor(s) used          : DoomED, Deu, and DoomCAD for texture size information
+Known Bugs              : H.O.M.s in long distance viewing.. Engine Bug, 
+                          not texture bug
+
+
+* Copyright / Permissions *
+
+Authors may use this level as a base to build additional levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  
+OCF.UNT.EDU and INFANT2.SPHS.INDIANA.EDU
+
+

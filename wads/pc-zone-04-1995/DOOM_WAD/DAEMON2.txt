@@ -1,0 +1,42 @@
+
+    ---- Daemon Version 2 Level ---
+    "And you thought Imps were bad"
+
+
+This is version 2.0 of deamon.wad.  It's a standard level
+with a deathmatch component.  I haven't tried it in
+deathmatch (yet).
+
+This version fixes the hall-of-mirrors effects (which were my
+fault due to my construction and mode-type for the doors :)
+It also includes several more rooms and traps, plus more
+"murder holes" for deathmatch.
+
+Deamon2's got some nasty traps - so watch out!  >:-)
+
+If you like levels with puzzles and nifty effects, then Daemon 2
+is for you!
+
+Except for texture and alignment, please email me about bugs you
+find.  I'd also like to know what you think of it!
+
+Thanks to the authors of DEU 5.0 and BSP 1.0.
+This wad was created using DEU 5.0 (non-beta) and running the
+output through BSP.
+
+Have fun!
+
+Title:       Daemon2.wad
+Author:      Cameron Newham (cam@iinet.com.au)
+Type:        Standard/Deathmatch
+Base:        New level from scratch
+Build Time:  22 Hours 
+Bugs:        Numerous texture align.
+
+ftp sites:   ocf.unt.edu: /pub/incoming
+
+
+- cameron.
+"We're talk'n swoon.  We're talk'n croon.
+ We're talk'n moon in June.  We're talk'n..... DooM!"
+

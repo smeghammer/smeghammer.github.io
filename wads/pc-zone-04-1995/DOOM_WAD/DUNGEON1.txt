@@ -1,0 +1,45 @@
+================================================================
+Title                   : Dungeon1.WAD
+Author                  : Miles Constable
+Email Address           : None (uploaded by Sam Wong)
+Misc. Author Info       : My first .Wad file.
+Description             : You start in a creepy forest, shots ring
+			  out. Get going. Into the dungeon and out
+			  again. Watch your ammo, there is a best
+			  method.
+
+Additional Credits to   : my computer and Sam Wong (Deathstar) the 
+			  beta tester.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No (I'm not that good!)
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 100's of hours (I learned DEU 5.1 at the
+			  same time)
+Editor(s) used          : DEU 5.21 and BSP 1.1x
+Known Bugs              : Not really a bug, but two spectors can't 
+			  climb stairs to get at you.
+
+
+* Copyright / Permissions *
+
+You MAY use this level as a base to build additional levels.
+But do not claim you created this level.  If you create a new
+level based on this one, please credit the original author.
+You may do whatever you want with this file.  The author
+will not accept any responsibility for problems caused with it.
+
+* Where to get this WAD *
+
+The same place you got this file.

@@ -1,0 +1,57 @@
+
+                             A DeHacked Patch
+                        Ä ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ Ä
+                        BARREL BLASTER !BETA! v0.9
+
+[Requirements]
+
+DeHacked v1.3
+DOOM v1.2 Registered*
+
+[Summary]
+
+        The Barrel Blaster is a BETA patch for id's DOOM (registered). It
+replaces the BFG with a new weapon -- one which lobs barrels a short distance
+(where they remain until destroyed). I have filled a room with up to 25
+barrels--great ambush possibilities!
+        Does it work in deathmatch? I have no idea -- but I hope so! If anyone
+tries it out, please email me and let me know! This weapon is great if you have
+no other ammunition--the release patch of this weapon will have NO CLIP, so you
+can always fall back on the barrel blaster if you're out of ammo and being
+chased. I chose the slow frame rate of the BFG for realism -- I don't think
+this patch would have the same effect if you could spit out barrels as fast
+as the chaingun.
+
+[Technical Aspects]
+
+        For all you DeHackers out there -- this is not a simple hack! I went
+through hours of trial and error to get it to work right. If you want to know
+how I did a specific thing, feel free to email. If anyone makes any changes
+(improvements) on this patch, please let me know, (that's all I ask.) I'm
+currently working on a hand grenade--I've finished it, except I haven't
+figured out how to make it travel farther than 5 feet or so.
+
+[Bugs]
+
+        I've had DOOM lock up on me several times using this patch. It hasn't
+locked up in awhile, so maybe this bug went away. Also, if you shoot this
+weapon (like an idiot) close to a wall, the barrel will go through it! I
+assume that if you shoot the Barrel Blaster point-blank at an enemy character,
+it'll go through him too. If you find any other bugs, please let me know.
+
+[Disclaimer]
+
+     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      This patch is BETA! Use it at your own risk. I'm not responsible for
+                                   anything.
+     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+[About the Author]
+
+Justin Pinder
+pinder2@griffin.emba.uvm.edu
+University of Vermont
+
+Feel free to let me know what you think!
+
+* DOOM is a registered trademark of id software.

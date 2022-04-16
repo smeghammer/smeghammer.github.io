@@ -1,0 +1,72 @@
+================================================================
+Title                   : BARREL.WAD   
+Author                  : Cameron Newham
+Email Address           : cam@iinet.com.au
+Misc. Author Info       : I'm 28 and live in Perth, Western Australia.
+
+Description             : 
+
+                          "No.... please.  Not the Barrel!  Anything
+                           but the Barrel..  No!  Not the Barrel!
+                           Not the Barrellllllll!"
+
+                          Welcome to Barrel - I hope it gives you
+                          nightmares.  Certainly, if you have a
+                          machine slower than a 486 then you take
+                          your chances with this WAD as a few areas
+                          have quite complex detail.
+
+                          I certainly had fun making this one (and
+                          playing it).  You'll find a couple of
+                          references to Scream.Wad - so if you've
+                          played that, it might help.  Then again
+                          it might not.
+
+                          As usual, this *can* be done without cheating.
+
+                          Any problems - email me.
+
+Additional Credits to   : David Quin-Conroy for testing the first room.
+                          Various people on IRC #doom, who prompted
+                          strange thoughts - especially about acid and
+                          150 light spectres :)
+                          Raphael Quinet for DEU 5.1
+                          Warner Bros. cartoons.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : No   (possibly will be in version 2)
+Deathmatch 2-4 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 30+ hours
+Editor(s) used          : DEU 5.0 and BSP1.1 (90%), DEU 5.1b4 (last 10%)
+Known Bugs              : Some texture misplacement in the last room I
+                          created - not really noticable.
+
+
+* Copyright / Permissions *
+
+Authors (may NOT) use this level as a base to build additional
+levels.  
+
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+* Where to get this WAD *
+
+FTP sites:  ocf.unt.edu
+
+Other:  A wrecked spaceship on LV421.
+

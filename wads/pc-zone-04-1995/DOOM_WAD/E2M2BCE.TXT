@@ -1,6 +1,0 @@
-	A great completely new level by Brendy Ebel. The unfinished version
-was called "E1M7BCE1.WAD". Now here is the full version. This level is fun for
-multi or single player and for registered DOOMers only. To run, copy the file
-to your doom directory and run doom with "-file E2M2BCE.WAD" added to the end
-of the command line. Once in doom warp to episode 2 mission 2 using the
-"IDCLEV" code.

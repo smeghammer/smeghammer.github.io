@@ -1,0 +1,52 @@
+================================================================
+Title                   : Watch Yer Back!
+Filename                : WYB_E2M1.WAD
+Author                  : Tom Boyles
+Email Address           : tomboyles@aol.com
+Misc. Author Info       : Please write to me with comments, this
+                          my first attempt at making a level.
+
+Description             : Completely new level from scratch.
+                          The builder of this level loves those
+                          little tricks that can be done in DOOM,
+                          So... Watch Yer Back!
+
+Additional Credits to   : Geoff Allan for the BEST editor in my
+                          opinion... DoomEd - The REAL Thing!
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1 
+Single Player           : Yes
+Cooperative 2-4 Player  : No, not yet
+Deathmatch 2-4 Player   : No, not yet
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : DoomEd - The REAL Thing! v2.60 Beta 4
+Known Bugs              : None, as far as I have found.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.
+
+FTP sites:
+
+BBS numbers:
+
+Other:
+

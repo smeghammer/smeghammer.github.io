@@ -1,0 +1,24 @@
+Beginning with this version, several WAD files are being included. 
+Don't edit these with any Other<tm> editors, since platform descriptions 
+will be lost.
+
+These are to be considered works in progress, or proving levels. I know
+that some things aren't perfect. All of these WAD files are for E1M1.
+
+Steps1.Wad      - Totally custom level. Have fun!
+
+Steps2.Wad      - same level, with a new teleporter added.
+
+Steps3.Wad      - Tons of stuff added, still a work in progress.
+                  Lots of fun for Deathmatch.
+                  
+Mine1.Wad       - Here is a REAL level. Lots of tricks, some traps,
+                  it has NO monsters or things, Add your Own!
+                  Large open "arena" is ideal for 1 on 3 battles.
+                  (still a work in progress, but enjoy!)
+
+To play, put the file in your Doom directory, and type
+
+    DOOM -File Mine1.wad  [ENTER]
+
+

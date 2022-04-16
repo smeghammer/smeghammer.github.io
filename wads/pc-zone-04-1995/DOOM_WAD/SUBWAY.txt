@@ -1,0 +1,193 @@
+==============================
+SUBWAY.WAD - The Deimos Subway
+==============================
+
+This is a fairly large PWAD that takes place in a very
+small subway system and the rooms attached to the stations.
+Please read the scenario story below.  It replaces E2M1.
+To run this with Doom, unpack the archive in your doom
+directory, and then type:
+
+	Doom -file subway.wad
+
+
+Please mail any comments, suggestions, or
+criticism, etc to nziring@aztech.ba.md.us.
+
+...nz
+
+
+
+================================================================
+Title                   : SUBWAY.WAD
+Author                  : Neal Ziring
+Email Address           : nziring@aztech.ba.md.us
+
+Description             : Demons have taken over the UAC Deimos
+			  subway.  Your mission, clean out the
+			  stations and eliminate whoever is behind
+			  the invasion.
+
+Additional Credits to   :  My sister-in-law for ideas.
+			   Raphel Quinet and Brendon Wyber, for DEU!
+			   Various folks on the net who answered
+			   questions regarding tools.
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E2M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, but untested
+Deathmatch 2-4 Player   : Yes, but untested
+Difficulty Settings     : Yes, very much
+New Sounds              : Yes, New music
+New Graphics            : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Build Time              : 55+ hours
+Editor(s) used          : DEU5.21
+Tool(s) used            : bsp12x, dmgraph, dmmusic, midi2mus, reject
+			: Aldus Photostyler, PaintShop Pro, Music Sculptor
+Known Bugs              : Very slow on anything less than a 486DX-25, probably
+			  not playable on a 3/486sx.
+			  Some tiny HOM effects visible in the east station,
+			  weird graphics bug at the bottom exit from the
+			  elevator in the north station.
+
+
+* Copyright / Permissions *
+
+Authors MAY use this level as a base to build additional
+levels.  Sure I'd like credit, but I'm not going to insist.
+
+You may distribute this file in any electronic format (BBS, Diskette,
+CD, etc) as long as you include this file intact.
+
+
+* Where to get this WAD *
+
+FTP sites:  infant2.sphs.indiana.edu
+
+
+
+============================================================================
+		       D E I M O S    S U B W A Y
+		       
+Alarming reports had been arriving hourly from the offices of the UAC
+subway system on Deimos.  This hour, no report.  You and your platoon
+have been ordered to investigate the reports (demons?  zombies?!) and
+secure the subway, maintaining the amount of violence at a level short
+of complete destruction.  Being trusting as she is, you C.O. has issued
+you only pistols.  Maybe you can find some more weapons and ammo in the
+subway before you buy it.
+
+Pre-mission briefing includes the fact that the subway has three
+stations, with several room attached to each station.  Your destination
+is the central station.
+
+As you prepare to step through the teleporter to Deimos, you gaze out
+on the Phobos landscape and see crescent Mars hanging in the gray sky.
+Your buddies step through, now it's your turn...
+
+
+
+
+=============================================================================
+NOTES AND HINTS
+
+   - In the subway-master's office are two large pictures of Jupiter.  Both
+     of these pictures date back to the Shoemaker-Levy bombardment of Jupiter
+     way back in 1994 (actually, one of the images is a composite, but the
+     big one with the plume is an actual impact image from the Keck telescope
+     in Hawaii -- fragment G, I think).
+     
+   - There are quite a few secret areas.  Most of them are fairly easy
+     to find.  It is pretty much impossible to complete this level on HMP
+     or UV without finding at least some of the secret areas.
+     
+   - There is graffiti in the subway car.  Go in there and see it.
+   
+   - Every Doom 1.2 weapon is available in this level. There are not enough
+     weapons to go around for everybody in multi-player mode -- this can 
+     make for some friendly competition.  Go find 'em.
+    
+   - The add-on music is a jazz piece named "Take the A-Train". I
+     got it off a public FTP site at some college in Europe.  If
+     you don't like it, just use "dmmusic d_e2m1 -f subway.wad -r"
+     to take it out of the Pwad.
+     
+   - Please note the interesting, graffiti-covered door near the end of
+     mission.  Be careful after you go through it.
+     
+   - The little retail establishment in the east station sold Gyros 
+     (ala Seinfeld).
+	 
+   - I haven't been able to beat this level on UV yet, although I've
+     come close.  It is really designed for play on HMP.  Shoot 
+     accurately if you try it on UV.
+     
+   - I ran into a heck of a DEU bug when I was about 85% done with
+     this level, and it made the level unplayable (it also managed
+     to make a file capable of crashing other Doom editors!).  The
+     only solution I found was copying the entire map and deleting
+     the old copy.  That's why the coordinate range is somewhat 
+     extreme.
+
+   - When you finish the level, look for the mission name.
+     
+   - The rest of the items below are spoilers, in order of increasing
+     spoili-ness...don't read them until you have trouble.
+     
+     
+   
+     
+   *********************
+   
+   
+   
+   
+   
+   - Be thrifty with your ammo at the beginning of the mission, especially
+     in UV.  
+     
+   - You may find it necessary to leave the center station before securing
+     it entirely, to go find ammo in one of the other stations.
+     
+   - In the garden room: Don't try to shoot all those 
+     Cacodemons!  Find a way render them immobile.
+   
+   - Anywhere you see an enemy in a station, you can go there.
+   
+   - The yellow keycard is not essential, just helpful.  The red and blue
+     are necessary and you have to get the red one first.
+     
+   - Look behind the trees in the east station.
+   
+   - Use the red keycard to get the computer map.
+
+   - Use the chainsaw on a bunch of demons.  There are two chainsaws
+     to be found in the whole mission map.
+   
+   - There is a blur sphere available in the east station, but you have
+     to be fairly quick to get it.
+     
+   - There are two teleporters outside the executive office.
+   
+   - If you want more specific hints than these (unlikely) then just email
+     me at nziring@aztech.ba.md.us.
+     
+     
+     
+     
+     
+  **************************
+  
+  
+  
+  
+  
+   Enough babbling then.  Go get those demons!
