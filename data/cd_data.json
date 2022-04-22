@@ -12,8 +12,7 @@
 					"pattern":null
 				},
 				"file_data":{
-					"map_format":["wad"],
-					"text_files":true
+					"map_format":["wad"]
 				}
 			},
 			{
@@ -24,8 +23,7 @@
 					"pattern":null
 				},
 				"file_data":{
-					"map_format":["zip","wad"],
-					"text_files":false
+					"map_format":["zip","wad"]
 				}
 			},
 			{
@@ -36,8 +34,7 @@
 					"pattern":null
 				},
 				"file_data":{
-					"map_format":["zip"],
-					"text_files":false
+					"map_format":["zip"]
 				}
 			},
 			{
@@ -48,8 +45,7 @@
 					"pattern":null
 				},
 				"file_data":{
-					"map_format":["zip"],
-					"text_files":false
+					"map_format":["zip","wad"]
 				}
 			}
 		]

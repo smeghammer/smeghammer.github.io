@@ -1,0 +1,52 @@
+
+================================================================
+Title                   : WIZARDS ARENA
+Filename                : WIZARENA.WAD
+Authors                 : TREVOR L. JABLONSKI
+
+Description             : FOR REGISTERED VERSION OF HERETIC ONLY!!
+                          A large round arena for fighting Deathmatches
+                          and Network Play.(Untested for Network!)
+                          All Weapons Available! Watch Out once your
+                          in it You need wings of wrath to get out!
+                          And theres only 1 in the center!
+                          
+Additional Credits to   : Pat - For all the kills I get of him!  
+         
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : No
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : Oh Yes!
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : From Scratch
+Editors used            : HeeP - for heretic
+Build Time              : 4 Days?
+Known Bugs              : Mirrors? Small Infraction! 
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional
+levels.
+
+You MAY distribute this WAD, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+E-Mail bugs to:
+AOL - TrevLuv222
+COMPUSERVE - 72723,45
+
+HAPPY KILLIN!

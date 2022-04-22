@@ -151,7 +151,7 @@ div.toplevelitems > div.current{
 }
 
 
-div.topic img.dlicon{
+div.topic img.dlicon, #generated_content_wrapper img.dlicon{
     width: 25px;
     padding-right: 5px;
 }

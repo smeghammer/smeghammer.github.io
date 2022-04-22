@@ -359,7 +359,6 @@ let engine = {
         /** set nav tab elements */
         for(let item in data){  
 			console.log(item); 
-            //this.toplevelcount++;
             let _tab = document.createElement('div');
             _tab.setAttribute('data-topic',item.replace(/ /g,'').replace(/\//g,'').replace(/#/g,'').replace(/\&/g,''))
             let _p = document.createElement('p');
@@ -378,7 +377,6 @@ let engine = {
             if(_counter === 0) $(this).addClass('current');
             _counter++;
             $(this).click(function(){
-				console.log('clikkin on ',$(this).attr('data-topic'));
                 /* on click, hide ALL, and set visible the selected */
                 $('#sausage > div.toplevelitems > div').removeClass('current');
                 $(this).addClass('current');
@@ -386,93 +384,8 @@ let engine = {
                 $('#'+$(this).attr('data-topic')).removeClass('hidden');
             });
         });
-        
 	},
 	
-	/**
-	A CD data set is defined like so:
-	{
-		'cd name':[
-			{
-				"path":"/wads/complete_gamer_9/maps/",
-				"datafile":"files.dat",
-				"game":"Half Life",
-				"alphabetic_subdirectories":{
-					"used":false,
-					"pattern":null
-				},
-				"file_data":{
-					"map_format":"bsp",
-					"text_files":true
-				}
-		}
-			},
-			{},
-			...
-		]
-		
-	}
-	
-	It defines the filesystem path in which the files are stored, and some metadata about how to display.
-	It assumes there is a text file of the directory listing, as a data source, from which the download links 
-	will be made
-	
-	{
-    "PC Zone April 1995": {
-        "datafile": "filedata.txt",
-        "directories": [
-            {
-                "path": "/wads/pc-zone-04-1995/DOOM_WAD/",
-                "game": "Doom",
-                "alphabetic_subdirectories": {
-                    "used": false,
-                    "pattern": null
-                },
-                "file_data": {
-                    "map_format": "wad",
-                    "text_files": true
-                }
-            },
-            {
-                "path": "/wads/pc-zone-04-1995/DOOM2_PW/",
-                "game": "Doom 2",
-                "alphabetic_subdirectories": {
-                    "used": false,
-                    "pattern": null
-                },
-                "file_data": {
-                    "map_format": "zip",
-                    "text_files": false
-                }
-            },
-            {
-                "path": "/wads/pc-zone-04-1995/DOOM_ZIP/",
-                "game": "Doom",
-                "alphabetic_subdirectories": {
-                    "used": false,
-                    "pattern": null
-                },
-                "file_data": {
-                    "map_format": "zip",
-                    "text_files": false
-                }
-            },
-            {
-                "path": "/wads/pc-zone-04-1995/HERETIC/",
-                "game": "Heretic",
-                "alphabetic_subdirectories": {
-                    "used": false,
-                    "pattern": null
-                },
-                "file_data": {
-                    "map_format": "zip",
-                    "text_files": false
-                }
-            }
-        ]
-    }
-}
-	*/
 	buildCDMapsListBrowser : function(data){
 		console.log(data);
 		let _counter = 0;
@@ -491,23 +404,8 @@ let engine = {
             
             /** loop over each item in the array. These are the equivalent of styles for R667  */
 			for(let a=0;a<data[item]['directories'].length;a++){
-				/**
-					{
-					    "path": "/wads/pc-zone-04-1995/HERETIC/",
-					    "game": "Heretic",
-					    "alphabetic_subdirectories": {
-					        "used": false,
-					        "pattern": null
-					    },
-					    "file_data": {
-					        "map_format": "zip",
-					        "text_files": false
-					    }
-}
-				 */
+				
 				let _cssId = data[item]['directories'][a].path.replace(/ /g,'').replace(/\//g,'||').replace(/\&/g,'') + a;
-				console.log(data);
-				console.log(_cssId);
 				/* build l2 nav: */
                 let _l2naventry = document.createElement('li');
                 _l2naventry.setAttribute('data-sectiondata',JSON.stringify(data[item]['directories'][a]));
@@ -516,8 +414,8 @@ let engine = {
                 _l2naventry.setAttribute('data-dataindex',a);
                 let l2heading = data[item]['directories'][a]['path'].split('/')[data[item]['directories'][a]['path'].split('/').length-2];
                 _l2naventry.appendChild(document.createTextNode(l2heading));
+                
                 /** here, we can start pulling out data to populate the panel. We need to clear it first... */
-                //console.log($('#generated_content_wrapper'));
                 $('#generated_content_wrapper').find('h2').empty().append(data[item]['directories'][a]['game']);
                 if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
                 _l2navwrapper.appendChild(_l2naventry);
@@ -528,20 +426,17 @@ let engine = {
             _target.appendChild(_topicWrapper);
 
             /** and append click handlers */
-            console.log('#'+item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,''));
             $('#'+item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,'')).find('ul > li').each(function(){
 				/** Click handlers for second level map lists. This needs to call AJAX routine to load data file scraped from output of >ls > listing.dat */
 				$(this).off('click').on('click',function(){
-					console.log('clikkin2');
+
 					$(this).parent().find('li').each(function(){
 						$(this).removeClass('current');
 					});
 					$(this).addClass('current');
 					dataForTab = JSON.parse($(this).attr('data-sectiondata'));
-					console.log(dataForTab);
 					
-					/** The click handler here also needs to load and display the links to the WADs related to the current
-					CD dump: */
+					/** The click handler here also needs to load and display the links to the WADs related to the current CD dump: */
 					/** get the data: */
 					let cssMapperForTab = $(this).attr('data-itemcategory');
 					console.log(cssMapperForTab);
@@ -550,72 +445,26 @@ let engine = {
 					console.log(datafilePath);
 					let dataIndex = $(this).attr('data-dataindex');
 					let dataMapper = dataForTab;
-					_dataMapper['datafilePath'] = datafilePath;
+					dataMapper['datafilePath'] = datafilePath;
 					console.log('calling AJAX to get data for tab');
 					$.ajax({
 						dataType:"json",
 						contentType : "application/json",
 						url: datafilePath,
 						success : function(data){
-							console.log(data[dataIndex]);
-							let linksWrapper = document.createElement('ul');
-							let linkData = [];
-							console.log(dataMapper);
-							/** de-serialise the data: 
-							
-							HERE, work out display for nw model
+							/** get a list of unique filenames without extensions. This will be used to generate each download ROW.
+							The data mapper will determine the links that are on each row (WAD, ZIP etc.). If a text file is also specified
+							a third will be added to generate an info overlay as per R667 browser:
 							*/
-//							let workingData = data.split(/\n/);
-//							let activeRowCounter = -1;
-//							/** A file listing may have > 1 entry for each filename (e.g. map plus text file). Use this mapper to 
-//							capture these: */
-//							let duplicateMapper = {};
-//							for(let a=0;a<workingData.length;a++){
-//								
-//								/** detect the start of the files output */
-//								if(workingData[a].charAt(0,1)==='-'){
-//									
-//									if(activeRowCounter>=0){
-//										/** lines are a constant length, so trim off trailing whitespace: */
-//										let trimmedDataRow = workingData[a].replace(/\s+$/,'');
-//										trimmedDataRow = trimmedDataRow.substr(trimmedDataRow.lastIndexOf(' ')+1,trimmedDataRow.length);
-//										
-//										/** key will be filename without extension 
-//										I want to make something like:
-//										{'filename_key',_dataMapper } */
-//										let fName = trimmedDataRow.substr(0,trimmedDataRow.lastIndexOf('.'));
-//										if(duplicateMapper[fName]){
-//											duplicateMapper[fName]++;
-//										}
-//										else{
-//											duplicateMapper[fName] = 1;
-//										}
-//
-//										//linkData[trimmedDataRow.substr(0,trimmedDataRow.lastIndexOf('.'))] = _dataMapper;
-////										linksWrapper.appendChild(engine.buildListElement(engine.buildDownloadLink(_dataMapper.path + fName + '.' + _dataMapper.file_data.map_format,fName)));
-//									}
-//									activeRowCounter++;
-//								}
-//							}
-//							/** one we have the mapper (assuming one id a .txt file - TODO: Sanitise data!) generate the download 
-//							and, optionally, the textfile link/popup (TBD). */
-//							for(thing in duplicateMapper){
-//								console.log(thing)
-//								if(duplicateMapper[thing] === 1){
-//									/** build download link only */
-//									linksWrapper.appendChild(engine.buildListElement(engine.buildDownloadLink(_dataMapper.path + thing + '.' + _dataMapper.file_data.map_format,thing)));
-//
-//								}
-//								if(duplicateMapper[thing] === 2){
-//									/** build download link and text file link/display */
-//								}
-//							}
-//							console.log(duplicateMapper);
-//							console.log(linkData);
-							/** I now need to parse out the relevant data from the CLI dump. This
-							will be different depending on the details: */
-							$('#generated_content_wrapper > div').empty().append(linksWrapper);
-							//$('#generated_content_wrapper > div').empty().append("<pre>"+data+"</pre>")
+							let fileRootNames = {};
+							for(let a=0;a<data[dataIndex].files.length;a++){
+								if(! fileRootNames[ data[dataIndex].files[a].split(/\./)[0] ] ){
+									fileRootNames[data[dataIndex].files[a].split(/\./)[0]] = true;
+								}
+							} 
+							console.log(fileRootNames);
+							/** I now need to parse out the relevant data from the CLI dump. This will be different depending on the details: */
+							$('#generated_content_wrapper > div').empty().append(engine.buildCDFileDisplay(data[dataIndex],dataMapper,fileRootNames));
 						},
 						error : function(data,a,b){
 							console.log(data,a,b);
@@ -623,9 +472,8 @@ let engine = {
 					});
 				});
 			});
-			console.log('end')
 		}
-		console.log('rendering wrapper for selected content');
+
 		/** we also want a DIV panel for the selected content: */
         let contentWrapper = document.createElement('div');
         let contentTitle = document.createElement('h2');
@@ -636,12 +484,111 @@ let engine = {
         _target.appendChild(contentWrapper);
 	},
 	
-	/** build a download link DOM element */
-	buildDownloadLink : function(url, linktext){
+	/* Build liks:
+	*/
+	buildCDFileDisplay : function(data,dataMapper,fileRootNames){
+		console.log(dataMapper, data,fileRootNames);
+		console.log("Use subdirectories: ",dataMapper['alphabetic_subdirectories'].used);
+		console.log("Map format: ",dataMapper['file_data'].map_format);
+		/** need to build a structure where I can look for text files, if specified. 
+		This will be an object of filenames WITHOUT extensions (I think) and determine 
+		for each whether a text file exists...  If alphabetic, make nested lists*/
+		let fileExtensionMapper = {};
+		for(let x=0;x<data.files.length;x++){
+			/** append if file extension is included in array */
+			for(let z=0;z<dataMapper['file_data'].map_format.length;z++){
+				if(dataMapper['file_data'].map_format[z] === data.files[x].split(/\./g)[1]){
+					fileExtensionMapper[data.files[x]] = true;
+				}
+			}
+			/** Assume text files, and check for ones matching the root filename: */
+			if(data.files[x].split(/\./g)[1] === "txt"){
+				console.log('found text file...');
+				fileExtensionMapper[data.files[x]] = true;
+			}
+		};
+		console.log('FILE EXXTENSION MAPPER: ',fileExtensionMapper);
+		
+		let _wrapper = document.createElement('ul');
+		if(dataMapper['alphabetic_subdirectories'].used){
+			/** build alphabetic subdirs if needed */
+		}
+		else{
+			for( fileRootName in fileRootNames){
+				/** for each root filename, check that an entry exists in the filename mapper for the extensions declared in the 
+				datamapper. If so, make links as part of the same row. If text file is declared, check for that in the mapper and
+				render a popup link: */
+				console.log(fileRootName);
+				
+				/** now loop over declared extension(s) to render, and build links to these (but 
+				not the root filename!!) */
+				
+				let _li = document.createElement('li');
+				/** test for files in the mapper that match each extension, and if found, build a link */
+				for(let x=0;x<dataMapper['file_data'].map_format.length;x++){
+					console.log(dataMapper['file_data'].map_format[x], fileExtensionMapper[fileRootName + "." +dataMapper['file_data'].map_format[x]]);
+					if(fileExtensionMapper[fileRootName + "." +dataMapper['file_data'].map_format[x]]){
+						console.log('render extension link for ',dataMapper['file_data'].map_format[x]);
+						let _a2 = this.buildDownloadLink(data.path 
+								+ fileRootName 
+								+ "." 
+								+dataMapper['file_data'].map_format[x], 
+								fileRootName 
+								+ "." 
+								+dataMapper['file_data'].map_format[x], true);
+						_li.appendChild( _a2 );
+					}
+				}
+				//let _a = this.buildDownloadLink(data.path + fileRootName, fileRootName, true);
+				let _dl_icon = this.buildDownloadIcon(data.path + fileRootName, "Download "+fileRootName);
+				//_li.appendChild( _dl_icon );
+				//_li.appendChild( _a );
+				/** if we need to generate a link to a text file, check it exists and make a link if so: */
+				/** do we have a text file in the mapper that matches a known filename 
+				Here I need to NOT rendre the text file link as a sibling item, but JUST as a 'more info' lnk on the same line
+				*/
+				if(fileExtensionMapper[fileRootName+".txt"]){
+					console.log('tex file map found')
+					_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".txt", "More info", true));
+				}
+				_wrapper.appendChild( _li );
+			}
+		}
+		return(_wrapper);
+	},
+	
+	/** build a download link DOM element ( this needs to exhibit the same behaviour as the below function: )
+	TODO: need to use the mapper to test for text file? Make something like:
+	
+	FILENAME [zip WAD]  - test file (if present)
+	*/
+	buildDownloadIcon : function(url,title){
 		let _a = document.createElement('a');
-		console.log(url);
-		if(url.indexOf(this.thisrepo) === -1){
-			console.log('prepending URL...',this.thisrepo);
+		_a.setAttribute('href',url);
+		_img = document.createElement('img');
+		_img.setAttribute('title',title);
+		_img.setAttribute('src','/images/dl-anim.gif');
+		_img.setAttribute('class','dlicon');
+		_a.appendChild(_img);
+		return(_a);
+	},
+	
+	/** build a download link DOM element */
+	buildDownloadLink : function(url, linktext, relative){
+		let _a = document.createElement('a');
+//		console.log(url,linktext,relative);
+		let prependBaseUrl = true;
+		/** don't 'prepend if base url is found (this is crude, so may need to change this logic) */
+		if(url.indexOf(this.thisrepo) ==! -1){
+			prependBaseUrl = false;
+		}
+		/** if explicit 'relative' flag passed, also don't prepend' */
+		if(relative && relative === true){
+			prependBaseUrl = false;
+		}
+		/** f so determined, prepend this github repo base URL (not the mapped domain) */
+		if(prependBaseUrl){
+//			console.log('prepending URL...',this.thisrepo);
 			url = this.thisrepo + url;
 		}
 		_a.setAttribute('href',url);
