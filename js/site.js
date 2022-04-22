@@ -50,12 +50,7 @@ let engine = {
             {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[]},
             {'linktext':'IDGames','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]},  
             {'linktext':'Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
-                {'linktext':'Old cover CD WADs','url':'/links/old-cds.htm', 'parenturl':'/links/', 'pagekey':'0.2.3', 'childs':[
-					{'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""},
-					{'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""},
-					{'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""},
-					{'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""}
-					],visible:false},
+                {'linktext':'Old cover CD WADs','url':'/links/old-coverdisk-cds/', 'parenturl':'/links/', 'pagekey':'0.2.3', 'childs':[], visible:true},
                 {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true},
                 {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true},
                 {'linktext':"Doom fonts",'url':'/links/doomfonts.htm', 'parenturl':'/links/', 'pagekey':'0.2.2', 'childs':[],visible:true}
@@ -68,6 +63,7 @@ let engine = {
     copyright : 2021,
     imagebase : 'https://raw.githubusercontent.com/smeghammer/',
     repobase : 'https://github.com/smeghammer/',
+    thisrepo : null,
     imagesuffix : '?raw=true',
     repolist : [
         {'download':'https://github.com/smeghammer/hellbreach/blob/master/hellbrch.wad?raw=true',   'repo' : 'hellbreach',         'nicename':'Hellbreach',        'branch':'master','imagecount':12,'pagekey':'0.0.6',"summary":"Three maps (currently) and one secret map. My first crack at map building over lockdown...  Starts with a sort of techbase thing, followed by a large rocky outdoor type thing, and finally a big canyon featuring my first attempt at a 3D structure. The secret is a marble/lava/hell thing..." },
@@ -91,6 +87,8 @@ let engine = {
         let pagetype = $('body').attr('data-page');
         let pagekey = $('body').attr('data-pagekey');
         let ytvid = $('body').attr('data-ytvid');
+        
+        this.thisrepo = this.repobase + 'smeghammer.github.io/raw/master';
         
         if(ytvid){
             this.resizeVid();
@@ -122,6 +120,10 @@ let engine = {
             break;
             case "r667":
                 this.buildR667Browser();
+            break;
+            
+            case "maplists":
+            	this.buildMapsBrowser();
             break;
             
             case "map":
@@ -181,10 +183,8 @@ let engine = {
         let _initH = _iframe.attr('height');
         let _ratio = _initH / _initW;
         
-        
         let iframe_width = $('div.contents > div:nth-of-type(2)').width();
         let iframe_height = iframe_width * _ratio;
-        console.log(iframe_width);
         
         _iframe.removeAttr('width');
         _iframe.removeAttr('height');
@@ -200,75 +200,47 @@ let engine = {
     },
     
     buildHowtoSummaries : function(){
-    	console.log('building howto summaries:');
     	let _wrapper = document.createElement('div');
     	_wrapper.setAttribute('class','pure-g');
-    	//  https://github.com/smeghammer/snippets/blob/master/3d_floor/screenshots/1.png
     	let defaultImage = "default.png";
-    	/* get the correct sub-section: */
-//    	let _currpagekey = this.getPageKey();
-//    	console.log(_currpagekey);
     	let section = this.getNavSectionByPagekey(this.getPageKey());
-//    	console.log(_currpagekey);
-    	console.log(section);
     	
     	for(let x=0;x<section.childs.length;x++){
-    		console.log(section.childs[x]);
     		if(section.childs[x].visible){
     			let _path = this.repobase + "snippets/tree/master/" + section.childs[x].repopath;
 	    		let _summary = document.createElement('div');
 	    		let _summarytext = document.createElement('p');
-//	    		let _summaryimg = document.createElement('div');
 	    		let _title = document.createElement('h3');
-//	    		let _thb =  document.createElement('img');
 	    		let _link = document.createElement('a');
 	    		let _link2 = document.createElement('a');
 	    		
 	    		_summary.setAttribute('class','pure-u-1  pure-u-md-2-3');
-//	    		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
-	    		
-	//    		//get repoindex:
+				/* get repoindex: */
 	    		let _key = this.getRepoIndexByPagekey(section.childs[x].pagekey);
-//	    		let _img = null;
-//	    		if(section.childs[x].img)
-//	    			_img = this.imagebase + "snippets/master/" + section.childs[x].repopath + "/screenshots/"+ section.childs[x].img+".png";
-			
 	    		_link.setAttribute('title',section.childs[x]['summary']);
 	    		_link.setAttribute('href',section.childs[x].url);
 	    		
-//	    		if(_img){
-//		    		_thb.setAttribute('src',_img);
-//		    		_thb.setAttribute('class','thumbnail');
-//		    		_link.appendChild(_thb);
-//	    		}
 	    		_link2.setAttribute('title',section.childs[x]['summary']);
 	    		_link2.setAttribute('href',section.childs[x].url);
 	    		_link2.appendChild(document.createTextNode(section.childs[x].linktext));
 	    		_summarytext.appendChild(document.createTextNode(section.childs[x].summary));
-//	    		_summaryimg.appendChild(_link);
 	    		_title.appendChild(_link2);
 	    		_summary.appendChild(_title);
 	    		_summary.appendChild(_summarytext);
 	    		_wrapper.appendChild(_summary);
-//	    		_wrapper.appendChild(_summaryimg);
     		}
     	}
     	return(_wrapper);
-    	
     },
     
     /** render thumbs and summaries for maps */
     buildSnippetSummaries : function(){
-    	console.log('building summaries:')
     	let _wrapper = document.createElement('div');
     	_wrapper.setAttribute('class','pure-g');
-    	//  https://github.com/smeghammer/snippets/blob/master/3d_floor/screenshots/1.png
     	let defaultImage = "default.png";
     	/* get the correct sub-section: */
     	let _currpagekey = this.getPageKey();
     	let section = this.getNavSectionByPagekey(_currpagekey);
-    	console.log(_currpagekey);
-    	console.log(section);
     	
     	for(let x=0;x<section.childs.length;x++){
     		if(section.childs[x].visible){
@@ -284,7 +256,6 @@ let engine = {
 	    		_summary.setAttribute('class','pure-u-1  pure-u-md-2-3');
 	    		_summaryimg.setAttribute('class','pure-u-1  pure-u-md-1-3');
 	    		
-	//    		//get repoindex:
 	    		let _key = this.getRepoIndexByPagekey(section.childs[x].pagekey);
 	    		let _img = null;
 	    		if(section.childs[x].img)
@@ -371,6 +342,269 @@ let engine = {
     	return(repoIndex);
     },
     
+    buildMapsBrowser : function(){
+		$.getJSON('/data/cd_data.json',function(data){
+            engine.buildCDMapsTopNav(data);	/* render magazines as top level tabs */
+            engine.buildCDMapsListBrowser(data); /* render contents of sub-folders */
+        });
+	},
+    
+    /**
+     * construct a DOM entry representing the top level (category)
+     * */
+    buildCDMapsTopNav : function(data){
+		console.log(data);
+		let _navrow = document.createElement('div');
+        _navrow.setAttribute('class','pure-g toplevelitems');
+        /** set nav tab elements */
+        for(let item in data){  
+			console.log(item); 
+            let _tab = document.createElement('div');
+            _tab.setAttribute('data-topic',item.replace(/ /g,'').replace(/\//g,'').replace(/#/g,'').replace(/\&/g,''))
+            let _p = document.createElement('p');
+            _tab.setAttribute('class','pure-u-1 pure-u-md-1-4 pure-u-xl-3-24');   /* there are 8... */
+            _p.appendChild(document.createTextNode(item));
+            _tab.appendChild(_p);
+            _navrow.appendChild(_tab);
+        }
+        
+        /* now, _items can be used to generate DOM output: */
+        $('#sausage').empty().append(_navrow);
+        
+        /* append click handlers */
+        let _counter = 0;
+        $('#sausage > div.toplevelitems > div').each(function(){
+            if(_counter === 0) $(this).addClass('current');
+            _counter++;
+            $(this).click(function(){
+                /* on click, hide ALL, and set visible the selected */
+                $('#sausage > div.toplevelitems > div').removeClass('current');
+                $(this).addClass('current');
+                $('#sausage > div.topic').addClass('hidden');
+                $('#'+$(this).attr('data-topic')).removeClass('hidden');
+            });
+        });
+	},
+	
+	buildCDMapsListBrowser : function(data){
+		console.log(data);
+		let _counter = 0;
+		let _target = document.getElementById('sausage');
+        for(let item in data){ 
+			//console.log(item);
+			let _topicWrapper = document.createElement('div');
+            _topicWrapper.setAttribute('id',item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,''));
+            _topicWrapper.setAttribute('class','hidden topic');
+			/* default to showing first topic */
+            if(_counter === 0) $(_topicWrapper).removeClass('hidden');
+            _counter++;
+            let _l2navwrapper = document.createElement('ul');
+            _l2navwrapper.setAttribute('class','l2nav');
+            let _counter2 = 0;
+            
+            /** loop over each item in the array. These are the equivalent of styles for R667  */
+			for(let a=0;a<data[item]['directories'].length;a++){
+				
+				let _cssId = data[item]['directories'][a].path.replace(/ /g,'').replace(/\//g,'||').replace(/\&/g,'') + a;
+				/* build l2 nav: */
+                let _l2naventry = document.createElement('li');
+                _l2naventry.setAttribute('data-sectiondata',JSON.stringify(data[item]['directories'][a]));
+                _l2naventry.setAttribute('data-itemcategory',_cssId);
+                _l2naventry.setAttribute('data-datafile',data[item]['root']+data[item].datafile);
+                _l2naventry.setAttribute('data-dataindex',a);
+                let l2heading = data[item]['directories'][a]['path'].split('/')[data[item]['directories'][a]['path'].split('/').length-2];
+                _l2naventry.appendChild(document.createTextNode(l2heading));
+                
+                /** here, we can start pulling out data to populate the panel. We need to clear it first... */
+                $('#generated_content_wrapper').find('h2').empty().append(data[item]['directories'][a]['game']);
+                if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
+                _l2navwrapper.appendChild(_l2naventry);
+                _counter2++;
+			}
+			/** end */
+            _topicWrapper.appendChild(_l2navwrapper);
+            _target.appendChild(_topicWrapper);
+
+            /** and append click handlers */
+            $('#'+item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,'')).find('ul > li').each(function(){
+				/** Click handlers for second level map lists. This needs to call AJAX routine to load data file scraped from output of >ls > listing.dat */
+				$(this).off('click').on('click',function(){
+
+					$(this).parent().find('li').each(function(){
+						$(this).removeClass('current');
+					});
+					$(this).addClass('current');
+					dataForTab = JSON.parse($(this).attr('data-sectiondata'));
+					
+					/** The click handler here also needs to load and display the links to the WADs related to the current CD dump: */
+					/** get the data: */
+					let cssMapperForTab = $(this).attr('data-itemcategory');
+					console.log(cssMapperForTab);
+					//let _path = $(this).attr('data-path');
+					let datafilePath = $(this).attr('data-datafile');
+					console.log(datafilePath);
+					let dataIndex = $(this).attr('data-dataindex');
+					let dataMapper = dataForTab;
+					dataMapper['datafilePath'] = datafilePath;
+					console.log('calling AJAX to get data for tab');
+					$.ajax({
+						dataType:"json",
+						contentType : "application/json",
+						url: datafilePath,
+						success : function(data){
+							/** get a list of unique filenames without extensions. This will be used to generate each download ROW.
+							The data mapper will determine the links that are on each row (WAD, ZIP etc.). If a text file is also specified
+							a third will be added to generate an info overlay as per R667 browser:
+							*/
+							let fileRootNames = {};
+							for(let a=0;a<data[dataIndex].files.length;a++){
+								if(! fileRootNames[ data[dataIndex].files[a].split(/\./)[0] ] ){
+									fileRootNames[data[dataIndex].files[a].split(/\./)[0]] = true;
+								}
+							} 
+							console.log(fileRootNames);
+							/** I now need to parse out the relevant data from the CLI dump. This will be different depending on the details: */
+							$('#generated_content_wrapper > div').empty().append(engine.buildCDFileDisplay(data[dataIndex],dataMapper,fileRootNames));
+						},
+						error : function(data,a,b){
+							console.log(data,a,b);
+						}
+					});
+				});
+			});
+		}
+
+		/** we also want a DIV panel for the selected content: */
+        let contentWrapper = document.createElement('div');
+        let contentTitle = document.createElement('h2');
+        let contentBodyWrapper = document.createElement('div');
+        contentWrapper.setAttribute('id','generated_content_wrapper');
+        contentWrapper.appendChild(contentTitle);
+        contentWrapper.appendChild(contentBodyWrapper);
+        _target.appendChild(contentWrapper);
+	},
+	
+	/* Build liks:
+	*/
+	buildCDFileDisplay : function(data,dataMapper,fileRootNames){
+		console.log(dataMapper, data,fileRootNames);
+		console.log("Use subdirectories: ",dataMapper['alphabetic_subdirectories'].used);
+		console.log("Map format: ",dataMapper['file_data'].map_format);
+		/** need to build a structure where I can look for text files, if specified. 
+		This will be an object of filenames WITHOUT extensions (I think) and determine 
+		for each whether a text file exists...  If alphabetic, make nested lists*/
+		let fileExtensionMapper = {};
+		for(let x=0;x<data.files.length;x++){
+			/** append if file extension is included in array */
+			for(let z=0;z<dataMapper['file_data'].map_format.length;z++){
+				if(dataMapper['file_data'].map_format[z] === data.files[x].split(/\./g)[1]){
+					fileExtensionMapper[data.files[x]] = true;
+				}
+			}
+			/** Assume text files, and check for ones matching the root filename: */
+			if(data.files[x].split(/\./g)[1] === "txt"){
+				console.log('found text file...');
+				fileExtensionMapper[data.files[x]] = true;
+			}
+		};
+		console.log('FILE EXXTENSION MAPPER: ',fileExtensionMapper);
+		
+		let _wrapper = document.createElement('ul');
+		if(dataMapper['alphabetic_subdirectories'].used){
+			/** build alphabetic subdirs if needed */
+		}
+		else{
+			for( fileRootName in fileRootNames){
+				/** for each root filename, check that an entry exists in the filename mapper for the extensions declared in the 
+				datamapper. If so, make links as part of the same row. If text file is declared, check for that in the mapper and
+				render a popup link: */
+				console.log(fileRootName);
+				
+				/** now loop over declared extension(s) to render, and build links to these (but 
+				not the root filename!!) */
+				
+				let _li = document.createElement('li');
+				/** test for files in the mapper that match each extension, and if found, build a link */
+				for(let x=0;x<dataMapper['file_data'].map_format.length;x++){
+					console.log(dataMapper['file_data'].map_format[x], fileExtensionMapper[fileRootName + "." +dataMapper['file_data'].map_format[x]]);
+					if(fileExtensionMapper[fileRootName + "." +dataMapper['file_data'].map_format[x]]){
+						console.log('render extension link for ',dataMapper['file_data'].map_format[x]);
+						let _a2 = this.buildDownloadLink(data.path 
+								+ fileRootName 
+								+ "." 
+								+dataMapper['file_data'].map_format[x], 
+								fileRootName 
+								+ "." 
+								+dataMapper['file_data'].map_format[x], true);
+						_li.appendChild( _a2 );
+					}
+				}
+				//let _a = this.buildDownloadLink(data.path + fileRootName, fileRootName, true);
+				let _dl_icon = this.buildDownloadIcon(data.path + fileRootName, "Download "+fileRootName);
+				//_li.appendChild( _dl_icon );
+				//_li.appendChild( _a );
+				/** if we need to generate a link to a text file, check it exists and make a link if so: */
+				/** do we have a text file in the mapper that matches a known filename 
+				Here I need to NOT rendre the text file link as a sibling item, but JUST as a 'more info' lnk on the same line
+				*/
+				if(fileExtensionMapper[fileRootName+".txt"]){
+					console.log('tex file map found')
+					_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".txt", "More info", true));
+				}
+				_wrapper.appendChild( _li );
+			}
+		}
+		return(_wrapper);
+	},
+	
+	/** build a download link DOM element ( this needs to exhibit the same behaviour as the below function: )
+	TODO: need to use the mapper to test for text file? Make something like:
+	
+	FILENAME [zip WAD]  - test file (if present)
+	*/
+	buildDownloadIcon : function(url,title){
+		let _a = document.createElement('a');
+		_a.setAttribute('href',url);
+		_img = document.createElement('img');
+		_img.setAttribute('title',title);
+		_img.setAttribute('src','/images/dl-anim.gif');
+		_img.setAttribute('class','dlicon');
+		_a.appendChild(_img);
+		return(_a);
+	},
+	
+	/** build a download link DOM element */
+	buildDownloadLink : function(url, linktext, relative){
+		let _a = document.createElement('a');
+//		console.log(url,linktext,relative);
+		let prependBaseUrl = true;
+		/** don't 'prepend if base url is found (this is crude, so may need to change this logic) */
+		if(url.indexOf(this.thisrepo) ==! -1){
+			prependBaseUrl = false;
+		}
+		/** if explicit 'relative' flag passed, also don't prepend' */
+		if(relative && relative === true){
+			prependBaseUrl = false;
+		}
+		/** f so determined, prepend this github repo base URL (not the mapped domain) */
+		if(prependBaseUrl){
+//			console.log('prepending URL...',this.thisrepo);
+			url = this.thisrepo + url;
+		}
+		_a.setAttribute('href',url);
+		_a.appendChild(document.createTextNode(linktext));
+		return(_a);
+	},
+	
+	/** build a list item, with optional DOM content */
+	buildListElement : function(DOMContents){
+		let _li = document.createElement('li');
+		if(DOMContents){
+			_li.appendChild(DOMContents);
+		}
+		return(_li);
+	},
+    
     buildR667Browser : function(){
         $.getJSON('/data/r667output.json',function(data){
             engine.buildR667Data(data);
@@ -406,8 +640,6 @@ let engine = {
             /* also, explicitly as name as a property: */
             this.R667Categories[ data[item]['topic'] ][data[item]['section']][item].name = item;
         }
-        console.log('built root data OK');
-        console.log(this.R667Categories);
     },
     
     /**
@@ -452,7 +684,6 @@ let engine = {
      * way I built it originally so probably not the most efficient...
      * */
     buildR667ThingBrowser : function(){
-        console.log('building thing browser...');
         _counter = 0;
         for(let topic in engine.R667Categories){
             let _topicWrapper = document.createElement('div');
@@ -511,7 +742,6 @@ let engine = {
                 $(_sectionwrapper).append('<h3>'+section+'</h3>');
                 $(_sectionwrapper).append('<ul>');
 
-
                 let _block = document.createElement('div');
                 _block.setAttribute('class','pure-q');
                 let _itemcol = document.createElement('div');
@@ -545,7 +775,6 @@ let engine = {
                         /* root credit. Occasionally the scrape fails to pick up details (M16)... */
                         for(let _count = 0;_count < engine.R667Categories[topic][section][thing]['credits']['entries'].length; _count++){
                             for(let thing2 in engine.R667Categories[topic][section][thing]['credits']['entries'][_count]){
-//                                if(thing2.replace(/:/g,'') === 'Submitted'){    /* tidy up entries - colon si sometimes not there... */
                                 if(thing2.toLowerCase().includes(('Submitted').toLowerCase())){    /* ES6 - tidy up entries - colon is sometimes not there... */
                                     _crds = thing2 + " " + engine.R667Categories[topic][section][thing]['credits']['entries'][_count][thing2];
                                 }
@@ -567,7 +796,6 @@ let engine = {
                     _a2.setAttribute('class','infolink');
                     _a2.setAttribute('title','Show info about "' + thing + '"');
                     _a2.setAttribute('data-thingname',thing);
-//                        $(_a2).dialog({});//make modal
                     _a2.appendChild(document.createTextNode(thing));
                     
                     $(_a2).off('click').click(function(){
@@ -579,7 +807,6 @@ let engine = {
                         }
 
                         let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' + _path +'/'+ currentThing['filename'].split(/\./)[0]+".png";
-                        console.log(imgUrl);
                         /* if it is a sound-effect, there is no associated graphic - therefore use  
                          * 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/sound-effect.jpg
                          * */
@@ -601,9 +828,7 @@ let engine = {
                         newDiv.append(_h3info);
                         
                         for(let a=0;a<currentThing.info.entries.length;a++){
-//                            console.log(currentThing.info.entries[a]);
                             for(let entry in currentThing.info.entries[a]){
-                                console.log(entry, currentThing.info.entries[a][entry]);
                                 if(entry && currentThing.info.entries[a][entry]){   /* sometimes empty due to scrape error */
                                     let _infoitem=document.createElement('div');
                                     let _infotitle=document.createElement('span');
@@ -622,7 +847,6 @@ let engine = {
                         newDiv.append(_h3credits);
                         
                         for(let a=0;a<currentThing.credits.entries.length;a++){
-                            console.log(currentThing.credits.entries[a]);
                             for(let entry in currentThing.credits.entries[a]){
                                 if(entry && currentThing.credits.entries[a][entry]){   /* sometimes empty due to scrape error */
                                     let _credititem=document.createElement('div');
@@ -637,21 +861,11 @@ let engine = {
                             }
                         }
                         
-                        
                         /* build credits */
                         newDiv.dialog({
                             modal: true,
                             closeText: ''
                         });
-//                        /* build title from topic/section/name */
-//                        $('#R667ItemInfoOverlay').attr('title',currentThing.topic +' - '+ currentThing.section +' - '+ currentThing.name);
-//                        /* now build DOM for content from the info and credits nodes */
-////                        console.log(currentThing['info']);
-////                        console.log(currentThing['credits']);
-//                        let _imgelem = '<img src="'+imgUrl+'">';
-//                        $('#R667ItemInfoOverlay').append(_imgelem).ready(function(){
-//                            $('#R667ItemInfoOverlay').dialog();
-//                        });
                         
                         return(false);
                     });
@@ -662,7 +876,7 @@ let engine = {
                 }
                 _counter2++;
             }
-            //https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child
+            /* https://stackoverflow.com/questions/2007357/how-to-set-dom-element-as-the-first-child */
             _topicWrapper.insertBefore(_l2navwrapper,_topicWrapper.firstChild);
         }
     },
@@ -683,19 +897,13 @@ let engine = {
         return Math.floor(Math.random() * this.repolist[repoindex].imagecount);
     },
     
-    
     /*
-    *need to build: 
-    *https://raw.githubusercontent.com/smeghammer/CardinalSin/master/screenshots/10.png
-    *
-    *'https://raw.githubusercontent.com/smeghammer' + reponame + '/' + branchname + '/screenshots/' + imagenum + '.png'
-    *
-     */
+     * need to build: 
+     * https://raw.githubusercontent.com/smeghammer/CardinalSin/master/screenshots/10.png
+     *
+     * 'https://raw.githubusercontent.com/smeghammer' + reponame + '/' + branchname + '/screenshots/' + imagenum + '.png'
+    * */
     buildImageUrl : function(reponame,branch,imagenum){
-//    	console.log(this.imagebase);
-//    	console.log(reponame);
-//    	console.log(branch);
-//    	console.log(imagenum);
         return(this.imagebase + reponame + '/' + branch + '/screenshots/' + imagenum + '.png');
     },
     
@@ -708,14 +916,12 @@ let engine = {
      * set data-page to key to object (self/parent IDs?)
      * */
     buildNav : function(main){
-        console.log('build nav');
         let navWrapper = document.createElement('ul');
         navWrapper.setAttribute('class','pure-menu-list'); 
         let _currpagekey = this.getPageKey();
-        console.log(_currpagekey);
+        
         /* primary navigation */
         if(main){
-        	console.log('main nav');
             /* pull out correct data from page index data attribute */
             let _home = this.buildLink(this.navdata[0])
             navWrapper.appendChild(_home);
@@ -727,12 +933,10 @@ let engine = {
         }
         /* second level navigation */
         else{
-        	console.log('L2 nav',_currpagekey);
             /* where are we? */
         	let _navKey = _currpagekey;
             if(_currpagekey.split('.').length > 1){
             	let level = 2;
-            	console.log('generate L2 nav: ',_navKey);
             	if(_currpagekey.split('.').length > 2){
             		level = 3;
             		_navKey = _currpagekey.split('.')[0]+"."+_currpagekey.split('.')[1];
@@ -740,18 +944,8 @@ let engine = {
             	
             	/* now get the childs */
             	let section = this.getNavSectionByPagekey(_navKey);
-            	console.log(section)
-//                let l2Index = parseInt(_currpagekey.split('.')[1]);
-//                console.log(l2Index);
-//                navWrapper.appendChild(document.createElement('h2')).appendChild(document.createTextNode('Subnav'));
-                //console.log(this.navdata[0].childs[l2Index]);
-//                for(let a=0;a<this.navdata[0].childs[l2Index].childs.length;a++){
-//                    if(this.navdata[0].childs[l2Index].childs[a].visible){
-//                         navWrapper.appendChild(this.buildLink(this.navdata[0].childs[l2Index].childs[a],false));
-//                    }
-//                }
+                
                 for(let a=0;a<section.childs.length;a++){
-                	console.log(section.childs[a]);
                     if(section.childs[a].visible){
                          navWrapper.appendChild(this.buildLink(section.childs[a],false));
                     }
@@ -764,9 +958,7 @@ let engine = {
     /** get current nav subsection */
     getNavSectionByPagekey : function(pagekey){
     	for(let a=0;a<this.navdata[0].childs.length;a++){
-    		console.log(this.navdata[0].childs[a].pagekey);
     		if(this.navdata[0].childs[a].pagekey === pagekey){
-    			console.log(this.navdata[0].childs[a]);
     			return(this.navdata[0].childs[a]);
     		}
     	}

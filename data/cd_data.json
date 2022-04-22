@@ -1,0 +1,53 @@
+{
+	"PC Zone April 1995" : {
+		"datafile" : "filedata.json",
+		"root" : "/wads/pc-zone-04-1995/",
+		"directories":
+		[
+			{
+				"path":"DOOM_WAD/",
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["wad"]
+				}
+			},
+			{
+				"path":"DOOM2_PW/",
+				"game":"Doom 2",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["zip","wad"]
+				}
+			},
+			{
+				"path":"DOOM_ZIP/",
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["zip"]
+				}
+			},
+			{
+				"path":"HERETIC/",
+				"game":"Heretic",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["zip","wad"]
+				}
+			}
+		]
+	}
+}
