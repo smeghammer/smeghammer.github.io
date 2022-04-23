@@ -12,7 +12,7 @@
 					"pattern":null
 				},
 				"file_data":{
-					"map_format":["wad"]
+					"map_format":["WAD","zip"]
 				}
 			},
 			{
@@ -45,9 +45,96 @@
 					"pattern":null
 				},
 				"file_data":{
-					"map_format":["zip","wad"]
+					"map_format":["zip","wad","WAD"]
+				}
+			}
+		]
+	},
+	"PC Zone December 1994 2" : {
+		"datafile" : "filedata.json",
+		"root" : "/wads/pc_zone_12_1994-2/",
+		"directories":
+		[
+			{
+				"path":"Doom2/",
+				"game":"Doom 2",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["zip"]
+				}
+			}
+		]
+	},
+	
+	
+	
+	"PC Zone October 1994" : {
+		"datafile" : "filedata.json",
+		"root" : "/wads/pc-zone-10-1994/",
+		"directories":
+		[
+			{
+				"path":"ENTRIES/",
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["wad"]
+				}
+			},
+			{
+				"path":"FINALSTS/",
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["wad"]
+				}
+			},
+			{
+				"path":"MOREWADS/",
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["wad"]
+				}
+			},
+			{
+				"path":"RUNNERUP/",
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["wad"]
+				}
+			},
+			{
+				"path":"WINNER/",
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":false,
+					"pattern":null
+				},
+				"file_data":{
+					"map_format":["wad"]
 				}
 			}
 		]
 	}
+	
+	
+	
+	
 }
