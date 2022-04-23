@@ -62,6 +62,7 @@ let engine = {
     
     copyright : 2021,
     imagebase : 'https://raw.githubusercontent.com/smeghammer/',
+    downloadbase : 'https://github.com/smeghammer/smeghammer.github.io/blob/master/',
     repobase : 'https://github.com/smeghammer/',
     thisrepo : null,
     imagesuffix : '?raw=true',
@@ -124,6 +125,7 @@ let engine = {
             
             case "maplists":
             	this.buildMapsBrowser();
+            	
             break;
             
             case "map":
@@ -345,6 +347,7 @@ let engine = {
     buildMapsBrowser : function(){
 		$.getJSON('/data/cd_data.json',function(data){
             engine.buildCDMapsTopNav(data);	/* render magazines as top level tabs */
+            /** this needs to be moved to trigger on clicking a top level item: */
             engine.buildCDMapsListBrowser(data); /* render contents of sub-folders */
         });
 	},
@@ -358,7 +361,7 @@ let engine = {
         _navrow.setAttribute('class','pure-g toplevelitems');
         /** set nav tab elements */
         for(let item in data){  
-			console.log(item); 
+			//console.log(item); 
             let _tab = document.createElement('div');
             _tab.setAttribute('data-topic',item.replace(/ /g,'').replace(/\//g,'').replace(/#/g,'').replace(/\&/g,''))
             let _p = document.createElement('p');
@@ -377,11 +380,16 @@ let engine = {
             if(_counter === 0) $(this).addClass('current');
             _counter++;
             $(this).click(function(){
+				console.log('hide other subnavs...');
                 /* on click, hide ALL, and set visible the selected */
                 $('#sausage > div.toplevelitems > div').removeClass('current');
                 $(this).addClass('current');
                 $('#sausage > div.topic').addClass('hidden');
                 $('#'+$(this).attr('data-topic')).removeClass('hidden');
+                console.log('show direct child subnav.');
+                /** now autoclick on the first subnav item: */
+                $('#'+$(this).attr('data-topic')).find('ul > li:first-of-type').click();
+                //engine.buildCDMapsListBrowser(data); /* render contents of sub-folders */
             });
         });
 	},
@@ -390,6 +398,7 @@ let engine = {
 		console.log(data);
 		let _counter = 0;
 		let _target = document.getElementById('sausage');
+		//_target.innerHTML = "";
         for(let item in data){ 
 			//console.log(item);
 			let _topicWrapper = document.createElement('div');
@@ -424,6 +433,9 @@ let engine = {
 			/** end */
             _topicWrapper.appendChild(_l2navwrapper);
             _target.appendChild(_topicWrapper);
+            
+            //and autoclick first tab. Need to do it here as - er - ajax...' 
+           	$('#sausage > div > div:first-of-type').click();
 
             /** and append click handlers */
             $('#'+item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,'')).find('ul > li').each(function(){
@@ -439,14 +451,14 @@ let engine = {
 					/** The click handler here also needs to load and display the links to the WADs related to the current CD dump: */
 					/** get the data: */
 					let cssMapperForTab = $(this).attr('data-itemcategory');
-					console.log(cssMapperForTab);
+					//console.log(cssMapperForTab);
 					//let _path = $(this).attr('data-path');
 					let datafilePath = $(this).attr('data-datafile');
-					console.log(datafilePath);
+					//console.log(datafilePath);
 					let dataIndex = $(this).attr('data-dataindex');
 					let dataMapper = dataForTab;
 					dataMapper['datafilePath'] = datafilePath;
-					console.log('calling AJAX to get data for tab');
+					//console.log('calling AJAX to get data for tab');
 					$.ajax({
 						dataType:"json",
 						contentType : "application/json",
@@ -458,11 +470,12 @@ let engine = {
 							*/
 							let fileRootNames = {};
 							for(let a=0;a<data[dataIndex].files.length;a++){
+								//console.log(data[dataIndex].files[a]);
 								if(! fileRootNames[ data[dataIndex].files[a].split(/\./)[0] ] ){
 									fileRootNames[data[dataIndex].files[a].split(/\./)[0]] = true;
 								}
 							} 
-							console.log(fileRootNames);
+							//console.log(fileRootNames);
 							/** I now need to parse out the relevant data from the CLI dump. This will be different depending on the details: */
 							$('#generated_content_wrapper > div').empty().append(engine.buildCDFileDisplay(data[dataIndex],dataMapper,fileRootNames));
 						},
@@ -487,9 +500,9 @@ let engine = {
 	/* Build liks:
 	*/
 	buildCDFileDisplay : function(data,dataMapper,fileRootNames){
-		console.log(dataMapper, data,fileRootNames);
-		console.log("Use subdirectories: ",dataMapper['alphabetic_subdirectories'].used);
-		console.log("Map format: ",dataMapper['file_data'].map_format);
+//		console.log(dataMapper, data,fileRootNames);
+//		console.log("Use subdirectories: ",dataMapper['alphabetic_subdirectories'].used);
+//		console.log("Map format: ",dataMapper['file_data'].map_format);
 		/** need to build a structure where I can look for text files, if specified. 
 		This will be an object of filenames WITHOUT extensions (I think) and determine 
 		for each whether a text file exists...  If alphabetic, make nested lists*/
@@ -502,10 +515,14 @@ let engine = {
 				}
 			}
 			/** Assume text files, and check for ones matching the root filename: */
-			if(data.files[x].split(/\./g)[1] === "txt"){
+			//console.log(data.files[x]);
+			if(data.files[x].split(/\./g)[1] === "txt" || data.files[x].split(/\./g)[1] === "TXT"){
 				console.log('found text file...');
 				fileExtensionMapper[data.files[x]] = true;
 			}
+//			if(data.files[x].split(/\./g)[1] === "TXT"){
+//				fileExtensionMapper[data.files[x]] = true;
+//			}
 		};
 		console.log('FILE EXXTENSION MAPPER: ',fileExtensionMapper);
 		
@@ -518,7 +535,7 @@ let engine = {
 				/** for each root filename, check that an entry exists in the filename mapper for the extensions declared in the 
 				datamapper. If so, make links as part of the same row. If text file is declared, check for that in the mapper and
 				render a popup link: */
-				console.log(fileRootName);
+				//console.log(fileRootName);
 				
 				/** now loop over declared extension(s) to render, and build links to these (but 
 				not the root filename!!) */
@@ -526,21 +543,21 @@ let engine = {
 				let _li = document.createElement('li');
 				/** test for files in the mapper that match each extension, and if found, build a link */
 				for(let x=0;x<dataMapper['file_data'].map_format.length;x++){
-					console.log(dataMapper['file_data'].map_format[x], fileExtensionMapper[fileRootName + "." +dataMapper['file_data'].map_format[x]]);
+					//console.log(dataMapper['file_data'].map_format[x], fileExtensionMapper[fileRootName + "." +dataMapper['file_data'].map_format[x]]);
 					if(fileExtensionMapper[fileRootName + "." +dataMapper['file_data'].map_format[x]]){
-						console.log('render extension link for ',dataMapper['file_data'].map_format[x]);
+						//console.log('render extension link for ',dataMapper['file_data'].map_format[x]);
 						let _a2 = this.buildDownloadLink(data.path 
 								+ fileRootName 
 								+ "." 
 								+dataMapper['file_data'].map_format[x], 
 								fileRootName 
 								+ "." 
-								+dataMapper['file_data'].map_format[x], true);
+								+dataMapper['file_data'].map_format[x], false);
 						_li.appendChild( _a2 );
 					}
 				}
 				//let _a = this.buildDownloadLink(data.path + fileRootName, fileRootName, true);
-				let _dl_icon = this.buildDownloadIcon(data.path + fileRootName, "Download "+fileRootName);
+				//let _dl_icon = this.buildDownloadIcon(data.path + fileRootName, "Download "+fileRootName);
 				//_li.appendChild( _dl_icon );
 				//_li.appendChild( _a );
 				/** if we need to generate a link to a text file, check it exists and make a link if so: */
@@ -549,7 +566,10 @@ let engine = {
 				*/
 				if(fileExtensionMapper[fileRootName+".txt"]){
 					console.log('tex file map found')
-					_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".txt", "More info", true));
+					_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".txt", "More info", false));
+				}if(fileExtensionMapper[fileRootName+".TXT"]){
+					console.log('tex file map found')
+					_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".TXT", "More info", false));
 				}
 				_wrapper.appendChild( _li );
 			}
