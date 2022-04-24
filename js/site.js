@@ -1,3 +1,15 @@
+/** 
+TODO:
+Split (at least arrange) into:
+ - entry points
+ - primary page handlers
+ - page pplication build functions
+ - generic DOM creation methods
+    - consolidate?
+ - data as separate include? 
+   
+ */
+
 let engine = {
     navdata : [
         {'linktext':'Home','url':'/', 'parenturl':null, 'pagekey':'0', 'childs':[
@@ -60,7 +72,7 @@ let engine = {
     
     topnavWrapper : null,
     
-    copyright : 2021,
+    copyright : 2022,
     imagebase : 'https://raw.githubusercontent.com/smeghammer/',
     downloadbase : 'https://github.com/smeghammer/smeghammer.github.io/blob/master/',
     repobase : 'https://github.com/smeghammer/',
@@ -119,13 +131,13 @@ let engine = {
             case "maps":
             	$('#mapsummaries').empty().append(this.buildMapSummaries());
             break;
+            
             case "r667":
                 this.buildR667Browser();
             break;
             
             case "maplists":
             	this.buildMapsBrowser();
-            	
             break;
             
             case "map":
@@ -344,6 +356,7 @@ let engine = {
     	return(repoIndex);
     },
     
+    /** START CD BROWSER FUNCTIONS */
     buildMapsBrowser : function(){
 		$.getJSON('/data/cd_data.json',function(data){
             engine.buildCDMapsTopNav(data);	/* render magazines as top level tabs */
@@ -380,13 +393,11 @@ let engine = {
             if(_counter === 0) $(this).addClass('current');
             _counter++;
             $(this).click(function(){
-				console.log('hide other subnavs...');
                 /* on click, hide ALL, and set visible the selected */
                 $('#sausage > div.toplevelitems > div').removeClass('current');
                 $(this).addClass('current');
                 $('#sausage > div.topic').addClass('hidden');
                 $('#'+$(this).attr('data-topic')).removeClass('hidden');
-                console.log('show direct child subnav.');
                 /** now autoclick on the first subnav item: */
                 $('#'+$(this).attr('data-topic')).find('ul > li:first-of-type').click();
                 //engine.buildCDMapsListBrowser(data); /* render contents of sub-folders */
@@ -395,12 +406,12 @@ let engine = {
 	},
 	
 	buildCDMapsListBrowser : function(data){
-		console.log(data);
+		//console.log(data);
 		let _counter = 0;
 		let _target = document.getElementById('sausage');
 		//_target.innerHTML = "";
         for(let item in data){ 
-			//console.log(item);
+			console.log(data[item]);
 			let _topicWrapper = document.createElement('div');
             _topicWrapper.setAttribute('id',item.replace(/ /g,'').replace(/\//g,'||').replace(/#/g,'').replace(/\&/g,''));
             _topicWrapper.setAttribute('class','hidden topic');
@@ -411,24 +422,73 @@ let engine = {
             _l2navwrapper.setAttribute('class','l2nav');
             let _counter2 = 0;
             
-            /** loop over each item in the array. These are the equivalent of styles for R667  */
-			for(let a=0;a<data[item]['directories'].length;a++){
+            if( data[item]['directories'][0]['alphabetic_subdirectories']['used']){
+				console.log('built transiemt directory structure based on mask');
+				console.log(data[item]['directories'][0]['alphabetic_subdirectories']['pattern'])
+				let letters = null;
+				if(data[item]['directories'][0]['alphabetic_subdirectories']['pattern'].indexOf("{{x}}") !== -1 ){	/** lower case */
+					letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
+				}
+				if(data[item]['directories'][0]['alphabetic_subdirectories']['pattern'].indexOf("{{X}}") !== -1 ){	/** upper case */
+					letters = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'];
+				}
 				
-				let _cssId = data[item]['directories'][a].path.replace(/ /g,'').replace(/\//g,'||').replace(/\&/g,'') + a;
-				/* build l2 nav: */
-                let _l2naventry = document.createElement('li');
-                _l2naventry.setAttribute('data-sectiondata',JSON.stringify(data[item]['directories'][a]));
-                _l2naventry.setAttribute('data-itemcategory',_cssId);
-                _l2naventry.setAttribute('data-datafile',data[item]['root']+data[item].datafile);
-                _l2naventry.setAttribute('data-dataindex',a);
-                let l2heading = data[item]['directories'][a]['path'].split('/')[data[item]['directories'][a]['path'].split('/').length-2];
-                _l2naventry.appendChild(document.createTextNode(l2heading));
-                
-                /** here, we can start pulling out data to populate the panel. We need to clear it first... */
-                $('#generated_content_wrapper').find('h2').empty().append(data[item]['directories'][a]['game']);
-                if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
-                _l2navwrapper.appendChild(_l2naventry);
-                _counter2++;
+				console.log(letters);
+				/** build fake directories in memory.
+				Also, need to build attribute data like so:
+				
+				<li 
+					data-sectiondata="{
+						"path":"FINALSTS/",
+						"game":"Doom",
+						"alphabetic_subdirectories":{
+							"used":false,
+							"pattern":null},
+						"file_data":{
+							"map_format":["wad"]}
+						}" 
+					data-itemcategory="FINALSTS||1" 
+					data-datafile="/wads/pc-zone-10-1994/filedata.json" 
+					data-dataindex="1">FINALSTS</li>
+				
+				
+				 */
+				for(let q=0; q<letters.length; q++){
+//					console.log(data[item]['directories'][0]['alphabetic_subdirectories']['pattern'].replace(/\{\{x\}\}/i,letters[q]));
+//					console.log(data[item]['directories'][0]);
+					let _cssId = data[item]['directories'][0]['alphabetic_subdirectories']['pattern'].replace(/\{\{x\}\}/i,letters[q]) + q;
+//					console.log(_cssId);
+					let _l2naventry = document.createElement('li');
+					/** for the A-Z function, I need to dynamically build the JSON to insert, mainly to build the path */
+					let _sectionDataDynamic = {"alphabetic_subdirectories":"", "path":letters[q]+"/","game":data[item]['directories'][0]["game"],"file_data":data[item]['directories'][0]["file_data"]}
+					_l2naventry.setAttribute('data-sectiondata',JSON.stringify(_sectionDataDynamic));
+	                _l2naventry.setAttribute('data-itemcategory',_cssId);
+	                _l2naventry.setAttribute('data-datafile',data[item]['root']+data[item].datafile);
+	                _l2naventry.setAttribute('data-dataindex',q);
+					let l2heading = letters[q].toString().toUpperCase();
+					_l2naventry.appendChild(document.createTextNode(l2heading));
+					_l2navwrapper.appendChild(_l2naventry);
+				}
+			}
+            else{
+	            /** loop over each item in the array. These are the equivalent of styles for R667  */
+				for(let a=0;a<data[item]['directories'].length;a++){
+					let _cssId = data[item]['directories'][a].path.replace(/ /g,'').replace(/\//g,'||').replace(/\&/g,'') + a;
+					/* build l2 nav: */
+	                let _l2naventry = document.createElement('li');
+	                _l2naventry.setAttribute('data-sectiondata',JSON.stringify(data[item]['directories'][a]));
+	                _l2naventry.setAttribute('data-itemcategory',_cssId);
+	                _l2naventry.setAttribute('data-datafile',data[item]['root']+data[item].datafile);
+	                _l2naventry.setAttribute('data-dataindex',a);
+	                let l2heading = data[item]['directories'][a]['path'].split('/')[data[item]['directories'][a]['path'].split('/').length-2];
+	                _l2naventry.appendChild(document.createTextNode(l2heading));
+	                
+	                /** here, we can start pulling out data to populate the panel. We need to clear it first... */
+	                $('#generated_content_wrapper').find('h2').empty().append(data[item]['directories'][a]['game']);
+	                if(_counter2 === 0) _l2naventry.setAttribute('class','reset current');
+	                _l2navwrapper.appendChild(_l2naventry);
+	                _counter2++;
+				}
 			}
 			/** end */
             _topicWrapper.appendChild(_l2navwrapper);
@@ -458,12 +518,13 @@ let engine = {
 					let dataIndex = $(this).attr('data-dataindex');
 					let dataMapper = dataForTab;
 					dataMapper['datafilePath'] = datafilePath;
-					//console.log('calling AJAX to get data for tab');
+					console.log('calling AJAX to get data for tab');
 					$.ajax({
 						dataType:"json",
 						contentType : "application/json",
 						url: datafilePath,
 						success : function(data){
+							console.log(data);
 							/** get a list of unique filenames without extensions. This will be used to generate each download ROW.
 							The data mapper will determine the links that are on each row (WAD, ZIP etc.). If a text file is also specified
 							a third will be added to generate an info overlay as per R667 browser:
@@ -497,7 +558,7 @@ let engine = {
         _target.appendChild(contentWrapper);
 	},
 	
-	/* Build liks:
+	/* Build links:
 	*/
 	buildCDFileDisplay : function(data,dataMapper,fileRootNames){
 //		console.log(dataMapper, data,fileRootNames);
@@ -527,7 +588,9 @@ let engine = {
 		console.log('FILE EXXTENSION MAPPER: ',fileExtensionMapper);
 		
 		let _wrapper = document.createElement('ul');
+		console.log(dataMapper);
 		if(dataMapper['alphabetic_subdirectories'].used){
+			console.log("render based on a-z...");
 			/** build alphabetic subdirs if needed */
 		}
 		else{
@@ -552,7 +615,7 @@ let engine = {
 								+dataMapper['file_data'].map_format[x], 
 								fileRootName 
 								+ "." 
-								+dataMapper['file_data'].map_format[x], false);
+								+dataMapper['file_data'].map_format[x], false,true);
 						_li.appendChild( _a2 );
 					}
 				}
@@ -594,9 +657,8 @@ let engine = {
 	},
 	
 	/** build a download link DOM element */
-	buildDownloadLink : function(url, linktext, relative){
+	buildDownloadLink : function(url, linktext, relative, includeIcon){
 		let _a = document.createElement('a');
-//		console.log(url,linktext,relative);
 		let prependBaseUrl = true;
 		/** don't 'prepend if base url is found (this is crude, so may need to change this logic) */
 		if(url.indexOf(this.thisrepo) ==! -1){
@@ -606,15 +668,78 @@ let engine = {
 		if(relative && relative === true){
 			prependBaseUrl = false;
 		}
-		/** f so determined, prepend this github repo base URL (not the mapped domain) */
+		/** if so determined, prepend this github repo base URL (not the mapped domain) */
 		if(prependBaseUrl){
-//			console.log('prepending URL...',this.thisrepo);
 			url = this.thisrepo + url;
 		}
 		_a.setAttribute('href',url);
+		if(includeIcon && includeIcon === true){
+			_img = document.createElement('img');
+			_img.setAttribute('title',linktext);
+			_img.setAttribute('src','/images/dl-anim.gif');
+			_img.setAttribute('class','dlicon');
+			_a.appendChild(_img);
+		}
+		
 		_a.appendChild(document.createTextNode(linktext));
+		
+		if(linktext === "More info"){
+			$(_a).off('click').click(function(){
+			            let newDiv = $(document.createElement('div')); 
+
+                        /* build info */
+                        let _h3info = document.createElement('h3');
+                        _h3info.appendChild(document.createTextNode('Info'));
+                        newDiv.append(_h3info);
+                        
+                        for(let a=0;a<currentThing.info.entries.length;a++){
+                            for(let entry in currentThing.info.entries[a]){
+                                if(entry && currentThing.info.entries[a][entry]){   /* sometimes empty due to scrape error */
+                                    let _infoitem=document.createElement('div');
+                                    let _infotitle=document.createElement('span');
+                                    _infotitle.setAttribute('class','hilite');
+                                    let _infoval=document.createTextNode(entry);
+                                    _infotitle.appendChild(_infoval)
+                                    _infoitem.appendChild(_infotitle);
+                                    _infoitem.appendChild(document.createTextNode(currentThing.info.entries[a][entry]));
+                                    newDiv.append(_infoitem);
+                                }
+                            }
+                        }
+                        
+                        let _h3credits = document.createElement('h3');
+                        _h3credits.appendChild(document.createTextNode('Credits'));
+                        newDiv.append(_h3credits);
+                        
+                        for(let a=0;a<currentThing.credits.entries.length;a++){
+                            for(let entry in currentThing.credits.entries[a]){
+                                if(entry && currentThing.credits.entries[a][entry]){   /* sometimes empty due to scrape error */
+                                    let _credititem=document.createElement('div');
+                                    let _credittitle=document.createElement('span');
+                                    _credittitle.setAttribute('class','hilite');
+                                    let _creditval=document.createTextNode(entry);
+                                    _credittitle.appendChild(_creditval)
+                                    _credititem.appendChild(_credittitle);
+                                    _credititem.appendChild(document.createTextNode(currentThing.credits.entries[a][entry]));
+                                    newDiv.append(_credititem);
+                                }
+                            }
+                        }
+                        
+                        /* build credits */
+                        newDiv.dialog({
+                            modal: true,
+                            closeText: ''
+                        });
+                    })
+		}
+		
 		return(_a);
 	},
+	
+	/** FINISHED  CD BROWSER FUNCTIONS */
+	
+	
 	
 	/** build a list item, with optional DOM content */
 	buildListElement : function(DOMContents){
