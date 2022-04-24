@@ -1,5 +1,5 @@
 {
-	"PC Zone April 1995" : {
+	"PC Zone 04 1995" : {
 		"datafile" : "filedata.json",
 		"root" : "/wads/pc-zone-04-1995/",
 		"directories":
@@ -50,7 +50,7 @@
 			}
 		]
 	},
-	"PC Zone December 1994 2" : {
+	"PC Zone 12 1994b" : {
 		"datafile" : "filedata.json",
 		"root" : "/wads/pc_zone_12_1994-2/",
 		"directories":
@@ -68,10 +68,7 @@
 			}
 		]
 	},
-	
-	
-	
-	"PC Zone October 1994" : {
+	"PC Zone 10 1994" : {
 		"datafile" : "filedata.json",
 		"root" : "/wads/pc-zone-10-1994/",
 		"directories":
@@ -129,6 +126,45 @@
 				},
 				"file_data":{
 					"map_format":["wad"]
+				}
+			}
+		]
+	},
+	
+	
+	
+	"Death Match 1" : {
+		"datafile" : "filedata.json",
+		"root" : "/wads/death_match_1/",
+		"directories":
+		[
+			{
+				"path":null,
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":true,
+					"pattern":"{{X}}FILE"
+				},
+				"file_data":{
+					"map_format":["WAD"]
+				}
+			}
+		]
+	},
+		"Death Match 2" : {
+		"datafile" : "filedata.json",
+		"root" : "/wads/death_match_2/",
+		"directories":
+		[
+			{
+				"path":null,
+				"game":"Doom",
+				"alphabetic_subdirectories":{
+					"used":true,
+					"pattern":"{{X}}2FILE"
+				},
+				"file_data":{
+					"map_format":["WAD"]
 				}
 			}
 		]
