@@ -628,12 +628,17 @@ let engine = {
 				Here I need to NOT rendre the text file link as a sibling item, but JUST as a 'more info' lnk on the same line
 				*/
 				if(fileExtensionMapper[fileRootName+".txt"]){
-					console.log('tex file map found')
-					_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".txt", "More info", false));
+					console.log('tex file map found');
+					_li.appendChild(this.buildDownloadIcon(data.path + fileRootName+".txt", "More info", "text.png"));
+					//_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".txt", "More info", false));
+					
 				}if(fileExtensionMapper[fileRootName+".TXT"]){
-					console.log('tex file map found')
-					_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".TXT", "More info", false));
+					console.log('tex file map found');
+					_li.appendChild(this.buildDownloadIcon(data.path + fileRootName+".TXT", "More info", "text.png"));
+					//_li.appendChild(this.buildDownloadLink(data.path + fileRootName+".TXT", "More info", false));
 				}
+				console.log('calling icon func:');
+				
 				_wrapper.appendChild( _li );
 			}
 		}
@@ -645,14 +650,20 @@ let engine = {
 	
 	FILENAME [zip WAD]  - test file (if present)
 	*/
-	buildDownloadIcon : function(url,title){
+	buildDownloadIcon : function(url,title,img){
+		console.log('icon',url,title,img);
+		let _imgsrc = '/images/dl-anim.gif';
+		if(img){
+			_imgsrc = '/images/'  +img;
+		} 
 		let _a = document.createElement('a');
 		_a.setAttribute('href',url);
 		_img = document.createElement('img');
 		_img.setAttribute('title',title);
-		_img.setAttribute('src','/images/dl-anim.gif');
+		_img.setAttribute('src',_imgsrc);
 		_img.setAttribute('class','dlicon');
 		_a.appendChild(_img);
+		console.log(_a);
 		return(_a);
 	},
 	
