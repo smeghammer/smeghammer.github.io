@@ -54,7 +54,8 @@ let engine = {
                 {'linktext':'Teleportal',	"repopath":"teleportal",		'url':'/snippets/teleportal.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.24', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/turrettest.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.25', 'childs':[],visible:false,"summary":""},
                 {'linktext':'Teleport test',	"repopath":"teletest",		'url':'/snippets/xx.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.26', 'childs':[],visible:false,"summary":""},
-                {'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""}
+                {'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""},
+                {'linktext':'ACS: Thing_Destroy demo',	"repopath":"kill_cust_actor",		'url':'/snippets/kill_cust_actor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.28', 'childs':[],visible:true,"summary":"An ACS example of destroying a custom actor once other actors are killed."},
             ]},
             {'linktext':'Howtos','url':'/howtos/', 'parenturl':'/', 'pagekey':'0.5', 'childs':[
             	{'linktext':'Eureka: custom things',	"img":"1",		'url':'/howtos/eureka.htm', 'parenturl':'/howtos/', 'pagekey':'0.5.0', 'childs':[],visible:true,"summary":"How to set up Eureka editor to use custom things and display them correctly in the editor environment."}
