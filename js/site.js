@@ -57,24 +57,27 @@ let engine = {
                 {'linktext':'Turret test',	"repopath":"turrettest",		'url':'/snippets/yy.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.27', 'childs':[],visible:false,"summary":""},
                 {'linktext':'ACS: Thing_Destroy demo',	"repopath":"kill_cust_actor",	"img":"1",		'url':'/snippets/kill_cust_actor.htm', 'parenturl':'/snippets/', 'pagekey':'0.1.28', 'childs':[],visible:true,"summary":"An ACS example of destroying a custom actor once other actors are killed."},
             ]},
-            {'linktext':'Howtos','url':'/howtos/', 'parenturl':'/', 'pagekey':'0.5', 'childs':[
-            	{'linktext':'Eureka: custom things',	"img":"1",		'url':'/howtos/eureka.htm', 'parenturl':'/howtos/', 'pagekey':'0.5.0', 'childs':[],visible:true,"summary":"How to set up Eureka editor to use custom things and display them correctly in the editor environment."}
-            ]},
-            {'linktext':'R667','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.6', 'childs':[]},
-            {'linktext':'WAD Archive','url':'/wad-archive/', 'parenturl':'/', 'pagekey':'0.7', 'childs':[]},
-            {'linktext':'IDGames','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]},  
             {'linktext':'Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
                 {'linktext':'Old cover CD WADs','url':'/links/old-coverdisk-cds/', 'parenturl':'/links/', 'pagekey':'0.2.3', 'childs':[], visible:true},
                 {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[],visible:true},
                 {'linktext':"Haruko Haruhara's Doom stuff",'url':'/links/harukoharuhara.htm', 'parenturl':'/links/', 'pagekey':'0.2.1', 'childs':[],visible:true},
                 {'linktext':"Doom fonts",'url':'/links/doomfonts.htm', 'parenturl':'/links/', 'pagekey':'0.2.2', 'childs':[],visible:true}
-            ]}
+            ]},
+            {'linktext':'IDGames','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]},
+
+            {'linktext':'Howtos','url':'/howtos/', 'parenturl':'/', 'pagekey':'0.5', 'childs':[
+            	{'linktext':'Eureka: custom things',	"img":"1",		'url':'/howtos/eureka.htm', 'parenturl':'/howtos/', 'pagekey':'0.5.0', 'childs':[],visible:true,"summary":"How to set up Eureka editor to use custom things and display them correctly in the editor environment."}
+            ]},
+            {'linktext':'R667','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.6', 'childs':[]},
+            {'linktext':'WAD Archive','url':'/wad-archive/', 'parenturl':'/', 'pagekey':'0.7', 'childs':[]},
+              
+
         ]},
     ],
     
     topnavWrapper : null,
     
-    copyright : 2022,
+    copyright : 2023,
     imagebase : 'https://raw.githubusercontent.com/smeghammer/',
     downloadbase : 'https://github.com/smeghammer/smeghammer.github.io/blob/master/',
     repobase : 'https://github.com/smeghammer/',
