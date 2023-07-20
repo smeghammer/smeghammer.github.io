@@ -60,7 +60,8 @@ let engine = {
             {'linktext':'Howtos','url':'/howtos/', 'parenturl':'/', 'pagekey':'0.5', 'childs':[
             	{'linktext':'Eureka: custom things',	"img":"1",		'url':'/howtos/eureka.htm', 'parenturl':'/howtos/', 'pagekey':'0.5.0', 'childs':[],visible:true,"summary":"How to set up Eureka editor to use custom things and display them correctly in the editor environment."}
             ]},
-            {'linktext':'R667 mirror','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.2.0', 'childs':[]},
+            {'linktext':'R667','url':'/links/repository.htm', 'parenturl':'/links/', 'pagekey':'0.6', 'childs':[]},
+            {'linktext':'WAD Archive','url':'/wad-archive/', 'parenturl':'/', 'pagekey':'0.7', 'childs':[]},
             {'linktext':'IDGames','url':'/dwbrowser/', 'parenturl':'/dwbrowser/', 'pagekey':'0.4', 'childs':[]},  
             {'linktext':'Links','url':'/links/', 'parenturl':'/', 'pagekey':'0.2', 'childs':[
                 {'linktext':'Old cover CD WADs','url':'/links/old-coverdisk-cds/', 'parenturl':'/links/', 'pagekey':'0.2.3', 'childs':[], visible:true},
