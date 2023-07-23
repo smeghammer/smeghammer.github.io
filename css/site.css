@@ -81,6 +81,16 @@ p{
 	line-height: 1.6em;
 }
 
+/* https://www.w3docs.com/snippets/css/how-to-wrap-text-in-a-pre-tag-with-css.html */
+pre {
+    overflow-x: auto;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+  }
+
 /* styles for r667 repo navigation */
 div.toplevelitems{
     text-transform: uppercase;
@@ -151,7 +161,7 @@ div.toplevelitems > div.current{
 }
 
 
-div.topic img.dlicon, #generated_content_wrapper img.dlicon{
+div.topic img.dlicon, #generated_content_wrapper img.dlicon, #sausage img.dlicon {
     width: 25px;
     padding-right: 5px;
 }
@@ -182,9 +192,6 @@ div#menubar{
 
 div#menubar li {
     padding-left: 15px;
-    /* padding-top: 0px; */
-    /* padding-bottom: 10px; */
-    /* padding-right: 20px; */
     font-size: medium;
 }
 
@@ -206,6 +213,43 @@ padding-top:2px;
 	text-align:center;
 }
 
+.dialogue{
+    position: absolute;
+    top: 100px;
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    border: 10px solid #c00000;
+    width: 97%;
+}
+.dialogue > .titlebar{
+    border-bottom: 10px solid #c00000;
+}
+
+.dialogue .closebox{
+    float: right;
+    color: white;
+    border-left: 10px solid #c00000;
+    height: 45px;
+    width: 32px;
+    font-size: 24pt;
+    margin-left: 5px;
+    padding-left: 8px;
+    padding-top: 3px;
+    cursor: pointer;
+}
+#dialogue h2{
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 6px;
+    padding-bottom: 0px;
+    color: #c00000;
+    font-size: 1.4em;
+    font-style: italic;
+    display: inline-block;
+}
+
 /* > 768 */
 @media screen and (min-width: 48em){
     /* get rid of border at low width */
@@ -218,7 +262,6 @@ padding-top:2px;
         margin-top: 30px;
         margin-bottom: -10px;
     }
-    #subnav > ul{ }
     
     div#menubar li {
     	font-size: large;
@@ -236,6 +279,14 @@ padding-top:2px;
 	#snippetsummaries div.pure-u-md-1-3{
 		background-color: #460000;
 	}
+
+    .dialogue{
+        border: 10px solid #c00000;
+        width: 80%;
+    }
+    #dialogue h2{
+        padding-left: 5px
+    }
 }
 /* > 1024 */
 @media screen and (min-width: 64em){
@@ -249,24 +300,19 @@ padding-top:2px;
         margin-top: 30px;
         margin-bottom: -10px;
     }
-    #subnav > ul{
-        /*text-align: left;*/
-        /*margin-top: 50px;*/
-    }
     div#menubar li {
      font-size: x-large;
+    }
+    
+    .dialogue{
+        border: 10px solid #c00000;
+        width: 80%;
     }
 }
 
 *.centre{
     text-align: center;
 }
-
-/*body h1 {
-	color: #c00000;
-	font-size: 2em;
-}*/
-
 
 h2 {
 	color: #c00000;
@@ -302,6 +348,9 @@ li > span{
 	color: white;
 	font-weight: bold;
 	text-decoration: underline;
+}
+#sausage li > span{
+    text-decoration: none;
 }
 
 ul.links > li {
@@ -423,26 +472,9 @@ BUT SEE THIS: https://stackoverflow.com/questions/1495407/maintain-the-aspect-ra
 
 @media screen and (min-width:48em){
        #splash{
-/*        width: 720px;
-        height: 400px;*/
         margin: 0px;
-
     }
 }
-
-
-
-
-
-/*@media (min-width:1200px){
-        #splash{
-        width: 1080px;
-        height: 610px;
-
-    }
-}*/
-
-
 
 #footerpadding{
     padding-bottom: 80px;
@@ -463,8 +495,6 @@ div.footer{
     border-top: 1px solid darkred;
 }
 div.footer img{
-    /*width:100px;*/
-    /*height: 100px;*/
     height: 80px;
     float: right
 }
@@ -623,4 +653,14 @@ div.contents iframe{
  	height: 100%;
 	border: none;
 	border-bottom: 110px solid black;
+}
+
+
+.dialogue > pre{
+    padding: 10px;
+}
+
+#sausage > ul > li > a > img.readme{
+    width: 20px;
+    cursor: pointer;
 }

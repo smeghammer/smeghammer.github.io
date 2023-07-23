@@ -1,0 +1,78 @@
+                    $(_a2).off('click').click(function(){
+                        let currentThing = engine.R667Categories[topic][section][$(this).attr('data-thingname')];
+                        let _path = currentThing['filename'].substr(0,1).toLowerCase();
+                        if(parseInt(_path)){
+                            _path = '_num'
+                        }
+
+                        let imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/' + _path +'/'+ currentThing['filename'].split(/\./)[0]+".png";
+                        if(currentThing['topic'].toUpperCase() ===  'SOUND FACTORY'){
+                            imgUrl = 'https://raw.githubusercontent.com/smeghammer/smeghammer.github.io/master/images/items/sound-wave-icon.png';
+                        }
+                        
+                        let _imgelem = document.createElement('img');
+                        _imgelem.setAttribute('src',imgUrl);
+                        if(currentThing['topic'].toUpperCase() ===  'SOUND FACTORY'){
+                            _imgelem.setAttribute('class','soundwave_padding');
+                        }
+                        let newDiv = $(document.createElement('div')); 
+                        newDiv.attr({'title':currentThing.name});
+                        newDiv.append(_imgelem);
+                        let _h3info = document.createElement('h3');
+                        _h3info.appendChild(document.createTextNode('Info'));
+                        newDiv.append(_h3info);
+                        
+                        for(let a=0;a<currentThing.info.entries.length;a++){
+                            for(let entry in currentThing.info.entries[a]){
+                                if(entry && currentThing.info.entries[a][entry]){
+                                    let _infoitem=document.createElement('div');
+                                    let _infotitle=document.createElement('span');
+                                    _infotitle.setAttribute('class','hilite');
+                                    let _infoval=document.createTextNode(entry);
+                                    _infotitle.appendChild(_infoval)
+                                    _infoitem.appendChild(_infotitle);
+                                    _infoitem.appendChild(document.createTextNode(currentThing.info.entries[a][entry]));
+                                    newDiv.append(_infoitem);
+                                }
+                            }
+                        }
+                        
+                        let _h3credits = document.createElement('h3');
+                        _h3credits.appendChild(document.createTextNode('Credits'));
+                        newDiv.append(_h3credits);
+                        
+                        for(let a=0;a<currentThing.credits.entries.length;a++){
+                            for(let entry in currentThing.credits.entries[a]){
+                                if(entry && currentThing.credits.entries[a][entry]){
+                                    let _credititem=document.createElement('div');
+                                    let _credittitle=document.createElement('span');
+                                    _credittitle.setAttribute('class','hilite');
+                                    let _creditval=document.createTextNode(entry);
+                                    _credittitle.appendChild(_creditval)
+                                    _credititem.appendChild(_credittitle);
+                                    _credititem.appendChild(document.createTextNode(currentThing.credits.entries[a][entry]));
+                                    newDiv.append(_credititem);
+                                }
+                            }
+                        }
+                        newDiv.dialog({
+                            modal: true,
+                            closeText: ''
+                        });
+                        
+                        return(false);
+                    });
+            <li>
+                <a href="dl link" title="download item [item]">
+                    <img src="/images/dl-anim.gif" class="dlicon">
+                </a>
+                <a href="#" 
+                    class="infolink" title="Show info about [item];" 
+                    data-thingname="40mm Grenade Launcher">
+                        [item name]
+                </a>
+                <span class="inline_credit">
+                    Submitted: ProjectAngel
+                </span>
+            </li>
+
