@@ -97,6 +97,16 @@ function viewReadmeHandler(){
     console.log(readmes[this.getAttribute('data-key')]);
 };
 
+let iwad_name_mapper = {
+    'DOOM':'doom.png',
+    'TNT':'doom2.png',
+    'PLUTONIA':'doom2.png',
+    'DOOM2':'doom2.png',
+    'HEXEN':'hexen.png',
+    'HERETIC':'heretic.png',
+    'STRIFE':'strife.png'
+}
+
 function doSearch(term){
     const link_prefix = 'https://archive.org/download/wadarchive/DATA/';
 	if(term){
@@ -111,23 +121,27 @@ function doSearch(term){
             */
             for(let a=0;a<matches.length;a++){
                 let _li = document.createElement('li');
-                let dl_link = document.createElement('a');   //download link
-                let filename_display = document.createElement('span');   //summary link
+                
+                
 
-                //prepare download href:
+                /** prepare download href: */
                 let type = 'wad';
                 let check = new RegExp('pk3');
                 if(matches[a].filenames[0].search(check) !== -1){
                     type = 'pk3';
                 }
-                /** figure out the paths for the current entry - this is a remote */
+                /** Construct the paths for the current entry - this is a remote URL*/
                 let _dir = matches[a]._id.substring(0,2)
                 let path = _dir + '.zip/' + _dir + "%2F" + matches[a]._id.substring(2,matches[a]._id.length) + "%2F" + matches[a]._id + "." + type + ".gz";
                 let _link = link_prefix + path;
+
+                /** this is an OBJECT KEY, so I don't need to iterate over a big ass array: */
                 let key = _dir + matches[a]._id.substring(2,matches[a]._id.length);
+                
                 let readme_icon = document.createElement('img');
                 readme_icon.setAttribute('class','readme');
                 
+                /** process readme links, if found */
                 let readme_link = document.createElement('a');   //readme link
                 if(readmes[key]){
                     /** here, we render a link/icon for the readme: */
@@ -136,35 +150,53 @@ function doSearch(term){
                     readme_link.setAttribute('data-key',_dir + matches[a]._id.substring(2,matches[a]._id.length));
                     readme_link.setAttribute('data-wadname',matches[a].filenames[0]);
                     readme_link.setAttribute('title','Readme file for '+ matches[a].filenames[0]);
-                    /* and append the click handler: */
+                    /* and append the click handler to open the : */
                     readme_link.addEventListener('click',viewReadmeHandler);
                 }
                 else{
                     /** if nothing found, render the empty img tag: */
-                    console.log('no readme');
                     readme_link.appendChild(readme_icon);
                 }
-                /** do the same for the images/maps/titlepics... */
-                //build the download DOM element:
+                /** end readmes links */
+
+                /** process engine type  */
+                let iwad = document.createElement('img');
+                
+                if(additional[key] && additional[key]['iwad']&& additional[key]['iwad'].length){
+                    console.log(additional[key]['iwad']);
+                    console.log(iwad_name_mapper[additional[key]['iwad']]);
+                    //iwad.setAttribute('src','/images/iwads/' +additional[key]['iwad'].toString().toLowerCase() + '.png');
+                    iwad.setAttribute('src','/images/iwads/' + iwad_name_mapper[additional[key]['iwad']]);
+                    iwad.setAttribute('class','iwad_logo');
+                    //iwad.appendChild(document.createTextNode("["+additional[key]['iwad'].toString()+"]"));
+                }
+                else{
+                    iwad.setAttribute('src','/images/trans.gif');
+                    iwad.setAttribute('class','iwad_logo_missing');
+                }
+
+                
+                /** build the download DOM element: */
+                let dl_link = document.createElement('a');   //download link
                 dl_link.setAttribute('href',_link);
                 dl_link.setAttribute('title','Download ' + matches[a].filenames[0]);
                 let _img = document.createElement('img');
                 _img.setAttribute('src',"/images/dl-anim.gif");
                 _img.setAttribute('class',"dlicon");
                 dl_link.appendChild(_img);
+                /** do the same for the images/maps/titlepics... */
 
-                //TODO: Append text to summary panel link, NOT the DL link!
+                /** And show the filename next to the various icons: */
+                let filename_display = document.createElement('span');   //summary link
                 filename_display.appendChild(document.createTextNode(matches[a].filenames[0]));
-                // filename_display.setAttribute('title','Info about '+ matches[a].filenames[0]);
-                // filename_display.setAttribute('href','#');
-                // summary_link.setAttribute('data-key',_dir + matches[a]._id.substring(2,matches[a]._id.length));
 
-
-                // console.log(summary_link);
+                /** assemble list item DOM snippet: */
                 _li.appendChild(dl_link);
                 _li.appendChild(readme_link);
+                _li.appendChild(iwad);
                 _li.appendChild(filename_display);
                 
+                /** finally, append to list: */
                 out.appendChild(_li);
             }
         }

@@ -214,7 +214,7 @@ padding-top:2px;
 }
 
 .dialogue{
-    position: absolute;
+    /* position: absolute; */
     top: 100px;
     /* text-align: center; */
     margin-left: auto;
@@ -238,6 +238,10 @@ padding-top:2px;
     padding-left: 8px;
     padding-top: 3px;
     cursor: pointer;
+}
+#dialogue{
+    position: sticky;
+    top: 50px;
 }
 #dialogue h2{
     text-align: center;
@@ -282,7 +286,7 @@ padding-top:2px;
 
     .dialogue{
         border: 10px solid #c00000;
-        width: 80%;
+        width: 100%;
     }
     #dialogue h2{
         padding-left: 5px
@@ -306,7 +310,7 @@ padding-top:2px;
     
     .dialogue{
         border: 10px solid #c00000;
-        width: 80%;
+        width: 100%;
     }
 }
 
@@ -320,7 +324,6 @@ h2 {
 	margin-top: 50px;
 	font-style: italic;
 }
-
 
 h3 {
 	color: #c00000;
@@ -351,6 +354,7 @@ li > span{
 }
 #sausage li > span{
     text-decoration: none;
+    color: #c00;
 }
 
 ul.links > li {
@@ -370,7 +374,16 @@ ul.links > li > span {
 	color: white;
 	font-style: italic;
 }
-
+#sausage img.iwad_logo{
+    width: 60px;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+#sausage img.iwad_logo_missing{
+    width: 60px;
+    height: 0px;
+    padding-right: 5px;
+}
 
 /* 
 fucking irrationinal box model! If you have A4 paper, and want a margin when you print, adding a margin to your doc DOES NOT ALTER THE FUCKING PAGE SIZE!!!
@@ -378,15 +391,7 @@ Fix:
 https://css-tricks.com/almanac/properties/b/box-sizing/
 */
 
-div.contents{	
-    /*padding-bottom: 140px;*/
-}
-div.contents > div{	
-/*    box-sizing: border-box;
-    margin-right: 20px;*/
-}
 div.contents img {
-	/*border: 1px solid black;*/
 	width: 100%;
 }
 div.contents h2 {
