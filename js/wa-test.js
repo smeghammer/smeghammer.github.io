@@ -118,6 +118,10 @@ function find(arg){
 };
 
 /** 
+ * `wadname`: WAD name passed in as dialogue title (str)
+ * 
+ * `data`: DOM object constructed elsewhere constituting the dialogue content (HTMLDomElement)
+ * 
  * get the basic overlay framework, with title, close box, display
  * area:
  */
@@ -151,59 +155,23 @@ function getOverlayFrame(wadname,data){
 
 /** build the ID Games readme overlay */
 function viewReadmeHandler(){
-    // console.log(this.getAttribute('data-key'));
-    // console.log(this.getAttribute('data-wadname'));
-    // console.log(additional[this.getAttribute('data-key')]);
-    // console.log(additional[this.getAttribute('data-key')]['name']);
+
     /** check for a readme in the static data, and  */
     let readme = readmes[this.getAttribute('data-key')];
     if(readme){
+
         /** TODO: sort out the dialogue box, WITHOUT resorting to jQuery! */
         let wadname = this.getAttribute('data-wadname');
         if(additional[this.getAttribute('data-key')]['name']){
             wadname = additional[this.getAttribute('data-key')]['name'];
         }
-        // let readmeOverlayWrapper = document.createElement('div');
-        // let readmeTitlebar = document.createElement('div');
-        // let readmeTitlebarHeading = document.createElement('h2');
-        // readmeTitlebar.setAttribute('class','titlebar');
-        // let readmeCloseBox = document.createElement('div');
-        // readmeCloseBox.setAttribute('class','closebox');
-        // readmeCloseBox.setAttribute('id','dialogue_close');
-
-        // readmeCloseBox.addEventListener('click',function(){
-        //     document.getElementById('dialogue').innerHTML="";
-        // })
-        // readmeCloseBox.appendChild(document.createTextNode('X'));
-        // readmeTitlebar.appendChild(readmeCloseBox);
-
-        // readmeTitlebarHeading.appendChild(document.createTextNode(wadname))
-        // readmeTitlebar.appendChild(readmeTitlebarHeading);
-        // readmeTitlebar.appendChild(readmeCloseBox);
         let readmePreformatDisplay = document.createElement('pre');
-        // let preContainer = document.createElement('div');
-        // preContainer.appendChild(readmePreformatDisplay);
-        // preContainer.setAttribute('class','readme-container')
-
         readmePreformatDisplay.appendChild(document.createTextNode(readme.readmes[0]))
 
-        //readmeOverlayWrapper.appendChild(readmeTitlebar);
-        // readmeOverlayWrapper.appendChild(readmePreformatDisplay);
-       // readmeOverlayWrapper.appendChild(preContainer);
-        //readmeOverlayWrapper.setAttribute('class','dialogue');
-
-        let popup = getOverlayFrame(wadname,readmePreformatDisplay);
-        //console.log(test);
-        //console.log(typeof(test));
-        // test.getElementById('dialogue-content').appendChild(readmePreformatDisplay);
-        
+        let popup = getOverlayFrame(wadname, readmePreformatDisplay);
         let target = document.getElementById('dialogue');
         target.innerHTML = "";
-        // target.appendChild(readmeOverlayWrapper);
         target.appendChild(popup);
-
-        // and populate the data AFTER building it - see https://stackoverflow.com/questions/42798992/element-getelementbyid-not-working
-        // document.getElementById('dialogue-content').appendChild(readmePreformatDisplay);
     }
     console.log(readmes[this.getAttribute('data-key')]);
 };
@@ -262,36 +230,41 @@ function viewScreenshotsHandler(){
     if(additional[this.getAttribute('data-key')]['name']){
         wadname = additional[this.getAttribute('data-key')]['name'];
     }
-    let readmeOverlayWrapper = document.createElement('div');
-    let readmeTitlebar = document.createElement('div');
-    let readmeTitlebarHeading = document.createElement('h2');
-    readmeTitlebar.setAttribute('class','titlebar');
-    let readmeCloseBox = document.createElement('div');
-    readmeCloseBox.setAttribute('class','closebox');
-    readmeCloseBox.setAttribute('id','dialogue_close');
-    let preContainer = document.createElement('div');
-    readmeCloseBox.addEventListener('click',function(){
-        document.getElementById('dialogue').innerHTML="";
-    })
-    readmeCloseBox.appendChild(document.createTextNode('X'));
-    readmeTitlebar.appendChild(readmeCloseBox);
+    // let readmeOverlayWrapper = document.createElement('div');
+    // let readmeTitlebar = document.createElement('div');
+    // let readmeTitlebarHeading = document.createElement('h2');
+    // readmeTitlebar.setAttribute('class','titlebar');
+    // let readmeCloseBox = document.createElement('div');
+    // readmeCloseBox.setAttribute('class','closebox');
+    // readmeCloseBox.setAttribute('id','dialogue_close');
+    // let preContainer = document.createElement('div');
+    // readmeCloseBox.addEventListener('click',function(){
+    //     document.getElementById('dialogue').innerHTML="";
+    // })
+    // readmeCloseBox.appendChild(document.createTextNode('X'));
+    // readmeTitlebar.appendChild(readmeCloseBox);
 
-    readmeTitlebarHeading.appendChild(document.createTextNode(wadname))
-    readmeTitlebar.appendChild(readmeTitlebarHeading);
-    readmeTitlebar.appendChild(readmeCloseBox);
+    // readmeTitlebarHeading.appendChild(document.createTextNode(wadname))
+    // readmeTitlebar.appendChild(readmeTitlebarHeading);
+    // readmeTitlebar.appendChild(readmeCloseBox);
 
+    let imgListContainer = document.createElement('div')
     // append images to dialogue, but set to hidden with CSS; then default to showing the first:
     for(let x=0;x<imgArray.length;x++){
         // console.log(typeof(imgArray[x]))
-        preContainer.appendChild(preload[x]);
+        // preContainer.appendChild(preload[x]);
+        imgListContainer.appendChild(preload[x]);
     }
-    readmeOverlayWrapper.appendChild(readmeTitlebar);
-    // readmeOverlayWrapper.appendChild(readmePreformatDisplay);
-    readmeOverlayWrapper.appendChild(preContainer);
-    readmeOverlayWrapper.setAttribute('class','dialogue');
+    // readmeOverlayWrapper.appendChild(readmeTitlebar);
+    // // readmeOverlayWrapper.appendChild(readmePreformatDisplay);
+    // readmeOverlayWrapper.appendChild(preContainer);
+    // readmeOverlayWrapper.setAttribute('class','dialogue');
+
+    let popup = getOverlayFrame(wadname,imgListContainer)
     let target = document.getElementById('dialogue');
     target.innerHTML = "";
-    target.appendChild(readmeOverlayWrapper);
+    // target.appendChild(readmeOverlayWrapper);
+    target.appendChild(popup);
 
 };
 
