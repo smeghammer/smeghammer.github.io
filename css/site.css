@@ -252,6 +252,21 @@ padding-top:2px;
     font-style: italic;
     display: inline-block;
 }
+.paginator > ul{
+    padding-left: 0px;
+    list-style-type: none;
+}
+.paginator > ul > li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.paginator > ul > li > a.current{
+    cursor: default;
+    text-decoration: underline;
+    font-weight: bold;
+}
 
 /* > 768 */
 @media screen and (min-width: 48em){

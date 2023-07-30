@@ -8,6 +8,8 @@ document.getElementById('search_btn').addEventListener('click',function(){
 })
 
 /** 
+ * TODO: add tooltips to IWAD image, indicating TNT, PLUTONIA etc. for base IWAD...
+ * 
  * TODO: There is a descriptive text witihn other metadata too. Get this if available...
  * so we need to do the following:
  * 1: split the UUID as 0-2, 2->end
@@ -149,6 +151,14 @@ function getOverlayFrame(wadname,data){
     dialogueContainer.appendChild(data);
     dialogueOuter.appendChild(dialogueTitlebar);
     dialogueOuter.appendChild(dialogueContainer);
+
+    // const show = function(){
+    //     console.log('showing overlay...')
+    //     let target = document.getElementById('dialogue');
+    //     target.innerHTML = "";
+    //     target.appendChild(dialogueOuter);
+    // }
+
     return(dialogueOuter);
 }
 
@@ -168,13 +178,21 @@ function viewReadmeHandler(){
         let readmePreformatDisplay = document.createElement('pre');
         readmePreformatDisplay.appendChild(document.createTextNode(readme.readmes[0]))
 
-        let popup = getOverlayFrame(wadname, readmePreformatDisplay);
-        let target = document.getElementById('dialogue');
-        target.innerHTML = "";
-        target.appendChild(popup);
+        showDialogue(getOverlayFrame(wadname, readmePreformatDisplay))
+        // let popup = getOverlayFrame(wadname, readmePreformatDisplay);
+        // let target = document.getElementById('dialogue');
+        // target.innerHTML = "";
+        // target.appendChild(popup);
     }
     console.log(readmes[this.getAttribute('data-key')]);
 };
+
+function showDialogue(data){
+    console.log('displaying')
+    let target = document.getElementById('dialogue');
+    target.innerHTML = "";
+    target.appendChild(data)
+}
 
 /** TODO: preload image, and  */
 function preloadImage(url){
@@ -189,6 +207,31 @@ function preloadImage(url){
             fail(new Error('failed to load '+url));
         }
     });
+}
+
+/** handler for pagination links */
+function paginate(evt){
+    // hide all images:
+    let list = document.querySelectorAll('#dialogue-content > div > img');
+    for(let a=0;a<list.length;a++){
+        list[a].classList.add('hidden');
+    }
+    // show the one related to this anchor:
+    let query = '#dialogue-content > div > img[data-imagenum="'+this.getAttribute('data-imagenum')+'"]';
+    let imgToShow = document.querySelector(query);
+    imgToShow.classList.remove('hidden');
+
+    // set all anchors to not current:
+    query = '#dialogue-content > div > div > ul > li > a';
+    let paginationLinks = document.querySelectorAll(query);
+    for(let a=0;a<paginationLinks.length;a++){
+        paginationLinks[a].classList.remove('current');
+    }
+
+    // highlight the current anchor:
+    this.classList.add('current');
+
+    evt.preventDefault();
 }
 
 function viewScreenshotsHandler(){
@@ -215,6 +258,11 @@ function viewScreenshotsHandler(){
         // TODO:
         // preload[a] = await preloadImage(imageUrl);
         preload[a] = new Image();
+        if(a>0){
+            preload[a].classList.add('hidden');
+        }
+
+        preload[a].setAttribute('data-imagenum',(a+1).toString());
         preload[a].src = imageUrl;
         console.log(imageUrl);
         a++;
@@ -230,41 +278,43 @@ function viewScreenshotsHandler(){
     if(additional[this.getAttribute('data-key')]['name']){
         wadname = additional[this.getAttribute('data-key')]['name'];
     }
-    // let readmeOverlayWrapper = document.createElement('div');
-    // let readmeTitlebar = document.createElement('div');
-    // let readmeTitlebarHeading = document.createElement('h2');
-    // readmeTitlebar.setAttribute('class','titlebar');
-    // let readmeCloseBox = document.createElement('div');
-    // readmeCloseBox.setAttribute('class','closebox');
-    // readmeCloseBox.setAttribute('id','dialogue_close');
-    // let preContainer = document.createElement('div');
-    // readmeCloseBox.addEventListener('click',function(){
-    //     document.getElementById('dialogue').innerHTML="";
-    // })
-    // readmeCloseBox.appendChild(document.createTextNode('X'));
-    // readmeTitlebar.appendChild(readmeCloseBox);
-
-    // readmeTitlebarHeading.appendChild(document.createTextNode(wadname))
-    // readmeTitlebar.appendChild(readmeTitlebarHeading);
-    // readmeTitlebar.appendChild(readmeCloseBox);
-
+    
     let imgListContainer = document.createElement('div')
+
+    /** if greater than one image, make a paginator: */
+    if(imgArray.length > 1){
+        let paginatorContainer = document.createElement('div');
+        paginatorContainer.setAttribute('class','paginator');
+        let paginatorUL = document.createElement('ul');
+        for(let x=0;x<imgArray.length;x++){
+            let paginatorLI = document.createElement('li');
+            let paginatorA = document.createElement('a');
+            if(x===0){
+                paginatorA.classList.add('current');
+            }
+            paginatorA.appendChild( document.createTextNode(' '+(x+1).toString() + ' ' )  ); // <-- NEEDED whitespace, other wise it doesn't wrap AT ALL!
+            paginatorA.setAttribute('href','#');
+            paginatorA.setAttribute('data-imagenum',(x+1).toString());
+
+            paginatorA.addEventListener('click',paginate);
+            paginatorLI.appendChild(paginatorA);
+            paginatorUL.appendChild(paginatorLI);
+        }
+        paginatorContainer.appendChild(paginatorUL);
+        // and append click handlers:
+
+        imgListContainer.appendChild(paginatorContainer)
+    }
+
     // append images to dialogue, but set to hidden with CSS; then default to showing the first:
     for(let x=0;x<imgArray.length;x++){
-        // console.log(typeof(imgArray[x]))
-        // preContainer.appendChild(preload[x]);
         imgListContainer.appendChild(preload[x]);
     }
-    // readmeOverlayWrapper.appendChild(readmeTitlebar);
-    // // readmeOverlayWrapper.appendChild(readmePreformatDisplay);
-    // readmeOverlayWrapper.appendChild(preContainer);
-    // readmeOverlayWrapper.setAttribute('class','dialogue');
-
-    let popup = getOverlayFrame(wadname,imgListContainer)
-    let target = document.getElementById('dialogue');
-    target.innerHTML = "";
-    // target.appendChild(readmeOverlayWrapper);
-    target.appendChild(popup);
+    showDialogue(getOverlayFrame(wadname, imgListContainer))
+    // let popup = getOverlayFrame(wadname,imgListContainer)
+    // let target = document.getElementById('dialogue');
+    // target.innerHTML = "";
+    // target.appendChild(popup);
 
 };
 
