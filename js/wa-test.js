@@ -7,7 +7,9 @@ document.getElementById('search_btn').addEventListener('click',function(){
     doSearch(document.getElementById('term').value);
 })
 
-/** so we need to do the following:
+/** 
+ * TODO: There is a descriptive text witihn other metadata too. Get this if available...
+ * so we need to do the following:
  * 1: split the UUID as 0-2, 2->end
  * 2: build links as
  * 
@@ -43,6 +45,65 @@ function getQueryString(param){
     }
 }
 
+/**
+ * `directory`: 2-digit path prefix
+ * 
+ * `path`: the entry UUID
+ * 
+ * `category`: type of image (`SCREENSHOTS`, `MAPS`, `GRAPHICS`; or `false`)
+ * 
+ * `image`: the image name from the metadata (ignored if category is `false`. Required; may be `false`)
+ * 
+ * `filetype`: download filetype (`.wad.gz` or `.pk3.gz`) 
+ * 
+ * screenshots:
+ * https://archive.org/download/wadarchive/DATA/  02            ".zip/" 02            "%2F"  2b30c47f9392da00ace3124ec96e8354d6e086  "%2F"  SCREENSHOTS  "%2F"  MAP06.png
+ * 
+ * format for images:
+ * prefix                                   + "/" + directory + ".zip/" + directory + "%2F" + path                                  + "%2F" + category + "%2F" + image
+ * 
+ * format for download:
+ * download:
+ * https://archive.org/download/wadarchive/DATA/    02           .zip/    02           %2F    2b3a3736bf8f30ca6abef5180feed1a277f689  %2F     022b3a3736bf8f30ca6abef5180feed1a277f689   .wad.gz
+ * prefix                                   + "/" + directory + ".zip/" + directory + "%2F" + path                                  + "%2F" + directory + path                          + filetype
+ * 
+ * directory = 2 char refix - 01
+ * path = UUID
+ * category = MAPS, SCREENSHOTS etc. (should be an enum)
+ * image = IMAGENAME.png
+ * filetype = .wad.gz or .pk3.zip
+ * 
+ * examples:
+ * 
+ * interpic:
+ * https://archive.org/download/wadarchive/DATA/02.zip/02%2F2a8b2793f1f723ce7bb4caaeb24678930c7637%2FGRAPHICS%2FINTERPIC.PNG
+ * 
+ * titlepic:
+ * https://archive.org/download/wadarchive/DATA/02.zip/02%2F2a8b2793f1f723ce7bb4caaeb24678930c7637%2FGRAPHICS%2FTITLEPIC.PNG
+ * 
+ * credit:
+ * https://archive.org/download/wadarchive/DATA/02.zip/02%2F2a8b2793f1f723ce7bb4caaeb24678930c7637%2FGRAPHICS%2FCREDIT.PNG
+ * 
+ * maps:
+ * https://archive.org/download/wadarchive/DATA/02.zip/02%2F2ac67772fbe2f62b9876ebba22a0d22f7813e0%2FMAPS%2FZE23.PNG
+ * 
+
+ */
+function getRemoteURL(directory,path,category,image,filetype){
+    const link_prefix = 'https://archive.org/download/wadarchive/DATA';
+    let data = [];
+    let directory_suffixed = directory + '.zip';
+    let returnval = null;
+    if(filetype){ /** download */
+        returnval = link_prefix + "/" + directory + ".zip/" + directory + "%2F" + path + "%2F" + directory + path + filetype;
+    }
+    else{  /** image URL */
+        returnval = link_prefix + "/" + directory + ".zip/" + directory + "%2F" + path + "%2F" + category + "%2F" + image;
+    }
+    // console.log(returnval);
+    return(returnval);
+}
+
 function find(arg){
     let out = [];
     let rex = new RegExp(arg);
@@ -56,46 +117,210 @@ function find(arg){
     return(out);
 };
 
-/** build the readme overlay */
+/** 
+ * get the basic overlay framework, with title, close box, display
+ * area:
+ */
+function getOverlayFrame(wadname,data){
+    let dialogueOuter = document.createElement('div');
+    dialogueOuter.setAttribute('class','dialogue');
+    let dialogueTitlebar = document.createElement('div');
+    let dialogueTitlebarHeading = document.createElement('h2');
+    dialogueTitlebar.setAttribute('class','titlebar');
+    let dialogueCloseBox = document.createElement('div');
+    dialogueCloseBox.setAttribute('class','closebox');
+    dialogueCloseBox.setAttribute('id','dialogue_close');
+
+    dialogueCloseBox.addEventListener('click',function(){
+        document.getElementById('dialogue').innerHTML="";
+    })
+    dialogueCloseBox.appendChild(document.createTextNode('X'));
+    dialogueTitlebar.appendChild(dialogueCloseBox);
+
+    dialogueTitlebarHeading.appendChild(document.createTextNode(wadname))
+    dialogueTitlebar.appendChild(dialogueTitlebarHeading);
+    dialogueTitlebar.appendChild(dialogueCloseBox);
+    let dialogueContainer = document.createElement('div');
+    dialogueContainer.setAttribute('id','dialogue-content');
+    dialogueContainer.appendChild(data);
+    dialogueOuter.appendChild(dialogueTitlebar);
+    dialogueOuter.appendChild(dialogueContainer);
+    return(dialogueOuter);
+}
+
+
+/** build the ID Games readme overlay */
 function viewReadmeHandler(){
-    console.log(this.getAttribute('data-key'));
-    console.log(this.getAttribute('data-wadname'));
-    console.log(additional[this.getAttribute('data-key')]);
+    // console.log(this.getAttribute('data-key'));
+    // console.log(this.getAttribute('data-wadname'));
+    // console.log(additional[this.getAttribute('data-key')]);
+    // console.log(additional[this.getAttribute('data-key')]['name']);
     /** check for a readme in the static data, and  */
     let readme = readmes[this.getAttribute('data-key')];
     if(readme){
         /** TODO: sort out the dialogue box, WITHOUT resorting to jQuery! */
         let wadname = this.getAttribute('data-wadname');
-        let readmeOverlayWrapper = document.createElement('div');
-        let readmeTitlebar = document.createElement('div');
-        let readmeTitlebarHeading = document.createElement('h2');
-        readmeTitlebar.setAttribute('class','titlebar');
-        let readmeCloseBox = document.createElement('div');
-        readmeCloseBox.setAttribute('class','closebox');
-        readmeCloseBox.setAttribute('id','dialogue_close');
+        if(additional[this.getAttribute('data-key')]['name']){
+            wadname = additional[this.getAttribute('data-key')]['name'];
+        }
+        // let readmeOverlayWrapper = document.createElement('div');
+        // let readmeTitlebar = document.createElement('div');
+        // let readmeTitlebarHeading = document.createElement('h2');
+        // readmeTitlebar.setAttribute('class','titlebar');
+        // let readmeCloseBox = document.createElement('div');
+        // readmeCloseBox.setAttribute('class','closebox');
+        // readmeCloseBox.setAttribute('id','dialogue_close');
 
-        readmeCloseBox.addEventListener('click',function(){
-            document.getElementById('dialogue').innerHTML="";
-        })
-        readmeCloseBox.appendChild(document.createTextNode('X'));
-        readmeTitlebar.appendChild(readmeCloseBox);
+        // readmeCloseBox.addEventListener('click',function(){
+        //     document.getElementById('dialogue').innerHTML="";
+        // })
+        // readmeCloseBox.appendChild(document.createTextNode('X'));
+        // readmeTitlebar.appendChild(readmeCloseBox);
 
-        readmeTitlebarHeading.appendChild(document.createTextNode('readme for ' + wadname))
-        readmeTitlebar.appendChild(readmeTitlebarHeading);
-        readmeTitlebar.appendChild(readmeCloseBox);
+        // readmeTitlebarHeading.appendChild(document.createTextNode(wadname))
+        // readmeTitlebar.appendChild(readmeTitlebarHeading);
+        // readmeTitlebar.appendChild(readmeCloseBox);
         let readmePreformatDisplay = document.createElement('pre');
-        
+        // let preContainer = document.createElement('div');
+        // preContainer.appendChild(readmePreformatDisplay);
+        // preContainer.setAttribute('class','readme-container')
+
         readmePreformatDisplay.appendChild(document.createTextNode(readme.readmes[0]))
 
-        readmeOverlayWrapper.appendChild(readmeTitlebar);
-        readmeOverlayWrapper.appendChild(readmePreformatDisplay);
-        readmeOverlayWrapper.setAttribute('class','dialogue');
+        //readmeOverlayWrapper.appendChild(readmeTitlebar);
+        // readmeOverlayWrapper.appendChild(readmePreformatDisplay);
+       // readmeOverlayWrapper.appendChild(preContainer);
+        //readmeOverlayWrapper.setAttribute('class','dialogue');
+
+        let popup = getOverlayFrame(wadname,readmePreformatDisplay);
+        //console.log(test);
+        //console.log(typeof(test));
+        // test.getElementById('dialogue-content').appendChild(readmePreformatDisplay);
+        
         let target = document.getElementById('dialogue');
         target.innerHTML = "";
-        target.appendChild(readmeOverlayWrapper);
+        // target.appendChild(readmeOverlayWrapper);
+        target.appendChild(popup);
+
+        // and populate the data AFTER building it - see https://stackoverflow.com/questions/42798992/element-getelementbyid-not-working
+        // document.getElementById('dialogue-content').appendChild(readmePreformatDisplay);
     }
     console.log(readmes[this.getAttribute('data-key')]);
 };
+
+/** TODO: preload image, and  */
+function preloadImage(url){
+    // see https://stackoverflow.com/questions/72223103/how-to-know-when-image-preloading-is-done-with-javascript
+    let current_image = new Image()
+    current_image.src = url;
+    return new Promise((done, fail)=>{
+        current_image.onload = ()=>{
+            done();
+        }
+        current_image.onerror = () => {
+            fail(new Error('failed to load '+url));
+        }
+    });
+}
+
+function viewScreenshotsHandler(){
+    
+    // console.log('get screenshots: '+this.getAttribute('data-key'));
+
+    let key = this.getAttribute('data-key');
+    let dir = key.substring(0,2)
+    let path = key.substring(2,key.length);
+    let imgArray = [];
+    let preload = [];
+    let a = 0;  // counter
+    
+    /** get screenshots for supplied UUID: */
+    console.log(additional[this.getAttribute('data-key')]);
+    for(let item in additional[this.getAttribute('data-key')]['screenshots']){
+        // console.log(additional[this.getAttribute('data-key')]['screenshots'][item]);
+        let img = additional[this.getAttribute('data-key')]['screenshots'][item];
+
+        // image URL:
+        let imageUrl = getRemoteURL(dir, path, 'SCREENSHOTS', img, false);
+        imgArray.push(imageUrl);
+        
+        // TODO:
+        // preload[a] = await preloadImage(imageUrl);
+        preload[a] = new Image();
+        preload[a].src = imageUrl;
+        console.log(imageUrl);
+        a++;
+    }
+    console.log(preload);
+    // we need to call the getRemoteURL method to create the urls to the images found in the json data.
+    // need to iterate over the data for key and filter for relevant links - see notes on called method.
+
+    /** TODO: sort out the dialogue box, WITHOUT resorting to jQuery! 
+     * TODO: make function to return dialogue base
+    */
+    let wadname = this.getAttribute('data-wadname');
+    if(additional[this.getAttribute('data-key')]['name']){
+        wadname = additional[this.getAttribute('data-key')]['name'];
+    }
+    let readmeOverlayWrapper = document.createElement('div');
+    let readmeTitlebar = document.createElement('div');
+    let readmeTitlebarHeading = document.createElement('h2');
+    readmeTitlebar.setAttribute('class','titlebar');
+    let readmeCloseBox = document.createElement('div');
+    readmeCloseBox.setAttribute('class','closebox');
+    readmeCloseBox.setAttribute('id','dialogue_close');
+    let preContainer = document.createElement('div');
+    readmeCloseBox.addEventListener('click',function(){
+        document.getElementById('dialogue').innerHTML="";
+    })
+    readmeCloseBox.appendChild(document.createTextNode('X'));
+    readmeTitlebar.appendChild(readmeCloseBox);
+
+    readmeTitlebarHeading.appendChild(document.createTextNode(wadname))
+    readmeTitlebar.appendChild(readmeTitlebarHeading);
+    readmeTitlebar.appendChild(readmeCloseBox);
+
+    // append images to dialogue, but set to hidden with CSS; then default to showing the first:
+    for(let x=0;x<imgArray.length;x++){
+        // console.log(typeof(imgArray[x]))
+        preContainer.appendChild(preload[x]);
+    }
+    readmeOverlayWrapper.appendChild(readmeTitlebar);
+    // readmeOverlayWrapper.appendChild(readmePreformatDisplay);
+    readmeOverlayWrapper.appendChild(preContainer);
+    readmeOverlayWrapper.setAttribute('class','dialogue');
+    let target = document.getElementById('dialogue');
+    target.innerHTML = "";
+    target.appendChild(readmeOverlayWrapper);
+
+};
+
+/**
+ * updete the DOM with some info about the pics for the given entry
+ * Because this is on enter, it will populate as soon as the mouse goes
+ * over the entry. This persists until the page is reloaded.
+ * 
+ * The data is then used by the click hander to get the relevant pics. 
+ * It simply means that the click handler then only needs to call one function
+ * rather than two.
+ */
+function mouseenterScreenshotsHandler(){
+    console.log('fish!');
+    console.log(this);
+    console.log(additional[this.getAttribute('data-key')]['screenshots']);
+    console.log( Object.keys(additional[this.getAttribute('data-key')]['screenshots']).length );
+    if(!this.hasAttribute('data-hovered')){
+        console.log('applying...')
+        this.setAttribute('data-hovered',true);
+        // see https://www.geeksforgeeks.org/find-the-length-of-a-javascript-object/
+        this.setAttribute(
+            'data-imagecount',Object.keys(additional[this.getAttribute('data-key')]['screenshots']).length
+            )
+    }
+    else{
+        console.log('already applied.');
+    }
+}
 
 let iwad_name_mapper = {
     'DOOM':'doom.png',
@@ -106,34 +331,37 @@ let iwad_name_mapper = {
     'HERETIC':'heretic.png',
     'STRIFE':'strife.png'
 }
-
 function doSearch(term){
     const link_prefix = 'https://archive.org/download/wadarchive/DATA/';
 	if(term){
+        term = term.toLowerCase();
+        /** and rewrite the URL to use this value (see 
+         * https://stackoverflow.com/questions/24281937/update-parameters-in-url-with-history-pushstate)
+         * https://developer.mozilla.org/en-US/docs/Web/API/History/replaceState
+         */
+        history.replaceState({},'',location.href.split(/\?/)[0] + '?term=' + term);
 	    let matches = find(term)
-	    console.log(matches);
-	    // and for each, build links:
 	    let out = document.createElement('ul');
         if(matches.length){
 
-           /**      
-            https://archive.org/download/wadarchive/DATA/98.zip/98%2F5be27cb4c21e6cfba8acbdfbe823831710886f%2F985be27cb4c21e6cfba8acbdfbe823831710886f.wad.gz
-            */
+           /** https://archive.org/download/wadarchive/DATA/98.zip/98%2F5be27cb4c21e6cfba8acbdfbe823831710886f%2F985be27cb4c21e6cfba8acbdfbe823831710886f.wad.gz */
             for(let a=0;a<matches.length;a++){
                 let _li = document.createElement('li');
                 
-                
-
                 /** prepare download href: */
-                let type = 'wad';
+                //let type = 'wad';
+                let filetype = '.wad.gz';
                 let check = new RegExp('pk3');
                 if(matches[a].filenames[0].search(check) !== -1){
-                    type = 'pk3';
+                    //type = 'pk3';
+                    filetype = '.pk3.gz'
                 }
                 /** Construct the paths for the current entry - this is a remote URL*/
                 let _dir = matches[a]._id.substring(0,2)
-                let path = _dir + '.zip/' + _dir + "%2F" + matches[a]._id.substring(2,matches[a]._id.length) + "%2F" + matches[a]._id + "." + type + ".gz";
-                let _link = link_prefix + path;
+                // let path = _dir + '.zip/' + _dir + "%2F" + matches[a]._id.substring(2,matches[a]._id.length) + "%2F" + matches[a]._id + "." + type + ".gz";
+                // let _link = link_prefix + path;
+                /** TEST THE URL BUILDING: */
+                let _link = getRemoteURL(_dir,matches[a]._id.substring(2,matches[a]._id.length),null,null,filetype);
 
                 /** this is an OBJECT KEY, so I don't need to iterate over a big ass array: */
                 let key = _dir + matches[a]._id.substring(2,matches[a]._id.length);
@@ -146,36 +374,45 @@ function doSearch(term){
                 if(readmes[key]){
                     /** here, we render a link/icon for the readme: */
                     readme_icon.setAttribute('src','/images/text.png');
-                    readme_link.appendChild(readme_icon);
                     readme_link.setAttribute('data-key',_dir + matches[a]._id.substring(2,matches[a]._id.length));
                     readme_link.setAttribute('data-wadname',matches[a].filenames[0]);
-                    readme_link.setAttribute('title','Readme file for '+ matches[a].filenames[0]);
+                    readme_link.setAttribute('title','ID Games Readme file for '+ matches[a].filenames[0]);
                     /* and append the click handler to open the : */
                     readme_link.addEventListener('click',viewReadmeHandler);
                 }
-                else{
-                    /** if nothing found, render the empty img tag: */
-                    readme_link.appendChild(readme_icon);
-                }
+                readme_link.appendChild(readme_icon);
                 /** end readmes links */
 
                 /** process engine type  */
                 let iwad = document.createElement('img');
-                
-                if(additional[key] && additional[key]['iwad']&& additional[key]['iwad'].length){
-                    console.log(additional[key]['iwad']);
-                    console.log(iwad_name_mapper[additional[key]['iwad']]);
-                    //iwad.setAttribute('src','/images/iwads/' +additional[key]['iwad'].toString().toLowerCase() + '.png');
-                    iwad.setAttribute('src','/images/iwads/' + iwad_name_mapper[additional[key]['iwad']]);
-                    iwad.setAttribute('class','iwad_logo');
-                    //iwad.appendChild(document.createTextNode("["+additional[key]['iwad'].toString()+"]"));
-                }
-                else{
-                    iwad.setAttribute('src','/images/trans.gif');
-                    iwad.setAttribute('class','iwad_logo_missing');
+                iwad.setAttribute('src','/images/trans.gif');
+                iwad.setAttribute('class','iwad_logo_missing');
+                let screenshots = document.createElement('img');
+                screenshots.setAttribute('src','/images/trans.gif');
+                screenshots.setAttribute('class','screenshots_missing');
+                let screenshots_link = document.createElement('a');
+                screenshots_link.appendChild(screenshots);
+                if(additional[key]){
+                    
+                    if(additional[key]['iwad']&& additional[key]['iwad'].length){
+                        iwad.setAttribute('src','/images/iwads/' + iwad_name_mapper[additional[key]['iwad']]);
+                        iwad.setAttribute('class','iwad_logo');
+                    }
+
+                    /** screenshots */
+                    if(!isEmpty(additional[key]['screenshots'])){
+                        console.log(additional[key]['screenshots']);
+                        screenshots.setAttribute('src','/images/screenshot_icon.png');
+                        screenshots.classList.remove('screenshots_missing');
+                        screenshots.classList.add('screenshots');
+                        screenshots_link.setAttribute('data-key',_dir + matches[a]._id.substring(2,matches[a]._id.length));
+                        screenshots_link.setAttribute('data-wadname',matches[a].filenames[0]);
+                        screenshots_link.setAttribute('data-type','screenshots');
+                        screenshots_link.addEventListener('click',viewScreenshotsHandler);
+                        screenshots_link.addEventListener('mouseenter',mouseenterScreenshotsHandler); //to make tooltip
+                    }
                 }
 
-                
                 /** build the download DOM element: */
                 let dl_link = document.createElement('a');   //download link
                 dl_link.setAttribute('href',_link);
@@ -193,6 +430,7 @@ function doSearch(term){
                 /** assemble list item DOM snippet: */
                 _li.appendChild(dl_link);
                 _li.appendChild(readme_link);
+                _li.appendChild(screenshots_link);   // this will open an overlay that will page through the screenshots, if present
                 _li.appendChild(iwad);
                 _li.appendChild(filename_display);
                 
@@ -245,8 +483,23 @@ function setKeypressHandlers(){
     });
 }
 
+function isEmpty(obj){
+    // see https://stackoverflow.com/questions/679915/how-do-i-test-for-an-empty-javascript-object
+    for(const prop in obj){
+        if(Object.hasOwn(obj,prop)){
+            return false;
+        }
+    }
+    return true;
+}
+
 //set the click handler for the text field so the button is clicked on [enter]
 setKeypressHandlers();
-let term = getQueryString('term');
+let term = getQueryString('term').toLowerCase();
+document.getElementById('term').value = term;
 
+/**
+ * triggered on page load, traditional querystring. Ensure the searchterm is used to populate 
+ * the query textbox.
+ */
 doSearch(term);

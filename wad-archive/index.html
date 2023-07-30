@@ -5,11 +5,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:image" content="https://www.smeghammer.co.uk/images/smeghammer.gif">
         <meta name="twitter:card" content="summary">
-        <meta name="description" content="A categorised front end to my backup of the Realm667 data dump. The categorisation is generated from a DOM scrape of the R667 Repository site section. (Note: Not all links work yet.)">
+        <meta name="description" content="A search view on the WAD Archive dump to archive.org in 2022. This page offers a search filter to return matching lists and allows you to download the maps, as well as displaying other info if present.">
         <meta property="og:title" content="R667 dump categorised browser">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://www.smeghammer.co.uk/test.htm">
-        <meta property="og:description" content="A categorised front end to my backup of the Realm667 data dump. The categorisation is generated from a DOM scrape of the R667 Repository site section.">
+        <meta property="og:description" content="A search view on the WAD Archive dump to archive.org in 2022. This page offers a search filter to return matching lists and allows you to download the maps, as well as displaying other info if present.">
         <meta property="og:site_name" content="Smeghammer's Doom">
         <meta property="og:locale" content="en_UK">
         <meta name="theme-color" content="#3d6594">
@@ -41,13 +41,21 @@
         <div class="pure-g contents">
             <div class="pure-u-1 pure-u-md-1-8 pure-u-lg-1-12"></div>
             <div class="pure-u-1 pure-u-md-3-4 pure-u-lg-5-6">
-                <!--<h2>Categorised list</h2>-->
                 <p>
-                Search for WAD Archive downloads from archive.org, based on querying the filenames.json file provided with the data dump from 2022. Note that this builds links directly to 
-                the archive.org data.
+                    Search in the <a href="https://archive.org/details/wadarchive" target="_blank">WAD Archive stored at archive.org</a>, implemented by querying the 
+                    <code>filenames.json</code> file, stored locally, as provided with the data dump from 2022. Note that this builds links directly to the archive.org 
+                    data. Many WAD Archive records also include other metadata (README's, screenshots, map images, TITLEPIC etc.) and this application will eventually 
+                    allow viewing all of these if they are present.
                 </p>
                 <p>
-                	<input type="text" id="term" name="term" /><input type="button" id="search_btn" value="Search" />
+                    The presence of a <code>README.txt</code> is already detected and available. Entries with the little text icon have a README associated with them. 
+                    Click the icon to show the text file.
+                </p>
+                <p>
+                    Note that all searches are case insensitive.
+                </p>
+                <p>
+                	<input type="text" id="term" name="term" placeholder="Add search term here..." /><input type="button" id="search_btn" value="Search" />
                 </p>
                 <div id="dialogue"></div>
                 <div id="sausage">
