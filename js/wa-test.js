@@ -2,6 +2,7 @@
 import {filenames} from "./modules/filenames.js";
 import {additional} from "./modules/additional.js";
 import {readmes} from "./modules/readmes.js";
+import {wads} from "./modules/wads.js";
 
 document.getElementById('search_btn').addEventListener('click',function(){
     doSearch(document.getElementById('term').value);
@@ -102,7 +103,6 @@ function getRemoteURL(directory,path,category,image,filetype){
     else{  /** image URL */
         returnval = link_prefix + "/" + directory + ".zip/" + directory + "%2F" + path + "%2F" + category + "%2F" + image;
     }
-    // console.log(returnval);
     return(returnval);
 }
 
@@ -110,8 +110,6 @@ function find(arg){
     let out = [];
     let rex = new RegExp(arg);
     for(let counter=0;counter < filenames.length; counter++){
-       
-        // console.log(filenames[counter].filenames[0].toLowerCase());
         if( filenames[counter].filenames[0] && filenames[counter].filenames[0].toLowerCase().search(rex) !== -1){
             out.push(filenames[counter]);
         };
@@ -151,17 +149,8 @@ function getOverlayFrame(wadname,data){
     dialogueContainer.appendChild(data);
     dialogueOuter.appendChild(dialogueTitlebar);
     dialogueOuter.appendChild(dialogueContainer);
-
-    // const show = function(){
-    //     console.log('showing overlay...')
-    //     let target = document.getElementById('dialogue');
-    //     target.innerHTML = "";
-    //     target.appendChild(dialogueOuter);
-    // }
-
     return(dialogueOuter);
 }
-
 
 /** build the ID Games readme overlay */
 function viewReadmeHandler(){
@@ -177,24 +166,17 @@ function viewReadmeHandler(){
         }
         let readmePreformatDisplay = document.createElement('pre');
         readmePreformatDisplay.appendChild(document.createTextNode(readme.readmes[0]))
-
         showDialogue(getOverlayFrame(wadname, readmePreformatDisplay))
-        // let popup = getOverlayFrame(wadname, readmePreformatDisplay);
-        // let target = document.getElementById('dialogue');
-        // target.innerHTML = "";
-        // target.appendChild(popup);
     }
-    console.log(readmes[this.getAttribute('data-key')]);
 };
 
 function showDialogue(data){
-    console.log('displaying')
     let target = document.getElementById('dialogue');
     target.innerHTML = "";
     target.appendChild(data)
 }
 
-/** TODO: preload image, and  */
+/** TODO: preload image with promise  */
 function preloadImage(url){
     // see https://stackoverflow.com/questions/72223103/how-to-know-when-image-preloading-is-done-with-javascript
     let current_image = new Image()
@@ -231,13 +213,11 @@ function paginate(evt){
     // highlight the current anchor:
     this.classList.add('current');
 
+    // and stop the default anchor click behaviour:
     evt.preventDefault();
 }
 
 function viewScreenshotsHandler(){
-    
-    // console.log('get screenshots: '+this.getAttribute('data-key'));
-
     let key = this.getAttribute('data-key');
     let dir = key.substring(0,2)
     let path = key.substring(2,key.length);
@@ -267,13 +247,9 @@ function viewScreenshotsHandler(){
         console.log(imageUrl);
         a++;
     }
-    console.log(preload);
+  
     // we need to call the getRemoteURL method to create the urls to the images found in the json data.
     // need to iterate over the data for key and filter for relevant links - see notes on called method.
-
-    /** TODO: sort out the dialogue box, WITHOUT resorting to jQuery! 
-     * TODO: make function to return dialogue base
-    */
     let wadname = this.getAttribute('data-wadname');
     if(additional[this.getAttribute('data-key')]['name']){
         wadname = additional[this.getAttribute('data-key')]['name'];
@@ -295,14 +271,13 @@ function viewScreenshotsHandler(){
             paginatorA.appendChild( document.createTextNode(' '+(x+1).toString() + ' ' )  ); // <-- NEEDED whitespace, other wise it doesn't wrap AT ALL!
             paginatorA.setAttribute('href','#');
             paginatorA.setAttribute('data-imagenum',(x+1).toString());
-
             paginatorA.addEventListener('click',paginate);
             paginatorLI.appendChild(paginatorA);
             paginatorUL.appendChild(paginatorLI);
         }
         paginatorContainer.appendChild(paginatorUL);
+        
         // and append click handlers:
-
         imgListContainer.appendChild(paginatorContainer)
     }
 
@@ -310,12 +285,7 @@ function viewScreenshotsHandler(){
     for(let x=0;x<imgArray.length;x++){
         imgListContainer.appendChild(preload[x]);
     }
-    showDialogue(getOverlayFrame(wadname, imgListContainer))
-    // let popup = getOverlayFrame(wadname,imgListContainer)
-    // let target = document.getElementById('dialogue');
-    // target.innerHTML = "";
-    // target.appendChild(popup);
-
+    showDialogue(getOverlayFrame(wadname, imgListContainer));
 };
 
 /**
@@ -328,17 +298,10 @@ function viewScreenshotsHandler(){
  * rather than two.
  */
 function mouseenterScreenshotsHandler(){
-    console.log('fish!');
-    console.log(this);
-    console.log(additional[this.getAttribute('data-key')]['screenshots']);
-    console.log( Object.keys(additional[this.getAttribute('data-key')]['screenshots']).length );
     if(!this.hasAttribute('data-hovered')){
-        console.log('applying...')
         this.setAttribute('data-hovered',true);
         // see https://www.geeksforgeeks.org/find-the-length-of-a-javascript-object/
-        this.setAttribute(
-            'data-imagecount',Object.keys(additional[this.getAttribute('data-key')]['screenshots']).length
-            )
+        this.setAttribute( 'data-imagecount',Object.keys(additional[this.getAttribute('data-key')]['screenshots']).length );
     }
     else{
         console.log('already applied.');
@@ -354,6 +317,13 @@ let iwad_name_mapper = {
     'HERETIC':'heretic.png',
     'STRIFE':'strife.png'
 }
+
+
+
+/** 
+ * 
+ * 
+ */
 function doSearch(term){
     const link_prefix = 'https://archive.org/download/wadarchive/DATA/';
 	if(term){
@@ -381,8 +351,6 @@ function doSearch(term){
                 }
                 /** Construct the paths for the current entry - this is a remote URL*/
                 let _dir = matches[a]._id.substring(0,2)
-                // let path = _dir + '.zip/' + _dir + "%2F" + matches[a]._id.substring(2,matches[a]._id.length) + "%2F" + matches[a]._id + "." + type + ".gz";
-                // let _link = link_prefix + path;
                 /** TEST THE URL BUILDING: */
                 let _link = getRemoteURL(_dir,matches[a]._id.substring(2,matches[a]._id.length),null,null,filetype);
 
@@ -415,8 +383,9 @@ function doSearch(term){
                 screenshots.setAttribute('class','screenshots_missing');
                 let screenshots_link = document.createElement('a');
                 screenshots_link.appendChild(screenshots);
+                // console.log(additional[key]);
+
                 if(additional[key]){
-                    
                     if(additional[key]['iwad']&& additional[key]['iwad'].length){
                         iwad.setAttribute('src','/images/iwads/' + iwad_name_mapper[additional[key]['iwad']]);
                         iwad.setAttribute('class','iwad_logo');
@@ -424,7 +393,6 @@ function doSearch(term){
 
                     /** screenshots */
                     if(!isEmpty(additional[key]['screenshots'])){
-                        console.log(additional[key]['screenshots']);
                         screenshots.setAttribute('src','/images/screenshot_icon.png');
                         screenshots.classList.remove('screenshots_missing');
                         screenshots.classList.add('screenshots');
@@ -434,6 +402,20 @@ function doSearch(term){
                         screenshots_link.addEventListener('click',viewScreenshotsHandler);
                         screenshots_link.addEventListener('mouseenter',mouseenterScreenshotsHandler); //to make tooltip
                     }
+
+                    /** maps - text of map names */
+                    if(!isEmpty(additional[key]['maps'])){
+                        console.log(additional[key])
+                        console.log('maps:',additional[key]['maps'])
+                    }
+
+                    /** graphics */
+                    if(!isEmpty(additional[key]['graphics'])){
+                        console.log('graphics',additional[key]['graphics'])
+                    }
+
+                    /** stuff from WADS - ENDOOM, INTERPIC etc. */
+                    // console.log(wads[key]);
                 }
 
                 /** build the download DOM element: */
@@ -484,19 +466,13 @@ function setKeypressHandlers(){
     document.getElementById('term').addEventListener('keyup',function(evt){
         console.log(evt.code);
         if (evt.code === 'Enter'){    //enter
-            console.log('autoclicking');
             document.getElementById('search_btn').click();
         }
-
     });
     document.querySelector('body').addEventListener('keyup',function(evt){
-        console.log(evt.code);
         if(evt.code === 'Escape'){
-            //close any opened overlay
-
             /** because it might not actually be open */
             try{ 
-                console.log('closing dialogue...')
                 document.getElementById('dialogue_close').click();
             }
             catch(ex){
