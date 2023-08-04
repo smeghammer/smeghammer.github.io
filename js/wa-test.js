@@ -5,6 +5,7 @@ import {readmes} from "./modules/readmes.js";
 import {wads} from "./modules/wads.js";
 
 document.getElementById('search_btn').addEventListener('click',function(){
+    console.log(document.getElementById('term').value)
     doSearch(document.getElementById('term').value);
 })
 
@@ -299,9 +300,15 @@ function viewScreenshotsHandler(){
  */
 function mouseenterScreenshotsHandler(){
     if(!this.hasAttribute('data-hovered')){
+        console.log('applying screenshot count.');
+        let imageCount = Object.keys(additional[this.getAttribute('data-key')]['screenshots']).length;
         this.setAttribute('data-hovered',true);
         // see https://www.geeksforgeeks.org/find-the-length-of-a-javascript-object/
-        this.setAttribute( 'data-imagecount',Object.keys(additional[this.getAttribute('data-key')]['screenshots']).length );
+        this.setAttribute( 'data-imagecount',imageCount );
+        // https://javascript.info/arrow-functions-basics
+        let check = a => a > 1 ? 's':'';
+        // let s = check(imageCount)
+        this.setAttribute('title','found '+imageCount+' image' + check(imageCount) );
     }
     else{
         console.log('already applied.');
@@ -318,8 +325,6 @@ let iwad_name_mapper = {
     'STRIFE':'strife.png'
 }
 
-
-
 /** 
  * 
  * 
@@ -327,6 +332,8 @@ let iwad_name_mapper = {
 function doSearch(term){
     const link_prefix = 'https://archive.org/download/wadarchive/DATA/';
 	if(term){
+        console.log(typeof(term));
+        console.log(term);
         term = term.toLowerCase();
         /** and rewrite the URL to use this value (see 
          * https://stackoverflow.com/questions/24281937/update-parameters-in-url-with-history-pushstate)
@@ -416,6 +423,9 @@ function doSearch(term){
 
                     /** stuff from WADS - ENDOOM, INTERPIC etc. */
                     // console.log(wads[key]);
+                    if(wads[key] && wads[key]['graphics']){
+                        console.log(wads[key]['graphics']);
+                    }
                 }
 
                 /** build the download DOM element: */
@@ -491,14 +501,22 @@ function isEmpty(obj){
     }
     return true;
 }
-
+let term;
+if(getQueryString('term')){
+    console.log('querystring start')
+    term = getQueryString('term').toLowerCase();
+    console.log('from querystring',term)
+    document.getElementById('term').value = term;
+    console.log('querystring end')
+}
 //set the click handler for the text field so the button is clicked on [enter]
 setKeypressHandlers();
-let term = getQueryString('term').toLowerCase();
-document.getElementById('term').value = term;
+
+
 
 /**
  * triggered on page load, traditional querystring. Ensure the searchterm is used to populate 
  * the query textbox.
  */
+console.log('just becore doSearch(): ',term)
 doSearch(term);
