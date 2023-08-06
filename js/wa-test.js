@@ -370,6 +370,8 @@ function getReadmeForEntry(entry,directory,m){
             readme_link.setAttribute('data-key',directory + m['_id'].substring(2,m['_id'].length));
             readme_link.setAttribute('data-wadname',m['filenames'][0]);
             readme_link.setAttribute('title','ID Games Readme file for '+ m['filenames'][0]);
+            readme_link.classList.add('link');
+            readme_link.classList.add('active_link');
             /* and append the click handler to open the : */
             readme_link.addEventListener('click',viewReadmeHandler);
         }
@@ -413,6 +415,7 @@ function getScreenshotsForEntry(additional,dir,match){
             screenshots_link.setAttribute('data-key',dir + match._id.substring(2,match._id.length));
             screenshots_link.setAttribute('data-wadname',match.filenames[0]);
             screenshots_link.setAttribute('data-type','screenshots');
+            screenshots_link.classList.add('active_link');
             screenshots_link.addEventListener('click',viewScreenshotsHandler);
             screenshots_link.addEventListener('mouseenter',mouseenterScreenshotsHandler); //to make tooltip
         }
@@ -428,6 +431,7 @@ function getDownloadLink(link,match){
     /** build the download DOM element: */
     let dl_link = document.createElement('a');   //download link
     dl_link.setAttribute('href',link);
+    dl_link.classList.add('active_link');
     dl_link.setAttribute('title','Download ' + match.filenames[0]);
     let _img = document.createElement('img');
     _img.setAttribute('src',"/images/dl-anim.gif");
@@ -496,6 +500,7 @@ function getInterpic(dir,match,path, category,wad,type){
         pic_link.setAttribute('data-wadname',match.filenames[0]);
         pic_link.setAttribute('data-type',type.toUpperCase());
         pic_link.setAttribute('title',type.toUpperCase() + ' for ' + match.filenames[0]);
+        pic_link.classList.add('active_link');
         pic_link.addEventListener('click',viewGraphicsHandler);
     }
     pic_link.appendChild(pic);

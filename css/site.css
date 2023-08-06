@@ -639,10 +639,14 @@ div.contents iframe{
     padding: 10px;
 }
 #sausage > ul > li > a{
-    cursor: pointer;
+    cursor: default;
 }
 #sausage > ul > li > a > img.readme{
     width: 20px;
     position: relative;
     top: 3px;
+}
+
+#sausage > ul > li > a.active_link{
+    cursor: pointer;
 }
