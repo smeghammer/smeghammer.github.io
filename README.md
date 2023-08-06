@@ -10,4 +10,11 @@ for ther graphics:
 
 from wads.json, BUT I need to adapt them to strip out the un-needed junk:
 
+GRAPHICS TO GET:
+TITLEPIC/INTERPIC - from /modules/trimmed/graphics.js
+
+See wad-archive middleware.py ->     def b64imagelist_archived(self,guid,dir):
+
+  - logic foretracting files,
+
 

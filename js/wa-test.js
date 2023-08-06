@@ -1,11 +1,11 @@
-/** define the WAD data outside of teh function module, to make it tidier... */
+/** define the WAD data outside of the function module, to make it tidier... */
 import {filenames} from "./modules/filenames.js";
 import {additional} from "./modules/additional.js";
 import {readmes} from "./modules/readmes.js";
 import {wads} from "./modules/wads.js";
 
 document.getElementById('search_btn').addEventListener('click',function(){
-    console.log(document.getElementById('term').value)
+    // console.log(document.getElementById('term').value)
     doSearch(document.getElementById('term').value);
 })
 
@@ -91,7 +91,6 @@ function getQueryString(param){
  * maps:
  * https://archive.org/download/wadarchive/DATA/02.zip/02%2F2ac67772fbe2f62b9876ebba22a0d22f7813e0%2FMAPS%2FZE23.PNG
  * 
-
  */
 function getRemoteURL(directory,path,category,image,filetype){
     const link_prefix = 'https://archive.org/download/wadarchive/DATA';
@@ -218,6 +217,37 @@ function paginate(evt){
     evt.preventDefault();
 }
 
+function viewGraphicsHandler(){
+    // extract and display graphic (interpic/titlepic etc.)
+    // console.log(this)
+    // construct this: // https://archive.org/download/wadarchive/DATA/10.zip/10%2F07026651ba594696b875567b6bb6e87301f7af%2FGRAPHICS%2FINTERPIC.PNG
+
+    // I need to get the image name from the data
+    let key = this.getAttribute('data-key');
+    let dir = key.substring(0,2)
+    let path = key.substring(2,key.length);
+    let data = wads[key]
+    let type = this.getAttribute('data-type');
+    // console.log(data);
+    let img = null;
+    // now I want the graphics node, and the entry where type is this.data-type:
+    for(let c=0;c<data.graphics.length;c++){
+        // console.log(data.graphics[c])
+        // console.log(data.graphics[c].name.includes(type))
+        // console.log(data.graphics[c].name === type)
+        if(data.graphics[c].name.includes(type) || data.graphics[c].name === type){   // because .pk3s have a path
+            img = data.graphics[c].image;
+        }
+    }
+    let imgUrl = getRemoteURL(dir,path,'GRAPHICS',img,false)
+    // console.log(imgUrl);
+    let imgElem = document.createElement('img');
+    imgElem.setAttribute('src',imgUrl);
+
+    // now construct the overlay:
+    showDialogue(getOverlayFrame(type.toUpperCase() + ' for ' +this.getAttribute('data-wadname'),imgElem))
+}
+
 function viewScreenshotsHandler(){
     let key = this.getAttribute('data-key');
     let dir = key.substring(0,2)
@@ -300,7 +330,7 @@ function viewScreenshotsHandler(){
  */
 function mouseenterScreenshotsHandler(){
     if(!this.hasAttribute('data-hovered')){
-        console.log('applying screenshot count.');
+        // console.log('applying screenshot count.');
         let imageCount = Object.keys(additional[this.getAttribute('data-key')]['screenshots']).length;
         this.setAttribute('data-hovered',true);
         // see https://www.geeksforgeeks.org/find-the-length-of-a-javascript-object/
@@ -308,7 +338,7 @@ function mouseenterScreenshotsHandler(){
         // https://javascript.info/arrow-functions-basics
         let check = a => a > 1 ? 's':'';
         // let s = check(imageCount)
-        this.setAttribute('title','found '+imageCount+' image' + check(imageCount) );
+        this.setAttribute('title','Found '+imageCount+' screenshot' + check(imageCount) + ' for ' + this.getAttribute('data-wadname'));
     }
     else{
         console.log('already applied.');
@@ -326,14 +356,161 @@ let iwad_name_mapper = {
 }
 
 /** 
+ * return a link DOM object for supplied UUID
+ * or an empty element if none found.
+ */
+function getReadmeForEntry(entry,directory,m){
+    let readme_icon = document.createElement('img');
+    readme_icon.setAttribute('class','readme');
+    let readme_link = document.createElement('a');   //readme link
+    if(entry ){
+        try{
+            /** here, we render a link/icon for the readme: */
+            readme_icon.setAttribute('src','/images/text.png');
+            readme_link.setAttribute('data-key',directory + m['_id'].substring(2,m['_id'].length));
+            readme_link.setAttribute('data-wadname',m['filenames'][0]);
+            readme_link.setAttribute('title','ID Games Readme file for '+ m['filenames'][0]);
+            /* and append the click handler to open the : */
+            readme_link.addEventListener('click',viewReadmeHandler);
+        }
+        catch(ex){
+            console.log('error in getReadmeForEntry: ', ex);
+        }
+    }
+    readme_link.appendChild(readme_icon);
+    return(readme_link);
+}
+
+function getIWADForEntry(additional){
+    let iwad = document.createElement('img');
+    iwad.setAttribute('src','/images/trans.gif');
+    iwad.setAttribute('class','iwad_logo_missing');
+    try{
+        if(additional['iwad']&& additional['iwad'].length){
+            // console.log('building IWAD logo');
+            iwad.setAttribute('src','/images/iwads/' + iwad_name_mapper[additional['iwad']]);
+            iwad.setAttribute('class','iwad_logo');
+        }
+    }
+    catch(ex){
+        console.log(ex);
+    }
+
+    return(iwad);
+}
+
+function getScreenshotsForEntry(additional,dir,match){
+    let screenshots = document.createElement('img');
+    screenshots.setAttribute('src','/images/trans.gif');
+    screenshots.setAttribute('class','screenshots_missing');
+    let screenshots_link = document.createElement('a');
+    screenshots_link.appendChild(screenshots);
+    try{
+        if(!isEmpty(additional['screenshots'])){
+            screenshots.setAttribute('src','/images/screenshot_icon.png');
+            screenshots.classList.remove('screenshots_missing');
+            screenshots.classList.add('screenshots');
+            screenshots_link.setAttribute('data-key',dir + match._id.substring(2,match._id.length));
+            screenshots_link.setAttribute('data-wadname',match.filenames[0]);
+            screenshots_link.setAttribute('data-type','screenshots');
+            screenshots_link.addEventListener('click',viewScreenshotsHandler);
+            screenshots_link.addEventListener('mouseenter',mouseenterScreenshotsHandler); //to make tooltip
+        }
+    }
+    catch(ex){
+        console.log(ex)
+    }
+
+    return(screenshots_link)
+}
+
+function getDownloadLink(link,match){
+    /** build the download DOM element: */
+    let dl_link = document.createElement('a');   //download link
+    dl_link.setAttribute('href',link);
+    dl_link.setAttribute('title','Download ' + match.filenames[0]);
+    let _img = document.createElement('img');
+    _img.setAttribute('src',"/images/dl-anim.gif");
+    _img.setAttribute('class',"dlicon");
+    dl_link.appendChild(_img);
+    return(dl_link);
+}
+
+/**
+ */
+function getFilenameDisplay(match){
+    // TODO: Pull nicename from ... where?
+    let filename_display = document.createElement('span');   //summary link
+    filename_display.appendChild(document.createTextNode(match.filenames[0]));
+    return(filename_display);
+}
+
+function getFileType(match){
+    let filetype = '.wad.gz';
+    let check = new RegExp('pk3');
+    if(match.filenames[0].search(check) !== -1){
+        filetype = '.pk3.gz'
+    }
+    return(filetype);
+}
+
+/**
  * 
- * 
+ * @param {UUID of entry} wad 
+ * @param {string (ENDOOM, INTERPIC)} type 
+ * @returns DOM element
+ */
+function getInterpic(dir,match,path, category,wad,type){
+    /** stuff from WADS - ENDOOM, INTERPIC etc.
+     * this needs to be applied ONLY if there is a match betwen the record and the supplied type!!
+     * wad[type] === type!!
+     */
+    let pic = document.createElement('img');
+    pic.setAttribute('src','/images/trans.gif');
+    pic.setAttribute('class','screenshots_missing');
+    let pic_link = document.createElement('a');
+
+    // https://archive.org/download/wadarchive/DATA/10.zip/10%2F07026651ba594696b875567b6bb6e87301f7af%2FGRAPHICS%2FINTERPIC.PNG
+    // the wad[graphics] array may be a PK3 list, or may be a single entry for a WAD type. We need to check that the passed TYPE matches
+    // the type found in the graphics list(interpic/titlepic)
+    let typeMatches = false;
+    if(wad && wad['graphics'] && wad['graphics'].length > 0){
+        // console.log('ug');
+    
+        for(let x=0; x < wad['graphics'].length; x++){
+            if(wad['graphics'][x].name.toUpperCase().includes(type.toUpperCase())){
+                typeMatches = true;
+            }
+        }
+    }
+    if(typeMatches && wad && wad['graphics'] && wad['graphics'].length){
+        // function getRemoteURL(directory,path,category,image,filetype){
+        // console.log(getRemoteURL(dir,path,category,wad['graphics'][0].image,type));
+        // console.log(wad);
+        // console.log(wad['graphics']);
+        pic.setAttribute('src','/images/picture-64x64.png');
+        //pic.setAttribute('src','/images/screenshot_icon.png');
+        pic.classList.remove('screenshots_missing');
+        pic.classList.add('screenshots');
+        pic_link.setAttribute('data-key',dir + match._id.substring(2,match._id.length));
+        pic_link.setAttribute('data-wadname',match.filenames[0]);
+        pic_link.setAttribute('data-type',type.toUpperCase());
+        pic_link.setAttribute('title',type.toUpperCase() + ' for ' + match.filenames[0]);
+        pic_link.addEventListener('click',viewGraphicsHandler);
+    }
+    pic_link.appendChild(pic);
+    return(pic_link)
+}
+
+/** 
+GRAPHICS TO GET:
+TITLEPIC/INTERPIC - from /modules/trimmed/graphics.js
  */
 function doSearch(term){
     const link_prefix = 'https://archive.org/download/wadarchive/DATA/';
 	if(term){
-        console.log(typeof(term));
-        console.log(term);
+        //console.log(typeof(term));
+        //console.log(term);
         term = term.toLowerCase();
         /** and rewrite the URL to use this value (see 
          * https://stackoverflow.com/questions/24281937/update-parameters-in-url-with-history-pushstate)
@@ -349,66 +526,45 @@ function doSearch(term){
                 let _li = document.createElement('li');
                 
                 /** prepare download href: */
-                //let type = 'wad';
-                let filetype = '.wad.gz';
-                let check = new RegExp('pk3');
-                if(matches[a].filenames[0].search(check) !== -1){
-                    //type = 'pk3';
-                    filetype = '.pk3.gz'
-                }
+                let filetype = getFileType(matches[a])
+
                 /** Construct the paths for the current entry - this is a remote URL*/
                 let _dir = matches[a]._id.substring(0,2)
-                /** TEST THE URL BUILDING: */
+                /** TEST THE URL BUILDING: Note: this is used for images and downloads - potentially TO TEST */
                 let _link = getRemoteURL(_dir,matches[a]._id.substring(2,matches[a]._id.length),null,null,filetype);
 
                 /** this is an OBJECT KEY, so I don't need to iterate over a big ass array: */
                 let key = _dir + matches[a]._id.substring(2,matches[a]._id.length);
                 
-                let readme_icon = document.createElement('img');
-                readme_icon.setAttribute('class','readme');
-                
-                /** process readme links, if found */
-                let readme_link = document.createElement('a');   //readme link
-                if(readmes[key]){
-                    /** here, we render a link/icon for the readme: */
-                    readme_icon.setAttribute('src','/images/text.png');
-                    readme_link.setAttribute('data-key',_dir + matches[a]._id.substring(2,matches[a]._id.length));
-                    readme_link.setAttribute('data-wadname',matches[a].filenames[0]);
-                    readme_link.setAttribute('title','ID Games Readme file for '+ matches[a].filenames[0]);
-                    /* and append the click handler to open the : */
-                    readme_link.addEventListener('click',viewReadmeHandler);
-                }
-                readme_link.appendChild(readme_icon);
-                /** end readmes links */
+                /** get download link: */
+                let dl_link = getDownloadLink(_link, matches[a])
+
+                /** process readme links, if found. note, matches[a] may be undefined */
+                let readme_link = getReadmeForEntry(readmes[key],_dir,matches[a]);
 
                 /** process engine type  */
-                let iwad = document.createElement('img');
-                iwad.setAttribute('src','/images/trans.gif');
-                iwad.setAttribute('class','iwad_logo_missing');
-                let screenshots = document.createElement('img');
-                screenshots.setAttribute('src','/images/trans.gif');
-                screenshots.setAttribute('class','screenshots_missing');
-                let screenshots_link = document.createElement('a');
-                screenshots_link.appendChild(screenshots);
-                // console.log(additional[key]);
+                let iwad = getIWADForEntry(additional[key]);
 
+                /** get screenshots */
+                let screenshots_link = getScreenshotsForEntry(additional[key],_dir,matches[a])
+
+                /** get displayed filename: */
+                let filename_display = getFilenameDisplay(matches[a])
+
+                /** get Interpic if present */
+                // function getInterpic(dir,path, category,wad,type){
+                // this needs to ONLY be called if the current entry inclused interpic:
+                // console.log(wads[key])
+                let interpic = getInterpic(_dir,matches[a],key,'graphics',wads[key],'interpic');
+                // console.log(interpic)
+                // https://archive.org/download/wadarchive/DATA/10.zip/10%2F07026651ba594696b875567b6bb6e87301f7af%2FGRAPHICS%2FINTERPIC.PNG
+                // /** stuff from WADS - ENDOOM, INTERPIC etc. */
+                // if(wads[key] && wads[key]['graphics']){
+                //     console.log(wads[key]['graphics']);
+                // }
+
+                // each abstracted function needs to test for additional[key], so this if() block is part of function, not the loop...
                 if(additional[key]){
-                    if(additional[key]['iwad']&& additional[key]['iwad'].length){
-                        iwad.setAttribute('src','/images/iwads/' + iwad_name_mapper[additional[key]['iwad']]);
-                        iwad.setAttribute('class','iwad_logo');
-                    }
-
-                    /** screenshots */
-                    if(!isEmpty(additional[key]['screenshots'])){
-                        screenshots.setAttribute('src','/images/screenshot_icon.png');
-                        screenshots.classList.remove('screenshots_missing');
-                        screenshots.classList.add('screenshots');
-                        screenshots_link.setAttribute('data-key',_dir + matches[a]._id.substring(2,matches[a]._id.length));
-                        screenshots_link.setAttribute('data-wadname',matches[a].filenames[0]);
-                        screenshots_link.setAttribute('data-type','screenshots');
-                        screenshots_link.addEventListener('click',viewScreenshotsHandler);
-                        screenshots_link.addEventListener('mouseenter',mouseenterScreenshotsHandler); //to make tooltip
-                    }
 
                     /** maps - text of map names */
                     if(!isEmpty(additional[key]['maps'])){
@@ -420,32 +576,15 @@ function doSearch(term){
                     if(!isEmpty(additional[key]['graphics'])){
                         console.log('graphics',additional[key]['graphics'])
                     }
-
-                    /** stuff from WADS - ENDOOM, INTERPIC etc. */
-                    // console.log(wads[key]);
-                    if(wads[key] && wads[key]['graphics']){
-                        console.log(wads[key]['graphics']);
-                    }
                 }
-
-                /** build the download DOM element: */
-                let dl_link = document.createElement('a');   //download link
-                dl_link.setAttribute('href',_link);
-                dl_link.setAttribute('title','Download ' + matches[a].filenames[0]);
-                let _img = document.createElement('img');
-                _img.setAttribute('src',"/images/dl-anim.gif");
-                _img.setAttribute('class',"dlicon");
-                dl_link.appendChild(_img);
                 /** do the same for the images/maps/titlepics... */
-
-                /** And show the filename next to the various icons: */
-                let filename_display = document.createElement('span');   //summary link
-                filename_display.appendChild(document.createTextNode(matches[a].filenames[0]));
 
                 /** assemble list item DOM snippet: */
                 _li.appendChild(dl_link);
                 _li.appendChild(readme_link);
                 _li.appendChild(screenshots_link);   // this will open an overlay that will page through the screenshots, if present
+
+                _li.appendChild(interpic);  //test
                 _li.appendChild(iwad);
                 _li.appendChild(filename_display);
                 
@@ -463,9 +602,6 @@ function doSearch(term){
 	}
 }
 
-function getDownloadLink(link){
-    //todo
-}
 
 function getSummaryLink(link){
     //todo
@@ -474,7 +610,7 @@ function getSummaryLink(link){
 function setKeypressHandlers(){
     // its all changed!!: https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code
     document.getElementById('term').addEventListener('keyup',function(evt){
-        console.log(evt.code);
+        // console.log(evt.code);
         if (evt.code === 'Enter'){    //enter
             document.getElementById('search_btn').click();
         }
@@ -503,11 +639,11 @@ function isEmpty(obj){
 }
 let term;
 if(getQueryString('term')){
-    console.log('querystring start')
+    // console.log('querystring start')
     term = getQueryString('term').toLowerCase();
-    console.log('from querystring',term)
+    // console.log('from querystring',term)
     document.getElementById('term').value = term;
-    console.log('querystring end')
+    // console.log('querystring end')
 }
 //set the click handler for the text field so the button is clicked on [enter]
 setKeypressHandlers();
@@ -518,5 +654,5 @@ setKeypressHandlers();
  * triggered on page load, traditional querystring. Ensure the searchterm is used to populate 
  * the query textbox.
  */
-console.log('just becore doSearch(): ',term)
+// console.log('just becore doSearch(): ',term)
 doSearch(term);
