@@ -151,7 +151,7 @@ div.topic img.dlicon, #generated_content_wrapper img.dlicon, #sausage img.dlicon
     width: 25px;
     padding-right: 5px;
     position: relative;
-    top: 5px;
+    /* top: 5px; */
 }
 
 #generated_content_wrapper > div{
@@ -364,6 +364,9 @@ li > span{
 	color: white;
 	font-weight: bold;
 	text-decoration: underline;
+    float: right;
+    padding-top: 10px;
+    padding-right: 5px;
 }
 #sausage li > span{
     text-decoration: none;
@@ -391,6 +394,7 @@ ul.links > li > span {
     width: 60px;
     vertical-align: middle;
     padding-right: 5px;
+    padding-bottom: 15px;
 }
 #sausage img.iwad_logo_missing{
     width: 60px;
@@ -408,7 +412,7 @@ ul.links > li > span {
     height: 28px;
     padding-right: 5px;
     position: relative;
-    top: 7px;
+    top: 4px;
 }
 
 /* fucking irrationinal box model! If you have A4 paper, and want a margin when you print, adding a margin to your doc DOES NOT ALTER THE FUCKING PAGE SIZE!!!
@@ -441,8 +445,12 @@ div.contents pre {
 
 }
 div.contents ul > li {
+    border-top: 1px solid rgba(255,0,0,40%);
 	list-style-type: none;
 	height: 35px;
+}
+div.contents ul > li:last-of-type {
+    border-bottom: 1px solid rgba(255,0,0,40%);
 }
 div.contents ul.bulleted > li{
 	list-style-type: disc;
@@ -644,7 +652,7 @@ div.contents iframe{
 #sausage > ul > li > a > img.readme{
     width: 20px;
     position: relative;
-    top: 3px;
+    /* top: 3px; */
 }
 
 #sausage > ul > li > a.active_link{

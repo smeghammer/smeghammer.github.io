@@ -217,30 +217,25 @@ function paginate(evt){
     evt.preventDefault();
 }
 
+/** handler function to return specified graphic type for specified category. data is obtained from attributes built into the link tag 
+ * `data-key` - UUID of entry
+ * `data-type` - string interpic or titlepic
+ * 
+*/
 function viewGraphicsHandler(){
-    // extract and display graphic (interpic/titlepic etc.)
-    // console.log(this)
-    // construct this: // https://archive.org/download/wadarchive/DATA/10.zip/10%2F07026651ba594696b875567b6bb6e87301f7af%2FGRAPHICS%2FINTERPIC.PNG
-
-    // I need to get the image name from the data
     let key = this.getAttribute('data-key');
     let dir = key.substring(0,2)
     let path = key.substring(2,key.length);
     let data = wads[key]
     let type = this.getAttribute('data-type');
-    // console.log(data);
     let img = null;
     // now I want the graphics node, and the entry where type is this.data-type:
     for(let c=0;c<data.graphics.length;c++){
-        // console.log(data.graphics[c])
-        // console.log(data.graphics[c].name.includes(type))
-        // console.log(data.graphics[c].name === type)
         if(data.graphics[c].name.includes(type) || data.graphics[c].name === type){   // because .pk3s have a path
             img = data.graphics[c].image;
         }
     }
     let imgUrl = getRemoteURL(dir,path,'GRAPHICS',img,false)
-    // console.log(imgUrl);
     let imgElem = document.createElement('img');
     imgElem.setAttribute('src',imgUrl);
 
@@ -397,7 +392,6 @@ function getIWADForEntry(additional){
     catch(ex){
         console.log(ex);
     }
-
     return(iwad);
 }
 
@@ -568,6 +562,8 @@ function doSearch(term){
                 //     console.log(wads[key]['graphics']);
                 // }
 
+                let titlepic = getInterpic(_dir,matches[a],key,'graphics',wads[key],'titlepic');
+
                 // each abstracted function needs to test for additional[key], so this if() block is part of function, not the loop...
                 if(additional[key]){
 
@@ -590,6 +586,7 @@ function doSearch(term){
                 _li.appendChild(screenshots_link);   // this will open an overlay that will page through the screenshots, if present
 
                 _li.appendChild(interpic);  //test
+                _li.appendChild(titlepic);  //test
                 _li.appendChild(iwad);
                 _li.appendChild(filename_display);
                 
