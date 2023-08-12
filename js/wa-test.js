@@ -5,7 +5,6 @@ import {readmes} from "./modules/readmes.js";
 import {wads} from "./modules/wads.js";
 
 document.getElementById('search_btn').addEventListener('click',function(){
-    // console.log(document.getElementById('term').value)
     doSearch(document.getElementById('term').value);
 })
 

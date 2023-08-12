@@ -365,7 +365,7 @@ li > span{
 	font-weight: bold;
 	text-decoration: underline;
     float: right;
-    padding-top: 10px;
+    /* padding-top: 10px; */
     padding-right: 5px;
 }
 #sausage li > span{
